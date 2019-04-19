@@ -1,0 +1,36 @@
+#!/host/bin/bash
+
+browses=( browsetitle browsecommonname browselocation browsedate browselanguage browsepersonalname browsematerial browseminiature browseminiaturekeyword browsebiblebks )
+
+for browse in ${browses[@]}
+do
+echo $browse
+php -f buildbrowse.php $browse > ../web/metadata/json/$browse.json
+done
+
+searches=( searchlocation searchmaterial searchpersonalname searchtitle searchcommonname searchdate searchlanguage searchminiature searchminiaturekeyword searchbiblebks )
+
+for search in ${searches[@]}
+do 
+echo $search
+php -f buildsearch.php $search
+done
+
+# thumb index
+php -f buildthumbindex.php > ../web/images/thumbs/index.json
+
+# zoomify index
+php -f buildzoomifyindex.php > ../web/images/index.json
+
+# newest scan date
+php -f buildnewestscandate.php > ../web/images/newestscandate.json
+
+# structural json 
+
+docs=( `php -f liststructuraldocs.php` )
+
+for doc in ${docs[@]}
+do
+echo $doc
+php -f buildstructuraljson.php $doc > ../web/metadata/json/structural/gms-$doc.json
+done

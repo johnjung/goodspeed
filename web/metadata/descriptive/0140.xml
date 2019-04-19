@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+<teiHeader date.created="2015-11-04" creator="jfcd">
+<fileDesc>
+<titleStmt>
+ <title>[University of Chicago Library GMS-0140, a manuscript catalogue description in electronic form]</title>
+ <funder>Institute of Museum and Library Services</funder>
+ <respStmt>
+  <resp>Creation of electronic version:</resp>
+  <name>University of Chicago Library</name>
+  <resp>Creation of digital images:</resp>
+  <name>University of Chicago Library</name>
+ </respStmt> 
+</titleStmt>
+ <publicationStmt>
+  <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+  <pubPlace>Chicago, Illinois</pubPlace>
+  <date>2009</date>
+  <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0140</idno>
+  <availability status= "free">
+   <p>Publicly accessible</p></availability>
+ </publicationStmt>
+ <sourceDesc> 
+  <msDescription>
+   <msIdentifier>
+    <country>United States</country>
+    <region>Illinois</region>
+    <settlement>Chicago</settlement>
+    <institution>University of Chicago Library</institution> 
+    <repository>Special Collections Research Center</repository>
+    <collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 140</idno>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 23</altIdentifier>
+   </msIdentifier>
+   <msHeading>
+    <title>New Testament. Gospels</title>
+    <otherName>Garabed Gospels</otherName>
+    <origPlace>Armenia</origPlace>
+    <origDate>1609</origDate>
+    <textLang langKey="hye">Armenian</textLang>
+   </msHeading>
+   <msContents>
+    <overview>
+     <p>Four gospels in Armenian. Eusebian section numbers in the margins against the text. 
+      Concordances in the lower margins. Pentecostal lection numbers. Formerly Goodspeed Ms. Arm. 23.</p></overview>
+   </msContents>
+   <decoration>
+    <overview><p>Marginal vignettes contain a portrait, arabesques, birds, flowers, and medallions.</p></overview> 
+    <miniatures><minItem n="1">
+     <locus from ="013" to="013">p. 11</locus> 
+     <minDesc>John the Baptist, Portrait: John stands in the right margin, his hand extended to indicate the adjacent text.</minDesc> 
+    </minItem></miniatures>
+    <headpieces><p>Headpieces at each gospel's opening of bird, floral, and foliate motifs in red, green, blue, and black (pp. 1, 211, 341, 545).</p>
+    </headpieces> 
+    <initials><p>Major initials of Matthew, Mark, and Luke's opening lines (30-60 mm) are composed of beads and leaves. 
+     John's opening initial (100 mm) is formed by his eagle symbol. Minor initials are formed by figures of birds or flowers.</p>
+    </initials>
+   </decoration>
+   <physDesc>
+    <support>
+     <p><material>Paper</material>. <dimensions type="block" units="mm">215 x 155-158 mm</dimensions>.</p>
+    </support> 
+    <extent>341 leaves.</extent>
+    <foliation><p>1-682. Modern pagination in Arabic numerals in pencil.</p></foliation>  
+    <collation><p>30 numbered quires.</p></collation>
+    <dimensions type="written" units="mm">Written space 145 x 100 mm (p. 49). Each column is 145 x 45 mm with a space of 10 mm between.</dimensions> 
+    <layout columns="2" writtenLines="17-19 per column"><p>2 columns, 17 to 19 lines. Ruling with hard point. 
+     Pricking in outer margins.</p></layout> 
+    <msWriting><handDesc script="Bolorgir" medium="ink">
+     <p>Written chiefly in bolorgir script in dark brown ink.</p> 
+    </handDesc></msWriting> 
+    <textDivisions><p>Titles in red.</p></textDivisions>
+    <condition><p>Water stains. Some retracing of faded text. Several leaves lost.</p></condition> 
+    <bindingDesc>
+     <binding><p>Bound in <material>pigskin</material> over boards. Fore-edge flap. Nail holes are present and the outlines of crosses once attached. 
+      Doublures of unbleached <material>linen</material>.</p>
+     </binding></bindingDesc>
+   </physDesc>
+   <history>
+    <origin><p>The manuscript was written in <name reg="Armenia" type="place">Armenia</name> and completed in 1609 (Armenian Era 1058) by the 
+     priest <name reg="Xanghaluc‛i, Karapēt, 17th century" type="person" role="scribe">Karapēt (Garabed) Xanghaluc‛i</name> (his colophon, pp. 681-682). It was commissioned 
+     by <name reg="Tiratur, 17th century" type="person" role="commissioner">Tiratur</name>, who presented it to a church in the Armenian village 
+     of <name reg="Tuřnach‛ay" type="place">Tuřnach‛ay</name>. The priest <name reg="Nikōghos, 16th century-17th century" type="person" role="scribe">Nikōghos</name> is remembered in two prayers (pp. 50, 208), and 
+     named the scribe in one, an indication he began writing the manuscript which Karapēt completed.</p></origin> 
+    <provenance><p>A prayer (p. 542) contains the name <name reg="Keřas" type="person">Keřas</name>, possibly a one-time owner. University of Chicago bookplate (front doublure).</p></provenance> 
+    <acquisition><p>Acquired by the University of Chicago from <name reg="Tashjian, H. M." type="person" role="collector">H. M. Tashjian</name> of Chicago, May 1, 1931.</p></acquisition> 
+   </history></msDescription></sourceDesc>
+</fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+    an interface that supports browsing within individual manuscripts and across the collection.</p>
+   <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+    as of <date>2012-09-22</date>.</p> 
+   <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+  </projectDesc>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage><language id="hye"></language><p>Armenian, ISO 639-3</p>
+ </langUsage>
+  <textClass>
+   <keywords>
+    <term>Bible. N.T. Gospels. Armenian</term>
+    <term>Miniatures (Illuminations)</term>
+    <term>Manuscripts, Armenian</term>
+    <term>Xanghaluc‛i, Karapēt, 17th century</term>
+   </keywords>
+  </textClass>
+ </profileDesc>
+</teiHeader>
+ <text>
+ <body>
+ <msDescription id="GMS-0140">
+ <msIdentifier>
+ <country>United States</country>
+<region>Illinois</region>
+ <settlement>Chicago</settlement>
+ <institution>University of Chicago Library</institution> 
+ <repository>Special Collections Research Center</repository>
+ <collection>Goodspeed Manuscript Collection</collection>
+ <idno>Ms. 140</idno>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 23</altIdentifier>
+</msIdentifier>
+<msHeading>
+ <title>New Testament. Gospels</title>
+ <otherName>Garabed Gospels</otherName>
+ <origPlace>Armenia</origPlace>
+ <origDate>1609</origDate>
+<textLang langKey="hye">Armenian</textLang>
+</msHeading>
+ <msContents>
+ <overview>
+ <p>Four gospels in Armenian. Eusebian section numbers in the margins against the text. 
+  Concordances in the lower margins. Pentecostal lection numbers. Formerly Goodspeed Ms. Arm. 23.</p></overview>
+<msItem n="1">
+ <locus from="003" to="210">pp. 1-208</locus>
+ <summary>Matthew.</summary>
+ <note>Blank (pp. 209-210).</note>
+</msItem>
+<msItem n="2">
+<locus from="213" to="342">pp. 211-340</locus>
+<summary>Mark (lacking).</summary> 
+</msItem>
+<msItem n="3">
+ <locus from="343" to="544">pp. 341-542</locus>
+ <summary>Luke.</summary>
+</msItem>
+<msItem n="4">
+<locus from="545" to="546">pp. 543-544</locus>
+ <summary>Preface of Luke (lacking).</summary>
+</msItem>
+<msItem n="5">
+ <locus from="547" to="682">pp. 545-680</locus>
+ <summary>John (lacking).</summary>
+</msItem>
+ <msItem n="6">
+  <locus from="683" to="684">pp. 681-682</locus>
+  <colophon>The scribe Karapēt (Garabed) Xanghaluc‛i (1609).</colophon>
+ </msItem>
+</msContents>
+  <decoration>
+   <overview><p>Marginal vignettes contain a portrait, arabesques, birds, flowers, and medallions.</p></overview> 
+   <miniatures><minItem n="1">
+<locus from ="013" to="013">p. 11</locus> 
+  <minDesc>John the Baptist, Portrait: John stands in the right margin, his hand extended to indicate the adjacent text.</minDesc> 
+ </minItem></miniatures>
+   <headpieces><p>Headpieces at each gospel's opening of bird, floral, and foliate motifs in red, green, blue, and black (pp. 1, 211, 341, 545).</p>
+ </headpieces> 
+   <initials><p>Major initials of Matthew, Mark, and Luke's opening lines (30-60 mm) are composed of beads and leaves. 
+    John's opening initial (100 mm) is formed by his eagle symbol. Minor initials are formed by figures of birds or flowers.</p>
+   </initials>
+</decoration>
+<physDesc>
+<support>
+ <p><material>Paper</material>. <dimensions type="block" units="mm">215 x 155-158 mm</dimensions>.</p>
+</support> 
+ <extent>341 leaves.</extent>
+ <foliation><p>1-682. Modern pagination in Arabic numerals in pencil.</p></foliation>  
+ <collation><p>30 numbered quires.</p></collation>
+ <dimensions type="written" units="mm">Written space 145 x 100 mm (p. 49). Each column is 145 x 45 mm with a space of 10 mm between.</dimensions> 
+ <layout columns="2" writtenLines="17-19 per column"><p>2 columns, 17 to 19 lines. Ruling with hard point. 
+ Pricking in outer margins.</p></layout> 
+ <msWriting><handDesc script="Bolorgir" medium="ink">
+  <p>Written chiefly in bolorgir script in dark brown ink.</p> 
+ </handDesc></msWriting> 
+ <textDivisions><p>Titles in red.</p></textDivisions>
+ <condition><p>Water stains. Some retracing of faded text. Several leaves lost.</p></condition> 
+ <bindingDesc>
+  <binding><p>Bound in <material>pigskin</material> over boards. Fore-edge flap. Nail holes are present and the outlines of crosses once attached. 
+   Doublures of unbleached <material>linen</material>.</p>
+</binding></bindingDesc>
+</physDesc>
+  <history>
+   <origin><p>The manuscript was written in <name reg="Armenia" type="place">Armenia</name> and completed in 1609 (Armenian Era 1058) by the 
+    priest <name reg="Xanghaluc‛i, Karapēt, 17th century" type="person" role="scribe">Karapēt (Garabed) Xanghaluc‛i</name> (his colophon, pp. 681-682). It was commissioned 
+    by <name reg="Tiratur, 17th century" type="person" role="commissioner">Tiratur</name>, who presented it to a church in the Armenian village 
+    of <name reg="Tuřnach‛ay" type="place">Tuřnach‛ay</name>. The priest <name reg="Nikōghos, 16th century-17th century" type="person" role="scribe">Nikōghos</name> is remembered in two prayers (pp. 50, 208), and 
+    named the scribe in one, an indication he began writing the manuscript which Karapēt completed.</p></origin> 
+   <provenance><p>A prayer (p. 542) contains the name <name reg="Keřas" type="person">Keřas</name>, possibly a one-time owner. University of Chicago bookplate (front doublure).</p></provenance> 
+   <acquisition><p>Acquired by the University of Chicago from <name reg="Tashjian, H. M." type="person" role="collector">H. M. Tashjian</name> of Chicago, May 1, 1931.</p></acquisition> 
+  </history>
+  <additional><listBibl><bibl>
+   <author>Merrill Mead Parvis</author>, 
+   <title level="m">The Story of the Goodspeed Collection</title>
+   <imprint> 
+    <pubPlace>([Chicago:]</pubPlace> 
+    <publisher>s.n.,</publisher>
+    <date>1952),</date>
+   </imprint>
+   <biblScope type="pages">pp. 18-19.</biblScope></bibl>
+   <bibl>
+ <author>Erroll F. Rhodes</author>, 
+    <title level="m">An Annotated List of Armenian New Testament Manuscripts</title>, 
+    <title level="s">Annual Report of Theology</title>
+   <biblScope type="volume">1</biblScope>
+   <imprint><date>(1959),</date></imprint>
+   <biblScope type="pages">pp. 133-134 (1035).</biblScope></bibl>
+   <bibl> 
+    <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+    Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+    <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+    <imprint> 
+     <pubPlace>([Chicago:</pubPlace> 
+     <publisher>s.n.,</publisher> 
+     <date>1973]),</date></imprint> 
+    <biblScope type="volume">36,</biblScope> 
+    <biblScope type="catalogNo">no. 68.</biblScope></bibl>
+   <bibl>
+    <author>Avedis K. Sanjian</author>, 
+    <title level="m">A catalogue of medieval Armenian manuscripts in the United States</title>
+    <imprint>
+     <pubPlace>(Berkeley:</pubPlace>
+     <publisher>University of California Press,</publisher>
+     <date>1976),</date>
+    </imprint>
+    <biblScope type="pages">pp. 189-191.</biblScope></bibl>
+  </listBibl>
+</additional>
+ </msDescription>
+ </body>
+ </text>    
+ </TEI.2>

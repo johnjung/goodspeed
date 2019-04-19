@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0062, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0062</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 62</idno>
+                        <altName type="Gregory number">Greg. 2610</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 60</altIdentifier>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>New Testament. Gospels</title>
+                        <otherName>Sir Edwin Pears Gospels</otherName>
+                        <origPlace>Balkan Peninsula</origPlace>
+                        <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents> 
+                        <overview><p>Four gospels in Greek. Ammonian section numbers and lectionary incipits in the margins. 
+                            Formerly Goodspeed Ms. Grk. 60.</p></overview>
+                    </msContents>
+                    <decoration><initials><p>Monograms in red within circular frames (28-45 mm, fols. 36r, 58v). Major initial Ε at the opening of Luke in red (90 mm). 
+                        Minor initials set off from the text in red.</p>
+                    </initials>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="block" units="mm">215 x 140 mm</dimensions>.</p></support>
+                        <extent>117 leaves.</extent> 
+                        <foliation><p>1-117. Modern foliation in Arabic numerals in pencil.</p></foliation> 
+                        <collation><p>Of the 15 extant quires, quire 10 beginning at Matthew 9:6 belongs between those currently numbered 1 and 2, and 
+                            quire 11 beginning at Mark 7:37 should follow quire 6. It is believed the manuscript's initial quires each contained 8 leaves. 
+                            Estimate of content lost: kephalaia tables for Matthew and John, and an unknown number of leaves containing the text of Matthew 7:21- 9:6; 
+                            12:42-13:15; Luke 19:15-24:53; and John 1:1-3:3, 6:64-21:25.</p></collation>
+                        <dimensions type="written" units="mm">Written space 150 x 95 mm (fol. 17r). Each column is 150 x 42 mm with a space of 11 mm between.</dimensions> 
+                        <layout columns="2" writtenLines="30 per column"><p>2 columns, 30 lines (variants of 26 to 32 lines). Ruling with hard point. 
+                            Pricking in outer margins.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink">
+                            <p>Written in minuscule script in black ink (fading and flaking).</p>
+                            <p>Punctuation includes high point, comma, marks of interrogation and elision. Quotation 
+                                marks next to lines of Old Testament quotes are placed in the left margin.</p>
+                            <p>Errors are corrected either by erasure, or with various reference marks in cases of omission.</p></handDesc>
+                        </msWriting>
+                        <textDivisions><p>Lections noted in the margins with the indicators αρχε (beginning) and τελος (end).</p></textDivisions>
+                        <condition><p>Parchment speckled and cockled. Discolored edges. Some tears and holes. 
+                            Overwriting of faded text with black ink. Water and grease stains.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Covers lost. Quires stitched together with cord.</p></binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript is dated to the 13th century, and is judged to have been written in the <name reg="Balkan Peninsula" type="place">Balkan Peninsula</name>.</p></origin><provenance>
+                            <p>Medieval to late 19th century provenance unknown. Belonged 
+                                to <name reg="Pears, Edwin, 1835-1919" type="person" role="owner">Sir Edwin Pears</name> (1835-1919), British 
+                                barrister and historian. He is said to have purchased the manuscript in the 1880s 
+                                in <name reg="Constantinople" type="place">Constantinople</name>, the present-day <name reg="Istanbul, Turkey" type="place">Istanbul, Turkey</name>, 
+                                wherein he practiced law in the consular courts for over forty years.</p></provenance>
+                        <acquisition><p>Acquired by the University of Chicago 
+                            from <name reg="Maggs Bros. (Firm)" type="org" role="bookseller">Maggs Bros.</name> (London), date unknown.</p></acquisition>
+                    </history></msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+  <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+ </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Gospels. Greek</term>
+                    <term>Bible--Manuscripts</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                    <term>Pears, Edwin, 1835-1919</term>
+                </keywords>
+            </textClass>
+ </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+      <msDescription id="GMS-0062">
+          <msIdentifier>
+              <country>United States</country>
+              <region>Illinois</region>
+              <settlement>Chicago</settlement>
+              <institution>University of Chicago Library</institution> 
+              <repository>Special Collections Research Center</repository>
+              <collection>Goodspeed Manuscript Collection</collection>
+              <idno>Ms. 62</idno>
+              <altName type="Gregory number">Greg. 2610</altName>
+              <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 60</altIdentifier>
+          </msIdentifier>
+          <msHeading>
+              <title>New Testament. Gospels</title>
+              <otherName>Sir Edwin Pears Gospels</otherName>
+              <origPlace>Balkan Peninsula</origPlace>
+              <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+              <textLang langKey="grc">Greek</textLang>
+          </msHeading>
+          <msContents> 
+              <overview><p>Four gospels in Greek. Ammonian section numbers and lectionary incipits in the margins. 
+                  Formerly Goodspeed Ms. Grk. 60.</p></overview>
+<msItem n="1">
+    <locus from = "001" to ="069">fols. 1r-35r</locus> 
+    <summary>Matthew (begins at 2:1 with εν ημεραις ηρωδων). Subscription and verse.</summary>
+</msItem>
+    <msItem n="2">
+        <locus from = "070" to ="070">fol. 35v</locus> 
+        <summary>Kephalaia of Mark.</summary></msItem>
+              <msItem n="3">
+                  <locus from = "071" to ="112">fols. 36r-56v</locus> 
+                  <summary>Mark. Subscription and verse.</summary>
+              <note>Blank (fol. 57r).</note></msItem>
+    <msItem n="4">
+        <locus from = "114" to ="116">fols. 57v-58v</locus> 
+        <summary>Kephalaia of Luke, and verse.</summary></msItem>
+              <msItem n="5">
+                  <locus from = "117" to ="218">fols. 59r-109v</locus> 
+                  <summary>Luke (ends at 19:15 with αυτω τους δουλ[ους]).</summary></msItem>
+    <msItem n="6">
+        <locus from = "219" to ="234">fols. 110r-117v</locus> 
+        <summary>John (begins at 3:3 with και ειπεν αυτω αμην αμην and ends at 6:64 with οι μη πιστευοντες).</summary>
+    </msItem>
+          </msContents>
+          <decoration><initials><p>Monograms in red within circular frames (28-45 mm, fols. 36r, 58v). Major initial Ε at the opening of Luke in red (90 mm). 
+              Minor initials set off from the text in red.</p>
+          </initials>
+          </decoration>
+    <physDesc>
+ <support><p><material>Parchment</material>. <dimensions type="block" units="mm">215 x 140 mm</dimensions>.</p></support>
+<extent>117 leaves.</extent> 
+        <foliation><p>1-117. Modern foliation in Arabic numerals in pencil.</p></foliation> 
+        <collation><p>Of the 15 extant quires, quire 10 beginning at Matthew 9:6 belongs between those currently numbered 1 and 2, and 
+            quire 11 beginning at Mark 7:37 should follow quire 6. It is believed the manuscript's initial quires each contained 8 leaves. 
+            Estimate of content lost: kephalaia tables for Matthew and John, and an unknown number of leaves containing the text of Matthew 7:21- 9:6; 
+            12:42-13:15; Luke 19:15-24:53; and John 1:1-3:3, 6:64-21:25.</p></collation>
+        <dimensions type="written" units="mm">Written space 150 x 95 mm (fol. 17r). Each column is 150 x 42 mm with a space of 11 mm between.</dimensions> 
+        <layout columns="2" writtenLines="30 per column"><p>2 columns, 30 lines (variants of 26 to 32 lines). Ruling with hard point. 
+            Pricking in outer margins.</p></layout>
+    <msWriting><handDesc script="Minuscule" medium="ink">
+        <p>Written in minuscule script in black ink (fading and flaking).</p>
+        <p>Punctuation includes high point, comma, marks of interrogation and elision. Quotation 
+            marks next to lines of Old Testament quotes are placed in the left margin.</p>
+        <p>Errors are corrected either by erasure, or with various reference marks in cases of omission.</p></handDesc>
+    </msWriting>
+        <textDivisions><p>Lections noted in the margins with the indicators αρχε (beginning) and τελος (end).</p></textDivisions>
+        <condition><p>Parchment speckled and cockled. Discolored edges. Some tears and holes. 
+            Overwriting of faded text with black ink. Water and grease stains.</p></condition>
+        <bindingDesc>
+        <binding><p>Covers lost. Quires stitched together with cord.</p></binding></bindingDesc>
+ </physDesc>
+          <history>
+              <origin><p>The manuscript is dated to the 13th century, and is judged to have been written in the <name reg="Balkan Peninsula" type="place">Balkan Peninsula</name>.</p></origin><provenance>
+                      <p>Medieval to late 19th century provenance unknown. Belonged 
+                          to <name reg="Pears, Edwin, 1835-1919" type="person" role="owner">Sir Edwin Pears</name> (1835-1919), British 
+                          barrister and historian. He is said to have purchased the manuscript in the 1880s 
+                          in <name reg="Constantinople" type="place">Constantinople</name>, the present-day <name reg="Istanbul, Turkey" type="place">Istanbul, Turkey</name>, 
+                          wherein he practiced law in the consular courts for over forty years.</p></provenance>
+    <acquisition><p>Acquired by the University of Chicago 
+        from <name reg="Maggs Bros. (Firm)" type="org" role="bookseller">Maggs Bros.</name> (London), date unknown.</p></acquisition>
+          </history><additional><listBibl>
+              <bibl> 
+              <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+                  Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+              <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+              <imprint> 
+                  <pubPlace>([Chicago:</pubPlace> 
+                  <publisher>s.n.,</publisher>  
+                  <date>1973]),</date></imprint> 
+              <biblScope type="volume">36,</biblScope> 
+              <biblScope type="catalogNo">no. 28.</biblScope></bibl></listBibl>
+              </additional>
+</msDescription>
+        </body>
+    </text>      
+</TEI.2>

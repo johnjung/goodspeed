@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0050, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0050</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 50</idno>
+                        <altName type="Gregory number">Greg. l 1555</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 3</altIdentifier>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>New Testament. Gospels</title>
+                        <otherName>Haskell Lectionary</otherName>
+                        <origPlace>Greece</origPlace>
+                        <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                        <textLang langKey="syr">Syriac</textLang>
+                    </msHeading>
+                    <msContents> 
+                        <overview><p>Epistles Lectionary leaves in Greek. Contains 33 lections for Lent, Holy Week, and various feasts. 
+                            Formerly Goodspeed Ms. Grk. 3.</p>
+                            <p>The manuscript is commonly known as the Haskell Lectionary because it was 
+                                initially housed in the <name reg="University of Chicago. Haskell Hall" type="org">Haskell Oriental Museum</name> of the University of Chicago.</p></overview></msContents>
+                    <decoration>
+                        <initials><p>Major initials (20-40 mm) set off from the text in red (faded).</p></initials>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">262 x 165 mm</dimensions>.</p></support>
+                        <extent>8 leaves, of which 2 are flyleaves of parchment contemporary with the manuscript's rebinding of 1897.</extent> 
+                        <foliation><p>1 (unfoliated parchment flyleaf) + 6 + 1 (unfoliated paper flyleaf). Modern foliation in Arabic numerals in pencil 268-273. 
+                            The leaves were bound at the end of Ms. 46, and the foliation completed before the gospel manuscript and lectionary leaves were separated.</p></foliation>
+                        <dimensions type="written" units="mm">Written space 180-190 x 110-120 mm.</dimensions> 
+                        <layout columns="1" writtenLines="39-43"><p>1 column, 39-43  lines. Frame ruling with hard point.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in dark brown ink (some flaking).</p>
+                            <p>Punctuation includes high point, comma, marks of elision and interrogation.</p></handDesc>
+                        </msWriting>
+                        <textDivisions><p>Titles in red (faded). Contains date, or holy day, and epistle source.</p></textDivisions>
+                        <condition><p>Torn leaf (fol. 268). Moderately cockled. Water and dirt stains. Insect damage.</p></condition>
+                        <bindingDesc><binding><p>Bound in brown <material>morocco</material> 
+                            by <name reg="Stikeman &amp; Company (Firm)" type="org" role="bookbinder">Stikeman &amp; Company</name>. Shelf number in 
+                            gold on front cover.</p></binding></bindingDesc>
+                    </physDesc>
+                    <history><origin><p>The manuscript to which the present leaves belonged is judged to have been written in the 13th century in <name reg="Greece" type="place">Greece</name>.</p></origin>
+                        <provenance><p>Medieval to late 19th century provenance unknown. Belonged to 
+                            <name reg="Morades, Pericles" type="person" role="owner">Pericles Morades</name>,
+                            who is said to have brought the lectionary leaves (bound with Ms. 46) to the United States from the 
+                            Greek island of <name reg="Thera, Greece" type="place">Thera</name>.</p>
+                            <p>Marginal notes in Syriac in pencil. University of Chicago Libraries bookplate (front pastedown). Notation (fols. 269v, 273v).</p></provenance>
+                        <acquisition><p>Acquired by <name reg="Gregory, Caspar René, 1846-1917" type="person">Caspar René Gregory</name> 
+                            and <name reg="Burton, Ernest DeWitt, 1856-1925" type="person">Ernest DeWitt Burton</name> for the University of Chicago 
+                            from <name reg="Mitchell, Constantine" type="person" role="executor">Constantine Mitchell</name>, executor 
+                            of the Pericles Morades estate, September 12, 1895.</p></acquisition>
+                    </history></msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p></langUsage> 
+      <langUsage><language id="syr"></language><p>Syriac, ISO 639-3</p></langUsage>
+            <textClass>
+                <keywords>
+                    <term>Lectionaries</term> 
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                    <term>Gregory, Caspar René, 1846-1917</term>
+                </keywords>
+            </textClass></profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0050">
+    <msIdentifier>
+        <country>United States</country>
+        <region>Illinois</region>
+        <settlement>Chicago</settlement>
+        <institution>University of Chicago Library</institution> 
+        <repository>Special Collections Research Center</repository>
+        <collection>Goodspeed Manuscript Collection</collection>
+        <idno>Ms. 50</idno>
+        <altName type="Gregory number">Greg. l 1555</altName>
+        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 3</altIdentifier>
+    </msIdentifier>
+    <msHeading>
+        <title>New Testament. Gospels</title>
+        <otherName>Haskell Lectionary</otherName>
+        <origPlace>Greece</origPlace>
+        <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+        <textLang langKey="grc">Greek</textLang>
+        <textLang langKey="syr">Syriac</textLang>
+    </msHeading>
+<msContents> 
+    <overview><p>Epistles Lectionary leaves in Greek. Contains 33 lections for Lent, Holy Week, and various feasts. 
+        Formerly Goodspeed Ms. Grk. 3.</p>
+        <p>The manuscript is commonly known as the Haskell Lectionary because it was 
+        initially housed in the <name reg="University of Chicago. Haskell Hall" type="org">Haskell Oriental Museum</name> of the University of Chicago.</p></overview>
+<msItem n="1">
+    <locus from = "005" to ="005">fol. 268r</locus>
+    <summary>Sunday, Week 1 of Lent, Hebrews 11:31 (lacking, begins with [πι]στει).</summary>
+    <summary>Saturday, Week 2 of Lent, Hebrews 3:12-16.</summary>
+    <summary>Sunday, Week 2 of Lent, Hebrews 1:10-2:1.</summary>
+    <summary>Saturday, Week 3 of Lent, Hebrews 10:32-38.</summary>
+    <summary>Sunday, Week 3 of Lent, Hebrews 4:14-5:6.</summary>
+</msItem>
+    <msItem n="2">
+        <locus from = "006" to ="006">fol. 268v</locus>
+        <summary>Saturday, Week 4 of Lent, Hebrews 6:9-12.</summary>
+        <summary>Sunday, Week 4 of Lent, Hebrews 6:13-20.</summary>
+        <summary>Saturday, Week 5 of Lent, Hebrews 9:24-28.</summary>
+    </msItem>
+    <msItem n="3">
+        <locus from = "007" to ="007">fol. 269r</locus> 
+        <summary>Sunday, Week 5 of Lent, Hebrews 9:11-14.</summary>
+        <summary>Saturday, Week 6 of Lent, Hebrews 12:28-13:8.</summary>
+        <summary>Sunday, Week 6 of Lent, Philippians 4:4-9.</summary>
+    </msItem>
+    <msItem n="4">
+        <locus from = "008" to ="008">fol. 269v</locus>
+        <summary>Thursday, Holy Week, 1 Corinthians 11:23-30.</summary>
+        <summary>Friday (Third Hour), Holy Week, Romans 5:6-11.</summary>
+        <summary>Sunday, Week 8 after Pentecost, 1 Corinthians 1:10-18.</summary>
+    </msItem> 
+    <msItem n="5">
+        <locus from = "009" to ="009">fol. 270r</locus> 
+        <summary>Sunday, Week 12 after Pentecost, 1 Corinthians 15:1-11.</summary>
+        <summary>Sunday, Week 22 after Pentecost, Galatians 6:11-13, 14-18.</summary>
+        <summary>Friday (Vespers), Holy Week, 1 Corinthians 1:18-2:2.</summary>
+    </msItem>
+    <msItem n="6">
+        <locus from = "010" to ="010">fol. 270v</locus> 
+        <summary>Saturday, Holy Week, Romans 6:3-11.</summary>
+        <summary>Reading, 1 Timothy 2:1-7.</summary>
+    </msItem> 
+    <msItem n="7">
+        <locus from = "011" to ="011">fol. 271r</locus> 
+        <summary>Presentation of Jesus in the temple, Hebrews 7:7-17.</summary>
+        <summary>Nativity of Jesus, Galatians 4:4-7.</summary>
+        <summary>Eve of Theophany, 1 Corinthians 9:19-10:4.</summary>
+    </msItem>
+    <msItem n="8">
+        <locus from = "012" to ="012">fol. 271v</locus> 
+        <summary>Theophany of Jesus, Titus 2:11-14, 3:4-7.</summary>
+        <summary>Saturday, Week 4 before Lent, 2 Timothy 2:11-19.</summary>
+        <summary>Sunday, Week 4 before Lent, 2 Timothy 3:10-15.</summary>
+    </msItem>
+    <msItem n="9">
+        <locus from = "013" to ="013">fol. 272r</locus> 
+        <summary>Saturday, Week 3 before Lent, 2 Timothy 3.1-9.</summary>
+        <summary>Sunday, Week 3 before Lent, 1 Corinthians 6:12-20.</summary>
+        <summary>Saturday, Week 2 before Lent, 1 Corinthians 10:23-28.</summary>
+    </msItem>
+    <msItem n="10">
+        <locus from = "014" to ="014">fol. 272v</locus> 
+        <summary>Sunday, Week 2 before Lent, 1 Corinthians 8:8-9:2.</summary>
+        <summary>Saturday, Week 1 before Lent, Romans 14:19-23, 16:25-27.</summary>
+        <summary>Sunday, Week 1 before Lent, Romans 13:11-14:4.</summary>
+    </msItem> 
+    <msItem n="11">
+        <locus from = "015" to ="015">fol. 273r</locus> 
+        <summary>Holy Theotokos, Hebrews 9:1-7.</summary>
+        <summary>Sunday, Week 1 after Pentecost, Hebrews 11:33-12:2.</summary>
+    </msItem></msContents>
+    <decoration>
+        <initials><p>Major initials (20-40 mm) set off from the text in red (faded).</p></initials>
+    </decoration>
+    <physDesc>
+ <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">262 x 165 mm</dimensions>.</p></support>
+        <extent>8 leaves, of which 2 are flyleaves of parchment contemporary with the manuscript's rebinding of 1897.</extent> 
+        <foliation><p>1 (unfoliated parchment flyleaf) + 6 + 1 (unfoliated paper flyleaf). Modern foliation in Arabic numerals in pencil 268-273. 
+            The leaves were bound at the end of Ms. 46, and the foliation completed before the gospel manuscript and lectionary leaves were separated.</p></foliation>
+            <dimensions type="written" units="mm">Written space 180-190 x 110-120 mm.</dimensions> 
+        <layout columns="1" writtenLines="39-43"><p>1 column, 39-43  lines. Frame ruling with hard point.</p></layout>
+        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in dark brown ink (some flaking).</p>
+            <p>Punctuation includes high point, comma, marks of elision and interrogation.</p></handDesc>
+        </msWriting>
+        <textDivisions><p>Titles in red (faded). Contains date, or holy day, and epistle source.</p></textDivisions>
+            <condition><p>Torn leaf (fol. 268). Moderately cockled. Water and dirt stains. Insect damage.</p></condition>
+        <bindingDesc><binding><p>Bound in brown <material>morocco</material> 
+     by <name reg="Stikeman &amp; Company (Firm)" type="org" role="bookbinder">Stikeman &amp; Company</name>. Shelf number in 
+            gold on front cover.</p></binding></bindingDesc>
+ </physDesc>
+    <history><origin><p>The manuscript to which the present leaves belonged is judged to have been written in the 13th century in <name reg="Greece" type="place">Greece</name>.</p></origin>
+    <provenance><p>Medieval to late 19th century provenance unknown. Belonged to 
+        <name reg="Morades, Pericles" type="person" role="owner">Pericles Morades</name>,
+        who is said to have brought the lectionary leaves (bound with Ms. 46) to the United States from the 
+        Greek island of <name reg="Thera, Greece" type="place">Thera</name>.</p>
+        <p>Marginal notes in Syriac in pencil. University of Chicago Libraries bookplate (front pastedown). Notation (fols. 269v, 273v).</p></provenance>
+    <acquisition><p>Acquired by <name reg="Gregory, Caspar René, 1846-1917" type="person">Caspar René Gregory</name> 
+        and <name reg="Burton, Ernest DeWitt, 1856-1925" type="person">Ernest DeWitt Burton</name> for the University of Chicago 
+        from <name reg="Mitchell, Constantine" type="person" role="executor">Constantine Mitchell</name>, executor 
+        of the Pericles Morades estate, September 12, 1895.</p></acquisition>
+</history>
+    <additional><listBibl>
+        <bibl>
+            <author>Edgar J. Goodspeed</author> and <author>Martin Sprengling,</author> 
+            <title level="m">A descriptive catalogue of manuscripts in the libraries of the University of Chicago</title>
+            <imprint> 
+                <pubPlace>(Chicago:</pubPlace> 
+                <publisher>University of Chicago Press,</publisher> 
+                <date>1912),</date>
+            </imprint> 
+            <biblScope type="pages">pp. 55-56.</biblScope>
+        </bibl>
+        <bibl>
+            <author>Seymour de Ricci,</author>
+            <title level="m">Census of Medieval and Renaissance Manuscripts in the United States and Canada</title>
+            <imprint>
+                <pubPlace>(New York:</pubPlace>
+                <publisher>H. W. Wilson Company,</publisher>
+                <date>1935),</date>
+            </imprint>
+            <biblScope type="volume">vol. 1, p. 562.</biblScope></bibl>
+        <bibl><author>Kenneth W. Clark</author>, 
+                <title level="m">A Descriptive Catalogue of Greek New Testament Manuscripts in America</title>
+                <imprint>
+                    <pubPlace>(Chicago:</pubPlace>
+                    <publisher>University of Chicago Press,</publisher>
+                    <date>1937),</date>
+                </imprint>
+                <biblScope type="pages">pp. 225-226.</biblScope></bibl>
+            <bibl>
+                <author>Merrill Mead Parvis</author>, 
+                <title level="m">The Story of the Goodspeed Collection</title>
+                <imprint>
+                    <pubPlace>([Chicago]:</pubPlace>
+                    <publisher>s.n.,</publisher>
+                    <date>1952),</date>
+                </imprint>
+                <biblScope type="pages">p. 3.</biblScope></bibl>
+            <bibl> 
+                <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+                    Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+                <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+                <imprint> 
+                    <pubPlace>([Chicago:</pubPlace> 
+                    <publisher>s.n.,</publisher> 
+                    <date>1973]),</date></imprint> 
+                <biblScope type="volume">36,</biblScope> 
+                <biblScope type="catalogNo">no. 72.</biblScope></bibl></listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

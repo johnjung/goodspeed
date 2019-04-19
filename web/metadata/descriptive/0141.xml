@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0141, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0141</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 141</idno>
+                        <altName type="Gregory number">Greg. 2409</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 21</altIdentifier>
+                    </msIdentifier> 
+                    <msHeading>
+                        <title>New Testament. Gospels</title>
+                        <otherName>Janina Gospels</otherName>
+                        <origPlace>Patmos, Greece</origPlace>
+                        <origDate notBefore="1101" notAfter="1200">12th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents> 
+                        <overview><p>Four gospels in Greek. Contains portions of Matthew and Mark. Ammonian section numbers and 
+                            lectionary headings, incipits, and notes. Formerly Goodspeed Ms. Grk. 21.</p></overview>
+                        <msItem n="1">
+                            <locus from ="001" to ="082">fols. 1r-41v</locus> 
+                            <summary>Matthew (begins at 12:41 with αυτην οτι).</summary>
+                        </msItem>
+                        <msItem n="2">
+                            <locus from ="083" to ="084">fols. 42r-42v</locus> 
+                            <summary>Kephalaia of Mark.</summary>
+                        </msItem>
+                        <msItem n="3">
+                            <locus from = "085" to ="110">fols. 43r-55v</locus> 
+                            <summary>Mark (begins at 1:10 with [πε]ριστεπαν, and ends at 7:27 with γαρ...).</summary>
+                        </msItem>
+                    </msContents>
+                    <decoration><initials><p>Minor initials set off from the text in red.</p></initials>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">214 x 161 mm</dimensions>.</p></support>
+                        <extent>55 leaves.</extent> 
+                        <foliation><p>1-55. Modern foliation in Arabic numerals in pencil.</p></foliation> 
+                        <collation><p>The manuscript is comprised of 8 quires, 5 through 12, and leaf 2 of quire 13. Estimate of content lost: 
+                            approximately 33 leaves of quires 1-4; leaf 8 of quire 5 (after fol. 6, Matthew 14:24-15:6); leaf 8 of quire 9 (after fol. 37, 
+                            Matthew 27:10-28); leaves 1, 4, and 8 of quire 11 (each respectively after fols. 42, 44, 47, Mark 1:1-10, 1:44-2:14, 3:31-4:13); 
+                            leaf 7 of quire 12 (after fol. 53, Mark 6:22-37); leaf 1 of quire 13 (Mark 6:53-7:10); leaves 3-8 of quire 13, and an estimated 16 
+                            quires (after fol. 55, Mark 7:27-end, and the gospels of Luke and John.</p>
+                            <p>Quire numbers on the last leaf (verso) of quires 6, 7, 8, 10, and 12.</p></collation> 
+                        <dimensions type="written" units="mm">Written space 140 x 105 mm (fol. 3r). Each column is 140 x 45 mm with a space of 15 mm between.</dimensions> 
+                        <layout columns="2" writtenLines="25 per column"><p>2 columns, 25 lines. Ruling with hard point. Pricking in outer margins.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in black ink. The scribe applied 
+                            flourishes and small beads to letters δ (delta), ε (epsilon), ζ (zeta), and τ (tau), and an abbreviation of και.</p>
+                            <p>Punctuation includes high point, comma, marks of elision and interrogation. Quotation marks in left margin next to each line of quoted text.</p></handDesc>
+                        </msWriting>
+                        <textDivisions><p>Titles in red.</p></textDivisions>
+                        <condition><p>Some cockling, tearing, and creasing of leaves. Water and mold stains. Random insect damage. 
+                            Smears of red ink (fols 28r-29r), and a pen-trial (fol. 30r).</p></condition>
+                        <bindingDesc>
+                            <binding><p>Covers lost. Quires stitched together with cord.</p></binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>A correspondence has been documented between the script of the present manuscript and that of Sinai, St. Catherine, Gr.157 (Greg. 1194), which contains 
+                            a colophon recording scribe, place of origin, and dedicatee. It has been proposed therefore, that the derivation of the two works is the same, and that Ms. 141 (Greg. 2409) 
+                            was written by <name reg="John, the Monk, 12th century" type="person" role="scribe">John the Monk</name> at the
+                            <name reg="Monastery of St. John the Evangelist (Patmos, Greece)" type="org">Monastery of St. John the Evangelist</name> 
+                            on <name reg="Patmos, Greece" type="place">Patmos</name> during the abbacy of <name reg="Theoktistos, Abbot, 12th century" type="person" role="abbot">Theoktistos</name>, 
+                            1128 to 1157.</p></origin>  
+                        <provenance><p>Medieval to early 20th century provenance unknown. Belonged to Dr. <name reg="Depostes, E. C." type="person">E. C. Depostes</name> of 
+                            Chicago, who purchased the leaves in <name reg="Janina, Greece" type="place">Janina</name>, the 
+                            present-day  <name reg="Ioánnina, Greece" type="place">Ioánnina, Greece</name> in 1916.</p></provenance>
+                        <acquisition><p>Acquired by the University of Chicago from Dr. Despostes with funds provided by real estate developer <name reg="Galt, Arthur T., born 1876" type="person" role="donor">Arthur T. Galt</name>, 
+                            April 1931.</p></acquisition>
+                    </history></msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+ </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Gospels. Greek</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                    <term>Monastery of St. John the Evangelist (Patmos, Greece)</term>
+                    <term>John, the Monk, 12th century</term>
+                </keywords>
+            </textClass>
+ </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0141">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 141</idno>
+    <altName type="Gregory number">Greg. 2409</altName>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 21</altIdentifier>
+</msIdentifier> 
+    <msHeading>
+        <title>New Testament. Gospels</title>
+        <otherName>Janina Gospels</otherName>
+        <origPlace>Patmos, Greece</origPlace>
+        <origDate notBefore="1101" notAfter="1200">12th century</origDate>
+        <textLang langKey="grc">Greek</textLang>
+    </msHeading>
+    <msContents> 
+        <overview><p>Four gospels in Greek. Contains portions of Matthew and Mark. Ammonian section numbers and 
+            lectionary headings, incipits, and notes. Formerly Goodspeed Ms. Grk. 21.</p></overview>
+        <msItem n="1">
+            <locus from ="001" to ="082">fols. 1r-41v</locus> 
+            <summary>Matthew (begins at 12:41 with αυτην οτι).</summary>
+        </msItem>
+        <msItem n="2">
+            <locus from ="083" to ="084">fols. 42r-42v</locus> 
+            <summary>Kephalaia of Mark.</summary>
+        </msItem>
+        <msItem n="3">
+            <locus from = "085" to ="110">fols. 43r-55v</locus> 
+            <summary>Mark (begins at 1:10 with [πε]ριστεπαν, and ends at 7:27 with γαρ...).</summary>
+        </msItem>
+    </msContents>
+    <decoration><initials><p>Minor initials set off from the text in red.</p></initials>
+    </decoration>
+    <physDesc>
+        <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">214 x 161 mm</dimensions>.</p></support>
+        <extent>55 leaves.</extent> 
+        <foliation><p>1-55. Modern foliation in Arabic numerals in pencil.</p></foliation> 
+        <collation><p>The manuscript is comprised of 8 quires, 5 through 12, and leaf 2 of quire 13. Estimate of content lost: 
+            approximately 33 leaves of quires 1-4; leaf 8 of quire 5 (after fol. 6, Matthew 14:24-15:6); leaf 8 of quire 9 (after fol. 37, 
+            Matthew 27:10-28); leaves 1, 4, and 8 of quire 11 (each respectively after fols. 42, 44, 47, Mark 1:1-10, 1:44-2:14, 3:31-4:13); 
+            leaf 7 of quire 12 (after fol. 53, Mark 6:22-37); leaf 1 of quire 13 (Mark 6:53-7:10); leaves 3-8 of quire 13, and an estimated 16 
+            quires (after fol. 55, Mark 7:27-end, and the gospels of Luke and John.</p>
+            <p>Quire numbers on the last leaf (verso) of quires 6, 7, 8, 10, and 12.</p></collation> 
+        <dimensions type="written" units="mm">Written space 140 x 105 mm (fol. 3r). Each column is 140 x 45 mm with a space of 15 mm between.</dimensions> 
+        <layout columns="2" writtenLines="25 per column"><p>2 columns, 25 lines. Ruling with hard point. Pricking in outer margins.</p></layout>
+        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in black ink. The scribe applied 
+            flourishes and small beads to letters δ (delta), ε (epsilon), ζ (zeta), and τ (tau), and an abbreviation of και.</p>
+            <p>Punctuation includes high point, comma, marks of elision and interrogation. Quotation marks in left margin next to each line of quoted text.</p></handDesc>
+        </msWriting>
+        <textDivisions><p>Titles in red.</p></textDivisions>
+        <condition><p>Some cockling, tearing, and creasing of leaves. Water and mold stains. Random insect damage. 
+            Smears of red ink (fols 28r-29r), and a pen-trial (fol. 30r).</p></condition>
+        <bindingDesc>
+            <binding><p>Covers lost. Quires stitched together with cord.</p></binding></bindingDesc>
+    </physDesc>
+    <history>
+        <origin><p>A correspondence has been documented between the script of the present manuscript and that of Sinai, St. Catherine, Gr.157 (Greg. 1194), which contains 
+            a colophon recording scribe, place of origin, and dedicatee. It has been proposed therefore, that the derivation of the two works is the same, and that Ms. 141 (Greg. 2409) 
+            was written by <name reg="John, the Monk, 12th century" type="person" role="scribe">John the Monk</name> at the
+            <name reg="Monastery of St. John the Evangelist (Patmos, Greece)" type="org">Monastery of St. John the Evangelist</name> 
+            on <name reg="Patmos, Greece" type="place">Patmos</name> during the abbacy of <name reg="Theoktistos, Abbot, 12th century" type="person" role="abbot">Theoktistos</name>, 
+            1128 to 1157.</p></origin>  
+        <provenance><p>Medieval to early 20th century provenance unknown. Belonged to Dr. <name reg="Depostes, E. C." type="person">E. C. Depostes</name> of 
+            Chicago, who purchased the leaves in <name reg="Janina, Greece" type="place">Janina</name>, the 
+            present-day  <name reg="Ioánnina, Greece" type="place">Ioánnina, Greece</name> in 1916.</p></provenance>
+        <acquisition><p>Acquired by the University of Chicago from Dr. Despostes with funds provided by real estate developer <name reg="Galt, Arthur T., born 1876" type="person" role="donor">Arthur T. Galt</name>, 
+            April 1931.</p></acquisition>
+    </history>
+    <additional>
+        <listBibl><bibl>
+            <author>Seymour de Ricci,</author>
+            <title level="m">Census of Medieval and Renaissance Manuscripts in the United States and Canada</title>
+            <imprint>
+                <pubPlace>(New York:</pubPlace>
+                <publisher>H. W. Wilson Company,</publisher>
+                <date>1935),</date>
+            </imprint>
+            <biblScope type="volume">vol. 1, p. 571.</biblScope></bibl>
+        <bibl><author>Kenneth W. Clark</author>, 
+            <title level="m">A Descriptive Catalogue of Greek New Testament Manuscripts in America</title>
+            <imprint>
+                <pubPlace>(Chicago:</pubPlace>
+                <publisher>University of Chicago Press,</publisher>
+                <date>1937),</date>
+            </imprint>
+            <biblScope type="pages">pp. 255-256.</biblScope></bibl>
+            <bibl><author>Merrill Mead Parvis</author>, 
+                <title level="u">"The Janina gospels."</title> 
+                <note>(Ph.D. diss., University of Chicago, 1944).</note></bibl>
+            <bibl>
+                <author>———</author>, 
+                <title level="a">"The Janina Gospels and the Isle of Patmos,"</title> 
+                <title level="j">Crozer Quarterly</title> 
+                <biblScope type="volume">21</biblScope> 
+                <imprint><date>(January 1944),</date></imprint> 
+                <biblScope type="pages">pp. 30-40.</biblScope>
+            </bibl>
+        <bibl>
+            <author>———</author>, 
+            <title level="m">The Story of the Goodspeed Collection</title>
+            <imprint>
+                <pubPlace>([Chicago]:</pubPlace>
+                <publisher>s.n.,</publisher> 
+                <date>1952),</date>
+            </imprint>
+            <biblScope type="pages">pp. 17-18.</biblScope></bibl>
+        <bibl> 
+            <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+                Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+            <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+            <imprint> 
+                <pubPlace>([Chicago:</pubPlace> 
+                <publisher>s.n.,</publisher>  
+                <date>1973]),</date></imprint> 
+            <biblScope type="volume">36,</biblScope> 
+            <biblScope type="catalogNo">no. 43.</biblScope></bibl></listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

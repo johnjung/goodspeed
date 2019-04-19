@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+ <teiHeader date.created="2015-11-04" creator="jfcd">
+<fileDesc>
+<titleStmt>
+ <title>[University of Chicago Library GMS-0996, a manuscript catalogue description in electronic form]</title>
+ <funder>Institute of Museum and Library Services</funder>
+ <respStmt>
+  <resp>Creation of electronic version:</resp>
+  <name>University of Chicago Library</name>
+  <resp>Creation of digital images:</resp>
+  <name>University of Chicago Library</name>
+ </respStmt> 
+</titleStmt>
+<publicationStmt>
+ <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+ <pubPlace>Chicago, Illinois</pubPlace>
+ <date>2009</date>
+ <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0996</idno>
+ <availability status= "free">
+  <p>Publicly accessible</p></availability>
+</publicationStmt>
+ <sourceDesc>
+ <msDescription>
+  <msIdentifier>
+   <country>United States</country>
+   <region>Illinois</region>
+   <settlement>Chicago</settlement>
+   <institution>University of Chicago Library</institution> 
+   <repository>Special Collections Research Center</repository>
+   <collection>Goodspeed Manuscript Collection</collection>
+   <idno>Ms. 996</idno>
+   <altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 53</altIdentifier>
+  </msIdentifier>
+  <msHeading>
+   <title>New Testament. Gospels</title>
+   <otherName>Hayrapet Gospels</otherName>
+   <origPlace>Armenia?</origPlace>
+   <origDate notBefore="1601" notAfter="1700">17th century</origDate>
+   <textLang langKey="hye">Armenian</textLang>
+  </msHeading>
+  <msContents>
+   <overview>
+    <p>Four gospels in Armenian. Section numbers in the margins against the text. Concordance 
+     numbers in lower margins. Pentecostal section numbers. Formerly Goodspeed Ms. Arm. 53.</p></overview></msContents>
+  <decoration> 
+   <overview><p>20 full-page miniatures containing portraits of the Evangelists, and depictions of events drawn 
+    primarily from the cycles of Christ's infancy, miracles, and Passion.</p> 
+    <p>Marginal miniatures: Matthew (32); Mark (18); Luke (21); John (12). Examples include: Adoration of the 
+     Magi (fol. 35r); Miracle of stilling the storm (fol. 124r); and Annunciation to the shepherds (fol. 170v). 
+     Marginal vignettes of arabesques, birds, floral designs, and medallions.</p>
+   </overview>
+   <canonTables><p>Citations of concordant gospel sections are framed by architectural columns. These support 
+    headpieces of multi-colored floral, foliate, and geometric designs upon which a variety of birds, apes, and lions stand.</p>
+   </canonTables> 
+   <headpieces><p>Headpieces of multi-colored floral and foliate motifs at each gospel's opening 
+    (fols. 33r, 114r, 165r, 245r).</p>
+   </headpieces> 
+   <initials><p>The major initial of each gospel's opening is formed by an Evangelist symbol: Matthew (angel, 30 mm), 
+    Mark (lion, 27 mm), Luke (ox, 51 mm), and John (eagle, 85 mm). Minor initials are formed by figures of birds or flowers.</p>
+   </initials>
+  </decoration>
+  <physDesc>
+   <support><p><material>Parchment</material>. 
+    <dimensions type="block" units="mm">159 x 115 mm</dimensions>.</p></support> 
+   <extent>307 leaves, of which 3 are flyleaves.</extent>  
+   <foliation><p>2 (foliated parchment flyleaves) + 304 + 1 (foliated parchment flyleaf). Modern foliation in Arabic numerals in pencil 1-307.</p></foliation>
+   <collation><p>23 numbered quires.</p></collation>
+   <dimensions type="written" units="mm">Written space 105 x 70 mm (fol. 65r). Each column is 105 x 30 mm with a space of 10 mm between.</dimensions> 
+   <layout columns="2" writtenLines="21-22 per column"><p>2 columns, 21 to 22 lines. Ruling with hard point.</p></layout> 
+   <msWriting><handDesc script="Bolorgir" medium="ink"> 
+    <p>Written chiefly in small bolorgir script in black ink. The first line of John's gospel is inscribed in 
+     ornate capitals, those of Matthew, Mark, and Luke are written in bird letters.</p></handDesc></msWriting> 
+   <textDivisions><p>Titles in red.</p></textDivisions>
+   <condition><p>Grease and dirt stains. Damage to binding consists of a lost spine, worn and 
+    peeling leather (front and back), and a broken board (front cover, bottom).</p></condition> 
+   <bindingDesc> 
+    <binding><p>Bound in dark brown <material>leather</material> over boards. Nail holes and two metal pins present. 
+     Leather strap closures lost. Fore-edge flap. Doublures of blue <material>linen</material>.</p>
+     <decoNote><p>Repeat blind tooled pattern of diamonds, each with narrow rectilinear frames and rosettes 
+      at main points. Central cross with floriated arms. Marginal border of rosettes. Back cover and fore-edge flap tooled in 
+      similar diamond and rosette pattern.</p></decoNote>
+    </binding>
+   </bindingDesc>
+  </physDesc>
+  <history>
+   <origin><p>The manuscript is judged to have been written and illuminated in the 17th century, possibly in <name reg="Armenia" type="place">Armenia</name>. Commissioned by the 
+    mahdasi <name reg="Hayrapet, 17th century" type="person" role="commissioner">Hayrapet</name>, son of <name reg="Shōřōt‛c‛i Xōjēnc‛ Mak(r)tich‛" type="person">Shōřōt‛c‛i Xōjēnc‛ Mak(r)tich‛</name> 
+    and <name reg="Margarit" type="person">Margarit</name> (his colophon, fols. 306v-307r.</p></origin>
+   <provenance><p>Hayrapet presented the manuscript at an unknown date to the <name reg="Church of St. John the Baptist (Ernjak)" type="org">Church of St. John the Baptist 
+    (Surb Karapet)</name> at <name reg="Ernjak" type="place">Ernjak</name>, the 
+    present-day village of <name reg="Alinja" type="place">Alinja</name> in 
+    the <name reg=" Nakhchivan Autonomous Republic" type="place">Nakhchivan Autonomous Republic</name>.</p>
+    <p>In the early 19th century, belonged to <name reg="Ōvanēs" type="person" role="owner">Ōvanēs</name>, son 
+     of <name reg="Ghazar" type="person">Ghazar</name>, who offered the manuscript to 
+     the <name reg="Monastery of St. John the Baptist" type="org">Monastery of St. John the Baptist</name> (his inscription, dated January 1806, fol. 305v). Undated inscription (fol. 303v). 
+     Verses of Matthew 21:1-13 and 21:13-28 (front and back flyleaves).</p></provenance> 
+   <acquisition><p>Acquired by the University of Chicago from <name reg="H. P. Kraus (Firm)" type="org" role="bookseller">H. P. Kraus</name> (New York), November 1945.
+   </p></acquisition>
+  </history>
+ </msDescription>
+</sourceDesc>
+</fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+    an interface that supports browsing within individual manuscripts and across the collection.</p>
+   <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+    as of <date>2012-09-22</date>.</p> 
+   <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+  </projectDesc>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage><language id="hye"></language><p>Armenian, ISO 639-3</p>
+ </langUsage>
+  <textClass>
+   <keywords>
+    <term>Bible. N.T. Gospels. Armenian</term>
+    <term>Manuscripts, Armenian</term>
+    <term>Illuminated manuscripts</term>
+    <term>Miniatures (Illuminations)</term>
+   </keywords>
+  </textClass>
+ </profileDesc>
+</teiHeader>
+ <text>
+ <body>
+ <msDescription id="GMS-0996">
+ <msIdentifier>
+ <country>United States</country>
+<region>Illinois</region>
+ <settlement>Chicago</settlement>
+ <institution>University of Chicago Library</institution> 
+ <repository>Special Collections Research Center</repository>
+ <collection>Goodspeed Manuscript Collection</collection>
+ <idno>Ms. 996</idno>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 53</altIdentifier>
+</msIdentifier>
+<msHeading>
+ <title>New Testament. Gospels</title>
+ <otherName>Hayrapet Gospels</otherName>
+ <origPlace>Armenia?</origPlace>
+ <origDate notBefore="1601" notAfter="1700">17th century</origDate>
+<textLang langKey="hye">Armenian</textLang>
+</msHeading>
+ <msContents>
+ <overview>
+ <p>Four gospels in Armenian. Section numbers in the margins against the text. Concordance 
+  numbers in lower margins. Pentecostal section numbers. Formerly Goodspeed Ms. Arm. 53.</p></overview>
+ <msItem n="1">
+   <locus from="040" to="041">fols. 19v-20r</locus>
+ <summary>Eusebius of Caesarea (ca. 260-ca. 340), letter to Carpianus, on the gospel canons.</summary>
+  <note>Blank (fols. 2r-2v, 3r, 4v-5r, 6v-7r, 8v-9r, 10v-11r, 12v-13r, 
+   14v-15r, 16v-17r, 18v-19r).</note>
+ </msItem> 
+  <msItem n="2"> 
+  <locus from="044" to="057">fols. 21v-28r</locus> 
+  <summary>Canon tables I-X.</summary> 
+  <note>Blank (fols. 20v-21r, 22v-23r, 24v-25r, 26v-27r, 28v).</note>
+</msItem>
+<msItem n="3">
+ <locus from="059" to="065">fols. 29r-32r</locus>
+ <summary>Index, concordance, and preface of Matthew.</summary>
+</msItem>
+  <msItem n="4">
+  <locus from="067" to="223">fols. 33r-111r</locus>
+<summary>Matthew.</summary>
+  </msItem>
+ <msItem n="5">
+ <locus from="224" to="227">fols. 111v-113r</locus>
+  <summary>Index and preface of Mark.</summary>  </msItem>
+  <msItem n="6">
+    <locus from="229" to="324">fols. 114r-161v</locus>
+    <summary>Mark.</summary>  </msItem> 
+  <msItem n="7">
+<locus from="325" to="329">fols. 162r-164r</locus>
+   <summary>Index and preface of Luke.</summary></msItem>
+  <msItem n="8">
+   <locus from="331" to="485">fols. 165r-242r</locus>
+   <summary>Luke.</summary></msItem>
+<msItem n="9">
+<locus from="486" to="489">fols. 242v-244r</locus>
+ <summary>Index and preface of John.</summary>
+</msItem>
+  <msItem n="10">
+   <locus from="491" to="607">fols. 245r-303r</locus>
+   <summary>John.</summary>
+  </msItem>
+  <msItem n="11">
+   <locus from="614" to="615">fols. 306v-307r</locus>
+   <colophon>Hayrapet (undated).</colophon>
+   <note>Blank (fols. 306r).</note>
+  </msItem>
+ </msContents>
+<decoration> 
+ <overview><p>20 full-page miniatures containing portraits of the Evangelists, and depictions of events drawn 
+  primarily from the cycles of Christ's infancy, miracles, and Passion.</p> 
+  <p>Marginal miniatures: Matthew (32); Mark (18); Luke (21); John (12). Examples include: Adoration of the 
+   Magi (fol. 35r); Miracle of stilling the storm (fol. 124r); and Annunciation to the shepherds (fol. 170v). 
+   Marginal vignettes of arabesques, birds, floral designs, and medallions.</p>
+ </overview>
+ <miniatures><minItem n="1">
+  <locus from ="008" to="008">fol. 3v</locus>
+  <minDesc>Virgin Mary: Annunciation. Virgin Mary stands at right, hand raised; angel, at left, holds lily; buildings, in background.</minDesc>
+ </minItem>
+<minItem n="2"> 
+ <locus from ="009" to="009">fol. 4r</locus>
+ <minDesc>Magi: Adoration. Virgin Mary, seated at left, holds Christ Child; three magi kneel at right, hold gifts; Joseph stands behind Mary; buildings, 
+  in background.</minDesc></minItem>
+ <minItem n="3"> 
+  <locus from ="012" to="012">fol. 5v</locus>
+  <minDesc>Christ: Presentation. Simeon, at right, holds Christ Child over altar; Virgin Mary at left with Joseph with two doves as an offering.</minDesc>
+ </minItem>
+ <minItem n="4"> 
+  <locus from ="013" to="013">fol. 6r</locus>
+  <minDesc>Christ: Baptism. John the Baptist on riverbank at left, baptizes Christ, standing in river; 
+   dove of Holy Spirit descends from above; three angels on bank, at right.</minDesc></minItem> 
+ <minItem n="5"> 
+  <locus from ="016" to="016">fol. 7v</locus>
+  <minDesc>Christ: Transfiguration. Christ, at center on mountain, within star-filled mandorla; Elijah at left, 
+   Moses to the right; disciples Peter, James, and John in foreground below.</minDesc> 
+ </minItem> 
+ <minItem n="6"> 
+  <locus from ="017" to="017">fol. 8r</locus>
+  <minDesc>Christ: Miracle of raising Lazarus. Christ stands at left, disciples behind him; Lazarus exits 
+   tomb at right wrapped in a shroud; sisters Mary and Martha kneel at Christ's feet, center foreground; witnesses, in background.</minDesc></minItem> 
+ <minItem n="7"> 
+  <locus from ="020" to="020">fol. 9v</locus>
+  <minDesc>Christ: Entry into Jerusalem. Christ, at center, seated on donkey; disciples 
+   stand behind him, at left; robes laid out on road before him; boy holds palm branch, at right; people watch entry from 
+   Jerusalem's walls, background right.</minDesc> 
+ </minItem> 
+ <minItem n="8"> 
+  <locus from ="021" to="021">fol. 10r</locus> 
+  <minDesc>Christ: Last Supper. Christ, at center, seated at table, a sleeping disciple to his left, other disciples on either 
+   side; table set with wine jars, drinking vessels, footed compote, and loaves of bread; buildings, in background.</minDesc></minItem> 
+ <minItem n="9"> 
+  <locus from ="024" to="024">fol. 11v</locus>
+  <minDesc>Christ: Washing of feet. Peter, at center, seated on bench, points to head; Christ kneels at left, places Peter's feet in basin; 
+   other disciples wait at right; water jug, in foreground.</minDesc> 
+ </minItem> 
+ <minItem n="10"> 
+  <locus from ="025" to="025">fol. 12r</locus>
+  <minDesc>Christ: Betrayal. Flanked by soldiers, Judas faces Christ, at center, places hand on his shoulder; 
+   Peter cuts off ear of high priest's servant, foreground right.</minDesc></minItem> 
+ <minItem n="11"> 
+  <locus from ="028" to="028">fol. 13v</locus> 
+  <minDesc>Christ: Arrest. Christ, at center, hands tied, and led by solider; escort of soldiers armed with spears, at left.</minDesc> 
+ </minItem> 
+ <minItem n="12"> 
+  <locus from ="029" to="029">fol. 14r</locus> 
+  <minDesc>Christ: Crucifixion. Christ crucified on cross, at center; Virgin Mary (left) and apostle John (right) at foot of cross; 
+   skull on mound below cross; sun and moon above cross-arms.</minDesc></minItem> 
+ <minItem n="13"> 
+  <locus from ="032" to="032">fol. 15v</locus>
+  <minDesc>Christ: Resurrection. Christ emerges from tomb, upper center, encircled by cloud, holds banner emblazoned with 
+   red cross; three sleeping soldiers armed with spears, lower left and foreground.</minDesc>
+ </minItem> 
+ <minItem n="14"> 
+  <locus from ="033" to="033">fol. 16r</locus>
+  <minDesc>Christ: Ascension. Christ seated within mandorla, ascends to heaven flanked 
+   by angels; Virgin Mary and witnesses stand below scene, gaze skyward.</minDesc></minItem> 
+ <minItem n="15"> 
+  <locus from ="036" to="036">fol. 17v</locus> 
+  <minDesc>Pentecost. Dove of Holy Spirit descends on 13 apostles (includes Paul); Kosmos appears below as a crowned 
+   elder in liturgical dress. He represents all people to whom the apostles will preach.</minDesc> 
+ </minItem> 
+ <minItem n="16"> 
+  <locus from ="037" to="037">fol. 18r</locus>
+  <minDesc>Christ: Second Coming. Christ, upper center, within mandorla, the Virgin Mary and John the Baptist on either side; apostles 
+   seated on either side. Christ: Last Judgment. Empty throne, at mid-center, flanked by saints; Archangel Michael, below throne, carries a spear 
+   in right hand with which he captures a damned soul, holds balance in left hand; Peter oversees gates of heaven, lower left, allows 
+   Elect to enter; mouth of Hell swallows Damned, lower right.</minDesc></minItem>
+ <minItem n="17">
+  <locus from ="040" to="041">fols. 19v-20r</locus>
+  <minDesc>Eusebius, Bishop of Caesarea, Palestine: Portrait. Facing images of 
+   Eusebius, each holding the end of an open scroll.</minDesc>
+ </minItem>
+ <minItem n="18">
+  <locus from ="066" to="066">fol. 32v</locus>
+  <minDesc>Evangelist, Matthew: Portrait. Matthew reading, seated in low-backed chair; buildings, 
+  in background.</minDesc>
+ </minItem>
+ <minItem n="19">
+  <locus from ="228" to="228">fol. 113v</locus>
+  <minDesc>Evangelist, Mark: Portrait. Mark reading, seated in low-backed chair; buildings, 
+   in background.</minDesc>
+ </minItem>
+ <minItem n="20">
+  <locus from ="330" to="330">fol. 164v</locus>
+  <minDesc>Evangelist, Luke: Portrait. Luke reading, seated in low-backed chair; buildings, 
+   in background.</minDesc></minItem> 
+ <minItem n="21">
+  <locus from ="490" to="490">fol. 244v</locus>
+  <minDesc>Evangelist, John: Portrait. John reading, seated on bench in cave.</minDesc>
+ </minItem></miniatures>
+ <canonTables><p>Citations of concordant gospel sections are framed by architectural columns. These support 
+  headpieces of multi-colored floral, foliate, and geometric designs upon which a variety of birds, apes, and lions stand.</p>
+ </canonTables> 
+ <headpieces><p>Headpieces of multi-colored floral and foliate motifs at each gospel's opening 
+  (fols. 33r, 114r, 165r, 245r).</p>
+ </headpieces> 
+ <initials><p>The major initial of each gospel's opening is formed by an Evangelist symbol: Matthew (angel, 30 mm), 
+ Mark (lion, 27 mm), Luke (ox, 51 mm), and John (eagle, 85 mm). Minor initials are formed by figures of birds or flowers.</p>
+ </initials>
+</decoration>
+<physDesc>
+<support><p><material>Parchment</material>. 
+ <dimensions type="block" units="mm">159 x 115 mm</dimensions>.</p></support> 
+ <extent>307 leaves, of which 3 are flyleaves.</extent>  
+ <foliation><p>2 (foliated parchment flyleaves) + 304 + 1 (foliated parchment flyleaf). Modern foliation in Arabic numerals in pencil 1-307.</p></foliation>
+ <collation><p>23 numbered quires.</p></collation>
+ <dimensions type="written" units="mm">Written space 105 x 70 mm (fol. 65r). Each column is 105 x 30 mm with a space of 10 mm between.</dimensions> 
+ <layout columns="2" writtenLines="21-22 per column"><p>2 columns, 21 to 22 lines. Ruling with hard point.</p></layout> 
+ <msWriting><handDesc script="Bolorgir" medium="ink"> 
+  <p>Written chiefly in small bolorgir script in black ink. The first line of John's gospel is inscribed in 
+  ornate capitals, those of Matthew, Mark, and Luke are written in bird letters.</p></handDesc></msWriting> 
+ <textDivisions><p>Titles in red.</p></textDivisions>
+ <condition><p>Grease and dirt stains. Damage to binding consists of a lost spine, worn and 
+  peeling leather (front and back), and a broken board (front cover, bottom).</p></condition> 
+ <bindingDesc> 
+  <binding><p>Bound in dark brown <material>leather</material> over boards. Nail holes and two metal pins present. 
+   Leather strap closures lost. Fore-edge flap. Doublures of blue <material>linen</material>.</p>
+   <decoNote><p>Repeat blind tooled pattern of diamonds, each with narrow rectilinear frames and rosettes 
+    at main points. Central cross with floriated arms. Marginal border of rosettes. Back cover and fore-edge flap tooled in 
+    similar diamond and rosette pattern.</p></decoNote>
+  </binding>
+ </bindingDesc>
+</physDesc>
+<history>
+ <origin><p>The manuscript is judged to have been written and illuminated in the 17th century, possibly in <name reg="Armenia" type="place">Armenia</name>. Commissioned by the 
+  mahdasi <name reg="Hayrapet, 17th century" type="person" role="commissioner">Hayrapet</name>, son of <name reg="Shōřōt‛c‛i Xōjēnc‛ Mak(r)tich‛" type="person">Shōřōt‛c‛i Xōjēnc‛ Mak(r)tich‛</name> 
+  and <name reg="Margarit" type="person">Margarit</name> (his colophon, fols. 306v-307r.</p></origin>
+ <provenance><p>Hayrapet presented the manuscript at an unknown date to the <name reg="Church of St. John the Baptist (Ernjak)" type="org">Church of St. John the Baptist 
+  (Surb Karapet)</name> at <name reg="Ernjak" type="place">Ernjak</name>, the 
+  present-day village of <name reg="Alinja" type="place">Alinja</name> in 
+  the <name reg=" Nakhchivan Autonomous Republic" type="place">Nakhchivan Autonomous Republic</name>.</p>
+  <p>In the early 19th century, belonged to <name reg="Ōvanēs" type="person" role="owner">Ōvanēs</name>, son 
+   of <name reg="Ghazar" type="person">Ghazar</name>, who offered the manuscript to 
+   the <name reg="Monastery of St. John the Baptist" type="org">Monastery of St. John the Baptist</name> (his inscription, dated January 1806, fol. 305v). Undated inscription (fol. 303v). 
+   Verses of Matthew 21:1-13 and 21:13-28 (front and back flyleaves).</p></provenance> 
+ <acquisition><p>Acquired by the University of Chicago from <name reg="H. P. Kraus (Firm)" type="org" role="bookseller">H. P. Kraus</name> (New York), November 1945.
+ </p></acquisition>
+</history>
+<additional><listBibl><bibl>
+<author>Merrill Mead Parvis</author>, 
+ <title level="m">The Story of the Goodspeed Collection</title>
+<imprint>
+<pubPlace>([Chicago:]</pubPlace>
+ <publisher>s.n.,</publisher>
+<date>1952),</date>
+</imprint>
+<biblScope type="pages">p. 27.</biblScope></bibl>
+ <bibl>
+  <author>Erroll F. Rhodes</author>, 
+  <title level="m">An Annotated List of Armenian New Testament Manuscripts</title>, 
+  <title level="s">Annual Report of Theology</title>
+  <biblScope type="volume">1</biblScope>
+  <imprint><date>(1959),</date></imprint>
+  <biblScope type="pages">p. 134 (1040).</biblScope></bibl>
+ <bibl> 
+  <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed Collection of the University of Chicago Library, 
+  the Joseph Regenstein Library, January-March, 1973</title>. 
+  <title level="s"> University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+  <imprint> 
+   <pubPlace>([Chicago:</pubPlace> 
+   <publisher>s.n.,</publisher> 
+   <date>1973]),</date></imprint> 
+  <biblScope type="volume">36,</biblScope> 
+  <biblScope type="catalogNo">no. 67.</biblScope></bibl>
+ <bibl>
+  <author>Avedis K. Sanjian</author>, 
+  <title level="m">A catalogue of medieval Armenian manuscripts in the United States</title>
+  <imprint>
+   <pubPlace>(Berkeley:</pubPlace>
+   <publisher>University of California Press,</publisher>
+   <date>1976),</date>
+  </imprint>
+  <biblScope type="pages">pp. 239-243.</biblScope></bibl>
+ <bibl>
+  <title level="m">Treasures in heaven: Armenian illuminated manuscripts</title>, edited by 
+  <editor>Thomas F. Mathews</editor> and <editor>Roger S. Wieck</editor> 
+  <imprint>
+   <pubPlace>(New York:</pubPlace>
+   <publisher>Pierpont Morgan Library; Princeton, N.J.: distributed by Princeton University Press,</publisher>
+   <date>1994),</date>
+  </imprint>
+  <biblScope type="pages">pp. 164-165 (cat. 25).</biblScope></bibl>
+</listBibl>
+</additional>
+ </msDescription>
+ </body>
+ </text>    
+ </TEI.2>

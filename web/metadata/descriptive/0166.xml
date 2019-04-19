@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0166, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0166</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 166</idno>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 18</altIdentifier>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>Trephologion</title>
+                        <otherName>John Adam Service Book</otherName>
+                        <origPlace>Italy or Greece</origPlace>
+                        <origDate notBefore="1501" notAfter="1600">16th century</origDate>
+                        <textLang langKey="ell">Greek</textLang>
+                    </msHeading>
+                    <msContents> 
+                        <overview><p>Trephologion or Festal Menaion in Greek. Contains liturgical texts, canons and hymns 
+                            for major fixed feasts and important saints. Indications of mode and instructions for repetition are paired with texts. 
+                            Addition of mid-19th century drawings. Formerly Goodspeed Ms. Grk. 18.</p></overview></msContents>
+                    <decoration>
+                        <overview><p>11 drawings in ink by Joannes Adam. Christ in Majesty (fol. 1v); Saint Nicholas (fol. 98r); 
+                            Nativity of Jesus (fol. 124v); Baptism of Jesus (fol. 171v); Presentation of Jesus in the Temple (fol. 224r); 
+                            Annunciation to the Virgin Mary (fol. 238r, dated 1856);  Saint George (fol. 253r); Saint Athanasius (fol. 273v); Saint 
+                            John the Evangelist (fol. 284v); Nativity of John the Baptist (fol. 296v); Apostle Peter and Apostle Paul (fol. 316v).</p></overview>
+                        <headpieces><p>Headpieces decorated with leaf scrolls or interlace and floral motifs in red or black, and red and black.</p></headpieces>
+                        <initials><p>Major initials (30-45 mm) of looped ribbon design set off from the text. Minor initials set off from the text in red or in purple.</p></initials>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Paper</material>. <dimensions type="block" units="mm">195 x 130 mm</dimensions>.</p></support>
+                        <watermarks>
+                            <p>Watermarks similar to Briquet, Ancre dans un cercle, 514 (Udine, 1536); Fleur, 6683 (Rome, 1545-1550); Lettre M, 8371 
+                                (Modène, 1481-1483); Main 10734 (Syracuse, 1529); Tête de bœuf, 14794 (Brescia, 1461).</p>
+                            <p>Owing to the manuscript's rebinding, the watermarks primarily are situated in the fold of the leaves are no longer visible.</p></watermarks>
+                        <extent>332 leaves.</extent> 
+                        <foliation><p>1-332. Modern foliation in Arabic numerals in pencil in lower margin. Earlier numbering in ink (upper outer corner).</p></foliation>
+                        <collation><p>43 quires of 8 leaves. Estimate of content lost: 1 to 3 leaves (service for November 13, begins on fol. 2r with the Theotokion preceding 
+                            the Eisodos); unknown number of leaves (after fol. 19, service for November 13, ends after the Theotokion at the finish of Lauds); 1 leaf (after fol. 
+                            43, service for September 14, ends following the Great Doxology in the idiomelon); unknown number of leaves (after fol. 328, service for June 29); 
+                            unknown number of leaves (after fol. 332, service for July 20).</p></collation>
+                        <dimensions type="written" units="mm">Written space 145 x 90 mm (fol. 172r).</dimensions> 
+                        <layout columns="1" writtenLines="18-25"><p>1 column, variants of 18 to 25 lines.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink">
+                            <p>Written in minuscule script in black ink.</p> 
+                            <p>Punctuation includes full point, comma, colon, colon and dash, and the mark of interrogation. Several instances of quotation marks in the margins.</p></handDesc>
+                        </msWriting>
+                        <textDivisions><p>Titles in red.</p></textDivisions>
+                        <condition><p>Trimmed presumably during the manuscript's rebinding of the late 19th or early 20th century, thus marring marginal drawings. Insect damage, random holes, 
+                            and taped repairs. Water and grease stains.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Binding of half-cloth and paper over wood dated to the late 19th or early 20th century was removed in 2015. The manuscript was rebound in brown tooled 
+                                <material>goatskin</material> with a <material>linen</material> lining over oak boards.</p></binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript is judged to have been written in either <name reg="Italy" type="place">Italy</name> or <name reg="Greece" type="place">Greece</name>, and is dated to the 16th century.</p></origin> 
+                   <provenance><p>Provenance from the 16th to the 19th century is unknown. The manuscript may have belonged to <name reg="Adam, Joannes, 19th century" type="person" role="artist">Joannes Adam</name>, who lived in the 
+                            Greek region of <name reg="Epirus, Greece" type="place">Epirus</name>, and who illustrated 10 of the texts (his colophon, fol. 224r; signature fol. 79v). The priest <name reg="Brapos" type="person" role="priest">Brapos</name>, 
+                            whom Adam noted was his uncle, may also have been a one-time owner.</p>
+                            <p>Notation dated 1856 (fol. 238r).</p></provenance>
+                        <acquisition><p>Acquired by the University of Chicago in 1930 from bookseller <name reg="Grivakis, Athenas" type="person" role="bookseller">
+                            Athenas Grivakis</name> with funds from an anonymous donor.</p></acquisition>
+                    </history>
+                     </msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage><language id="ell"></language><p>Greek, Modern (1453-), ISO 639-3</p>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Orthodox Eastern Church--Liturgy and ritual. Trephologion</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                    <term>Adam, Joannes</term>
+                </keywords>
+            </textClass>
+ </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0166">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 166</idno>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 18</altIdentifier>
+</msIdentifier>
+    <msHeading>
+        <title>Trephologion</title>
+        <otherName>John Adam Service Book</otherName>
+        <origPlace>Italy or Greece</origPlace>
+        <origDate notBefore="1501" notAfter="1600">16th century</origDate>
+<textLang langKey="ell">Greek</textLang>
+</msHeading>
+<msContents> 
+    <overview><p>Trephologion or Festal Menaion in Greek. Contains liturgical texts, canons and hymns 
+        for major fixed feasts and important saints. Indications of mode and instructions for repetition are paired with texts. 
+        Addition of mid-19th century drawings. Formerly Goodspeed Ms. Grk. 18.</p></overview>
+ <msItem n="1">
+        <locus from = "003" to ="038">fols. 2r-19v</locus>
+        <summary>November 13: Service (lacking).</summary>
+        <note>Bound out of order.</note>
+    </msItem>
+<msItem n="2">
+<locus from = "039" to ="065">fols. 20r-33r</locus> 
+    <summary>September 8: Birth of our most Holy Lady, the Theotokos.</summary>
+</msItem>
+    <msItem n="3">
+        <locus from = "065" to ="088">fols. 33r-44v</locus> 
+        <summary>September 14: Elevation of the precious and life-giving Cross (lacking).</summary>
+    </msItem>
+    <msItem n="4">
+        <locus from = "088" to ="126">fols. 44v-63v</locus> 
+        <summary>October 26: Of the holy megalomartyr Demetrios.</summary>
+    </msItem>
+    <msItem n="5">
+        <locus from = "126" to ="161">fols. 63v-81r</locus> 
+        <summary>November 8: Synaxis of the bodiless and heavenly orders of Angels.</summary>
+    </msItem>
+    <msItem n="6">
+        <locus from = "161" to ="195">fols. 81r-98r</locus> 
+        <summary>November 21: Entry of the Holy Theotokos into the Temple in Jerusalem.</summary>
+    </msItem>
+    <msItem n="7">
+        <locus from = "195" to ="240">fols. 98r-120v</locus> 
+        <summary>December 6: Of the holy father Nicholas, Bishop of Myra.</summary>
+    </msItem>
+    <msItem n="8">
+        <locus from = "241" to ="247">fols. 121r-124r</locus> 
+        <summary>December 24: Eve of the Nativity of Christ.</summary>
+    </msItem>
+    <msItem n="9">
+        <locus from = "247" to ="289">fols. 124r-145r</locus> 
+        <summary>December 25: Nativity of our Lord and God and Savior Jesus Christ.</summary>
+    </msItem>
+    <msItem n="10">
+        <locus from = "290" to ="334">fols. 145v-167v</locus> 
+        <summary>January 1: Circumcision of Our Lord Jesus Christ; Of the holy father Basil the Great.</summary>
+    </msItem>
+    <msItem n="11">
+        <locus from = "334" to ="341">fols. 167v-171r</locus> 
+        <summary>January 5: Eve of the Theophany.</summary>
+    </msItem>
+    <msItem n="12">
+        <locus from = "342" to ="425">fols. 171v-213r</locus> 
+        <summary>January 6: Theophany of our Lord, God and Savior Jesus Christ.</summary>
+    </msItem>
+    <msItem n="13">
+        <locus from = "426" to ="447">fols. 213v-224r</locus> 
+        <summary>January 7: Synaxis of John, the Prophet, Forerunner, and Baptist of the Lord.</summary>
+    </msItem>
+    <msItem n="14">
+        <locus from = "447" to ="447">fol. 224r</locus>
+        <colophon>Joannes Adam (dated January 15, 1852).</colophon>
+    </msItem>
+    <msItem n="15">
+        <locus from = "447" to ="474">fols. 224r-237v</locus> 
+        <summary>February 2: Presentation of Jesus Christ in the Temple of Jerusalem.</summary>
+    </msItem>
+    <msItem n="16">
+        <locus from = "475" to ="504">fols. 238r-252v</locus> 
+        <summary>March 25: Annunciation of Our Most Holy Lady, the Theotokos.</summary>
+    </msItem>
+    <msItem n="17">
+        <locus from = "505" to ="545">fols. 253r-273r</locus> 
+        <summary>April 23: Of the holy glorious megalomartyr George.</summary>
+    </msItem>
+    <msItem n="18">
+        <locus from = "546" to ="568">fols. 273v-284v</locus> 
+        <summary>May 2: Of the holy father Athanasius the Great, bishop of Alexandria.</summary>
+    </msItem>
+    <msItem n="19">
+        <locus from = "568" to ="592">fols. 284v-296v</locus> 
+        <summary>May 8: Of the holy apostle and evangelist John the Theologian.</summary>
+    </msItem>
+    <msItem n="20">
+        <locus from = "592" to ="632">fols. 296v-316v</locus> 
+        <summary>June 24: Nativity of John the Baptist.</summary>
+    </msItem>
+    <msItem n="21">
+        <locus from = "632" to ="660">fols. 316v-328v, 331r-331v, 329r-330v</locus> 
+        <summary>June 29: Of the holy glorious leaders of the apostles, Peter and Paul (lacking).</summary>
+        <note>Leaves missing after fol. 328. The last four leaves are bound out of order. 
+            For correct sequence of text read, fols: 331, 329, 330.</note>
+        </msItem>
+    <msItem n="22">
+        <locus from = "660" to ="664">fols. 330v, 332r-332v</locus> 
+        <summary>July 20: Of the holy glorious prophet Elijah (lacking).</summary>
+        <note>The last leaves are bound out of order. For correct sequence of text read, fols: 330, 332.</note>
+    </msItem>
+</msContents>
+    <decoration>
+        <overview><p>11 drawings in ink by Joannes Adam. Christ in Majesty (fol. 1v); Saint Nicholas (fol. 98r); 
+            Nativity of Jesus (fol. 124v); Baptism of Jesus (fol. 171v); Presentation of Jesus in the Temple (fol. 224r); 
+            Annunciation to the Virgin Mary (fol. 238r, dated 1856);  Saint George (fol. 253r); Saint Athanasius (fol. 273v); Saint 
+            John the Evangelist (fol. 284v); Nativity of John the Baptist (fol. 296v); Apostle Peter and Apostle Paul (fol. 316v).</p></overview>
+        <headpieces><p>Headpieces decorated with leaf scrolls or interlace and floral motifs in red or black, and red and black.</p></headpieces>
+        <initials><p>Major initials (30-45 mm) of looped ribbon design set off from the text. Minor initials set off from the text in red or in purple.</p></initials>
+    </decoration>
+ <physDesc>
+        <support><p><material>Paper</material>. <dimensions type="block" units="mm">195 x 130 mm</dimensions>.</p></support>
+        <watermarks>
+            <p>Watermarks similar to Briquet, Ancre dans un cercle, 514 (Udine, 1536); Fleur, 6683 (Rome, 1545-1550); Lettre M, 8371 
+                (Modène, 1481-1483); Main 10734 (Syracuse, 1529); Tête de bœuf, 14794 (Brescia, 1461).</p>
+            <p>Owing to the manuscript's rebinding, the watermarks primarily are situated in the fold of the leaves are no longer visible.</p></watermarks>
+        <extent>332 leaves.</extent> 
+        <foliation><p>1-332. Modern foliation in Arabic numerals in pencil in lower margin. Earlier numbering in ink (upper outer corner).</p></foliation>
+     <collation><p>43 quires of 8 leaves. Estimate of content lost: 1 to 3 leaves (service for November 13, begins on fol. 2r with the Theotokion preceding 
+         the Eisodos); unknown number of leaves (after fol. 19, service for November 13, ends after the Theotokion at the finish of Lauds); 1 leaf (after fol. 
+         43, service for September 14, ends following the Great Doxology in the idiomelon); unknown number of leaves (after fol. 328, service for June 29); 
+         unknown number of leaves (after fol. 332, service for July 20).</p></collation>
+        <dimensions type="written" units="mm">Written space 145 x 90 mm (fol. 172r).</dimensions> 
+        <layout columns="1" writtenLines="18-25"><p>1 column, variants of 18 to 25 lines.</p></layout>
+     <msWriting><handDesc script="Minuscule" medium="ink">
+        <p>Written in minuscule script in black ink.</p> 
+         <p>Punctuation includes full point, comma, colon, colon and dash, and the mark of interrogation. Several instances of quotation marks in the margins.</p></handDesc>
+    </msWriting>
+        <textDivisions><p>Titles in red.</p></textDivisions>
+     <condition><p>Trimmed presumably during the manuscript's rebinding of the late 19th or early 20th century, thus marring marginal drawings. Insect damage, random holes, 
+         and taped repairs. Water and grease stains.</p></condition>
+     <bindingDesc>
+         <binding><p>Binding of half-cloth and paper over wood dated to the late 19th or early 20th century was removed in 2015. The manuscript was rebound in brown tooled 
+                <material>goatskin</material> with a <material>linen</material> lining over oak boards.</p></binding></bindingDesc>
+ </physDesc>
+<history>
+    <origin><p>The manuscript is judged to have been written in either <name reg="Italy" type="place">Italy</name> or <name reg="Greece" type="place">Greece</name>, and is dated to the 16th century.</p></origin> 
+    <provenance><p>Provenance from the 16th to the 19th century is unknown. The manuscript may have belonged to <name reg="Adam, Joannes, 19th century" type="person" role="artist">Joannes Adam</name>, who lived in the 
+        Greek region of <name reg="Epirus, Greece" type="place">Epirus</name>, and who illustrated 10 of the texts (his colophon, fol. 224r; signature fol. 79v). The priest <name reg="Brapos" type="person" role="priest">Brapos</name>, 
+        whom Adam noted was his uncle, may also have been a one-time owner.</p>
+        <p>Notation dated 1856 (fol. 238r).</p></provenance>
+    <acquisition><p>Acquired by the University of Chicago in 1930 from bookseller <name reg="Grivakis, Athenas" type="person" role="bookseller">
+        Athenas Grivakis</name> with funds from an anonymous donor.</p></acquisition>
+</history>
+    <additional>
+        <listBibl><bibl><author>Seymour de Ricci,</author>
+            <title level="m">Census of Medieval and Renaissance Manuscripts in the United States and Canada</title>.
+            <imprint>
+                <pubPlace>(New York:</pubPlace>
+                <publisher>H. W. Wilson Company,</publisher>
+                <date>1935),</date>
+            </imprint>
+            <biblScope type="volume">vol. 1, p. 572.</biblScope></bibl>
+            <bibl>
+                <author>Kenneth W. Clark</author>, 
+            <title level="m">A Descriptive Catalogue of Greek New Testament Manuscripts in America</title>
+            <imprint>
+                <pubPlace>(Chicago:</pubPlace>
+                <publisher>University of Chicago Press,</publisher>
+                <date>1937),</date>
+            </imprint>
+            <biblScope type="pages">pp. 259-261.</biblScope></bibl>
+            <bibl>
+            <author>Merrill Mead Parvis</author>, 
+            <title level="m">The Story of the Goodspeed Collection</title>
+            <imprint>
+                <pubPlace>([Chicago]:</pubPlace>
+                <publisher>s.n.,</publisher>
+                <date>1952),</date>
+            </imprint>
+            <biblScope type="pages">pp. 16.</biblScope></bibl>
+             </listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

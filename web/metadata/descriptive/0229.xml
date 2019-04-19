@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+<teiHeader date.created="2015-11-04" creator="jfcd">
+<fileDesc>
+<titleStmt>
+ <title>[University of Chicago Library GMS-0229, a manuscript catalogue description in electronic form]</title>
+ <funder>Institute of Museum and Library Services</funder>
+ <respStmt>
+  <resp>Creation of electronic version:</resp>
+  <name>University of Chicago Library</name>
+  <resp>Creation of digital images:</resp>
+  <name>University of Chicago Library</name>
+ </respStmt> 
+</titleStmt>
+ <publicationStmt>
+  <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+  <pubPlace>Chicago, Illinois</pubPlace>
+  <date>2009</date>
+  <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0229</idno>
+  <availability status= "free">
+   <p>Publicly accessible</p></availability>
+ </publicationStmt>
+ <sourceDesc> 
+  <msDescription>
+   <msIdentifier>
+    <country>United States</country>
+    <region>Illinois</region>
+    <settlement>Chicago</settlement>
+    <institution>University of Chicago Library</institution> 
+    <repository>Special Collections Research Center</repository>
+    <collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 229</idno>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 58</altIdentifier>
+   </msIdentifier>
+   <msHeading>
+    <title>New Testament. Acts. Epistles of Paul. Catholic Epistles. Revelation</title>
+    <otherName>Step‛anos Praxapostolos</otherName>
+    <origPlace>Cyprus</origPlace>
+    <origDate>1284-1312</origDate>
+    <textLang langKey="hye">Armenian</textLang></msHeading>
+   <msContents>
+    <overview>
+     <p>Praxapostolos in Armenian. Chapter titles and numbers in the margins. The present 
+      manuscript, according to the principal colophon, was originally a New Testament, 
+      containing, "...the holy Gospels, also the acts of the Apostles, and the Epistles, including the 
+      fourteen Epistles of Paul...as well as the...Revelation of the Evangelist John...." Formerly 
+      Goodspeed Ms. Arm. 58.</p></overview></msContents>
+   <decoration> 
+    <overview><p>Marginal vignettes of birds, arabesques, and flowers.</p></overview>
+    <headpieces><p>Headpieces of floral, foliate, and geometric motifs in brown ink (faded).</p></headpieces> 
+    <initials><p>Major initials (20-45 mm) of floral and foliate design.</p></initials></decoration>
+   <physDesc>
+    <support><p><material>Parchment</material>. <dimensions type="block" units="mm">208 x 140 mm</dimensions>.</p></support> 
+    <extent>257 leaves.</extent> 
+    <foliation><p>1-257. Modern foliation in Arabic numerals in pencil.</p></foliation> 
+    <collation><p>Originally 38 numbered quires. Estimate of content lost: quires 1-16 (Gospels of Matthew, Mark, Luke, and John); 1 leaf (between fols. 189 and 190, 
+     beginning of 2 Thessalonians, table of contents, chapter list ending, preface); 1 leaf (between fols. 251 and 252, Revelation).</p></collation> 
+    <dimensions type="written" units="mm">Written space 150 x 90 mm (fol. 11r). Each column is 150 x 40 mm with a space of 10 mm between.</dimensions> 
+    <layout columns="2" writtenLines="27 per column"><p>2 columns, 27 lines. Ruling with ink (intermittent). Pricking in outer margins.</p></layout> 
+    <msWriting><handDesc script="Bolorgir" medium="ink"><p>Written in bolorgir script 
+     in black ink. Later inscriptions in notragir (fols. 80v, 215v).</p></handDesc></msWriting> 
+    <textDivisions><p>Titles in red paired with marginal motifs and minor initials.</p></textDivisions> 
+    <condition><p>Some tearing and cockling. Text is rubbed and illegible in several places. Portions of fols. 109 and 110 have been cut out or 
+     have broken off. Occasional grease and ink stains. Water damage.</p></condition>
+    <bindingDesc>
+     <binding><p>Bound in stamped dark brown <material>leather</material> over boards. Nail holes are present. Doublures of 
+      red and gold cloth (fragmentary).</p>
+     </binding></bindingDesc>
+   </physDesc>
+   <history>
+    <origin><p>Written on <name reg="Cyprus" type="place">Cyprus</name> by the scribe <name reg="Step‛anos Goyneric‛anc‛, 13th century-14th century" type="person" role="scribe">Step‛anos Goyneric‛anc‛</name> or 
+     Goynerean, a student of the scholar <name reg="Gēorg Skewrac‛i, 13th century" type="person" role="scholar">Gēorg Skewrac‛i</name> (his colophon, fols. 256r-256v, 2r-2v, 257r-257v, 
+     and prayers, fols. 43v, 227v). The manuscript was commissioned by the priest <name reg="T‛oros" type="person" role="commissioner">T‛oros</name> 
+     or <name reg="T‛umay" type="person" role="commissioner">T‛umay</name>, whose name is recorded in the colophon and three prayers (fols. 56r, 86v, 227v).</p>
+     <p>The exemplar Step‛anos copied was created by the vardapet <name reg="Gorg Lambruc‛i" type="person" role="scholar">Gorg Lambruc‛i</name> (inscription, fol. 7r). The completion date of the manuscript is unknown, 
+      and the given range of 1284-1312 corresponds to the period in which the scribe flourished, one delimited by the dates extant in the colophons of other manuscripts he wrote.</p></origin> 
+    <provenance><p>Medieval to mid-20th century provenance unknown. May have belonged to by <name reg="Hamatanc‛i" type="person" role="owner">Hamatanc‛i</name> 
+     of <name reg="Tabrīz, Iran" type="place">Tabrīz</name>, (his undated inscription, fol. 80v).</p>  
+     <p>A second inscription (fol. 215v) by an unknown author dated 1784 (Armenian Era 1233) refers to the manuscript as an Acts of the Apostles, thus the 
+      four gospels within the initial 16 quires were lost presumably before the third quarter of the eighteenth century.</p></provenance> 
+    <acquisition><p>Acquired by the University of Chicago in 1948 on the recommendation of <name reg="Colwell, Ernest Cadman, 1901-1974" type="person" role="scholar">Ernest Cadman Colwell</name>, 
+     professor and university president.</p></acquisition>
+   </history>
+  </msDescription>
+</sourceDesc>
+</fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+    an interface that supports browsing within individual manuscripts and across the collection.</p>
+   <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+    as of <date>2012-09-22</date>.</p> 
+   <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+  </projectDesc>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage><language id="hye"></language><p>Armenian, ISO 639-3</p>
+ </langUsage>
+  <textClass>
+   <keywords>
+    <term>Bible. N.T. Revelation</term>
+    <term>Bible. N.T. Acts</term> 
+    <term>Bible. N.T. Epistles</term>
+    <term>Manuscripts, Armenian--Cyprus</term>
+    <term>Step‛anos Goyneric‛anc‛, 13th century-14th century</term>
+   </keywords>
+  </textClass>
+ </profileDesc>
+</teiHeader>
+ <text>
+ <body>
+ <msDescription id="GMS-0229">
+ <msIdentifier>
+ <country>United States</country>
+<region>Illinois</region>
+ <settlement>Chicago</settlement>
+ <institution>University of Chicago Library</institution> 
+ <repository>Special Collections Research Center</repository>
+ <collection>Goodspeed Manuscript Collection</collection>
+ <idno>Ms. 229</idno>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 58</altIdentifier>
+</msIdentifier>
+<msHeading>
+ <title>New Testament. Acts. Epistles of Paul. Catholic Epistles. Revelation</title>
+ <otherName>Step‛anos Praxapostolos</otherName>
+ <origPlace>Cyprus</origPlace>
+ <origDate>1284-1312</origDate>
+<textLang langKey="hye">Armenian</textLang>
+</msHeading>
+ <msContents>
+ <overview>
+  <p>Praxapostolos in Armenian. Chapter titles and numbers in the margins. The present 
+   manuscript, according to the principal colophon, was originally a New Testament, 
+   containing, "...the holy Gospels, also the acts of the Apostles, and the Epistles, including the 
+   fourteen Epistles of Paul...as well as the...Revelation of the Evangelist John...." Formerly 
+   Goodspeed Ms. Arm. 58.</p></overview>
+<msItem n="1">
+ <locus from="003" to="014">fols. 1r-1v, 3r-6v</locus>
+ <summary>Table of contents (lacking). Preface.</summary>
+</msItem>
+  <msItem n="2">
+ <locus from="015" to="015">fol. 7r</locus> 
+ <summary>Inscription concerning the exemplar used by the scribe Step‛anos.</summary>
+</msItem>
+<msItem n="3">
+ <locus from="015" to="017">fols. 7r-8r</locus>
+<summary>Itinerary of the Apostle Paul.</summary>
+</msItem>
+ <msItem n="4">
+  <locus from="018" to="113">fols. 8v-56r</locus>
+  <summary>Acts.</summary>
+</msItem>
+ <msItem n="5">
+  <locus from="113" to="115">fols. 56r-57r</locus>
+ <summary>Introduction to the Epistles.</summary>
+</msItem>
+<msItem n="6">
+ <locus from="115" to="117">fols. 57r-58r</locus>
+ <summary>Preface of James. Table of contents of the Catholic Epistles. Chapter list of James.</summary>
+</msItem>
+  <msItem n="7">
+   <locus from="118" to="128">fols. 58v-63v</locus>
+   <summary>James.</summary>
+  </msItem>
+  <msItem n="8">
+   <locus from="128" to="130">fols. 63v-64v</locus>
+   <summary>Preface and chapter list of 1 Peter.</summary>
+  </msItem>
+  <msItem n="9">
+   <locus from="130" to="141">fols. 64v-70r</locus>
+   <summary>1 Peter.</summary>
+  </msItem>
+  <msItem n="10">
+   <locus from="141" to="143">fols. 70r-71r</locus>
+   <summary>Preface and chapter list of 2 Peter.</summary>
+  </msItem>
+  <msItem n="11">
+   <locus from="143" to="150">fols. 71r-74v</locus>
+   <summary>2 Peter.</summary>
+  </msItem>
+  <msItem n="12">
+   <locus from="150" to="153">fols. 74v-76r</locus>
+   <summary>Preface and chapter list of 1 John.</summary>
+  </msItem>
+  <msItem n="13">
+   <locus from="153" to="163">fols. 76r-81r</locus>
+   <summary>1 John.</summary>
+  </msItem>
+  <msItem n="14">
+   <locus from="163" to="164">fols. 81r-81v</locus>
+   <summary>Preface and chapter list of 2 John.</summary></msItem>
+  <msItem n="15">
+  <locus from="164" to="166">fols. 81v-82v</locus>
+   <summary>2 John.</summary>
+  </msItem>
+  <msItem n="16">
+   <locus from="166" to="166">fol. 82v</locus>
+   <summary>Preface and chapter list of 3 John.</summary>
+  </msItem>
+  <msItem n="17">
+   <locus from="166" to="168">fols. 82v-83v</locus>
+   <summary>3 John.</summary>
+  </msItem>
+  <msItem n="18">
+   <locus from="168" to="170">fols. 83v-84r</locus>
+   <summary>Preface and chapter list of Jude.</summary>
+  </msItem>
+  <msItem n="19">
+   <locus from="170" to="173">fols. 84v-86r</locus>
+   <summary>Jude.</summary>
+  </msItem>
+  <msItem n="20">
+   <locus from="173" to="175">fols. 86r-87r</locus>
+   <summary>Plea of Euthalius.</summary>
+  </msItem>
+  <msItem n="21">
+   <locus from="176" to="190">fols. 87v-94v</locus>
+   <summary>Preface of the Epistles of Paul.</summary>
+  </msItem>
+  <msItem n="22">
+   <locus from="190" to="191">fols. 94v-95r</locus>
+   <summary>Martyrology of the Holy Apostle Paul.</summary>
+  </msItem>
+  <msItem n="23">
+   <locus from="191" to="218">fols. 95r-108v</locus>
+   <summary>Table of contents of the Epistles of Paul.</summary>
+  </msItem>
+  <msItem n="24">
+   <locus from="218" to="222">fols. 108v-110v</locus>
+  <summary>Preface of Romans.</summary>
+  </msItem>
+  <msItem n="25">
+   <locus from="223" to="261">fols. 111r-130r</locus>
+   <summary>Romans.</summary>
+  </msItem>
+  <msItem n="26">
+   <locus from="261" to="264">fols. 130r-131v</locus>
+   <summary>Chapter list and preface of 1 Corinthians.</summary>
+  </msItem>
+  <msItem n="27">
+   <locus from="264" to="298">fols. 131v-148v</locus>
+   <summary>1 Corinthians.</summary>
+  </msItem>
+  <msItem n="28">
+   <locus from="298" to="300">fols. 148v-149v</locus>
+   <summary>Chapter list and preface of 2 Corinthians.</summary>
+  </msItem>
+  <msItem n="29">
+   <locus from="300" to="323">fols. 149v-161r</locus>
+   <summary>2 Corinthians.</summary>
+  </msItem>
+  <msItem n="30">
+   <locus from="323" to="325">fols. 161r-162r</locus>
+   <summary>Chapter list and preface of Galatians.</summary>
+  </msItem>
+  <msItem n="31">
+   <locus from="325" to="337">fols. 162r-168r</locus>
+   <summary>Galatians.</summary>
+  </msItem>
+  <msItem n="32">
+   <locus from="337" to="339">fols. 168r-169r</locus>
+   <summary>Chapter list and preface of Ephesians.</summary>
+  </msItem>
+  <msItem n="33">
+   <locus from="339" to="350">fols. 169r-174v</locus>
+   <summary>Ephesians.</summary>
+  </msItem>
+  <msItem n="34">
+   <locus from="351" to="352">fols. 175r-175v</locus>
+   <summary>Chapter list and preface of Philippians.</summary>
+  </msItem>
+  <msItem n="35">
+   <locus from="352" to="361">fols. 175v-180r</locus>
+   <summary>Philippians.</summary>
+  </msItem>
+  <msItem n="36">
+   <locus from="361" to="363">fols. 180r-181r</locus>
+   <summary>Chapter list and preface of Colossians.</summary>
+  </msItem>
+  <msItem n="37">
+   <locus from="363" to="371">fols. 181r-185r</locus>
+   <summary>Colossians.</summary>
+  </msItem>
+  <msItem n="38">
+   <locus from="371" to="373">fols. 185r-186r</locus>
+   <summary>Chapter list and preface of 1 Thessalonians.</summary>
+  </msItem>
+  <msItem n="39">
+   <locus from="373" to="380">fols. 186r-189v</locus>
+   <summary>1 Thessalonians.</summary>
+  </msItem>
+  <msItem n="40">
+   <locus from="380" to="380">fol. 189v</locus>
+   <summary>Chapter list of 2 Thessalonians (lacking).</summary>
+    </msItem>
+  <msItem n="41">
+   <locus from="381" to="384">fols. 190r-191v</locus>
+   <summary>2 Thessalonians (lacking).</summary>
+ </msItem>
+  <msItem n="42">
+   <locus from="384" to="389">fols. 191v-194r</locus>
+   <summary>Chapter list and preface of Hebrews.</summary>
+  </msItem>
+  <msItem n="43">
+   <locus from="389" to="417">fols. 194r-208r</locus>
+   <summary>Hebrews.</summary>
+  </msItem>
+  <msItem n="44">
+   <locus from="417" to="420">fols. 208r-209v</locus>
+   <summary>Chapter list and preface of 1 Timothy.</summary>
+  </msItem>
+  <msItem n="45">
+   <locus from="420" to="430">fols. 209v-214v</locus>
+   <summary>1 Timothy.</summary>
+  </msItem>
+  <msItem n="46">
+   <locus from="430" to="432">fols. 214v-215v</locus>
+   <summary>Chapter list and preface of 2 Timothy.</summary>
+  </msItem>
+  <msItem n="47">
+   <locus from="432" to="440">fols. 215v-219v</locus>
+   <summary>2 Timothy.</summary>
+   </msItem>
+  <msItem n="48">
+   <locus from="440" to="441">fols. 219v-220r</locus>
+   <summary>Chapter list and preface of Titus.</summary>
+  </msItem>
+  <msItem n="49">
+   <locus from="441" to="446">fols. 220r-222v</locus>
+   <summary>Titus.</summary>
+  </msItem>
+  <msItem n="50">
+   <locus from="446" to="446">fol. 222v</locus>
+   <summary>Chapter list and preface of Philemon.</summary>
+  </msItem>
+  <msItem n="51">
+   <locus from="447" to="448">fols. 223r-223v</locus>
+   <summary>Philemon: Epistle to Philemon and deacon Archippus and Apphia.</summary>
+  </msItem>
+  <msItem n="52">
+   <locus from="448" to="450">fols. 223v-224v</locus>
+   <summary>Philemon: Epistle to Philemon, Onesimus, and deacon Archippus of the church of the 
+   Colossians, written by the servant Onesimus from Rome.</summary>
+  </msItem>
+  <msItem n="53">
+   <locus from="450" to="456">fols. 224v-227v</locus>
+   <summary>3 Corinthians.</summary>
+  </msItem>
+  <msItem n="54">
+   <locus from="456" to="461">fols. 227v-230r</locus>
+   <summary>Chapter list and preface of Revelation.</summary>
+  </msItem>
+  <msItem n="55">
+   <locus from="461" to="506">fols. 230r-252v</locus>
+   <summary>Revelation.</summary>
+  </msItem>
+  <msItem n="56">
+   <locus from="506" to="513">fols. 252v-256r</locus>
+   <summary>Repose of St. John.</summary>
+  </msItem>
+  <msItem n="57">
+   <locus from="513" to="514">fols. 256r-256v</locus>
+   <locus from="005" to="006">fols. 2r-2v</locus>
+   <locus from="515" to="516">fols. 257r-257v</locus>
+   <summary>Principal colophon bound out of order (lacking).</summary>
+   <colophon>The scribe Step‛anos Goyneric‛anc‛ (undated). A certain honorable priest by the name of T‛oros expressed 
+    a fervent desire [for this book]. He was a native of the eastern land [Armenia] and 
+    arriving in <name reg="Cilicia" type="place">Cilicia</name> from his ancestral canton, he thence 
+    came to Cyprus. And, he found me the humble Step‛anos surnamed Goyneric‛anc‛ 
+    who also had arrived in the same island of Cyprus at the home of pious people 
+    after tempestuous strife and a wavering in agitation as though caused by stormy winds, 
+    and born in most wretched times. Although I was old and doting and feeble in eyes, 
+    at the strong pleading of the above named brother and honorable priest T‛umay, I ignored 
+    my old age on account of the pious request, and putting my trust in the power of the 
+    omnipotent God and in his help...I began [the writing of] this [book], and he gave me the power 
+    to bring it to an end with my trembling hands....</colophon>
+  </msItem>
+ </msContents>
+  <decoration> 
+   <overview><p>Marginal vignettes of birds, arabesques, and flowers.</p></overview>
+   <headpieces><p>Headpieces of floral, foliate, and geometric motifs in brown ink (faded).</p></headpieces> 
+ <initials><p>Major initials (20-45 mm) of floral and foliate design.</p></initials></decoration>
+<physDesc>
+<support><p><material>Parchment</material>. <dimensions type="block" units="mm">208 x 140 mm</dimensions>.</p></support> 
+ <extent>257 leaves.</extent> 
+ <foliation><p>1-257. Modern foliation in Arabic numerals in pencil.</p></foliation> 
+ <collation><p>Originally 38 numbered quires. Estimate of content lost: quires 1-16 (Gospels of Matthew, Mark, Luke, and John); 1 leaf (between fols. 189 and 190, 
+  beginning of 2 Thessalonians, table of contents, chapter list ending, preface); 1 leaf (between fols. 251 and 252, Revelation).</p></collation> 
+ <dimensions type="written" units="mm">Written space 150 x 90 mm (fol. 11r). Each column is 150 x 40 mm with a space of 10 mm between.</dimensions> 
+ <layout columns="2" writtenLines="27 per column"><p>2 columns, 27 lines. Ruling with ink (intermittent). Pricking in outer margins.</p></layout> 
+ <msWriting><handDesc script="Bolorgir" medium="ink"><p>Written in bolorgir script 
+ in black ink. Later inscriptions in notragir (fols. 80v, 215v).</p></handDesc></msWriting> 
+ <textDivisions><p>Titles in red paired with marginal motifs and minor initials.</p></textDivisions> 
+ <condition><p>Some tearing and cockling. Text is rubbed and illegible in several places. Portions of fols. 109 and 110 have been cut out or 
+  have broken off. Occasional grease and ink stains. Water damage.</p></condition>
+<bindingDesc>
+ <binding><p>Bound in stamped dark brown <material>leather</material> over boards. Nail holes are present. Doublures of 
+  red and gold cloth (fragmentary).</p>
+</binding></bindingDesc>
+</physDesc>
+  <history>
+   <origin><p>Written on <name reg="Cyprus" type="place">Cyprus</name> by the scribe <name reg="Step‛anos Goyneric‛anc‛, 13th century-14th century" type="person" role="scribe">Step‛anos Goyneric‛anc‛</name> or 
+    Goynerean, a student of the scholar <name reg="Gēorg Skewrac‛i, 13th century" type="person" role="scholar">Gēorg Skewrac‛i</name> (his colophon, fols. 256r-256v, 2r-2v, 257r-257v, 
+    and prayers, fols. 43v, 227v). The manuscript was commissioned by the priest <name reg="T‛oros" type="person" role="commissioner">T‛oros</name> 
+    or <name reg="T‛umay" type="person" role="commissioner">T‛umay</name>, whose name is recorded in the colophon and three prayers (fols. 56r, 86v, 227v).</p>
+    <p>The exemplar Step‛anos copied was created by the vardapet <name reg="Gorg Lambruc‛i" type="person" role="scholar">Gorg Lambruc‛i</name> (inscription, fol. 7r). The completion date of the manuscript is unknown, 
+     and the given range of 1284-1312 corresponds to the period in which the scribe flourished, one delimited by the dates extant in the colophons of other manuscripts he wrote.</p></origin> 
+  <provenance><p>Medieval to mid-20th century provenance unknown. May have belonged to by <name reg="Hamatanc‛i" type="person" role="owner">Hamatanc‛i</name> 
+   of <name reg="Tabrīz, Iran" type="place">Tabrīz</name>, (his undated inscription, fol. 80v).</p>  
+   <p>A second inscription (fol. 215v) by an unknown author dated 1784 (Armenian Era 1233) refers to the manuscript as an Acts of the Apostles, thus the 
+    four gospels within the initial 16 quires were lost presumably before the third quarter of the eighteenth century.</p></provenance> 
+  <acquisition><p>Acquired by the University of Chicago in 1948 on the recommendation of <name reg="Colwell, Ernest Cadman, 1901-1974" type="person" role="scholar">Ernest Cadman Colwell</name>, 
+   professor and university president.</p></acquisition>
+   </history>
+  <additional>
+   <listBibl><bibl>
+    <author>Merrill Mead Parvis</author>, 
+    <title level="m">The Story of the Goodspeed Collection</title>
+    <imprint>
+     <pubPlace>([Chicago:]</pubPlace> 
+     <publisher>s.n.,</publisher>
+     <date>1952),</date>
+    </imprint>
+    <biblScope type="pages">p. 28.</biblScope></bibl>
+    <bibl>
+    <author>Erroll F. Rhodes</author>, 
+     <title level="m">An Annotated List of Armenian New Testament Manuscripts</title>, 
+     <title level="s">Annual Report of Theology</title>
+    <biblScope type="volume">1</biblScope>
+    <imprint><date>(1959),</date></imprint>
+    <biblScope type="pages">p. 135 (1044 and 1046).</biblScope>
+    </bibl>
+    <bibl> 
+     <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+     Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+     <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+     <imprint> 
+      <pubPlace>([Chicago:</pubPlace> 
+      <publisher>s.n.,</publisher> 
+      <date>1973]),</date></imprint> 
+     <biblScope type="volume">36,</biblScope> 
+     <biblScope type="catalogNo">no. 13.</biblScope></bibl> 
+    <bibl>
+     <author>Avedis K. Sanjian</author>, 
+     <title level="m">A catalogue of medieval Armenian manuscripts in the United States</title>
+     <imprint>
+      <pubPlace>(Berkeley:</pubPlace>
+      <publisher>University of California Press,</publisher>
+      <date>1976),</date>
+     </imprint>
+     <biblScope type="pages">pp. 191-200.</biblScope></bibl>
+   </listBibl>
+  </additional>
+ </msDescription>
+ </body>
+ </text>    
+ </TEI.2>

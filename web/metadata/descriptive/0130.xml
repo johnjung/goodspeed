@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0130, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0130</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 130</idno>
+                        <altName type="Gregory number">Greg. 2405</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 20</altIdentifier></msIdentifier>
+                    <msHeading>
+                        <title>New Testament. Gospels</title>
+                        <otherName>Barnabas Gospels</otherName>
+                        <origPlace>Antalya, Turkey (Adalia)?</origPlace>
+                        <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+                        <textLang langKey="grc">Greek</textLang></msHeading>
+                    <msContents> 
+                        <overview><p>Four gospels in Greek. Ammonian section numbers and lectionary headings. Additional texts contain a genealogy of Joseph and the Virgin Mary, 
+                            an extract on church history, and a canon. Formerly Goodspeed Ms. Grk. 20.</p></overview></msContents>
+                    <decoration>
+                        <headpieces>
+                            <p>Headpieces of floral, foliate, and geometric motifs in red and white (fols. 1r, 56r, 94r). Space left for a headpiece at the beginning of John (fol. 159r).</p>
+                        </headpieces>
+                        <initials>
+                            <p>Major initials with foliate embellishment (33-50 mm). Minor initials in red set off from the text.</p>
+                        </initials>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="block" units="mm">165 x 120 mm</dimensions>.</p></support>
+                        <extent>209 leaves, of which 1 is a flyleaf. A bifolium (A-B) from an unidentified manuscript is bound in before fol. 1.</extent> 
+                        <foliation><p>1 (unfoliated parchment flyleaf) + 2 (parchment bifolium A-B) + 206. Modern foliation in Arabic numerals in pencil 1-206. 
+                            Correction of leaves after fol. 200, misnumbered to 214.</p></foliation> 
+                        <collation><p>26 quires each of 8 leaves, with the exception of quire 20 of 7 leaves. Estimate of content lost: leaf 8 of quire 26 (after fol. 206, John 21:24-end).</p>
+                            <p>Quire numbers recorded in the lower margin on each quire's first (recto) and last (verso) leaves.</p></collation>  
+                        <dimensions type="written" units="mm">Written space 126 x 75 mm (fol. 12r).</dimensions> 
+                        <layout columns="1" writtenLines="27"><p>1 column, 27 lines. Frame ruling with hard point.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in dark brown ink (some fading).</p>
+                            <p>Punctuation includes high point, comma, marks of elision, and interrogation.</p>
+                            <p>Methods of correcting the text consist of erasure and additions in the margins marked with small crosses or reference signs.</p></handDesc>
+                        </msWriting>
+                        <textDivisions><p>Titles in red.</p></textDivisions>
+                        <condition><p>Leaves moderately cockled, and several partially broken. Water stains.</p></condition>
+                        <bindingDesc>
+                            <binding><p> Bound in dark brown <material>leather</material> over boards.</p>
+                                <decoNote><p>Front cover: Blind-tooled and stamped floral and fret designs set within a double frame. Central and corner floral-pattern bosses. 
+                                    Back cover of similar design, above and below the central boss, stamped double-headed eagles within diamond-shaped tablets. 
+                                    Corner bosses (two lost).</p></decoNote></binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript is dated to the 13th century, and may have been written at <name reg="Adalia" type="place">Adalia</name>, the 
+                            present-day <name reg="Antalya, Turkey" type="place">Antalya, Turkey</name>.</p></origin> 
+                        <provenance><p>An undated colophon states that the manuscript was bought by the bishop <name reg="Barnabas the Attaliate" type="person" role="bishop">Barnabas 
+                            the Attaliate</name> for the monk <name reg="Joseph" type="person" role="monk">Joseph</name> (inserted leaf, B[v]). An inscription dated 6974, 
+                            indiction 14 (1466) is signed <name reg="Michael, of Adalia, 15th century" type="person">Michael of Adalia</name>. Placement of the writing inside the front cover 
+                            suggests he may have been a bookbinder who rebound the manuscript, rather than a one-time owner.</p>
+                            <p>Belonged to the <name reg="Church of St. George (Heraklitsa)" type="org">Church of St. George</name> in <name reg="Heraklitsa" type="place">Heraklitsa</name>, the 
+                                present-day <name reg="Eriklice, Turkey">Eriklice</name> located in Turkey's <name reg="Tekirdağ Province, Turkey" type="place">Tekirdağ Province</name> 
+                                (colophon, inside back cover, dated October 28, 1921). Between 1929 and 1930, the manuscript was in <name reg="Paris, France" type="place">Paris</name>, in the 
+                                possession, respectively, of the booksellers <name reg="Gruel, Léon, 1841-1923" type="person" role="bookseller">Léon Gruel</name>, and Maurice Stora.</p>
+                            <p>Notation includes a later system of cross-referencing in which parallel kephalaia, subjects, and folio numbers are cited in the margin 
+                                near to verses in the text (many erased or faded). Prayer, "O, Christ help your servant..." (front flyleaf, verso).</p></provenance>
+                        <acquisition><p>Purchased from <name reg="M. Stora et cie (Firm)" type="org" role="bookseller">Maurice Stora (Paris)</name>, December 1930, 
+                            by anonymous donors, and presented as a gift to the University of Chicago.</p></acquisition>
+                    </history></msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+  <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+ </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Gospels. Greek</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                    <term>Canons, fugues, etc.</term>
+                </keywords>
+            </textClass>
+ </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0130">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 130</idno>
+    <altName type="Gregory number">Greg. 2405</altName>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 20</altIdentifier></msIdentifier>
+    <msHeading>
+        <title>New Testament. Gospels</title>
+        <otherName>Barnabas Gospels</otherName>
+        <origPlace>Antalya, Turkey (Adalia)?</origPlace>
+        <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+        <textLang langKey="grc">Greek</textLang></msHeading>
+ <msContents> 
+     <overview><p>Four gospels in Greek. Ammonian section numbers and lectionary headings. Additional texts contain a genealogy of Joseph and the Virgin Mary, 
+         an extract on church history, and a canon. Formerly Goodspeed Ms. Grk. 20.</p></overview>
+<msItem n="1">
+    <locus from = "005" to ="008">A[r]-B[v]</locus> 
+    <summary>Account of the genealogy of Joseph the betrothed and Mary the Virgin. Extract of writings on the four gospels.</summary>
+    <colophon>The holy four gospels was bought back by the very reverend bishop Barnabas the Attaliate for the most honored 
+        brother among the monks (illegible word) Joseph (B[v]).</colophon>
+</msItem>
+     <msItem n="2">
+         <locus from = "009" to ="119">fols. 1r-56r</locus> 
+         <summary>Matthew. Subscription and stichoi (2,600).</summary>
+     </msItem>
+     <msItem n="3">
+         <locus from = "119" to ="194">fols. 56r-93v</locus> 
+         <summary>Mark.</summary>
+     </msItem>
+     <msItem n="4">
+         <locus from = "195" to ="324">fols. 94r-158v</locus> 
+         <summary>Luke.</summary>
+         <summary>Little Supplicatory Canon of the Great Horologion (3rd section) with incipits of each troparion.</summary>
+     </msItem>
+     <msItem n="5">
+         <locus from = "325" to ="420">fols. 159r-206v</locus> 
+         <summary>John (ends at 21:24 with ταυτα).</summary>
+     </msItem>
+     <msItem n="6">
+         <locus from = "421" to ="421">Cover, Inside (back)</locus>
+         <colophon>Church of St. George of Heraklitsa, dated October 28, 1921.</colophon>
+     </msItem>
+ </msContents>
+    <decoration>
+        <headpieces>
+            <p>Headpieces of floral, foliate, and geometric motifs in red and white (fols. 1r, 56r, 94r). Space left for a headpiece at the beginning of John (fol. 159r).</p>
+        </headpieces>
+        <initials>
+            <p>Major initials with foliate embellishment (33-50 mm). Minor initials in red set off from the text.</p>
+        </initials>
+        </decoration>
+    <physDesc>
+ <support><p><material>Parchment</material>. <dimensions type="block" units="mm">165 x 120 mm</dimensions>.</p></support>
+        <extent>209 leaves, of which 1 is a flyleaf. A bifolium (A-B) from an unidentified manuscript is bound in before fol. 1.</extent> 
+        <foliation><p>1 (unfoliated parchment flyleaf) + 2 (parchment bifolium A-B) + 206. Modern foliation in Arabic numerals in pencil 1-206. 
+            Correction of leaves after fol. 200, misnumbered to 214.</p></foliation> 
+    <collation><p>26 quires each of 8 leaves, with the exception of quire 20 of 7 leaves. Estimate of content lost: leaf 8 of quire 26 (after fol. 206, John 21:24-end).</p>
+        <p>Quire numbers recorded in the lower margin on each quire's first (recto) and last (verso) leaves.</p></collation> 
+    <dimensions type="written" units="mm">Written space 126 x 75 mm (fol. 12r).</dimensions> 
+    <layout columns="1" writtenLines="27"><p>1 column, 27 lines. Frame ruling with hard point.</p></layout>
+        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in dark brown ink (some fading).</p>
+            <p>Punctuation includes high point, comma, marks of elision, and interrogation.</p>
+            <p>Methods of correcting the text consist of erasure and additions in the margins marked with small crosses or reference signs.</p></handDesc>
+    </msWriting>
+        <textDivisions><p>Titles in red.</p></textDivisions>
+        <condition><p>Leaves moderately cockled, and several partially broken. Water stains.</p></condition>
+        <bindingDesc>
+            <binding><p> Bound in dark brown <material>leather</material> over boards.</p>
+                <decoNote><p>Front cover: Blind-tooled and stamped floral and fret designs set within a double frame. Central and corner floral-pattern bosses. 
+                    Back cover of similar design, above and below the central boss, stamped double-headed eagles within diamond-shaped tablets. 
+                    Corner bosses (two lost).</p></decoNote></binding></bindingDesc>
+ </physDesc>
+<history>
+    <origin><p>The manuscript is dated to the 13th century, and may have been written at <name reg="Adalia" type="place">Adalia</name>, the 
+        present-day <name reg="Antalya, Turkey" type="place">Antalya, Turkey</name>.</p></origin> 
+    <provenance><p>An undated colophon states that the manuscript was bought by the bishop <name reg="Barnabas the Attaliate" type="person" role="bishop">Barnabas 
+        the Attaliate</name> for the monk <name reg="Joseph" type="person" role="monk">Joseph</name> (inserted leaf, B[v]). An inscription dated 6974, 
+        indiction 14 (1466) is signed <name reg="Michael, of Adalia, 15th century" type="person">Michael of Adalia</name>. Placement of the writing inside the front cover 
+        suggests he may have been a bookbinder who rebound the manuscript, rather than a one-time owner.</p>
+        <p>Belonged to the <name reg="Church of St. George (Heraklitsa)" type="org">Church of St. George</name> in <name reg="Heraklitsa" type="place">Heraklitsa</name>, the 
+        present-day <name reg="Eriklice, Turkey">Eriklice</name> located in Turkey's <name reg="Tekirdağ Province, Turkey" type="place">Tekirdağ Province</name> 
+        (colophon, inside back cover, dated October 28, 1921). Between 1929 and 1930, the manuscript was in <name reg="Paris, France" type="place">Paris</name>, in the 
+        possession, respectively, of the booksellers <name reg="Gruel, Léon, 1841-1923" type="person" role="bookseller">Léon Gruel</name>, and Maurice Stora.</p>
+        <p>Notation includes a later system of cross-referencing in which parallel kephalaia, subjects, and folio numbers are cited in the margin 
+            near to verses in the text (many erased or faded). Prayer, "O, Christ help your servant..." (front flyleaf, verso).</p></provenance>
+    <acquisition><p>Purchased from <name reg="M. Stora et cie (Firm)" type="org" role="bookseller">Maurice Stora (Paris)</name>, December 1930, 
+        by anonymous donors, and presented as a gift to the University of Chicago.</p></acquisition>
+</history>
+    <additional><listBibl><bibl>
+            <author>Seymour de Ricci,</author>
+            <title level="m">Census of Medieval and Renaissance Manuscripts in the United States and Canada</title>
+            <imprint>
+                <pubPlace>(New York:</pubPlace>
+                <publisher>H. W. Wilson Company,</publisher>
+                <date>1935),</date>
+            </imprint>
+            <biblScope type="volume">vol. 1, p. 569.</biblScope></bibl>
+        <bibl><author>Kenneth W. Clark</author>, 
+            <title level="m">A Descriptive Catalogue of Greek New Testament Manuscripts in America</title>
+            <imprint>
+                <pubPlace>(Chicago:</pubPlace>
+                <publisher>University of Chicago Press,</publisher>
+                <date>1937),</date>
+            </imprint>
+            <biblScope type="pages">pp. 233-235.</biblScope></bibl>
+        <bibl> 
+            <author>Harold Rideout Willoughby</author>, 
+            <title level="a">"Greek Rebinding Colophons in Chicago Manuscripts,"</title> 
+            <title level="j">Annales de l'institut Kondakov</title> 
+            <biblScope type="volume">11</biblScope> 
+            <imprint><date>(1940),</date></imprint> 
+            <biblScope type="pages">pp. 21-24.</biblScope></bibl>
+        <bibl><author>Albert Leland Jamison</author>, 
+            <title level="u">"The Barnabas Gospels."</title> 
+            <note>(Ph.D. diss., University of Chicago, 1941).</note></bibl>
+            <bibl>
+            <author>Merrill Mead Parvis</author>, 
+            <title level="m">The Story of the Goodspeed Collection</title>
+            <imprint>
+                <pubPlace>([Chicago]:</pubPlace>
+                <publisher>s.n.,</publisher>
+                <date>1952),</date>
+            </imprint>
+            <biblScope type="pages">p. 17.</biblScope></bibl>
+        <bibl> 
+            <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+                Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+            <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+            <imprint> 
+                <pubPlace>([Chicago:</pubPlace> 
+                <publisher>s.n.,</publisher> 
+                <date>1973]),</date></imprint> 
+            <biblScope type="volume">36,</biblScope> 
+            <biblScope type="catalogNo">no. 44.</biblScope></bibl></listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

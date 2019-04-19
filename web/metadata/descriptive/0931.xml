@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+ <fileDesc>
+ <titleStmt>
+     <title>[University of Chicago Library GMS-0931, a manuscript catalogue description in electronic form]</title>
+     <funder>Institute of Museum and Library Services</funder>
+     <respStmt>
+         <resp>Creation of electronic version:</resp>
+         <name>University of Chicago Library</name>
+         <resp>Creation of digital images:</resp>
+         <name>University of Chicago Library</name>
+     </respStmt> 
+ </titleStmt>
+     <publicationStmt>
+         <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+         <pubPlace>Chicago, Illinois</pubPlace>
+         <date>2009</date>
+         <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0931</idno>
+         <availability status= "free">
+             <p>Publicly accessible</p></availability>
+     </publicationStmt>
+     <sourceDesc>
+    <msDescription>
+        <msIdentifier>
+            <country>United States</country>
+            <region>Illinois</region>
+            <settlement>Chicago</settlement>
+            <institution>University of Chicago Library</institution> 
+            <repository>Special Collections Research Center</repository>
+            <collection>Goodspeed Manuscript Collection</collection>
+            <idno>Ms. 931</idno>
+            <altName type="Gregory number">Greg. 2402</altName>
+            <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 37</altIdentifier>
+        </msIdentifier>
+        <msHeading>
+            <title>New Testament. Revelation</title>
+            <otherName>Elizabeth Day McCormick Apocalypse</otherName>
+            <origPlace>Northern Greece or Balkan Peninsula?</origPlace>
+            <origDate notBefore="1601" notAfter="1700">17th century</origDate>
+            <textLang langKey="ell">Greek</textLang>
+        </msHeading>
+        <msContents>
+            <overview>
+                <p>Revelation in colloquial Greek. Translated by <name reg="Maximos Peloponnēsios" type="person" role="translator">Maximos the Peloponnesian</name>. 
+                    A commentary is included based on those of the Caesarean exegetes <name reg="Andrew, Archbishop of Caesarea" type="person" role="exegete">Andreas</name> 
+                    and <name reg="Arethas, Archbishop of Caesarea (Cappadocia), ca. 860-ca. 940" type="person" role="exegete">Arethas</name>, and
+                    an unidentified interpreter. Formerly Goodspeed Ms. Grk. 37.</p>
+                <p>Believed to be one of the earliest works of Maximos who is thought to have been an Alexandrian archdeacon. Other known manuscripts of this translation 
+                    are: 1. Athos, Iviron, Ms. 605 (1601); 2. Athens, National Library, M. 141 (1676); 3. Athos, Panteleemonos, Ms. 556 (18th century).</p></overview></msContents>
+        <decoration> 
+            <overview><p>Full and half-page miniatures number 69, in the main precede the text illustrated. Reversed sequence 
+                of Trumpet I, Fire and hail (fol. 69v) and Seal VII, Trumpets given (fol. 72v) noted in marginal entries.</p>
+            </overview>
+            <headpieces>
+                <p>Interlace-patterned headpieces in red, or red and black.</p>
+            </headpieces> 
+            <initials>
+                <p>Major initials (25-45 mm) in red, primarily zoomorphic in form. Minor initials in red</p>
+            </initials> 
+            <comments><p>Chapter titles derived chiefly from the commentaries of Andreas and Arethas serve also as the titles of most miniatures. 
+                Typically, the titles appear either above a miniature or on the leaf directly preceding it 
+                (Harold R. Willoughby and Ernest Cadman Colwell, <hi rend="italics">The Elizabeth Day McCormick Apocalypse</hi> 
+                (Chicago, [c1940]), 2:57-59.</p></comments>
+        </decoration>
+        <physDesc>
+            <support><p><material>Paper</material>. <dimensions type="block" units="mm">216 x 150 mm</dimensions>.</p></support>
+            <watermarks><p>Watermarks similar to Woodward, Three Crescents in a row 144 (Venice ca. 1560); see, David 
+                Woodward, <hi rend="italics">Catalogue of watermarks in Italian printed maps, ca. 1540-1600</hi> (Chicago, 1996).</p></watermarks> 
+            <extent>198 leaves, of which 4 are flyleaves. Flyleaves conjoint with pastedowns.</extent> 
+            <foliation><p>3 (unfoliated paper flyleaves) + 194 + 1 (unfoliated paper flyleaf). Modern foliation in Arabic numerals in pencil 1-194.</p></foliation> 
+            <collation><p>25 quires, each of 8 leaves, with the exception of quire 25, of 3 leaves. Estimate of content lost: 1 leaf, quire 17 (between fols. 135 
+                and 136, Revelation 16:12-14 and commentary). Revelation 12:2 (fol. 98v) was omitted. Revelation 17:18 was added incorrectly after 17:3, though 
+                recorded in place after 17:17 (fol. 140v).</p> 
+                <p>Quire numbers in red or brown on the first leaf of each quire (lower margin). Quires 21 through 24 misnumbered 22-25.</p></collation>
+            <catchwords>Catchwords throughout.</catchwords> 
+            <dimensions type="written" units="mm">Written space 161 x 110 mm (fol. 3r).</dimensions> 
+            <layout columns="1" writtenLines="23"><p>1 column, 23 lines.</p></layout> 
+            <msWriting> <handDesc script="Minuscule" medium="ink">
+                <p>Written in minuscule script in black ink (some fading).</p></handDesc></msWriting> 
+            <textDivisions><p>Chapter titles and Revelation and commentary texts distinguished by the titles κείμενον and έξήγησις in red.</p></textDivisions> 
+            <condition><p>Water and wax stains. Top margin of leaves trimmed. Some leaves detached from binding.</p></condition>
+            <bindingDesc><binding>
+                <p>Bound in brown <material>goatskin</material> over boards. Added fore-edge clasps (one remaining). 
+                    Sewing, herringbone pattern over five thin double cords suggestive of traditional Armenian structure.</p>
+                <decoNote>
+                    <p>Blind stamped frame front and back. Front cover: The Crucifixion with the Virgin Mary and John at the foot of the cross; a seated Evangelist depicted 
+                        at each corner. Back cover: Floral motifs enclosed in lozenge, a seated Evangelist depicted at each corner.</p></decoNote></binding></bindingDesc>
+        </physDesc>
+        <history>
+            <origin><p>The manuscript is judged to have been written and illuminated in the first half of the 17th century, possibly in <name reg="Northern Greece" type="place">Northern Greece</name> or 
+                the <name reg="Balkan Peninsula" type="place">Balkan Peninsula</name>.</p></origin>
+            <provenance><p>Belonged to <name reg="Parthenios, of Larissa, 18th century" type="person" role="owner">Parthenios</name>, a Thessalian Metropolitan 
+                of <name reg="Lárisa, Greece" type="place">Lárisa, Greece</name> (his colophon, fol. 1r). Belonged 
+                also to <name reg="McCormick, Elizabeth Day, 1874-1957" type="person" role="owner">Elizabeth Day McCormick</name> (1874-1957), 
+                who purchased the manuscript ca. 1932 in <name reg="Paris, France" type="place">Paris</name> from an unknown bookseller.</p>
+                <p>Two unsigned and undated prayers (fol. 194r), the second of which (inscribed inside a circular device) petitions the Trinity to protect the 
+                    devout reader, the writer, and the owner of this book. University of Chicago Libraries bookplate (front pastedown).</p></provenance> 
+            <acquisition><p>Gift of Elizabeth Day McCormick to the University of Chicago, 1937.</p></acquisition>
+        </history></msDescription>
+</sourceDesc>
+ </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+            <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                an interface that supports browsing within individual manuscripts and across the collection.</p>
+            <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                as of <date>2012-09-22</date>.</p> 
+            <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+        </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+ <langUsage><language id="ell"></language><p>Greek, Modern (1453-), ISO 639-3</p>
+ </langUsage> 
+        <textClass>
+            <keywords>
+                <term>Bible. N.T. Revelation--Commentaries</term>
+                <term>Illuminated manuscripts</term>
+                <term>Miniatures (Illuminations)</term>
+                <term>Maximos Peloponnēsios</term>
+                <term>McCormick, Elizabeth Day, 1874-1957</term>
+            </keywords>
+        </textClass>
+    </profileDesc>
+</teiHeader>
+<text>
+<body>
+<msDescription id="GMS-0931">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 931</idno>
+<altName type="Gregory number">Greg. 2402</altName>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 37</altIdentifier>
+</msIdentifier>
+<msHeading>
+<title>New Testament. Revelation</title>
+<otherName>Elizabeth Day McCormick Apocalypse</otherName>
+<origPlace>Northern Greece or Balkan Peninsula?</origPlace>
+<origDate notBefore="1601" notAfter="1700">17th century</origDate>
+<textLang langKey="ell">Greek</textLang>
+</msHeading>
+<msContents>
+<overview>
+    <p>Revelation in colloquial Greek. Translated by <name reg="Maximos Peloponnēsios" type="person" role="translator">Maximos the Peloponnesian</name>. 
+        A commentary is included based on those of the Caesarean exegetes <name reg="Andrew, Archbishop of Caesarea" type="person" role="exegete">Andreas</name> 
+        and <name reg="Arethas, Archbishop of Caesarea (Cappadocia), ca. 860-ca. 940" type="person" role="exegete">Arethas</name>, and
+        an unidentified interpreter. Formerly Goodspeed Ms. Grk. 37.</p>
+    <p>Believed to be one of the earliest works of Maximos who is thought to have been an Alexandrian archdeacon. Other known manuscripts of this translation 
+    are: 1. Athos, Iviron, Ms. 605 (1601); 2. Athens, National Library, M. 141 (1676); 3. Athos, Panteleemonos, Ms. 556 (18th century).</p></overview>
+    <msItem n="1">
+        <locus from="009" to="009">fol. 1r.</locus>
+        <colophon>And this [belongs] with the other [books] of Parthenios of Larissa (partially erased).</colophon>
+    </msItem>
+<msItem n="2">
+<locus from="009" to="031">fols. 1r-12r</locus>
+    <summary>Revelation 1 and commentary.</summary></msItem>
+<msItem n="3">
+<locus from="032" to="054">fols. 12v-23v</locus>
+    <summary>Revelation 2 and commentary.</summary>
+</msItem>
+<msItem n="4">
+<locus from="056" to="77">fols. 24v-35r</locus>
+    <summary>Revelation 3 and commentary.</summary>
+</msItem>
+<msItem n="5">
+<locus from="079" to="089">fols. 36r-41r</locus>
+    <summary>Revelation 4 and commentary.</summary>
+</msItem>
+<msItem n="6">
+<locus from="091" to="103">fols. 42r-48r</locus>
+    <summary>Revelation 5 and commentary.</summary>
+</msItem>
+<msItem n="7">
+<locus from="103" to="130">fols. 48r-61v</locus>
+    <summary>Revelation 6 and commentary.</summary>
+</msItem>
+<msItem n="8">
+<locus from="132" to="145">fols. 62v-69r</locus>
+    <summary>Revelation 7 and commentary.</summary>
+</msItem>
+<msItem n="9">
+<locus from="147" to="163">fols. 70r-78r</locus>
+    <summary>Revelation 8 and commentary.</summary>
+</msItem>
+<msItem n="10">
+<locus from="165" to="178">fols. 79r-85v</locus>
+    <summary>Revelation 9 and commentary.</summary>
+</msItem>
+<msItem n="11">
+<locus from="179" to="187">fols. 86r-90r</locus>
+    <summary>Revelation 10 and commentary.</summary>
+</msItem>
+<msItem n="12">
+<locus from="187" to="204">fols. 90r-98v</locus>
+    <summary>Revelation 11 and commentary.</summary>
+</msItem>
+<msItem n="13">
+<locus from="204" to="222">fols. 98v-107v</locus>
+    <summary>Revelation 12 and commentary.</summary>
+</msItem>
+<msItem n="14">
+<locus from="222" to="234">fols. 107v-113v</locus>
+    <summary>Revelation 13 and commentary.</summary>
+</msItem>
+<msItem n="15">
+<locus from="236" to="257">fols. 114v-125r</locus>
+    <summary>Revelation 14 and commentary.</summary>
+</msItem>
+<msItem n="16">
+<locus from="259" to="263">fols. 126r-128r</locus>
+    <summary>Revelation 15 and commentary.</summary>
+</msItem>
+<msItem n="17">
+<locus from="266" to="285">fols. 129v-139r</locus>
+    <summary>Revelation 16 and commentary.</summary>
+</msItem>
+<msItem n="18">
+<locus from="287" to="298">fols. 140r-145v</locus>
+    <summary>Revelation 17 and commentary.</summary>
+</msItem>
+<msItem n="19">
+<locus from="300" to="310">fols. 146v-151v</locus>
+    <summary>Revelation 18 and commentary.</summary>
+</msItem>
+<msItem n="20">
+<locus from="312" to="328">fols. 152v-160v</locus>
+    <summary>Revelation 19 and commentary.</summary>
+</msItem>
+<msItem n="21">
+<locus from="330" to="345">fols. 161v-169r</locus>
+    <summary>Revelation 20 and commentary.</summary>
+</msItem>
+<msItem n="22">
+<locus from="345" to="369">fols. 169r-181r</locus>
+    <summary>Revelation 21 and commentary.</summary>
+</msItem>
+<msItem n="23">
+<locus from="371" to="395">fols. 182r-194r</locus>
+    <summary>Revelation 22 and commentary.</summary>
+</msItem>
+</msContents>
+    <decoration> 
+        <overview><p>Full and half-page miniatures number 69, in the main precede the text illustrated. Reversed sequence 
+            of Trumpet I, Fire and hail (fol. 69v) and Seal VII, Trumpets given (fol. 72v) noted in marginal entries.</p>
+        </overview>
+        <miniatures><minItem n="1">
+<locus from="016" to="016">fol. 4v</locus>
+    <minDesc>Christ coming in clouds. Christ descends from heaven at center, encircled by clouds, hand raised 
+        in blessing; John holds scroll, seated below at left, a book next to him; a crowd representing earth's inhabitants, at right.</minDesc>
+</minItem>
+<minItem n="2">
+<locus from="020" to="020">fol. 6v</locus>
+    <minDesc>John to Seven Churches. Christ stands at right next to seven candlestands, 
+        holds scroll, and orb with seven stars; John writing, seated on bench at left.</minDesc> 
+</minItem>
+<minItem n="3">
+<locus from="031" to="031">fol. 12r</locus>
+    <minDesc>John, Letter to Ephesus. Christ stands at right next to branched candlestand, 
+        holds scroll, and orb with seven stars; John writing, seated on bench at left; in background, church with altar containing 
+        gospel book, chalice, and bread.</minDesc>
+</minItem>
+<minItem n="4">
+<locus from="037" to="037">fol. 15r</locus>
+    <minDesc>John, Letter to Smyrna. Christ's voice emanates from heaven, upper left; John stands at center, dictates to 
+        the deacon Prochorus who is writing, seated on bench at right.</minDesc>
+</minItem>
+<minItem n="5">
+<locus from="041" to="041">fol. 17r</locus>
+    <minDesc> John, Letter to Pergamum. Christ stands at right, holds double-edged sword, and orb with 
+        seven stars; John writing, seated on bench at left; in background, angel stands next to church whose altar contains a 
+        gospel book, chalice, and bread.</minDesc>
+    </minItem> 
+    <minItem n="6">
+        <locus from="046" to="046">fol. 19v</locus>
+        <minDesc> John, Letter to Thyatira. Christ stands at right next to candlestand, holds scroll, 
+            and orb with seven stars; John writing, seated on chair at left; candle lamps in background.</minDesc>
+    </minItem>
+ <minItem n="7">
+     <locus from="055" to="055">fol. 24r</locus>
+     <minDesc>John, Letter to Sardis. Christ stands at right, holds representation of saints, and orb with seven stars; 
+         John, with scroll, lies on floor at left next to seated angel; church in background.</minDesc>
+    </minItem>
+    <minItem n="8">
+        <locus from="061" to="061">fol. 27r</locus>
+        <minDesc>John, Letter to Philadelphia. Christ stands at right with a crown before him, holds key of David, 
+            other hand raised in blessing; John carries cross on shoulder, kneels at left next to candlestand; in background, 
+            church with gospel book on altar.</minDesc>
+    </minItem>
+    <minItem n="9">
+        <locus from="069" to="069">fol. 31r</locus>
+        <minDesc>John, Letter to Laodicea. Christ stands at right, holds double-edged sword and orb; John holds book and quill, seated behind 
+            writing desk at left; candlestand and candle lamps in background.</minDesc>
+    </minItem>
+    <minItem n="10">
+        <locus from="078" to="078">fol. 35v</locus>
+        <minDesc>John, Vision of open door in Heaven. Christ seated on throne with seraphim, an open book on knee; 
+            enthroned twenty-four elders on either side of Christ; below right, John kneels next to heavenly door; angel, at left,  points upward, holds door open. 
+        </minDesc>
+    </minItem>
+    <minItem n="11">
+        <locus from="090" to="090">fol. 41v</locus>
+        <minDesc>Book of Seven Seals. Christ seated on throne, an open book on knee, surrounded by enthroned 
+        twenty-four elders; angel with scroll, upper left, points to Book of Seven Seals on table. 
+        John weeping, with Elder. At right below Christ's throne, John weeps, holds scroll; enthroned elder, gestures at left, 
+        displays scroll.</minDesc>
+    </minItem>
+    <minItem n="12">
+        <locus from="095" to="095">fol. 44r</locus>
+        <minDesc>Lamb taking Book. Christ seated on throne, an open book on knee; four creatures (angel, eagle, ox, and lion) 
+            encircle him carrying books; seven-horned Lamb stands over Book of Seven Seals on table, upper left. 
+            Lamb, Adoration. John seated below Christ's throne at right, head resting on knees; twenty-four elders kneel at left, 
+            their crowns laid on floor.</minDesc>
+    </minItem>
+    <minItem n="13">
+        <locus from="104" to="104">fol. 48v</locus>
+        <minDesc>Seal I, White horse. Seven-horned Lamb stands on throne, opens book's first seal; four creatures 
+            (angel, eagle, ox, and lion) encircle him carrying books; crowned rider on white horse below throne, holds bow and arrow; 
+            John, with scroll, kneels lower center right.</minDesc>
+    </minItem>
+    <minItem n="14">
+        <locus from="109" to="109">fol. 51r</locus>
+        <minDesc>Seal II, Red horse. Seven-horned Lamb stands on throne, opens book's second seal; four creatures 
+            (angel, eagle, ox, and lion) encircle him carrying books; helmeted rider on red horse below throne, wields sword; 
+            John seated in cave, lower right.</minDesc>
+    </minItem>
+    <minItem n="15">
+        <locus from="112" to="112">fol. 52v</locus>
+        <minDesc> Seal III, Black horse. Seven-horned Lamb stands on throne, opens book's third seal; 
+            four creatures (angel, eagle, ox, and lion) encircle him carrying books; crowned rider on black horse below throne, 
+            holds balance; John, with scroll, kneels at right.</minDesc>
+    </minItem>
+    <minItem n="16">
+        <locus from="116" to="116">fol. 54v</locus>
+        <minDesc>Seal IV, Pale horse. Seven-horned Lamb stands on throne, opens book's fourth seal; helmeted rider on pale green horse below 
+            throne, carries spear; John kneels at left, an eagle holding a book flies above him.</minDesc>
+    </minItem>
+    <minItem n="17">
+        <locus from="119" to="119">fol. 56r</locus>
+        <minDesc>Seal V, Souls of martyrs. Seven-horned Lamb stands on throne, opens book's fifth seal; martyrs aligned in 
+            sanctuary below altar, hold scrolls; John kneels at right; eagle, holding a book, waits at left next to church whose altar contains a gospel book.</minDesc>
+    </minItem>
+    <minItem n="18">
+        <locus from="123" to="123">fol. 58r</locus>
+        <minDesc>Seal VI, Earthquake. Seven-horned Lamb stands on throne, opens book's sixth seal; 
+            darkened sun and moon overhead; crowd representing earth's inhabitants kneels in cave at left.
+            John, reads scroll, seated on bench below throne at right; church in background.</minDesc>
+    </minItem>
+    <minItem n="19">
+        <locus from="131" to="131">fol. 62r</locus>
+        <minDesc>Winds restrained. At the four corners, angels stand facing winds, hands raised; 
+            John holds scroll, kneels at center next to church.</minDesc>
+    </minItem>
+    <minItem n="20">
+        <locus from="140" to="140">fol. 66v</locus>
+        <minDesc>Lamb, Adoration by multitude. Crowd representing earth's inhabitants stand before 
+            enthroned Seven-horned Lamb, wave flowers and palm branches; a sacrifice burns beneath throne on altar; 
+            John holds scroll, kneeling lower right.</minDesc>
+    </minItem>
+    <minItem n="21">
+        <locus from="146" to="146">fol. 69v</locus>
+        <minDesc>Trumpet I, Fire and hail. Angel kneels on mountain, blows trumpet; John kneels in cave, lower left; 
+            shower of hail, fire, and blood burns earth's trees and grasses at right.</minDesc>
+    </minItem>
+    <minItem n="22">
+        <locus from="152" to="152">fol. 72v</locus>
+        <minDesc>Seal VII, Trumpets given. Eight angels stand at altar, seven hold trumpets, one swings a censer; 
+            John kneeling below the altar.</minDesc>
+    </minItem>
+    <minItem n="23">
+        <locus from="155" to="155">fol. 74r</locus>
+        <minDesc>Trumpet II, Burning mountain. Angel kneels on mountain, blows trumpet; John kneels in cave, lower left; 
+            mountain of fire, at right, thrown into sea; water turns to blood.</minDesc>
+    </minItem>
+    <minItem n="24">
+        <locus from="158" to="158">fol. 75v</locus>
+        <minDesc>Trumpet III, Burning star. Angel kneels on cloud, blows trumpet; John, holds scroll, seated in chair, lower left; 
+            star falls into rivers and fountains at right; waters embittered.</minDesc>
+    </minItem>
+    <minItem n="25">
+        <locus from="161" to="161">fol. 77r</locus>
+        <minDesc>Trumpet IV, Partial darkness. Angel kneels on cloud, blows trumpet; sun, moon, and stars darkened; 
+            people confused about growing seasons and sleep patterns, lower right; John seated on throne next to book, at left.</minDesc>
+    </minItem>
+    <minItem n="26">
+        <locus from="164" to="164">fol. 78v</locus>
+        <minDesc>Trumpet V, Falling star. Angel blows trumpet, upper left; John kneels in cave, lower left; fallen star with a key opens pit 
+            from which smoke rises. Trumpet V, Locust plague. Scorpion-like locusts attack earth's inhabitants, at right.</minDesc>
+    </minItem>
+    <minItem n="27">
+        <locus from="171" to="171">fol. 82r</locus>
+        <minDesc>Trumpet VI, Angels at Euphrates. Angel kneels on mountain upper left, blows trumpet; John 
+            stands in cave, lower left; four angels wait next to river, at right. Trumpet VI, Horsemen. Troop of riders mounted on 
+            fire, smoke, and sulfur-breathing lion-headed horses whose tails of serpent heads inflict wounds.</minDesc>
+    </minItem>
+    <minItem n="28">
+        <locus from="178" to="178">fol. 85v</locus>
+        <minDesc>Mighty Angel. John seated in cave, at left; an angel, encircled by cloud and rainbow, stands with 
+            its left foot on land, and right foot on the sea, at right.</minDesc>
+    </minItem>
+    <minItem n="29">
+        <locus from="184" to="184">fol. 88v</locus>
+        <minDesc>John eating book. John kneels, at center, eating a book held by an angel who carries a measuring rod.</minDesc>
+    </minItem>
+    <minItem n="30">
+        <locus from="192" to="192">fol. 92v</locus>
+        <minDesc>Witnesses breathing fire. Fire-breathing prophetic witnesses stand at left, hold scrolls; Beast emerges from pit, at right; 
+            John, with scroll, kneels on cliff below.</minDesc>
+    </minItem>
+    <minItem n="31">
+        <locus from="197" to="197">fol. 95r</locus>
+        <minDesc>Witnesses, Ascension. Prophetic witnesses killed by the Beast ascend in cloud, upper 
+            left; enemies of the witnesses lie dead in city destroyed by earthquake, lower center.</minDesc>
+    </minItem>
+    <minItem n="32">
+        <locus from="200" to="200">fol. 96v</locus>
+        <minDesc>Trumpet VII, Adoration in Heaven. Christ seated on throne, an open book on knee; seraph at right; 
+            angel sounds trumpet, upper left; John and twenty-four elders kneel below throne.</minDesc>
+    </minItem>
+    <minItem n="33">
+        <locus from="203" to="203">fol. 98r</locus>
+        <minDesc>Woman clothed with Sun. Woman, within flaming mandorla, stands at center on moon wearing crown of stars; Dragon, 
+            mouths of seven heads open, lies on ground, at right; child in swaddling clothes, background left; John kneels, lower left.</minDesc>
+    </minItem>
+    <minItem n="34">
+        <locus from="212" to="212">fol. 102v</locus>
+        <minDesc>Dragon attacked by Michael. Archangel Michael with angel band behind him, upper left, holds trident above seven-headed 
+            Dragon and armed demons.</minDesc>
+    </minItem>
+    <minItem n="35">
+        <locus from="217" to="217">fol. 105r</locus>
+        <minDesc>Dragon persecuting Woman. Woman, crowned and winged, stands at right, hands raised; crowned Dragon with water pouring from 
+            mouth, at left; John kneels, lower right.</minDesc>
+    </minItem>
+    <minItem n="36">
+        <locus from="221" to="221">fol. 107r</locus>
+        <minDesc>Beast and Dragon, Worship. First Beast, with seven heads, ten horns, and crowns, emerges from sea, at center; 
+            crowned Dragon, background left; worshipers kneel, lower right.</minDesc>
+    </minItem>
+    <minItem n="37">
+        <locus from="228" to="228">fol. 110v</locus>
+        <minDesc>False Prophet and Beast. Second Beast, resembling the Lamb (but with only two horns), emerges from the earth, center left; 
+            False Prophet marks people with Beast's number, at right; those refusing to worship Beast lie dead, foreground; 
+            fire falls near worshipers kneeling before image of Beast, background left.</minDesc>
+    </minItem>
+    <minItem n="38">
+        <locus from="235" to="235">fol. 114r</locus>
+        <minDesc>Lamb, Adoration on Mt. Zion. Seven-horned Lamb holds banner emblazoned with cross on mountain, at left; 
+            144,000 followers stand at right, gaze at Lamb; song emanates from heaven, upper left; John kneels in cave, lower left.</minDesc>
+    </minItem>
+    <minItem n="39">
+        <locus from="240" to="240">fol. 116v</locus>
+        <minDesc>Angel I, Everlasting Gospel. At center, angel proclaiming gospel carries book, flies above crowd representing earth's inhabitants.</minDesc>
+    </minItem>
+    <minItem n="40">
+        <locus from="242" to="242">fol. 117v</locus>
+        <minDesc>Angel II, Fall of Babylon. Angel announces Babylon's fall, upper right; John stands in 
+            cave at left, points to chalice above him; city in ruins, at right.</minDesc>
+    </minItem>
+    <minItem n="41">
+        <locus from="244" to="244">fol. 118v</locus>
+        <minDesc>Angel III, Beast worshippers. Crowd waits at right; angel, holds scroll, stands at left, 
+            tells of consequences for those who worship Beast.</minDesc>
+    </minItem>
+    <minItem n="42">
+        <locus from="250" to="250">fol. 121v</locus>
+        <minDesc>Earth, Harvest. Christ seated on cloud, holds sickle; fields below; angel with scroll, upper left.</minDesc>
+    </minItem>
+    <minItem n="43">
+        <locus from="253" to="253">fol. 123r</locus>
+        <minDesc>Earth, Vintage. Angel with sickle harvests grapes, foreground; blood flows from wine press, at right; 
+            angel with scroll stands behind church, background.</minDesc> 
+    </minItem>
+    <minItem n="44">
+        <locus from="258" to="258">fol. 125v</locus>
+        <minDesc>Angels of Plagues. Seven angels stand on mountain, hold vials; John with scroll in cave, lower left. 
+            Song of Moses and Lamb. Those who conquered Beast stand next to sea of glass holding harps.</minDesc>
+    </minItem>
+    <minItem n="45">
+        <locus from="265" to="265">fol. 129r</locus>
+        <minDesc>Vial I, Sores. Angel flies over crowd, upper right, empties contents of vial; people with sores on faces lie in 
+            street, lower left; buildings, background.</minDesc>
+    </minItem>
+    <minItem n="46">
+        <locus from="267" to="267">fol. 130r</locus>
+        <minDesc>Vial II, Sea of blood. Angel flies over sea, upper left, empties contents of vial; dead bodies of people and sea creatures 
+            floating, lower right; John seated in cave, left.</minDesc>
+    </minItem>
+    <minItem n="47">
+ <locus from="269" to="269">fol. 131r</locus>
+        <minDesc>Vial III, Rivers of blood. Angel flies over rivers and fountains, upper left, empties contents of vial; water turns to blood; 
+            John seated in cave, lower left.</minDesc>
+    </minItem>
+    <minItem n="48">
+        <locus from="274" to="274">fol. 133v</locus>
+        <minDesc>Vial IV, Scorching heat. Angel flies over sun, upper right, empties contents of vial; crowd gesturing, lower left; 
+            John stands in cave, at right.</minDesc>
+    </minItem>
+    <minItem n="49">
+        <locus from="276" to="276">fol. 134v</locus>
+        <minDesc>Vial V, Throne of Beast. Angel flies over enthroned Beast, lower right, empties contents of vial 
+            causing darkness; followers of Beast kneel in dark at left, gnaw tongues.</minDesc>
+    </minItem>
+    <minItem n="50">
+        <locus from="278" to="278">fol. 135v</locus>
+        <minDesc>Vial VI, Euphrates River dries up. Angel flies over river, upper left, empties contents of vial; 
+            two kings, one holding a staff, wait on shore, a crowd behind them, at right; John seated in cave, lower right. 
+            Vial VI, Frogs. False Prophet, Dragon, and Beast in river, lower left, with frogs emerging from their mouths.</minDesc>
+    </minItem>
+    <minItem n="51">
+        <locus from="281" to="281">fol. 137r</locus>
+        <minDesc>Vial VII, Earthquake. Angel flies over city, upper left, empties contents of vial; ruined buildings below; 
+            John seated in cave, background right.</minDesc>
+    </minItem>
+    <minItem n="52">
+        <locus from="286" to="286">fol. 139v</locus>
+        <minDesc>Scarlet Woman on Beast. Scarlet Woman holding chalice at center, seated on back of seven-headed Beast 
+            with ten horns which walks on water; John sits in cave speaking to angel, background left.</minDesc>
+    </minItem>
+    <minItem n="53">
+        <locus from="290" to="290">fol. 141v</locus>
+        <minDesc>Beast going into Perdition. Seven-headed Beast with ten horns walks on water; Scarlet Woman 
+            rides on his back, carries chalice; John stands holding angel's hand in cave, background left.</minDesc>
+    </minItem>
+    <minItem n="54">
+        <locus from="299" to="299">fol. 146r</locus>
+        <minDesc>Babylon, Fall. Angel holds staff, stands above city, at left; second angel flies over a sea carrying a millstone, upper right.</minDesc>
+    </minItem>
+    <minItem n="55">
+        <locus from="311" to="311">fol. 152r</locus>
+        <minDesc>Christ, Praise of Judgment. Christ seated on throne, an open book on knee; seraph at right; 
+            hand emerges from heaven holding scroll, upper right; John and twenty-four elders kneel below throne, left; city at right.</minDesc>
+    </minItem>
+    <minItem n="56">
+        <locus from="314" to="314">fol. 153v</locus>
+        <minDesc>Lamb, Marriage. Christ, at left, touches linen gown held by Bride at right; angels and crowned wedding guests seated 
+            at table set with food and wine, foreground.</minDesc>
+    </minItem>
+    <minItem n="57">
+        <locus from="317" to="317">fol. 155r</locus>
+        <minDesc>Christ, Armies of Heaven. Christ, with chalice and sword, mounted on horse at center, leads troop of angels.</minDesc>
+    </minItem>
+    <minItem n="58">
+        <locus from="322" to="322">fol. 157v</locus>
+        <minDesc>Beast, Battle. Christ mounted on horse, leads troop of angels; flesh of bodies on battlefield pecked 
+            by birds, lower left. Beast and False Prophet taken. Beasts and False Prophet imprisoned in Lake of Fire, lower right.</minDesc>
+    </minItem>
+    <minItem n="59">
+        <locus from="329" to="329">fol. 161r</locus>
+        <minDesc>Dragon imprisoned. Angel holding key stands in background; Dragon locked in bottomless pit, foreground; John seated in cave, at right.</minDesc>
+    </minItem>
+    <minItem n="60">
+        <locus from="331" to="331">fol. 162r</locus>
+        <minDesc>Enthroned judges. Judges seated on thrones, hands raised gesturing.</minDesc>
+    </minItem>
+    <minItem n="61">
+        <locus from="333" to="333">fol. 163r</locus>
+        <minDesc>First Resurrection. Souls of martyrs killed for refusing to worship Beast aligned, upper tier; dead who will come to life after 
+            Christ's thousand year reign, lower tier.</minDesc>
+    </minItem>
+    <minItem n="62">
+        <locus from="336" to="336">fol. 164v</locus>
+        <minDesc>Satan, Gog and Magog. Armed kings and Satan lead armies at right; John, holds scroll, seated in cave, at left; 
+            city walls in background.</minDesc>
+    </minItem>
+    <minItem n="63">
+        <locus from="340" to="340">fol. 166v</locus>
+        <minDesc>Last Resurrection and Judgment. Christ seated on throne, an open book on knee; a second book laying on table, at left; dead to 
+            be judged rise from tombs and from the sea, below throne.</minDesc>
+    </minItem>
+    <minItem n="64">
+        <locus from="349" to="349">fol. 171r</locus>
+        <minDesc>Christ promising New Age. Christ seated on throne, an open book in left hand, his right hand raised in blessing; 
+            John, hands raised, kneels at right.</minDesc>
+    </minItem>
+    <minItem n="65">
+        <locus from="353" to="353">fol. 173r</locus>
+        <minDesc>New Jerusalem measured. Angel, left foreground, hands measuring rod to John standing at right; 
+            New Jerusalem's walls in background.</minDesc>
+    </minItem>
+    <minItem n="66">
+        <locus from="370" to="370">fol. 181v</locus>
+        <minDesc>River of Life. River flowing under empty throne, from upper right. Tree of Life. Tree covered with fruit and flowers on which peacocks stand, grows 
+            next to throne; John, with scroll, kneels at lower right.</minDesc>
+    </minItem>
+    <minItem n="67">
+        <locus from="378" to="378">fol. 185v</locus>
+        <minDesc>John and Angel. John, with scroll,  seated on chair at left, faces gesturing angel armed with spear.</minDesc>
+    </minItem>
+    <minItem n="68">
+        <locus from="380" to="380">fol. 186v</locus>
+        <minDesc>Christ instructing John. Christ, holds scroll, seated on throne at left; an angel waits behind the throne; John, holds scroll, stands at right.</minDesc>
+    </minItem>
+    <minItem n="69">
+        <locus from="384" to="384">fol. 188v</locus>
+        <minDesc>Christ promising his reward. Altar, center foreground, contains gospel book, chalice, and bread; 
+            Christ holds scroll, upper right; Bride stands behind church, background.</minDesc>
+    </minItem></miniatures>
+    <headpieces>
+        <p>Interlace-patterned headpieces in red, or red and black.</p>
+    </headpieces> 
+    <initials>
+        <p>Major initials (25-45 mm) in red, primarily zoomorphic in form. Minor initials in red</p>
+    </initials> 
+    <comments><p>Chapter titles derived chiefly from the commentaries of Andreas and Arethas serve also as the titles of most miniatures. 
+        Typically, the titles appear either above a miniature or on the leaf directly preceding it 
+        (Harold R. Willoughby and Ernest Cadman Colwell, <hi rend="italics">The Elizabeth Day McCormick Apocalypse</hi> 
+        (Chicago, [c1940]), 2:57-59.</p></comments>
+</decoration>
+<physDesc>
+    <support><p><material>Paper</material>. <dimensions type="block" units="mm">216 x 150 mm</dimensions>.</p></support>
+    <watermarks><p>Watermarks similar to Woodward, Three Crescents in a row 144 (Venice ca. 1560); see, David 
+        Woodward, <hi rend="italics">Catalogue of watermarks in Italian printed maps, ca. 1540-1600</hi> (Chicago, 1996).</p></watermarks> 
+    <extent>198 leaves, of which 4 are flyleaves. Flyleaves conjoint with pastedowns.</extent> 
+    <foliation><p>3 (unfoliated paper flyleaves) + 194 + 1 (unfoliated paper flyleaf). Modern foliation in Arabic numerals in pencil 1-194.</p></foliation> 
+    <collation><p>25 quires, each of 8 leaves, with the exception of quire 25, of 3 leaves. Estimate of content lost: 1 leaf, quire 17 (between fols. 135 
+        and 136, Revelation 16:12-14 and commentary). Revelation 12:2 (fol. 98v) was omitted. Revelation 17:18 was added incorrectly after 17:3, though 
+        recorded in place after 17:17 (fol. 140v).</p> 
+        <p>Quire numbers in red or brown on the first leaf of each quire (lower margin). Quires 21 through 24 misnumbered 22-25.</p></collation>
+    <catchwords>Catchwords throughout.</catchwords> 
+    <dimensions type="written" units="mm">Written space 161 x 110 mm (fol. 3r).</dimensions> 
+    <layout columns="1" writtenLines="23"><p>1 column, 23 lines.</p></layout> 
+    <msWriting> <handDesc script="Minuscule" medium="ink">
+ <p>Written in minuscule script in black ink (some fading).</p></handDesc></msWriting> 
+    <textDivisions><p>Chapter titles and Revelation and commentary texts distinguished by the titles κείμενον and έξήγησις in red.</p></textDivisions> 
+    <condition><p>Water and wax stains. Top margin of leaves trimmed. Some leaves detached from binding.</p></condition>
+<bindingDesc><binding>
+    <p>Bound in brown <material>goatskin</material> over boards. Added fore-edge clasps (one remaining). 
+Sewing, herringbone pattern over five thin double cords suggestive of traditional Armenian structure.</p>
+<decoNote>
+    <p>Blind stamped frame front and back. Front cover: The Crucifixion with the Virgin Mary and John at the foot of the cross; a seated Evangelist depicted 
+    at each corner. Back cover: Floral motifs enclosed in lozenge, a seated Evangelist depicted at each corner.</p></decoNote></binding></bindingDesc>
+</physDesc>
+    <history>
+        <origin><p>The manuscript is judged to have been written and illuminated in the first half of the 17th century, possibly in <name reg="Northern Greece" type="place">Northern Greece</name> or 
+            the <name reg="Balkan Peninsula" type="place">Balkan Peninsula</name>.</p></origin>
+        <provenance><p>Belonged to <name reg="Parthenios, of Larissa, 18th century" type="person" role="owner">Parthenios</name>, a Thessalian Metropolitan 
+            of <name reg="Lárisa, Greece" type="place">Lárisa, Greece</name> (his colophon, fol. 1r). Belonged 
+            also to <name reg="McCormick, Elizabeth Day, 1874-1957" type="person" role="owner">Elizabeth Day McCormick</name> (1874-1957), 
+            who purchased the manuscript ca. 1932 in <name reg="Paris, France" type="place">Paris</name> from an unknown bookseller.</p>
+            <p>Two unsigned and undated prayers (fol. 194r), the second of which (inscribed inside a circular device) petitions the Trinity to protect the 
+                devout reader, the writer, and the owner of this book. University of Chicago Libraries bookplate (front pastedown).</p></provenance> 
+        <acquisition><p>Gift of Elizabeth Day McCormick to the University of Chicago, 1937.</p></acquisition>
+    </history>
+<additional>
+<listBibl><bibl>
+    <author>Kenneth W. Clark</author>, 
+    <title level="m">A Descriptive Catalogue of Greek New Testament Manuscripts in America</title>
+                            <imprint>
+                                <pubPlace>(Chicago:</pubPlace>
+                                <publisher>University of Chicago Press,</publisher>
+                                <date>1937),</date>
+                            </imprint>
+                            <biblScope type="pages">pp. 126-130.</biblScope></bibl>
+                        <bibl>
+                            <author>Harold R. Willoughby</author> and <author>Ernest Cadman Colwell</author>, 
+                            <title level="m">The Elizabeth Day McCormick Apocalypse</title>
+                            <imprint>
+                                <pubPlace>(Chicago:</pubPlace>
+                                <publisher>University of Chicago Press,</publisher>
+                                <date>[c1940]),</date>
+                            </imprint>
+                            <biblScope type="volume">vols. 1 and 2.</biblScope></bibl>
+    <bibl>
+        <author>C. U. Faye</author> and <author>W. H. Bond</author>,
+        <title level="m">Supplement to the Census of Medieval and Renaissance Manuscripts 
+            in the United States and Canada</title>
+        <imprint>
+            <pubPlace>(New York:</pubPlace>
+            <publisher>Bibliographical Society of America,</publisher>
+            <date>1962),</date>
+        </imprint>
+        <biblScope type="pages">p. 162.</biblScope></bibl>
+                        <bibl>
+                            <editor>Gary Vikan</editor>, ed., 
+                            <title level="m">Illuminated Greek manuscripts from American Collections: an Exhibition in Honor of 
+                                Kurt Weitzmann</title>
+                            <imprint>
+                                <pubPlace>(Princeton, N.J:.</pubPlace>
+                                <publisher>Art Museum, Princeton University; distributed by Princeton University Press,</publisher>
+                                <date>[1973]),</date>
+                            </imprint>
+                            <biblScope type="pages">pp. 215-216.</biblScope>
+                        </bibl> 
+    <bibl> 
+        <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+            collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>.
+        <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+        <imprint> 
+            <pubPlace>([Chicago:</pubPlace> 
+            <publisher>s.n.,</publisher> 
+            <date>1973]),</date></imprint> 
+        <biblScope type="volume">36,</biblScope> 
+        <biblScope type="catalogNo">nos. 55-59.</biblScope></bibl>
+                    </listBibl>
+                </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

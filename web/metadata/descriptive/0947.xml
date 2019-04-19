@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0947, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0947</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+             <sourceDesc>
+                 <msDescription>
+                     <msIdentifier>
+                         <country>United States</country>
+                         <region>Illinois</region>
+                         <settlement>Chicago</settlement>
+                         <institution>University of Chicago Library</institution> 
+                         <repository>Special Collections Research Center</repository>
+                         <collection>Goodspeed Manuscript Collection</collection>
+                         <idno>Ms. 947</idno>
+                         <altName type="Gregory number">Greg. l 1963</altName>
+                         <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 45</altIdentifier>
+                     </msIdentifier>
+                     <msHeading>
+                         <title>Lectionary</title>
+                         <otherName>Symeon Stylites Lectionary</otherName>
+                         <origPlace>Albania or Southern Italy</origPlace>
+                         <origDate notBefore="1001" notAfter="1200">11th or 12th century</origDate>
+                         <textLang langKey="grc">Greek</textLang>
+                         <textLang langKey="ara">Arabic</textLang>
+                     </msHeading>
+                     <msContents>
+                         <overview>
+                             <p>Gospel lectionary in Greek. Includes both Synaxarion and Menologion. Lection headings and Ammonian section numbers. Restoration of text (paper, 15th century) 
+                                 from lost parchment leaves. Formerly Goodspeed Ms. Grk. 45.</p> 
+                         </overview></msContents>
+                     <decoration> 
+                         <overview><p>Quarter-page miniatures number 4, and include portraits of the Evangelists 
+                             Mark and Matthew, of St. Simeon Stylites the Elder and his mother the Venerable Martha, and of the Christ Child's Presentation in the temple.</p>
+                         </overview>
+                         <headpieces><p>Headpieces of interlace, scrollwork, and geometric patterns in green, brown, and light red (fols. 54r, 112r, 133v, 151v, 152r). Horizontal 
+                             bars of similar design occur at minor divisions of the text.</p></headpieces>
+                         <initials><p>Major initials of green, brown, light red, and purple (45-80 mm) set off from text and embellished with foliate, bead, geometric, and knot motifs. 
+                             Inhabited initial of serpents (fol. 167v). Minor initials set off from the text in red.</p></initials>
+                     </decoration><physDesc>
+                         <support><p><material>Parchment</material> and <material>paper</material>. <dimensions type="block" units="mm">230 x 185 mm</dimensions>.</p></support>
+                         <watermarks><p>Watermarks of inserted leaves similar to Briquet, Coupe 4540 (Vicence, 1476), and Fleur 6689 (Udine, 1448).</p></watermarks>
+                         <extent>207 leaves, of which 58 are replacement leaves of paper.</extent>
+                         <foliation><p>52 (foliated paper replacement leaves) + 144 + 6 (foliated paper replacement leaves) + 5. Modern foliation in Arabic numerals in pencil 1-207.</p></foliation>
+                         <collation><p>19 parchment quires, and 8 paper quires, each of 8 leaves, with the exception of quire 7 of 4 leaves, quires 10 and 11, respectively of 9 and 7 leaves, quire 26 of 6 
+                             leaves, and quire 27 of 5 leaves. Estimate of content lost: Johannine section for Weekdays, Saturdays, and Sundays; Matthean section for Saturdays, and Sundays; leaves 
+                             from quire 27 (after fol. 207, various lections). Missing text of fols. 1-52 restored on inserted paper leaves in the 15th century including the Heothina portion (fols. 197r-202v), 
+                             though the text was extant on parchment (fols. 196v, 203r-207r).</p>
+                             <p>Quire numbers from fol. 53r on the first leaf of each parchment quire (recto, lower center), 8-25, 27 (η-κε, κζ). Paper quires numbered 1-7 and 26 (α-ζ, κϛ).</p></collation>
+                         <dimensions type="written" units="mm">Written space 165 x 125 mm (fol. 62r). Each column is 165 x 55 mm with a space of 15 mm between.</dimensions> 
+                         <layout columns="2" writtenLines="25 per column"><p>2 columns, 25 lines. Ruling with hard point. Pricking in the outer margins.</p></layout>
+                         <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in medium brown ink.</p> 
+                             <p>Punctuation includes high and low points, comma, marks of interrogation and elision. Cross for full stop. Quotation marks in left margin next to each line of quoted text.</p>
+                             <p>Occasional corrections to the text added in the margins and noted with reference marks.</p></handDesc>
+                         </msWriting>
+                         <condition><p>Holes in several parchment leaves. Hinges used to reinforce a number of quires. Insect damage to some inserted paper leaves. Minor dirt and water stains.</p></condition>
+                         <bindingDesc>
+                             <binding><p>Bound in thin black <material>leather</material> over boards. Spine mended with brown <material>velvet</material>.</p></binding></bindingDesc>
+                     </physDesc>
+                     <history>
+                         <origin><p>The manuscript is judged to have been written in <name reg="Albania" type="place">Albania</name>, or <name reg="Southern Italy" type="place">Southern Italy</name> in either 
+                             the 11th or 12th century. The artist <name reg="Basil, 11th century-12th century" type="person" role="artist">Basil</name>, 
+                             who painted the miniatures, signed the portrait of St. Simeon Stylites (fol. 151v), and added a prayer.</p></origin> 
+                         <provenance><p>According to the only dated colophon (fol. 202v), the scribe <name reg="Iohannes, 15th century" type="person" role="scribe">Iohannes</name>, who 
+                             supplied the manuscript's missing text on paper, finished his work in the year 1465 (6973). An undated colophon in Arabic on the same folio is possibly that of a one-time 
+                             owner. Its content was covered over by the addition of a piece of paper hinged to the leaf, which contains a transcription of the 15th century scribe's colophon. 
+                             Undated notation and prayer (front pastedown, fol. 52v). University of Chicago Libraries bookplate (front pastedown).</p></provenance>
+                         <acquisition><p>Acquired by the University of Chicago in 1940 from <name reg="Kouzoutzakis, Trini" type="person" role="owner">Trini Kouzoutzakis</name> who purchased 
+                             the manuscript in <name reg="Berat, Albania" type="place">Berat, Albania</name>.</p></acquisition>
+                     </history>
+                 </msDescription>
+             </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p></langUsage>
+            <langUsage><language id="ara"></language><p>Arabic, ISO 639-3</p></langUsage>
+            <textClass>
+                <keywords>
+                    <term>Lectionaries</term>
+                    <term>Miniatures (Illuminations)</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                </keywords>
+            </textClass></profileDesc>
+    </teiHeader>
+    <text>
+   <body>
+ <msDescription id="GMS-0947">
+     <msIdentifier>
+         <country>United States</country>
+         <region>Illinois</region>
+         <settlement>Chicago</settlement>
+         <institution>University of Chicago Library</institution> 
+         <repository>Special Collections Research Center</repository>
+         <collection>Goodspeed Manuscript Collection</collection>
+         <idno>Ms. 947</idno>
+         <altName type="Gregory number">Greg. l 1963</altName>
+         <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 45</altIdentifier>
+     </msIdentifier>
+     <msHeading>
+         <title>Lectionary</title>
+         <otherName>Symeon Stylites Lectionary</otherName>
+         <origPlace>Albania or Southern Italy</origPlace>
+         <origDate notBefore="1001" notAfter="1200">11th or 12th century</origDate>
+         <textLang langKey="grc">Greek</textLang>
+         <textLang langKey="ara">Arabic</textLang>
+     </msHeading>
+     <msContents>
+         <overview>
+             <p>Gospel lectionary in Greek. Includes both Synaxarion and Menologion. Lection headings and Ammonian section numbers. Restoration of text (paper, 15th century) 
+                 from lost parchment leaves. Formerly Goodspeed Ms. Grk. 45.</p> 
+             </overview>
+         <msItem n="1">
+             <locus from="003" to="068">fols. 1r-33v</locus>
+             <summary>Synaxarion. John, weekday, Saturday, and Sunday Lections.</summary>
+         </msItem>
+         <msItem n="2">
+             <locus from="068" to="109">fols. 33v-54r</locus>
+             <summary>Synaxarion. Matthew, Saturday, and Sunday Lections.</summary>
+             <note>Text of the paper leaf ends with the reading for Saturday, Week 16 after Pentecost, 
+                 Matthew 24:34-44 (fol. 52r). The text on parchment, fol. 53r, begins with the reading for Sunday, 
+                 Week 16 after Pentecost (Liturgy) Matthew 25:14-30. Lacking verse 14, it starts with 25:15 at, 
+                 και απεδημησεν ευθεως.</note>
+         </msItem>
+         <msItem n="3">
+             <locus from="109" to="166">fols. 54r-82v</locus>
+             <summary>Synaxarion. Luke, Saturday, and Sunday Lections.</summary>
+         </msItem>
+         <msItem n="4">
+             <locus from="167" to="186">fols. 83r-92v</locus>
+             <summary>Synaxarion. Great Lent, Saturday and Sunday Lections.</summary>
+         </msItem>
+         <msItem n="5">
+             <locus from="186" to="224">fols. 92v-111v</locus>
+             <summary>Synaxarion. Palm Sunday, Holy Week, Monday through Thursday Lections.</summary>
+         </msItem>
+         <msItem n="6">
+             <locus from="225" to="268">fols. 112r-133v</locus>
+             <summary>Synaxarion. Twelve Lections of the Holy Passions.</summary>
+         </msItem>
+         <msItem n="7">
+             <locus from="268" to="304">fols. 133v-151v</locus>
+             <summary>Synaxarion. Good Friday and Holy Saturday Lections.</summary>
+         </msItem>
+         <msItem n="8">
+             <locus from="305" to="331">fols. 152r-165r</locus>
+             <summary>Menologion. September through October.</summary>
+         </msItem>
+         <msItem n="9">
+             <locus from="331" to="351">fols. 165r-175r</locus>
+             <summary>Menologion. November through December.</summary>
+         </msItem>
+         <msItem n="10">
+             <locus from="351" to="370">fols. 175r-184v</locus>
+             <summary>Menologion. January through February.</summary>
+         </msItem>
+         <msItem n="11">
+             <locus from="370" to="375">fols. 184v-187r</locus>
+             <summary>Menologion. March through April.</summary>
+         </msItem>
+         <msItem n="12">
+             <locus from="375" to="386">fols. 187r-192v</locus>
+             <summary>Menologion. May through June.</summary>
+         </msItem>
+         <msItem n="13">
+             <locus from="386" to="393">fols. 192v-196r</locus>
+             <summary>Menologion. July through August.</summary>
+         </msItem>
+         <msItem n="14">
+             <locus from="394" to="417">fols. 196v-207r</locus>
+             <summary>Synaxarion. Eleven Resurrection Lections (Heothina).</summary>
+         </msItem>
+         <msItem n="15">
+             <locus from="417" to="418">fols. 207r-207v</locus>
+             <summary>Lections for various occasions (references only).</summary>
+         </msItem>
+     </msContents>
+     <decoration> 
+         <overview><p>Quarter-page miniatures number 4, and include portraits of the Evangelists 
+             Mark and Matthew, of St. Simeon Stylites the Elder and his mother the Venerable Martha, and of the Christ Child's Presentation in the temple.</p>
+         </overview>
+         <miniatures>
+             <minItem n="1">
+                 <locus from="166" to="166">fol. 82v</locus>
+                 <minDesc>Evangelist, Mark: Portrait. Mark writing, seated on a cushioned platform.</minDesc></minItem>
+             <minItem n="2">
+                 <locus from="186" to="186">fol. 92v</locus>
+                 <minDesc>Evangelist, Matthew: Portrait. Matthew stands holding book; hand of God blesses him (upper right).</minDesc></minItem>
+             <minItem n="3">
+                 <locus from="304" to="304">fol. 151v</locus>
+                 <minDesc>Simeon Stylites: Scene, Visit from his Mother. Simeon seated on pillar; his mother the Venerable Martha stands below him at left.</minDesc>
+                 <colophon>Colophon of the artist Basil: Holy Symeon Stylites watch guard protect your servant Basil the abstemious surnamed Keberges for with 
+                     affection he painted this icon of you. Prayer of Basil: Christ provide strength for my labors.</colophon></minItem>
+             <minItem n="4">
+                 <locus from="364" to="364">fol. 181v</locus>
+                 <minDesc>Christ: Presentation. Before the temple altar, Simeon, at right, reaches for the Christ Child held by the Virgin Mary at left; Joseph stands 
+                     behind her with an offering of doves.</minDesc></minItem>
+         </miniatures>
+         <headpieces><p>Headpieces of interlace, scrollwork, and geometric patterns in green, brown, and light red (fols. 54r, 112r, 133v, 151v, 152r). Horizontal 
+             bars of similar design occur at minor divisions of the text.</p></headpieces>
+         <initials><p>Major initials of green, brown, light red, and purple (45-80 mm) set off from text and embellished with foliate, bead, geometric, and knot motifs. 
+             Inhabited initial of serpents (fol. 167v). Minor initials set off from the text in red.</p></initials>
+     </decoration><physDesc>
+         <support><p><material>Parchment</material> and <material>paper</material>. <dimensions type="block" units="mm">230 x 185 mm</dimensions>.</p></support>
+         <watermarks><p>Watermarks of inserted leaves similar to Briquet, Coupe 4540 (Vicence, 1476), and Fleur 6689 (Udine, 1448).</p></watermarks>
+         <extent>207 leaves, of which 58 are replacement leaves of paper.</extent>
+         <foliation><p>52 (foliated paper replacement leaves) + 144 + 6 (foliated paper replacement leaves) + 5. Modern foliation in Arabic numerals in pencil 1-207.</p></foliation>
+         <collation><p>19 parchment quires, and 8 paper quires, each of 8 leaves, with the exception of quire 7 of 4 leaves, quires 10 and 11, respectively of 9 and 7 leaves, quire 26 of 6 
+             leaves, and quire 27 of 5 leaves. Estimate of content lost: Johannine section for Weekdays, Saturdays, and Sundays; Matthean section for Saturdays, and Sundays; leaves 
+             from quire 27 (after fol. 207, various lections). Missing text of fols. 1-52 restored on inserted paper leaves in the 15th century including the Heothina portion (fols. 197r-202v), 
+             though the text was extant on parchment (fols. 196v, 203r-207r).</p>
+             <p>Quire numbers from fol. 53r on the first leaf of each parchment quire (recto, lower center), 8-25, 27 (η-κε, κζ). Paper quires numbered 1-7 and 26 (α-ζ, κϛ).</p></collation>
+         <dimensions type="written" units="mm">Written space 165 x 125 mm (fol. 62r). Each column is 165 x 55 mm with a space of 15 mm between.</dimensions> 
+         <layout columns="2" writtenLines="25 per column"><p>2 columns, 25 lines. Ruling with hard point. Pricking in the outer margins.</p></layout>
+         <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in medium brown ink.</p> 
+             <p>Punctuation includes high and low points, comma, marks of interrogation and elision. Cross for full stop. Quotation marks in left margin next to each line of quoted text.</p>
+             <p>Occasional corrections to the text added in the margins and noted with reference marks.</p></handDesc>
+   </msWriting>
+         <condition><p>Holes in several parchment leaves. Hinges used to reinforce a number of quires. Insect damage to some inserted paper leaves. Minor dirt and water stains.</p></condition>
+         <bindingDesc>
+             <binding><p>Bound in thin black <material>leather</material> over boards. Spine mended with brown <material>velvet</material>.</p></binding></bindingDesc>
+     </physDesc>
+     <history>
+         <origin><p>The manuscript is judged to have been written in <name reg="Albania" type="place">Albania</name>, or <name reg="Southern Italy" type="place">Southern Italy</name> in either 
+             the 11th or 12th century. The artist <name reg="Basil, 11th century-12th century" type="person" role="artist">Basil</name>, 
+             who painted the miniatures, signed the portrait of St. Simeon Stylites (fol. 151v), and added a prayer.</p></origin> 
+         <provenance><p>According to the only dated colophon (fol. 202v), the scribe <name reg="Iohannes, 15th century" type="person" role="scribe">Iohannes</name>, who 
+             supplied the manuscript's missing text on paper, finished his work in the year 1465 (6973). An undated colophon in Arabic on the same folio is possibly that of a one-time 
+             owner. Its content was covered over by the addition of a piece of paper hinged to the leaf, which contains a transcription of the 15th century scribe's colophon. 
+             Undated notation and prayer (front pastedown, fol. 52v). University of Chicago Libraries bookplate (front pastedown).</p></provenance>
+         <acquisition><p>Acquired by the University of Chicago in 1940 from <name reg="Kouzoutzakis, Trini" type="person" role="owner">Trini Kouzoutzakis</name> who purchased 
+             the manuscript in <name reg="Berat, Albania" type="place">Berat, Albania</name>.</p></acquisition>
+     </history>
+     <additional><listBibl>
+         <bibl>
+             <author>C. U. Faye</author> and <author>W. H. Bond,</author>
+             <title level="m">Supplement to the census of medieval and renaissance manuscripts in the United States and Canada</title>.
+             <imprint>
+                 <pubPlace>(New York:</pubPlace>
+                 <publisher>Bibliographical Society of America,</publisher>
+                 <date>c1962),</date>
+             </imprint>
+             <biblScope type="pages">p. 163.</biblScope>
+         </bibl>
+         <bibl>
+             <author>Merrill Mead Parvis</author>, 
+             <title level="m">The Story of the Goodspeed Collection</title>
+             <imprint>
+                 <pubPlace>([Chicago]:</pubPlace>
+                 <publisher>s.n.,</publisher>
+                 <date>1952),</date>
+             </imprint>
+             <biblScope type="pages">pp. 24-25.</biblScope></bibl>
+          </listBibl> 
+     </additional></msDescription>
+        </body>
+    </text>            
+</TEI.2>

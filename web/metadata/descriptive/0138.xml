@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0138, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0138</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 138</idno>
+                        <altName type="Gregory number">Greg. 2222</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 19</altIdentifier>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>New Testament. Gospels</title>
+                        <otherName>Circle Gospels</otherName>
+                        <origPlace>Unknown Place of Origin</origPlace>
+                        <origDate notBefore="1301" notAfter="1400">14th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents> 
+                        <overview><p>Four gospels in Greek. Ammonian and Eusebian canon numbers, and lection notes in the margins. 
+                            Formerly Goodspeed Ms. Grk. 19.</p>
+                            <p>The manuscript is commonly known as the Circle Gospels because of the distinct circular forms in which its scribe 
+                                rendered the letters Epsilon (ε) and Theta (θ).</p></overview></msContents>
+                    <decoration><overview><p>Marginal miniatures of the Evangelists Matthew, Mark, Luke, and John. Additional embellishments include foliate designs (fols. 2r, 14v), 
+                        a band of crosses with a large bird (fol. 11v), floral designs (fols. 12r, 21v), a bird (fol. 12v), geometric bands (fols. 20r, 25r), a hand blessing (fol. 46v), and an 
+                        initial A (fol. 73v).</p></overview>
+                        <initials><p>Minor initials set off from the text in red.</p></initials> 
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="block" units="mm">245-250 x 186-200 mm</dimensions>.</p></support>
+                        <extent>125 leaves, of which 3 now function as pastedowns.</extent> 
+                        <foliation><p>2 (unfoliated parchment pastedown, composite) + 122 + 1 (unfoliated parchment pastedown). Modern foliation in Arabic numerals in pencil 1-122. 
+                            Traces of earlier numbering, lower right margin.</p></foliation> 
+                        <collation><p>Originally 28 quires of 8 leaves. Estimate of content lost: Leaves 1-8 of quire 1, and leaves 1-2 of quire 2 (before fol. 1, Matthew 1:1-6:20); leaf 6 of 
+                            quire 2 (after fol. 3, Matthew 8:8-24); leaves 7 and 8 of quire 4 (after fol. 19, Matthew 15:5-16:2); leaf 6 of quire 6 (after fol. 32, Matthew 22:4-23); 
+                            leaves 3-6 of quire 8 (after fol. 43, Matthew 26:57-27:56). Mark, 4:30-15:34 (fols. 46-53) bound out of order, before Mark 1:17-4:29 (fols. 54-59). Leaves 1 
+                            and 7 of quire 9 (before fol. 54, Mark 1:1-17, after fol. 58, Mark 3:28-4:11); leaves 2, 3, and 7 of quire 10 (after fol. 46, Mark 5:6-42, after fol. 49, Mark 6:48-7:8); 
+                            leaves 2-8 of quire 11, leaves 1-8 of quire 12, and leaves 1-2 of quire 13 (after fol. 51, Mark 8:7-14:31); leaves 4-5 of quire 13 (after fol. 52, Mark 14:49-15:13); 
+                            leaves 7-8 of quire 13, and leaves 1-2 of quire 14 (after fol. 53, Mark 15:34-end, Luke 1:1-35); leaves 6-8 of quire 14, and leaves 1-3 of quire 15 (after fol. 62, Luke 2:15-4:25); 
+                            leaves 5-7 of quire 15 (after fol. 63, Luke 4:41-6:1); leaves 2-8 of quire 16, and leaves 1-2 of quire 17 (after fol. 65, Luke 6:32-9:4); leaves 8-9 of quire 17 
+                            (after fol. 70, Luke 10:16-11:2); leaves 2-3 of quire 18 (after fol. 72, Luke 11:31-12:7); leaf 7 of quire 18 (after fol. 75, Luke 12:54-13:11); leaves 2 and 5 of quire 19 
+                            (after fol. 77, Luke 14:7-22, after fol. 79, Luke 15:20-16:4); leaves 1 and 8 of quire 20 (after fol. 82, Luke 17:22-18:5, after fol. 88, Luke 20:19-36); leaves 2-3 
+                            of quire 21 (after fol. 89, Luke 21:8-22:8 ); leaf 8 of quire 21, leaves 1-8 of quire 22, and leaf 1 of quire 23 (after fol. 93, Luke 23:7-end; John 1:1-2:3); leaf 8 of quire 23, 
+                            and leaves 1-5 of quire 24 (after fol. 99, John 4:42-6:38); leaf 3 of quire 25 (after fol. 104, John 8:2-18); leaves 2-3, and 5 of quire 26 (after fol. 110, John 10:18-11:18, 
+                            after fol. 111, John 11:39-56); leaves 1 and 3 of quire 27 (after fol. 114, John 13:2-21, after fol. 115, John 14:3-22); leaves 6-8 of quire 27, and leaves 1-8 of quire 28 
+                            (after fol. 117, John 16:2-17:6). Lectionary tables, 3 leaves (after fol. 120, September-October, after fol. 122, end of January-August).</p>
+                            <p>Quire numbers recorded on the first (recto) and last (verso) leaves of each quire (lower margin).</p></collation> 
+                        <dimensions type="written" units="mm">Written space 175 x 130 mm (fol. 8r). Each column is 175 x 60 mm with a space of 10 mm between.</dimensions> 
+                        <layout columns="2" writtenLines="25 per column"><p>2 columns, 25 lines (variants of 26-27). Ruling with hard point. Pricking in outer margin (random).</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in dark brown ink.</p>
+                            <p>Punctuation includes high point, comma, double point (:) before archē and telos indications, and marks of elision and interrogation. 
+                                Quotation marks in left margin next to each line of quoted text.</p>
+                            <p>Corrections to the text written in the margins in red or brown ink, and are marked with several types of reference signs.</p></handDesc>
+                        </msWriting>
+                        <textDivisions><p>Titles in red.</p></textDivisions>
+                        <condition><p>Water and dirt stains. Leaves cut out of the manuscript and glued to the inside front and back boards as pastedowns.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Bound in medium brown <material>leather</material> over boards. Nail holes of strap closures and corner 
+                                bosses once attached. </p><decoNote><p>Front cover: Blind-tooled cross within border frame, both infilled with heart and foliate motifs. Back cover: 
+                                    Pattern of diagonal lines enclosed in same framing.</p></decoNote>
+                            </binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript is dated to the 14th century, its place of origin is unknown. Marginal miniatures and embellishment are the work 
+                            of <name reg="Pelekasis, Demetrios, born 1881" type="person" role="artist">Demetrios Pelekasis</name> (born 1881). A painter of icons in the early 20th century, 
+                            Pelekasis headed a workshop in <name reg="Greece" type="place">Greece</name> wherein he forged illuminations in authentic 
+                            Byzantine manuscripts. See Gary Vikan, "A group of forged Byzantine miniatures," <hi rend="italics">Aachener Kunstblätter</hi> 
+                            48 (1978-1979).</p></origin> 
+                        <provenance><p>The manuscript was in <name reg="Paris, France" type="place">Paris</name> by 1929, in the shop of the bookseller 
+                            <name reg="Gruel, Léon, 1841-1923" type="person" role="bookseller">Léon Gruel</name> where it was seen 
+                            by <name reg="Riddle, Donald Wayne, 1894-1968" type="person" role="teacher">Donald W. Riddle</name>, a faculty member of the University of Chicago.</p>
+                            <p>Five of the manuscript's missing leaves are held in public and private collections. A Gospels, W. 523 of  the 
+                                <name reg="Walters Art Museum (Baltimore, Md.)" type="org">Walters Art Museum</name>, <name reg="Baltimore, Maryland" type="place">Baltimore</name>, 
+                                contains as its front and back pastedowns, leaf 6 of quire 16 (Luke 7:38-45, exposed side), and leaf 3 of quire 18 (Luke 11:54-12:6, exposed side). 
+                                In 1906, two leaves (John 16:3-17:6) were at the <name reg="Metropolis of Derkoi (Therapeia)" type="org">Metropolis of Derkoi</name> 
+                                in <name reg="Constantinople" type="place ">Constantinople</name>, the present-day <name reg="Istanbul, Turkey" type="place">Istanbul</name>, seen there 
+                                by <name reg="Gregory, Caspar René, 1846-1917" type="person"></name>Caspar René Gregory (1846-1917), author and New Testament text critic. A fifth leaf (Luke 1:18-35) was 
+                                purchased ca. 1971 by Dr. <name reg="Parvis, Merrill Mead, born 1906" type="person" role="teacher">Merrill M. Parvis</name> at a bookshop in Paris. The current state of the last three leaves is not known.</p>
+                            <p>University of Chicago Libraries bookplate (inside front cover); notation (fol. 76v); prayer (fol. 86v).</p></provenance>
+                        <acquisition><p>Acquired by the University of Chicago from <name reg="M. Stora et cie (Firm)" type="org" role="bookseller">Maurice Stora (Paris)</name>, December 1930.</p></acquisition>
+                    </history></msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+  <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+ </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Gospels. Greek</term>
+                    <term>Lectionaries</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                    <term>Pelekasis, Demetrios, born 1881</term>
+                </keywords>
+            </textClass>
+ </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0138">
+    <msIdentifier>
+        <country>United States</country>
+        <region>Illinois</region>
+        <settlement>Chicago</settlement>
+        <institution>University of Chicago Library</institution> 
+        <repository>Special Collections Research Center</repository>
+        <collection>Goodspeed Manuscript Collection</collection>
+        <idno>Ms. 138</idno>
+        <altName type="Gregory number">Greg. 2222</altName>
+        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 19</altIdentifier>
+    </msIdentifier>
+    <msHeading>
+        <title>New Testament. Gospels</title>
+        <otherName>Circle Gospels</otherName>
+        <origPlace>Unknown Place of Origin</origPlace>
+        <origDate notBefore="1301" notAfter="1400">14th century</origDate>
+        <textLang langKey="grc">Greek</textLang>
+    </msHeading>
+<msContents> 
+    <overview><p>Four gospels in Greek. Ammonian and Eusebian canon numbers, and lection notes in the margins. 
+    Formerly Goodspeed Ms. Grk. 19.</p>
+        <p>The manuscript is commonly known as the Circle Gospels because of the distinct circular forms in which its scribe 
+            rendered the letters Epsilon (ε) and Theta (θ).</p></overview>
+    <msItem n="1">
+        <locus from = "005" to ="084">fols. 1r-40v</locus>
+        <locus from = "250" to ="250">Pastedown (back, recto)</locus>
+        <locus from = "249" to ="249">Pastedown (back, verso)</locus>
+        <locus from = "085" to ="094">fols. 41r-45v</locus>
+        <summary>Matthew (begins at 6:20 with [θησαυ]ριζετε to 25:34 with ευλογημενοι). The text continues 
+            on the back pastedown (r-v) at 25:34 to 26:6; and, resumes at fol. 41r, 26:6 with [δ]ε Ιυ.</summary>
+        <note>The recto of the leaf serving as the back pastedown was previously glued to the board.</note></msItem>
+    <msItem n="2">
+        <locus from = "111" to ="122">fols. 54r-59v</locus> 
+        <locus from = "095" to ="110">fols. 46r-53v</locus> 
+        <summary>Mark (begins at 1:17 with αυτοισ  to 4:29 with θερισμοσ). Mark 4:30-15:34 bound out of order (fols. 46r-53v).</summary></msItem>
+    <msItem n="3">
+        <locus from = "123" to ="190">fols. 60r-93v</locus> 
+        <summary>Luke (begins at 1:35 with [αγ]γελοσ and ends at 23:7 with προσ η[ρωδην]).</summary></msItem>
+    <msItem n="4">
+        <locus from = "191" to ="224">fols. 94r-110v</locus>
+        <locus from = "4" to ="4">Pastedown (front, recto)</locus>
+        <locus from = "3" to ="3">Pastedown (front, verso)</locus>
+        <locus from = "225" to ="238">fols. 111r-117v</locus>
+        <summary>John (begins at 2:3 with λεγει to 10:18 with εμαντου εξουσιαν). The text continues on the front 
+            pastedown (r-v) at 10:39 to 11:18. It resumes on fol. 111r, at 11:18 with ως απο, and ends at 16:3 with προσ[φερειν].</summary>
+        <note>The front pastedown is composed of partial sections of two leaves. The upper portion is leaf 3 of quire 26, the second of two leaves 
+            missing after fol. 110. The lower portion is leaf 3 of quire 24, the fourth folio after fol. 99, and contains the text of 
+            John 5:38-39, 43-44 (recto), and John 6:1-2, 6:5-7 (verso). The versos of the two leaves serving as the front 
+            pastedown were previously glued to the board.</note></msItem>
+    <msItem n="5">
+        <locus from = "239" to ="248">fols. 118r-122v</locus> 
+        <summary>Lectionary tables: John (weekdays and weekends); Matthew and Luke (weekend); 
+        Passion lections (Canonical Hours, Good Friday); Good Friday to Easter; Menologion tables (October 18-January 24).</summary>
+    </msItem>
+</msContents>
+    <decoration><overview><p>Marginal miniatures of the Evangelists Matthew, Mark, Luke, and John. Additional embellishments include foliate designs (fols. 2r, 14v), 
+        a band of crosses with a large bird (fol. 11v), floral designs (fols. 12r, 21v), a bird (fol. 12v), geometric bands (fols. 20r, 25r), a hand blessing (fol. 46v), and an 
+        initial A (fol. 73v).</p></overview>
+        <miniatures>
+      <minItem n="1"> 
+      <locus from ="36" to="36">fol. 16v</locus>
+          <minDesc>Evangelist, Mark, Portrait: Mark writing, seated in high-backed chair before desk.
+              Cherubs in square tablets frame the scene.</minDesc>
+      </minItem>
+       <minItem n="2"> 
+     <locus from ="37" to="37">fol. 17r</locus>
+           <minDesc>Evangelist, Matthew, Portrait: Matthew writing, seated in high-backed chair before desk; buildings in background. 
+               Cherubs and a portrait bust of Christ in square tablets frame the scene.</minDesc></minItem>
+  <minItem n="3"> 
+   <locus from ="228" to="228">fol. 112v</locus>
+      <minDesc>Evangelist, John, Portrait: John writing, seated in high-backed chair.</minDesc>
+                </minItem>
+    <minItem n="4"> 
+    <locus from ="229" to="229">fol. 113r</locus>
+        <minDesc>Evangelist, Luke, Portrait: Luke writing, seated in high-backed chair before desk</minDesc>
+    </minItem></miniatures>
+    <initials><p>Minor initials set off from the text in red.</p></initials>
+    </decoration>
+    <physDesc>
+ <support><p><material>Parchment</material>. <dimensions type="block" units="mm">245-250 x 186-200 mm</dimensions>.</p></support>
+        <extent>125 leaves, of which 3 now function as pastedowns.</extent> 
+        <foliation><p>2 (unfoliated parchment pastedown, composite) + 122 + 1 (unfoliated parchment pastedown). Modern foliation in Arabic numerals in pencil 1-122. 
+            Traces of earlier numbering, lower right margin.</p></foliation> 
+        <collation><p>Originally 28 quires of 8 leaves. Estimate of content lost: Leaves 1-8 of quire 1, and leaves 1-2 of quire 2 (before fol. 1, Matthew 1:1-6:20); leaf 6 of 
+            quire 2 (after fol. 3, Matthew 8:8-24); leaves 7 and 8 of quire 4 (after fol. 19, Matthew 15:5-16:2); leaf 6 of quire 6 (after fol. 32, Matthew 22:4-23); 
+            leaves 3-6 of quire 8 (after fol. 43, Matthew 26:57-27:56). Mark, 4:30-15:34 (fols. 46-53) bound out of order, before Mark 1:17-4:29 (fols. 54-59). Leaves 1 
+            and 7 of quire 9 (before fol. 54, Mark 1:1-17, after fol. 58, Mark 3:28-4:11); leaves 2, 3, and 7 of quire 10 (after fol. 46, Mark 5:6-42, after fol. 49, Mark 6:48-7:8); 
+            leaves 2-8 of quire 11, leaves 1-8 of quire 12, and leaves 1-2 of quire 13 (after fol. 51, Mark 8:7-14:31); leaves 4-5 of quire 13 (after fol. 52, Mark 14:49-15:13); 
+            leaves 7-8 of quire 13, and leaves 1-2 of quire 14 (after fol. 53, Mark 15:34-end, Luke 1:1-35); leaves 6-8 of quire 14, and leaves 1-3 of quire 15 (after fol. 62, Luke 2:15-4:25); 
+            leaves 5-7 of quire 15 (after fol. 63, Luke 4:41-6:1); leaves 2-8 of quire 16, and leaves 1-2 of quire 17 (after fol. 65, Luke 6:32-9:4); leaves 8-9 of quire 17 
+            (after fol. 70, Luke 10:16-11:2); leaves 2-3 of quire 18 (after fol. 72, Luke 11:31-12:7); leaf 7 of quire 18 (after fol. 75, Luke 12:54-13:11); leaves 2 and 5 of quire 19 
+            (after fol. 77, Luke 14:7-22, after fol. 79, Luke 15:20-16:4); leaves 1 and 8 of quire 20 (after fol. 82, Luke 17:22-18:5, after fol. 88, Luke 20:19-36); leaves 2-3 
+            of quire 21 (after fol. 89, Luke 21:8-22:8 ); leaf 8 of quire 21, leaves 1-8 of quire 22, and leaf 1 of quire 23 (after fol. 93, Luke 23:7-end; John 1:1-2:3); leaf 8 of quire 23, 
+            and leaves 1-5 of quire 24 (after fol. 99, John 4:42-6:38); leaf 3 of quire 25 (after fol. 104, John 8:2-18); leaves 2-3, and 5 of quire 26 (after fol. 110, John 10:18-11:18, 
+            after fol. 111, John 11:39-56); leaves 1 and 3 of quire 27 (after fol. 114, John 13:2-21, after fol. 115, John 14:3-22); leaves 6-8 of quire 27, and leaves 1-8 of quire 28 
+            (after fol. 117, John 16:2-17:6). Lectionary tables, 3 leaves (after fol. 120, September-October, after fol. 122, end of January-August).</p>
+            <p>Quire numbers recorded on the first (recto) and last (verso) leaves of each quire (lower margin).</p></collation> 
+        <dimensions type="written" units="mm">Written space 175 x 130 mm (fol. 8r). Each column is 175 x 60 mm with a space of 10 mm between.</dimensions> 
+    <layout columns="2" writtenLines="25 per column"><p>2 columns, 25 lines (variants of 26-27). Ruling with hard point. 
+        Pricking in outer margin (random).</p></layout>
+        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in dark brown ink.</p>
+            <p>Punctuation includes high point, comma, double point (:) before archē and telos indications, and marks of elision and interrogation. 
+                Quotation marks in left margin next to each line of quoted text.</p>
+            <p>Corrections to the text written in the margins in red or brown ink, and are marked with several types of reference signs.</p></handDesc>
+        </msWriting>
+        <textDivisions><p>Titles in red.</p></textDivisions>
+        <condition><p>Water and dirt stains. Leaves cut out of the manuscript and glued to the inside front and back boards as pastedowns.</p></condition>
+        <bindingDesc>
+            <binding><p>Bound in medium brown <material>leather</material> over boards. Nail holes of strap closures and corner 
+                bosses once attached. </p><decoNote><p>Front cover: Blind-tooled cross within border frame, both infilled with heart and foliate motifs. Back cover: 
+                Pattern of diagonal lines enclosed in same framing.</p></decoNote>
+        </binding></bindingDesc>
+ </physDesc>
+    <history>
+        <origin><p>The manuscript is dated to the 14th century, its place of origin is unknown. Marginal miniatures and embellishment are the work 
+            of <name reg="Pelekasis, Demetrios, born 1881" type="person" role="artist">Demetrios Pelekasis</name> (born 1881). A painter of icons in the early 20th century, 
+            Pelekasis headed a workshop in <name reg="Greece" type="place">Greece</name> wherein he forged illuminations in authentic 
+            Byzantine manuscripts. See Gary Vikan, "A group of forged Byzantine miniatures," <hi rend="italics">Aachener Kunstblätter</hi> 
+            48 (1978-1979).</p></origin> 
+    <provenance><p>The manuscript was in <name reg="Paris, France" type="place">Paris</name> by 1929, in the shop of the bookseller 
+        <name reg="Gruel, Léon, 1841-1923" type="person" role="bookseller">Léon Gruel</name> where it was seen 
+        by <name reg="Riddle, Donald Wayne, 1894-1968" type="person" role="teacher">Donald W. Riddle</name>, a faculty member of the University of Chicago.</p>
+        <p>Five of the manuscript's missing leaves are held in public and private collections. A Gospels, W. 523 of  the 
+            <name reg="Walters Art Museum (Baltimore, Md.)" type="org">Walters Art Museum</name>, <name reg="Baltimore, Maryland" type="place">Baltimore</name>, 
+            contains as its front and back pastedowns, leaf 6 of quire 16 (Luke 7:38-45, exposed side), and leaf 3 of quire 18 (Luke 11:54-12:6, exposed side). 
+            In 1906, two leaves (John 16:3-17:6) were at the <name reg="Metropolis of Derkoi (Therapeia)" type="org">Metropolis of Derkoi</name> 
+            in <name reg="Constantinople" type="place ">Constantinople</name>, the present-day <name reg="Istanbul, Turkey" type="place">Istanbul</name>, seen there 
+            by <name reg="Gregory, Caspar René, 1846-1917" type="person"></name>Caspar René Gregory (1846-1917), author and New Testament text critic. A fifth leaf (Luke 1:18-35) was 
+            purchased ca. 1971 by Dr. <name reg="Parvis, Merrill Mead, born 1906" type="person" role="teacher">Merrill M. Parvis</name> at a bookshop in Paris. The current state of the last three leaves is not known.</p>
+        <p>University of Chicago Libraries bookplate (inside front cover); notation (fol. 76v); prayer (fol. 86v).</p></provenance>
+    <acquisition><p>Acquired by the University of Chicago from <name reg="M. Stora et cie (Firm)" type="org" role="bookseller">Maurice Stora (Paris)</name>, December 1930.</p></acquisition>
+</history>
+    <additional><listBibl>
+        <bibl>
+            <author>Caspar René Gregory</author>, 
+            <title level="m">Textkritik des Neuen Testamentes</title>
+            <imprint>
+                <pubPlace>(Leipzig:</pubPlace>
+                <publisher>J. C. Hinrichs,</publisher>
+                <date>1900-1909),</date>
+            </imprint>
+            <biblScope type="pages">vol. 3, pp. 1200, 1475. no. 2222.</biblScope></bibl>
+        <bibl>
+            <author>Seymour de Ricci,</author>
+            <title level="m">Census of Medieval and Renaissance Manuscripts in the United States and Canada</title>
+            <imprint>
+                <pubPlace>(New York:</pubPlace>
+                <publisher>H. W. Wilson Company,</publisher>
+                <date>1935),</date>
+            </imprint>
+            <biblScope type="volume">vol. 1, p. 570; vol. 2, p. 2281.</biblScope></bibl>
+        <bibl><author>Kenneth W. Clark</author>, 
+            <title level="m">A Descriptive Catalogue of Greek New Testament Manuscripts in America</title>
+            <imprint>
+                <pubPlace>(Chicago:</pubPlace>
+                <publisher>University of Chicago Press,</publisher>
+                <date>1937),</date>
+            </imprint>
+            <biblScope type="pages">pp. 251-255.</biblScope></bibl>
+        <bibl> <author>Merrill Mead Parvis</author>, 
+            <title level="m">The Story of the Goodspeed Collection</title>
+            <imprint>
+                <pubPlace>([Chicago]:</pubPlace>
+                <publisher>s.n.,</publisher>
+                <date>1952),</date>
+            </imprint>
+            <biblScope type="pages">pp. 16-17.</biblScope></bibl>
+        <bibl>
+            <author>Kurt Aland</author>, 
+            <title level="m">Kurzgefassten Liste der griechischen Handschriften des Neuen Testaments</title>, 
+            <title level="s">Arbeiten zur neutestamentlichen Textforschung</title>
+            <biblScope type="volume">1</biblScope>
+            <imprint><date>(1963),</date></imprint>
+            <biblScope type="pages">pp. 177, 392, 395, 427 (2222).</biblScope></bibl>
+        <bibl>
+            <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+                Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+            <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+            <imprint> 
+                <pubPlace>([Chicago:</pubPlace> 
+                <publisher>s.n.,</publisher> 
+                <date>1973]),</date></imprint> 
+            <biblScope type="volume">36,</biblScope> 
+            <biblScope type="catalogNo">no. 40.</biblScope></bibl>
+        <bibl>
+            <title>Walters Art Museum. "Walters Art Museum Ms W523." Accessed October 22, 2012. <ref>http://www.thedigitalwalters.org/Data/WaltersManuscripts/html/W523</ref></title></bibl></listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

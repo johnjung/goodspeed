@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://www.lib.uchicago.edu/bus/DTD/goodspeed.dtd">
+<TEI.2>
+ 
+<teiHeader date.created="2015-11-04" creator="jfcd">
+<fileDesc>
+<titleStmt>
+ <title>[University of Chicago Library GMS-0275, a manuscript catalogue description in electronic form]</title>
+ <funder>Institute of Museum and Library Services</funder>
+ <respStmt>
+  <resp>Creation of electronic version:</resp>
+  <name>University of Chicago Library</name>
+  <resp>Creation of digital images:</resp>
+  <name>University of Chicago Library</name>
+ </respStmt> 
+</titleStmt>
+<publicationStmt>
+ <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+ <pubPlace>Chicago, Illinois</pubPlace>
+ <date>2009</date>
+ <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0275</idno>
+ <availability status= "free">
+  <p>Publicly accessible</p></availability>
+</publicationStmt>
+ <sourceDesc>
+ <msDescription>
+  <msIdentifier>
+   <country>United States</country>
+   <region>Illinois</region>
+   <settlement>Chicago</settlement>
+   <institution>University of Chicago Library</institution> 
+   <repository>Special Collections Research Center</repository>
+   <collection>Goodspeed Manuscript Collection</collection>
+   <idno>Ms. 275</idno>
+   <altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 66</altIdentifier>
+  </msIdentifier>
+  <msHeading>
+   <title>Hymnal</title>
+   <otherName>Astuacatur Hymnal</otherName>
+   <origPlace>Constantinople</origPlace>
+   <origDate>1654</origDate>
+   <textLang langKey="hye">Armenian</textLang>
+  </msHeading>
+  <msContents>
+   <overview>
+    <p>Hymnal (Sharaknots‛) in Armenian. Canons arranged in order of the liturgical year. Musical notation throughout. 
+     Formerly Goodspeed Ms. Arm. 66</p></overview></msContents>
+  <decoration> 
+   <overview><p>37 marginal miniatures and 1 full-page miniature paired with canons of the primary text. 
+    Marginal vignettes of arabesques, birds, flowers, and temples.</p>
+   </overview>
+   <headpieces><p>Headpieces within diamond shaped or circular frames of red, green, blue, and gold floral motifs (fols. 1r, 56v, 109v, 137r, 181r, 228r, 286r, 309r, 336r).</p></headpieces> 
+   <initials><p>Major initials formed by figures of lions or birds (23-25 mm). Minor initials formed by figures of birds or flowers.</p>
+   </initials>
+  </decoration>
+  <physDesc>
+   <support><p><material>Parchment</material> and <material>paper</material>. <dimensions type="block" units="mm">115 x 76 mm</dimensions>.</p></support> 
+   <extent>359 leaves, of which 2 are raised pastedowns that function as flyleaves. Folio number 232 left out of primary foliation. Leaves initially missed now numbered 136b, 149b, and 
+    159b. Foliation corrected from fol. 323 forward.</extent>  
+   <foliation><p>1 (unfoliated parchment flyleaf) + 136 +1 (136b) + 13 + 1 (149b) + 10 +1 (159b) + 195 + 1 (unfoliated parchment flyleaf). Modern foliation in 
+    Arabic numerals in ink 1-355. Corrections in pencil.</p></foliation>
+   <collation><p>23 numbered quires. In several places within the manuscript inserted paper or parchment leaves replace the ending of canon texts or are 
+    blank (fols. 136b, 227, 285, 308, and 335). Where leaves were excised, images corresponding to the following canons were lost: Holy Easter (fol. 137r); Eve of the 
+    Holy Cross (fol. 228r); Whole body of martyrs (fol. 286r); Whole body of those that have died in Christ (fol. 309r); and Resurrection of our Lord Jesus Christ (fol. 336r). It is thought a 
+    miniature of the Virgin Mary's birth, now lost, preceded the canon memorializing the event (fol.1r).</p></collation>
+   <dimensions type="written" units="mm">Written space 72 x 43 mm (fol. 9r).</dimensions> 
+   <layout columns="1" writtenLines="23-24"><p>1 column, 23 to 24 lines. Frame ruling in ink.</p></layout> 
+   <msWriting><handDesc script="Bolorgir" medium="ink"> 
+    <p>Written chiefly in bolorgir script in black ink. The first line of text below the two headpieces (fols. 1r, and 137r) are respectively bird letters 
+     and ornate capitals. The second and third lines are written in erkat’agir script. Musical notation included.</p></handDesc></msWriting> 
+   <textDivisions><p>Titles in gold and red.</p></textDivisions>
+   <condition><p>Dirt and water stains. Text rubbed (fols. 343-353).</p></condition> 
+   <bindingDesc> 
+    <binding><p>Bound in medium brown <material>leather</material> over boards.</p></binding>
+   </bindingDesc>
+  </physDesc>
+  <history>
+   <origin><p>The manuscript was written in 1654 (Armenian Era 1103) by the priest <name reg="Astuacatur, 17th century" type="person" role="priest">Astuacatur</name> at 
+    the <name reg="Church of St. Sergis the General (Constantinople)" type="org">Church of St. Sergis the General (Surb Sargis Zōravar)</name> in <name reg="Constantinople" type="place">Constantinople</name>, 
+    the present-day <name reg="Istanbul, Turkey" type="place">Istanbul, Turkey</name> (his colophon, fols. 355r-355v).</p></origin> 
+   <provenance><p>Later history of the manuscript is unknown. Notation including price (front flyleaf, recto). Inscription and notation (back flyleaf, recto).</p></provenance> 
+   <acquisition><p>Date acquired by the University of Chicago unknown.</p></acquisition>
+  </history></msDescription>
+</sourceDesc>
+</fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+    an interface that supports browsing within individual manuscripts and across the collection.</p>
+   <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+    as of <date>2012-09-22</date>.</p> 
+   <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+  </projectDesc>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage><language id="hye"></language><p>Armenian, ISO 639-3</p>
+ </langUsage>
+  <textClass>
+   <keywords>
+    <term>Manuscripts, Armenian</term>
+    <term>Hymns, Armenian</term>
+    <term>Miniatures (Illuminations)</term>
+    <term>Astuacatur, 17th century</term>
+   </keywords>
+  </textClass>
+ </profileDesc>
+</teiHeader>
+ <text>
+ <body>
+ <msDescription id="GMS-0275">
+ <msIdentifier>
+ <country>United States</country>
+<region>Illinois</region>
+ <settlement>Chicago</settlement>
+ <institution>University of Chicago Library</institution> 
+ <repository>Special Collections Research Center</repository>
+ <collection>Goodspeed Manuscript Collection</collection>
+  <idno>Ms. 275</idno>
+  <altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 66</altIdentifier>
+ </msIdentifier>
+  <msHeading>
+   <title>Hymnal</title>
+   <otherName>Astuacatur Hymnal</otherName>
+   <origPlace>Constantinople</origPlace>
+   <origDate>1654</origDate>
+   <textLang langKey="hye">Armenian</textLang>
+  </msHeading>
+  <msContents>
+   <overview>
+    <p>Hymnal (Sharaknots‛) in Armenian. Canons arranged in order of the liturgical year. Musical notation throughout. 
+     Formerly Goodspeed Ms. Arm. 66</p></overview>
+ <msItem n="1">
+  <locus from="005" to="011">fols. 1r-4r</locus>
+  <summary>Canon of the birth of the Holy Theotokos.</summary>
+ </msItem>
+   <msItem n="2">
+    <locus from="011" to="017">fols. 4r-7r</locus>
+    <summary>Canon of St. Joakim and St. Anna, parents of the Holy Theotokos.</summary>
+   </msItem> 
+   <msItem n="3">
+    <locus from="017" to="023">fols. 7r-10r</locus>
+    <summary>Canon of the Annunciation to the Holy Theotokos.</summary>
+   </msItem> 
+   <msItem n="4">
+    <locus from="024" to="027">fols. 10v-12r</locus>
+    <summary>Canon of the Eve of Theophany and of Lucernarium.</summary>
+   </msItem> 
+   <msItem n="5">
+    <locus from="027" to="060">fols. 12r-28v</locus>
+    <summary>Canons of the Theophany (first through eighth day).</summary>
+   </msItem> 
+   <msItem n="6">
+    <locus from="060" to="070">fols. 28v-33v</locus>
+    <summary>Hymns of the Magnificat of the Resurrection.</summary>
+   </msItem> 
+   <msItem n="7">
+    <locus from="070" to="075">fols. 33v-36r</locus>
+    <summary>Canon of Candlemas (Penthesis).</summary>
+   </msItem> 
+   <msItem n="8">
+    <locus from="075" to="078">fols. 36r-37v</locus>
+    <summary>Canon of St. Anthony the Great of Egypt.</summary>
+   </msItem> 
+   <msItem n="9">
+    <locus from="078" to="082">fols. 37v-39v</locus>
+    <summary>Canon of Emperor Theodosius the Great.</summary>
+   </msItem> 
+   <msItem n="10">
+    <locus from="082" to="085">fols. 39v-41r</locus>
+    <summary>Canon of St. David the Prophet-king and St. James the Apostle.</summary>
+   </msItem> 
+   <msItem n="11">
+    <locus from="085" to="090">fols. 41r-43v</locus>
+    <summary>Canon of St. Stephen, deacon and Protomartyr.</summary>
+   </msItem> 
+   <msItem n="12">
+    <locus from="090" to="094">fols. 43v-45v</locus>
+    <summary>Canon of St. Peter and St. Paul the Apostles.</summary>
+   </msItem> 
+   <msItem n="13">
+    <locus from="094" to="098">fols. 45v-47v</locus>
+    <summary>Canon of St. James and St. John the Apostles (Sons of Thunder).</summary>
+   </msItem> 
+   <msItem n="14">
+    <locus from="098" to="105">fols. 47v-51r</locus>
+    <summary>Canon of the Holy Apostles and St. Paul. Hymn of the twelve Holy Apostles.</summary>
+   </msItem> 
+   <msItem n="15">
+    <locus from="105" to="109">fols. 51r-53r</locus>
+    <summary>Canon of the Seventy-two Holy Disciples.</summary>
+   </msItem> 
+   <msItem n="16">
+    <locus from="109" to="111">fols. 53r-54r</locus>
+    <summary>Hymn of St. Sergius the General.</summary>
+   </msItem> 
+   <msItem n="17">
+    <locus from="111" to="115">fols. 54r-56r</locus>
+    <summary>Canon of Jonah the Prophet.</summary>
+   </msItem> 
+   <msItem n="18">
+    <locus from="116" to="119">fols. 56v-58r</locus>
+    <summary>Canon of Shrove Tuesday.</summary>
+   </msItem> 
+   <msItem n="19">
+    <locus from="119" to="127">fols. 58r-62r</locus>
+    <summary>Canon of Repentance.</summary>
+   </msItem>
+   <msItem n="20">
+    <locus from="127" to="174">fols. 62r-85v</locus>
+    <locus from="180" to="193">fols. 88v-95r</locus>
+    <locus from="207" to="221">fols. 102r-109r</locus>
+    <summary>Canons of the Salt and Bread Fast 
+     (Lent, second through sixth Sunday). Hymns.</summary>
+   </msItem> 
+   <msItem n="21">
+    <locus from="174" to="180">fols. 85v-88v</locus>
+    <summary>Canon of the Forty Holy Soldier-Martyrs of Sebaste.</summary>
+   </msItem> 
+   <msItem n="22">
+    <locus from="193" to="207">fols. 95r-102r</locus>
+    <summary>Canon of St. Gregory the Illuminator's casting into the pit.</summary>
+   </msItem> 
+   <msItem n="23">
+    <locus from="222" to="226">fols. 109v-111v</locus>
+    <summary>Canon of the Raising of Lazarus.</summary>
+   </msItem> 
+   <msItem n="24">
+    <locus from="226" to="233">fols. 111v-115r</locus>
+    <summary>Canons of Palm Sunday.</summary>
+   </msItem> 
+   <msItem n="25">
+    <locus from="233" to="249">fols. 115r-123r</locus>
+    <summary>Canons of the Great Days of the Week (second though fifth day).</summary>
+   </msItem> 
+   <msItem n="26">
+    <locus from="249" to="256">fols. 123r-126v</locus>
+    <summary>Canon of Great Friday.</summary>
+   </msItem> 
+   <msItem n="27">
+    <locus from="256" to="271">fols. 126v-134r</locus>
+    <summary>Canticle of the Lord Catholicos St. Nersēs the Great (Eve of Great Friday). Song for Great Friday.</summary>
+   </msItem> 
+   <msItem n="28">
+    <locus from="271" to="274">fols. 134r-135v</locus>
+    <summary>Canon of the Great Sabbath of the Lord's burial.</summary>
+   </msItem> 
+   <msItem n="29">
+    <locus from="274" to="276">fols. 135v-136v</locus>
+    <summary>Hymns for the Quinquagesima Mass.</summary>
+    <note>Blank (fol. 136[b]).</note>
+   </msItem> 
+   <msItem n="30">
+    <locus from="279" to="283">fols. 137r-139r </locus>
+    <summary>Canon of Holy Easter.</summary>
+   </msItem> 
+   <msItem n="31">
+    <locus from="283" to="291">fols. 139r-143r</locus>
+    <summary>Canon of the Resurrection.</summary>
+   </msItem> 
+   <msItem n="32">
+    <locus from="291" to="293">fols. 143r-144r</locus>
+    <summary>Canon of the Saturday commemorating the beheading of St. John the Baptist.</summary>
+   </msItem> 
+   <msItem n="33">
+    <locus from="293" to="306">fols. 144r-149[b]v</locus>
+    <summary>Canon of the New Sunday. Canons (untitled).</summary>
+   </msItem> 
+   <msItem n="34">
+    <locus from="306" to="346">fols. 149[b]v-168v</locus>
+    <summary>Canon of the Sunday of world shrines. Canons (untitled).</summary></msItem>
+    <msItem n="35">
+     <locus from="346" to="354">fols. 168v-172v</locus>
+     <summary>Canon of the Ascension of Christ.</summary>
+   </msItem> 
+   <msItem n="36">
+    <locus from="354" to="369">fols. 172v-180r</locus>
+    <summary>Canon of the second Palm Sunday. Canon (untitled).</summary>
+   </msItem> 
+   <msItem n="37">
+    <locus from="371" to="393">fols. 181r-192r</locus>
+    <summary>Canons of the Pentecost (first through seventh day).</summary>
+   </msItem> 
+   <msItem n="38">
+    <locus from="393" to="401">fols. 192r-196r</locus>
+    <summary>Canon of the birth of St. John the Baptist.</summary>
+   </msItem> 
+   <msItem n="39">
+    <locus from="401" to="404">fols. 196r-197v</locus>
+    <summary>Canon of St. John the Baptist.</summary>
+   </msItem> 
+   <msItem n="40">
+    <locus from="404" to="408">fols. 197v-199v</locus>
+    <summary>Canon of St. Gregory the Illuminator's deliverance from the pit.</summary>
+   </msItem> 
+   <msItem n="41">
+    <locus from="408" to="411">fols. 199v-201r</locus>
+    <summary>Canon of St. Gregory the Illuminator's sons and 
+     grandsons, Sts. Aristakes, Vrtanes, Housik, Grigoris, and Daniel.</summary>
+   </msItem> 
+   <msItem n="42">
+    <locus from="411" to="415">fols. 201r-203r</locus>
+    <summary>Canon of St. Nersēs the Great.</summary>
+   </msItem> 
+   <msItem n="43">
+    <locus from="415" to="416">fols. 203r-203v</locus>
+    <summary>Hymn of St. Isaac (Sahak) the Great.</summary>
+   </msItem> 
+   <msItem n="44">
+    <locus from="416" to="427">fols. 203v-209r </locus>
+    <summary>Canon of St. Hřip‛simē and her companions.</summary>
+   </msItem> 
+   <msItem n="45">
+    <locus from="427" to="428">fols. 209r-209v</locus>
+    <summary>Hymn of St. Sanduxt.</summary>
+   </msItem> 
+   <msItem n="46">
+    <locus from="428" to="431">fols. 209v-211r</locus>
+    <summary>Canon of the Holy Tabernacle.</summary>
+   </msItem> 
+   <msItem n="47">
+    <locus from="431" to="442">fols. 211r-216v</locus>
+    <summary>Canon of the Transfiguration (first through third day).</summary>
+   </msItem> 
+   <msItem n="48">
+    <locus from="442" to="445">fols. 216v-218r</locus>
+    <summary>Canon of Shōghakat‛ (Apparition of Holy Etchmiadzin).</summary>
+   </msItem> 
+   <msItem n="49">
+    <locus from="445" to="457">fols. 218r-224r</locus>
+    <summary>Canon of the passing of the Holy Theotokos (first through third day).</summary>
+   </msItem> 
+   <msItem n="50">
+    <locus from="457" to="463">fols. 224r-227r</locus>
+    <summary>Hymn of the Assumption of the Holy Theotokos.</summary>
+    <note>Blank (fol. 227v).</note>
+   </msItem> 
+   <msItem n="51">
+    <locus from="465" to="467">fols. 228r-229r</locus>
+    <summary>Canon of the Eve of the Holy Cross.</summary>
+   </msItem> 
+   <msItem n="52">
+    <locus from="467" to="488">fols. 229r-240v</locus>
+    <summary>Canon of the Exaltation of the Holy Cross (first through seventh day).</summary>
+   </msItem> 
+   <msItem n="53">
+    <locus from="488" to="492">fols. 240v-242v </locus>
+    <summary>Canon of the Cross of Varak.</summary>
+   </msItem> 
+   <msItem n="54">
+    <locus from="492" to="496">fols. 242v-244v</locus>
+    <summary>Canon of the discovery of the Holy Cross.</summary>
+   </msItem> 
+   <msItem n="55">
+    <locus from="496" to="502">fols. 244v-247v </locus>
+    <summary>Canons of the Holy Prophets and other prophets.</summary>
+   </msItem> 
+   <msItem n="56">
+    <locus from="502" to="506">fols. 247v-249v</locus>
+    <summary>Canon of the Holy Translators.</summary>
+   </msItem> 
+   <msItem n="57">
+    <locus from="506" to="510">fols. 249v-251v</locus>
+    <summary>Canon of St. Michael and St. Gabriel the Archangels, 
+     and of all the heavenly host.</summary>
+   </msItem> 
+   <msItem n="58">
+    <locus from="510" to="514">fols. 251v-253v</locus>
+    <summary>Canon of St. James, Bishop of Nisibis.</summary>
+   </msItem> 
+   <msItem n="59">
+    <locus from="514" to="518">fols. 253v-255v</locus>
+    <summary>Canon of the Holy Patriarchs.</summary>
+   </msItem> 
+   <msItem n="60">
+    <locus from="518" to="523">fols. 255v-258r</locus>
+    <summary>Canon of the Children of Bethlehem.</summary>
+   </msItem> 
+   <msItem n="61">
+    <locus from="523" to="524">fols. 258r-258v</locus>
+    <summary>Hymn of St. Ignatius, Bishop of Antioch.</summary>
+   </msItem> 
+   <msItem n="62">
+    <locus from="524" to="525">fols. 258v-259r</locus>
+    <summary>Hymn of St. John Chrysostom.</summary>
+   </msItem> 
+   <msItem n="63">
+    <locus from="525" to="527">fols. 259r-260r</locus>
+    <summary>Hymn of St. Ephrem of Syria.</summary>
+   </msItem> 
+   <msItem n="64">
+    <locus from="527" to="528">fols. 260r-260v</locus>
+    <summary>Hymn of Sts. Eustratius, Auxentius, 
+     Eugenius, Orestes, and Martyrius.</summary>
+   </msItem> 
+   <msItem n="65">
+    <locus from="528" to="529">fols. 260v-261r</locus>
+    <summary>Hymn of the 20,000 martyrs.</summary>
+   </msItem> 
+   <msItem n="66">
+    <locus from="529" to="529">fol. 261r </locus>
+    <summary>Hymn of St. Theodore of Amasea (The Warrior).</summary>
+   </msItem> 
+   <msItem n="67">
+    <locus from="529" to="531">fols. 261r-262r</locus>
+    <summary>Hymn of St. Stephen of Oulnia.</summary>
+   </msItem> 
+   <msItem n="68">
+    <locus from="531" to="531">fol. 262r</locus>
+    <summary>Hymn of the blessing of the Holy Chrism.</summary>
+   </msItem> 
+   <msItem n="69">
+    <locus from="531" to="532">fols. 262r-262v</locus>
+    <summary>Hymn of St. Suk‛ias and his companions.</summary>
+   </msItem> 
+   <msItem n="70">
+    <locus from="532" to="533">fols. 262v-263r</locus>
+    <summary>Hymn of St. David of Dwin.</summary>
+   </msItem> 
+   <msItem n="71">
+    <locus from="533" to="534">fols. 263r-263v</locus>
+    <summary>Hymn of St. Vahan of Goght‛n.</summary>
+   </msItem> 
+   <msItem n="72">
+    <locus from="534" to="535">fols. 263v-264r</locus>
+    <summary>Hymn of St. Kryiakos and St. Julita.</summary>
+   </msItem> 
+   <msItem n="73">
+    <locus from="536" to="536">fol. 264v</locus>
+    <summary>Hymn of St. Osgi and his companions.</summary>
+   </msItem> 
+   <msItem n="74">
+    <locus from="536" to="537">fols. 264v-265r</locus>
+    <summary>Hymn of St. Adom and his soldiers. </summary>
+   </msItem> 
+   <msItem n="75">
+    <locus from="537" to="537">fol. 265r</locus>
+    <summary>Hymn of St. Vartan the Warrior and his companions.</summary>
+   </msItem> 
+   <msItem n="76">
+    <locus from="537" to="538">fols. 265r-265v</locus>
+    <summary>Hymn of St. Nicholas, Bishop of Myra.</summary>
+   </msItem> 
+   <msItem n="77">
+    <locus from="538" to="539">fols. 265v-266r</locus>
+    <summary>Hymn of the Sts. Menas, Hermogenes, 
+     and Eugraphus.</summary>
+   </msItem> 
+   <msItem n="78">
+    <locus from="539" to="544">fols. 266r-268v</locus>
+    <summary>Hymn of the Seven Vegetarian Hermits.</summary>
+   </msItem> 
+   <msItem n="79">
+    <locus from="544" to="553">fols. 268v-273r</locus>
+    <summary>Hymn of St. Leontius and his companions.</summary>
+   </msItem> 
+   <msItem n="80">
+    <locus from="554" to="564">fols. 273v-278v </locus>
+    <summary>Canticle of the first day of the week, 
+     on the mystery of the Creation and Resurrection of Christ.</summary>
+   </msItem> 
+   <msItem n="81">
+    <locus from="564" to="568">fols. 278v-280v</locus>
+    <summary>Songs to follow Psalms.</summary>
+   </msItem> 
+   <msItem n="82">
+    <locus from="568" to="573">fols. 280v-283r</locus>
+    <summary>Songs of the third, sixth, and ninth hours. 
+     Song of the eventide hour of peace.</summary>
+   </msItem> 
+   <msItem n="83">
+    <locus from="574" to="575">fols. 283v-284r</locus>
+    <summary>Hymn of donning the vesture.</summary>
+   </msItem> 
+   <msItem n="84">
+    <locus from="576" to="577">fols. 284v-285r</locus>
+    <summary>Hymn for the censing of the Holy Sacrifice.</summary>
+    <note>Blank (fol. 285v).</note>
+   </msItem> 
+   <msItem n="85">
+    <locus from="579" to="623">fols. 286r-308r</locus>
+    <summary>Canon of the whole body of martyrs. Canons (untitled).</summary>
+    <note>Blank (fol. 308v).</note>
+   </msItem> 
+   <msItem n="86">
+    <locus from="625" to="677">fols. 309r-335r</locus>
+    <summary>Canon of the whole body of those 
+     that have died in Christ. Canons (untitled).</summary>
+    <note>Blank (fol. 335v).</note>
+   </msItem> 
+   <msItem n="87">
+    <locus from="679" to="716">fols. 336r-354v</locus>
+    <summary>Canon of the Resurrection of our 
+     Lord Jesus Christ. Canons (untitled).</summary> </msItem>
+    <msItem n="88">
+     <locus from="717" to="718">fols. 355r-355v</locus>
+     <colophon>The priest Astuacatur (1654).</colophon>
+    </msItem>
+  </msContents>
+<decoration> 
+ <overview><p>37 marginal miniatures and 1 full-page miniature paired with canons of the primary text. 
+  Marginal vignettes of arabesques, birds, flowers, and temples.</p>
+ </overview>
+ <miniatures>
+  <minItem n="1">
+   <locus from ="011" to="011">fol. 4r </locus>
+   <minDesc>Anna, Saint: Portrait. Anna, mother of Virgin Mary, stands at left, hand raised.</minDesc></minItem>
+  <minItem n="2">
+   <locus from ="016" to="017">fols. 6v-7r</locus>
+   <minDesc>Virgin Mary: Annunciation. Archangel Gabriel, at left, holds lilies, points to Virgin Mary; she kneels at right 
+    with book; dove of Holy Spirit descends from upper left.</minDesc></minItem>
+  <minItem n="3">
+   <locus from ="024" to="024">fol. 10v</locus>
+   <minDesc>Virgin Mary and Christ Child: Enthroned. Virgin Mary seated on throne with Christ Child, feet resting on 
+    footstool; domed building, in background.</minDesc></minItem>
+  <minItem n="4">
+   <locus from ="027" to="027">fol. 12r</locus>
+   <minDesc>Shepherd: With sheep. Shepherd stands next to two sheep, crook in hand.</minDesc></minItem>
+  <minItem n="5">
+   <locus from ="055" to="055">fol. 26r</locus>
+   <minDesc>Christ: Baptism. John the Baptist on riverbank at left, baptizes Christ, at center, standing in river; 
+    dove of Holy Spirit descends; three angels on bank, at right.</minDesc></minItem>
+  <minItem n="6">
+   <locus from ="070" to="070">fol. 33v</locus>
+   <minDesc>Christ: Presentation. Virgin Mary holds Christ Child, standing under temple dome.</minDesc></minItem>
+  <minItem n="7">
+   <locus from ="075" to="075">fol. 36r</locus>
+   <minDesc>Anthony Abbot, the Great: Portrait. Anthony the Great blesses with right hand, in left holds scroll.</minDesc></minItem>
+  <minItem n="8">
+   <locus from ="078" to="078">fol. 37v</locus>
+   <minDesc>Theodosius I: Portrait. Emperor Theodosius I holds cross in right hand, points to adjacent text.</minDesc></minItem>
+  <minItem n="9">
+   <locus from ="082" to="082">fol. 39v</locus>
+   <minDesc>David: As king and prophet; Apostle, James the Less. David extends hand indicating adjacent text. James the Less stands behind king.</minDesc></minItem>
+  <minItem n="10">
+   <locus from ="085" to="085">fol. 41r</locus>
+   <minDesc>Stephen, Protomartyr: Portrait. Stephen swings censer held in right hand, in left holds model of domed church.</minDesc></minItem>
+  <minItem n="11">
+   <locus from ="090" to="090">fol. 43v</locus>
+   <minDesc>Apostles, Peter and Paul: Portrait. Peter and Paul face one another, a sword raised between them.</minDesc></minItem>
+  <minItem n="12">
+   <locus from ="111" to="111">fol. 54r</locus>
+   <minDesc>Jonah: In Sea Monster. Prophet Jonah emerges from mouth of fish which stands on its tail; large plant, in background.</minDesc></minItem>
+  <minItem n="13">
+   <locus from ="116" to="116">fol. 56v</locus>
+   <minDesc>Adam and Eve: In Garden of Eden. Nude Adam and Eve stand on either side of the tree in garden; snake entwined around tree trunk.</minDesc></minItem>
+  <minItem n="14">
+   <locus from ="140" to="140">fol. 68v</locus>
+   <minDesc>Shepherd: Good. Christ as Good Shepherd, carries sheep upon shoulders.</minDesc></minItem>
+  <minItem n="15">
+   <locus from ="174" to="174">fol. 85v</locus>
+   <minDesc>Martyrdom: Forty Saints. Naked soldiers huddle together on ice within cave; Christ, above center, arms extended, martyrs' 
+    crowns before him; domed building, in background.</minDesc></minItem>
+  <minItem n="16">
+   <locus from ="194" to="194">fol. 95v</locus>
+   <minDesc>Gregory the Illuminator: Portrait. Gregory the Illuminator wearing liturgical vestments, right hand raised in blessing, in left, holds book.</minDesc></minItem>
+  <minItem n="17">
+   <locus from ="222" to="223">fols. 109v-110r</locus>
+   <minDesc>Christ: Miracle of raising Lazarus. Christ, at left with disciples, right hand raised; Martha and Mary kneel at his feet; Lazarus, at right, 
+    stands inside tomb, wrapped in a shroud.</minDesc></minItem>
+  <minItem n="18">
+   <locus from ="226" to="226">fol. 111v</locus>
+   <minDesc>Christ: Entry into Jerusalem. Christ seated on donkey; robe laid out on road next to him; tree in background.</minDesc></minItem>
+  <minItem n="19">
+   <locus from ="237" to="237">fol. 117r</locus>
+   <minDesc>Virgins, Wise: Portrait. Virgins stand together, each holding a lamp.</minDesc></minItem>
+  <minItem n="20">
+   <locus from ="257" to="257">fol. 127r</locus>
+   <minDesc>Christ: Crucifixion. Christ crucified on cross; skull on mound below cross; sun and moon in upper corners.</minDesc></minItem>
+  <minItem n="21">
+   <locus from ="291" to="291">fol. 143r</locus>
+   <minDesc>John Baptist: Head on Charger. Rays of light illuminate head of John the Baptist which lies in a blood-filled charger.</minDesc></minItem>
+  <minItem n="22">
+   <locus from ="293" to="293">fol. 144r</locus>
+   <minDesc>Apostle, Thomas: Incredulity. Christ stands at center, holds cross-top staff with banner, chest bare; Thomas kneels at left, 
+    touches wound in Christ's side; domed building, in background.</minDesc></minItem>
+  <minItem n="23">
+   <locus from ="370" to="370">fol. 180v</locus>
+   <minDesc>Pentecost. Dove of the Holy Spirit descends on 12 apostles. Kosmos, lower center, appears as a crowned elder wearing liturgical 
+    vestments. He represents all people to whom apostles will preach.</minDesc></minItem>
+  <minItem n="24">
+   <locus from ="401" to="401">fol. 196r</locus>
+   <minDesc>John Baptist: Portrait. John the Baptist dressed in camel hair tunic, holds cross-top staff with banner, right hand raised.</minDesc></minItem>
+  <minItem n="25">
+   <locus from ="404" to="404">fol. 197v</locus>
+   <minDesc>Gregory the Illuminator: Portrait. Gregory the Illuminator wearing liturgical vestments, right hand raised in blessing, in left, holds book.</minDesc></minItem>
+  <minItem n="26">
+   <locus from ="411" to="411">fol. 201r</locus>
+   <minDesc>Nerses the Great: Portrait. Nerses the Great, wearing liturgical vestments, his right hand raised in blessing, in left, holds book.</minDesc></minItem>
+  <minItem n="27">
+   <locus from ="431" to="431">fol. 211r</locus>
+   <minDesc>Christ: Transfiguration. Christ within mandorla, stands on mountain.</minDesc></minItem>
+  <minItem n="28">
+   <locus from ="445" to="445">fol. 218r</locus>
+   <minDesc>Virgin Mary: Portrait. Virgin Mary, left hand raised, right hand extended toward adjacent text.</minDesc></minItem>
+  <minItem n="29">
+   <locus from ="457" to="457">fol. 224r</locus>
+   <minDesc>Virgin Mary: Portrait. Virgin Mary, extends both hands indicating adjacent text.</minDesc></minItem>
+  <minItem n="30">
+   <locus from ="492" to="492">fol. 242v</locus>
+   <minDesc>Cross, True. Crowned figures stand on either side of cross; title on vertical cross-bar.</minDesc></minItem>
+  <minItem n="31">
+   <locus from ="496" to="496">fol. 244v</locus>
+   <minDesc>Prophet: Portrait. Prophet holds open scroll.</minDesc></minItem>
+  <minItem n="32">
+   <locus from ="500" to="500">fol. 246v</locus>
+   <minDesc>Prophet: Portrait. Prophet holds open scroll.</minDesc></minItem>
+  <minItem n="33">
+   <locus from ="503" to="503">fol. 248r</locus>
+   <minDesc>Mesrop, Saint: Portrait. Mesrop holds open scroll.</minDesc></minItem>
+  <minItem n="34">
+   <locus from ="506" to="506">fol. 249v</locus>
+   <minDesc>Angel, Seraph: Portrait. Six-winged seraph holding a flabellum (fan carried in religious ceremonies).</minDesc></minItem>
+  <minItem n="35">
+   <locus from ="510" to="510">fol. 251v</locus>
+   <minDesc>James of Nisibis: Portrait. James of Nisibis wearing liturgical vestments, right hand raised in blessing, in left, holds book.</minDesc></minItem>
+  <minItem n="36">
+   <locus from ="514" to="514">fol. 253v</locus>
+   <minDesc>Saint: Portrait. Saint wearing liturgical vestments, right hand raised in blessing, in left, holds book.</minDesc></minItem>
+  <minItem n="37">
+   <locus from ="518" to="518">fol. 255v</locus>
+   <minDesc>Innocents: Massacre. Soldier holds child in left hand, in right, carries sword; he threatens a woman, her arms raised; slain child lies 
+    on ground, center right.</minDesc></minItem>
+  <minItem n="38">
+   <locus from ="545" to="545">fol. 269r</locus>
+   <minDesc>Leontius, Saint: Portrait. Leontius stands, right arm raised in blessing.</minDesc></minItem></miniatures>
+ <headpieces><p>Headpieces within diamond shaped or circular frames of red, green, blue, and gold floral motifs (fols. 1r, 56v, 109v, 137r, 181r, 228r, 286r, 309r, 336r).</p></headpieces> 
+ <initials><p>Major initials formed by figures of lions or birds (23-25 mm). Minor initials formed by figures of birds or flowers.</p>
+ </initials>
+</decoration>
+  <physDesc>
+   <support><p><material>Parchment</material> and <material>paper</material>. <dimensions type="block" units="mm">115 x 76 mm</dimensions>.</p></support> 
+   <extent>359 leaves, of which 2 are raised pastedowns that function as flyleaves. Folio number 232 left out of primary foliation. Leaves initially missed now numbered 136b, 149b, and 
+    159b. Foliation corrected from fol. 323 forward.</extent>  
+   <foliation><p>1 (unfoliated parchment flyleaf) + 136 +1 (136b) + 13 + 1 (149b) + 10 +1 (159b) + 195 + 1 (unfoliated parchment flyleaf). Modern foliation in 
+    Arabic numerals in ink 1-355. Corrections in pencil.</p></foliation>
+   <collation><p>23 numbered quires. In several places within the manuscript inserted paper or parchment leaves replace the ending of canon texts or are 
+    blank (fols. 136b, 227, 285, 308, and 335). Where leaves were excised, images corresponding to the following canons were lost: Holy Easter (fol. 137r); Eve of the 
+    Holy Cross (fol. 228r); Whole body of martyrs (fol. 286r); Whole body of those that have died in Christ (fol. 309r); and Resurrection of our Lord Jesus Christ (fol. 336r). It is thought a 
+    miniature of the Virgin Mary's birth, now lost, preceded the canon memorializing the event (fol.1r).</p></collation>
+   <dimensions type="written" units="mm">Written space 72 x 43 mm (fol. 9r).</dimensions> 
+   <layout columns="1" writtenLines="23-24"><p>1 column, 23 to 24 lines. Frame ruling in ink.</p></layout> 
+   <msWriting><handDesc script="Bolorgir" medium="ink"> 
+    <p>Written chiefly in bolorgir script in black ink. The first line of text below the two headpieces (fols. 1r, and 137r) are respectively bird letters 
+     and ornate capitals. The second and third lines are written in erkat’agir script. Musical notation included.</p></handDesc></msWriting> 
+   <textDivisions><p>Titles in gold and red.</p></textDivisions>
+   <condition><p>Dirt and water stains. Text rubbed (fols. 343-353).</p></condition> 
+   <bindingDesc> 
+    <binding><p>Bound in medium brown <material>leather</material> over boards.</p></binding>
+   </bindingDesc>
+  </physDesc>
+<history>
+ <origin><p>The manuscript was written in 1654 (Armenian Era 1103) by the priest <name reg="Astuacatur, 17th century" type="person" role="priest">Astuacatur</name> at 
+  the <name reg="Church of St. Sergis the General (Constantinople)" type="org">Church of St. Sergis the General (Surb Sargis Zōravar)</name> in <name reg="Constantinople" type="place">Constantinople</name>, 
+  the present-day <name reg="Istanbul, Turkey" type="place">Istanbul, Turkey</name> (his colophon, fols. 355r-355v).</p></origin> 
+ <provenance><p>Later history of the manuscript is unknown. Notation including price (front flyleaf, recto). Inscription and notation (back flyleaf, recto).</p></provenance> 
+ <acquisition><p>Date acquired by the University of Chicago unknown.</p></acquisition>
+</history>
+  <additional><listBibl>
+   <bibl>
+    <title level="m">Treasures in heaven: Armenian illuminated manuscripts</title>, edited by 
+    <editor>Thomas F. Mathews</editor> and <editor>Roger S. Wieck</editor> 
+    <imprint>
+     <pubPlace>(New York:</pubPlace>
+     <publisher>Pierpont Morgan Library; Princeton, N.J.: distributed by Princeton University Press,</publisher>
+     <date>1994),</date>
+    </imprint>
+    <biblScope type="pages">pp. 162-163 (cat. 22).</biblScope></bibl>
+  </listBibl>
+  </additional></msDescription>
+ </body>
+ </text>    
+ </TEI.2>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-1342, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/1342</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 1342</idno>
+                        <altName type="Gregory number">Greg. l 1962</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 42</altIdentifier>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. 939c</altIdentifier>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>Lectionary</title>
+                        <otherName>Willoughby Heothina Fragment</otherName>
+                        <origPlace>Constantinople?</origPlace>
+                        <origDate notBefore="1101" notAfter="1300">12th or 13th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents>
+                        <overview>
+                            <p>Gospel lectionary leaf in Greek. The fragment contains Heothina lections 1 and 
+                                2 and the title of no. 3 from the eleven Gospels of the Resurrection read at morning prayers (ορθρος). With 
+                                ecphonetic notation. Formerly Goodspeed Ms. Grk. 42 and Ms. 939c.</p>
+                        </overview>
+                        <msItem n="1" status="frag">
+                            <locus from="005" to="005">fol. [1r]</locus>
+                            <rubric>ευαγγελια εωθινα αναστασιμα ενδεκα...εκ του κατα mατθ[αιον].</rubric>
+                            <summary>Heothina lection 1: Matthew 28:16-20.</summary>
+                            <rubric>ευαγγ[ελια εωθινα αναστασιμα ενδεκα]...εκ του κατα μαρκ.</rubric>
+                            <summary>Heothina lection 2: Mark 16:1.</summary>
+                        </msItem>
+                        <msItem n="2" status="frag">
+                            <locus from="006" to="006">fol. [1v]</locus>
+                            <rubric>ευαγγ[ελια εωθινα αναστασιμα ενδεκα]....</rubric>
+                            <summary>Continuation of heothina lection 2: Mark 16:1-8. Partial title of heothina lection 3.</summary>
+                        </msItem>
+                    </msContents>
+                    <decoration>
+                        <headpieces><p>Headpiece of floral motifs in blue, red, and gold.</p></headpieces>
+                        <initials><p>Major initials (25-30 mm) in a foliate pattern of blue, red, and gold, set off from the text.</p>
+                        </initials>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">295 x 210 mm</dimensions>.</p></support>
+                        <extent>1 leaf.</extent>
+                        <collation><p>Quire number 43 (μγ) in lower right corner (fol. [1v]).</p></collation>
+                        <dimensions type="written" units="mm">Written space 220 x 160 mm (fol. [1v]). Each column is 220 x 70 mm with a space of 20 mm between.</dimensions>
+                        <layout columns="2" writtenLines="23 per column"><p>2 columns, 23 lines. Ruling with hard point.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink">
+                            <p>Written in minuscule script in dark brown ink (some fading). Ecphonetic notation in red.</p>
+                            <p>Punctuation includes the cross (full stop), high and low points, and the mark of elision.</p></handDesc>
+                        </msWriting>
+                        <textDivisions><p>Titles in red.</p>
+                        </textDivisions>
+                        <condition><p>Parchment broken along a portion of the outer edge. Some grease and ink stains.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Bound by <name reg="R.R. Donnelley &amp; Sons Company (Firm)" type="org">R.R. Donnelley &amp; Sons Company</name> in 
+                                green <material>linen</material> over cardboard. Spine label in gilt: Gospel Lectionary Folio (Heothina) 13 cent.</p>
+                            </binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript to which the present leaf belonged is judged to have been written in either the late 12th or early 13th century, possibly 
+                            in <name reg="Constantinople" type="place">Constantinople</name>, the present-day <name reg="Istanbul, Turkey" type="place">Istanbul, Turkey</name>.</p></origin>
+                        <provenance><p>Medieval to early 20th century provenance unknown. Belonged 
+                            to <name reg="Willoughby, Harold Rideout, 1890-1962" type="person" role="owner">Harold Rideout Willoughby</name> (1890-1962), 
+                            professor in the University of Chicago's <name reg="University of Chicago. Divinity School" type="org">Divinity School</name>. Mr. Willoughby 
+                            purchased the leaf from <name reg="Duschnes, Philip C." type="person" role="bookseller">Philip C. Duschnes</name> (New York), ca. 1938.</p>
+                            <p>Notation in pencil at bottom of fol. [1r].</p></provenance>
+                        <acquisition><p>Gift of Harold R. Willoughby to the University of Chicago, November 1938.</p></acquisition>
+                    </history>
+                </msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+     <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Lectionaries</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                    <term>Willoughby, Harold Rideout, 1890-1962</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+   <body>
+ <msDescription id="GMS-1342">
+ <msIdentifier>
+ <country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 1342</idno>
+<altName type="Gregory number">Greg. l 1962</altName>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 42</altIdentifier>
+     <altIdentifier type="former shelfmark">Goodspeed Ms. 939c</altIdentifier>
+</msIdentifier>
+<msHeading>
+<title>Lectionary</title>
+    <otherName>Willoughby Heothina Fragment</otherName>
+<origPlace>Constantinople?</origPlace>
+<origDate notBefore="1101" notAfter="1300">12th or 13th century</origDate>
+<textLang langKey="grc">Greek</textLang>
+</msHeading>
+     <msContents>
+         <overview>
+             <p>Gospel lectionary leaf in Greek. The fragment contains Heothina lections 1 and 
+                 2 and the title of no. 3 from the eleven Gospels of the Resurrection read at morning prayers (ορθρος). With 
+                 ecphonetic notation. Formerly Goodspeed Ms. Grk. 42 and Ms. 939c.</p>
+         </overview>
+         <msItem n="1" status="frag">
+             <locus from="005" to="005">fol. [1r]</locus>
+             <rubric>ευαγγελια εωθινα αναστασιμα ενδεκα...εκ του κατα mατθ[αιον].</rubric>
+             <summary>Heothina lection 1: Matthew 28:16-20.</summary>
+             <rubric>ευαγγ[ελια εωθινα αναστασιμα ενδεκα]...εκ του κατα μαρκ.</rubric>
+             <summary>Heothina lection 2: Mark 16:1.</summary>
+         </msItem>
+         <msItem n="2" status="frag">
+             <locus from="006" to="006">fol. [1v]</locus>
+             <rubric>ευαγγ[ελια εωθινα αναστασιμα ενδεκα]....</rubric>
+             <summary>Continuation of heothina lection 2: Mark 16:1-8. Partial title of heothina lection 3.</summary>
+         </msItem>
+     </msContents>
+     <decoration>
+         <headpieces><p>Headpiece of floral motifs in blue, red, and gold.</p></headpieces>
+         <initials><p>Major initials (25-30 mm) in a foliate pattern of blue, red, and gold, set off from the text.</p>
+         </initials>
+     </decoration>
+     <physDesc>
+         <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">295 x 210 mm</dimensions>.</p></support>
+         <extent>1 leaf.</extent>
+         <collation><p>Quire number 43 (μγ) in lower right corner (fol. [1v]).</p></collation>
+         <dimensions type="written" units="mm">Written space 220 x 160 mm (fol. [1v]). Each column is 220 x 70 mm with a space of 20 mm between.</dimensions>
+         <layout columns="2" writtenLines="23 per column"><p>2 columns, 23 lines. Ruling with hard point.</p></layout>
+         <msWriting><handDesc script="Minuscule" medium="ink">
+             <p>Written in minuscule script in dark brown ink (some fading). Ecphonetic notation in red.</p>
+             <p>Punctuation includes the cross (full stop), high and low points, and the mark of elision.</p></handDesc>
+         </msWriting>
+         <textDivisions><p>Titles in red.</p>
+         </textDivisions>
+         <condition><p>Parchment broken along a portion of the outer edge. Some grease and ink stains.</p></condition>
+         <bindingDesc>
+             <binding><p>Bound by <name reg="R.R. Donnelley &amp; Sons Company (Firm)" type="org">R.R. Donnelley &amp; Sons Company</name> in 
+                 green <material>linen</material> over cardboard. Spine label in gilt: Gospel Lectionary Folio (Heothina) 13 cent.</p>
+             </binding></bindingDesc>
+     </physDesc>
+     <history>
+         <origin><p>The manuscript to which the present leaf belonged is judged to have been written in either the late 12th or early 13th century, possibly 
+             in <name reg="Constantinople" type="place">Constantinople</name>, the present-day <name reg="Istanbul, Turkey" type="place">Istanbul, Turkey</name>.</p></origin>
+         <provenance><p>Medieval to early 20th century provenance unknown. Belonged 
+             to <name reg="Willoughby, Harold Rideout, 1890-1962" type="person" role="owner">Harold Rideout Willoughby</name> (1890-1962), 
+             professor in the University of Chicago's <name reg="University of Chicago. Divinity School" type="org">Divinity School</name>. Mr. Willoughby 
+             purchased the leaf from <name reg="Duschnes, Philip C." type="person" role="bookseller">Philip C. Duschnes</name> (New York), ca. 1938.</p>
+             <p>Notation in pencil at bottom of fol. [1r].</p></provenance>
+         <acquisition><p>Gift of Harold R. Willoughby to the University of Chicago, November 1938.</p></acquisition>
+     </history>
+     <additional>
+         <listBibl>
+             <bibl>
+                 <editor>Ernest Cadman Colwell</editor> and <editor>Donald W. Riddle</editor> eds.,
+                 <title level="m">Prolegomena to the Study of the Lectionary Text of the Gospels,</title>
+                 <title level="s">Studies in the Lectionary Text of the Greek New Testament</title>
+                 <imprint>
+                     <pubPlace>(Chicago:</pubPlace>
+                     <publisher>University of Chicago Press,</publisher>
+                     <date>c1933),</date>
+                     <biblScope type="volume">vol. 1.</biblScope>
+                 </imprint></bibl>
+             <bibl>
+                 <author>Merrill Mead Parvis</author>,
+                 <title level="m">The Story of the Goodspeed Collection</title>
+                 <imprint>
+                     <pubPlace>([Chicago]:</pubPlace>
+                     <publisher>s.n.,</publisher> 
+                     <date>1952),</date>
+                 </imprint>
+                 <biblScope type="pages">pp. 23-24.</biblScope></bibl>
+             <bibl>
+                 <author>C. U. Faye</author> and <author> W. H. Bond</author>,
+                 <title level="m">Supplement to the Census of Medieval and Renaissance Manuscripts 
+                     in the United States and Canada</title>
+                 <imprint>
+                     <pubPlace>(New York:</pubPlace>
+                     <publisher>Bibliographical Society of America,</publisher>
+                     <date>1962),</date>
+                 </imprint>
+                 <biblScope type="pages">p. 163.</biblScope></bibl>
+         </listBibl>
+     </additional>
+            </msDescription>
+        </body>
+    </text>            
+</TEI.2>

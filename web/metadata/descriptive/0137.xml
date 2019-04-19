@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0137, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0137</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 137</idno>
+                        <altName type="Gregory number">Greg. 2399</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 13</altIdentifier>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>New Testament. Gospels</title>
+                        <otherName>Isaac Gospels</otherName>
+                        <origPlace>Trabzon, Turkey (Trebizond)?</origPlace>
+                        <origDate notBefore="1301" notAfter="1400">14th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents> 
+                        <overview><p>Four gospels in Greek. Lectionary headings and dates with incipits in upper and lower 
+                            margins. Ammonian section numbers in the outer margins, and independently numbered text divisions for each gospel 
+                            meant to be used with lectionary tables (now lost). Formerly Goodspeed Ms. Grk. 13.</p></overview></msContents>
+                    <physDesc>
+                        <support><p><material>Paper</material>. <dimensions type="block" units="mm">221 x 145 mm</dimensions>.</p></support>
+                        <watermarks><p>Watermarks in the form of hearts (fols. 13, 76) and of circles (fols. 36, 45, 51, 78-79).</p></watermarks> 
+                        <extent>204 leaves, of which 1 leaf attached to fol. 187 was separated and the 2 leaves renumbered 187a and 187b.</extent> 
+                        <foliation><p>187 + 1 (187b) + 16. Modern foliation in Arabic numerals in pencil 1-203.</p></foliation> 
+                        <collation><p>Portions of 31 quires extant. Estimate of content lost: 31  leaves (beginning, Matthew 1:1-13:18); 1 leaf (after fol. 15, Matthew 19:6-21); 
+                            2 leaves (Mark 1:1-13); 2 leaves (after fol. 62, Mark 7:27-8:22); 2 leaves (after fol. 76, Mark 13:2-33); 2 leaves (after fol. 80, Mark 14:56-15:16); 5 leaves 
+                            (Mark 16:1-end, Luke 1:1-15); 2 leaves (after fol. 117, Luke 11:2-31); 6 leaves (after fol. 153, Luke 23:48-end, subscription, stichoi, John 1:1-18); 3 leaves 
+                            (after fol. 175, John 8:23-9:9); 3 leaves (after fol. 181, John 11:24-12:13); 1 leaf (after fol. 186, John 14:15-29); 1 leaf (after fol. 192, John 17:26-18:15); 
+                            lectionary tables. The leaf presently numbered fol. 193 (begins at John 13:21 with [εξυ]μων) is bound out of order and should follow fol. 185.</p>
+                            <p>To correct omitted text, John 15:9-12 (ends with ηγαπησα, and begins with υμας), the scribe glued a sheet of paper to the verso of fol. 187. A whole column 
+                                was rewritten starting at John 15:6 (begins with εξω) on the side serving as the new verso. A pious inscription was recorded on the glued-down side. Later 
+                                separated, the leaves are now fols. 187a and 187b.</p>
+                            <p>Quire numbers in minuscule on the recto of each quire's first leaf in the lower margin, 25-54 (κε-υδ). The number 18 in uncial script 
+                                on fol. 98v (lower inner margin) is thought to be a remnant of an older quire number set.</p></collation> 
+                        <dimensions type="written" units="mm">Written space 165 x 95 mm (fol. 93r).</dimensions> 
+                        <layout columns="1" writtenLines="22"><p>1 column, 22 lines. Ruling with hard point.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink">
+                            <p>Written in minuscule script in dark brown ink.</p>
+                            <p>Punctuation includes high and low points, comma, marks of interrogation and elision. Double 
+                                point (:) is used after lection headings and before incipits.</p>
+                            <p>Methods of correcting text includes erasure, glued and inked-in revisions, and insertion (fol. 38).</p></handDesc>
+                        </msWriting>
+                        <textDivisions><p>Lections denoted by the indicators αρχε (beginning) and τελος (end).</p></textDivisions>
+                        <condition><p>Edges worn; some tears. Overwriting of faded text with black or red ink. 
+                            Several leaves loose from binding. Water stains and worm holes.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Bound in dark brown <material>leather</material> over boards. <material>Linen</material> lining exposed 
+                                owing to the loss of part of the cover.</p></binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript was written by the scribe <name reg="Isaac, 14th century" type="person" role="scribe">Isaac</name> (his undated colophon, fol. 203v), possibly at or near
+                            <name reg="Trebizond" type="place">Trebizond</name>, the present-day <name reg="Trabzon, Turkey" type="place">Trabzon, Turkey</name>. It is dated to the 14th century.</p></origin> 
+                        <provenance><p>Late medieval to late 19th century provenance unknown. In 1884, the manuscript was part of the library of the 
+                            <name reg="Church of St. John Exoteicho (Trebizond)" type="org">Church of St. John Exoteicho</name> (undated 
+                            colophons, fol. 2r and back pastedown). It was seen there by <name reg="Papadopoulos-Kerameus, Athanasios, 1856-1912" type="person" role="author">A. I. 
+                                Papadopoulos-Kerameus</name> (1856-1912), who included a description of it in his catalogue of Trebizond's Greek codices (no. 60). 
+                            Under the same catalogue number, Papadopoulos-Kerameus described a banner embroidered with the image of St. George dated 1714, which 
+                            belonged to a near-by monastic foundation. Thus, it has been suggested, the present manuscript may have been part of the same foundation's library 
+                            at one time, the <name reg="Monastery of Saint George Peristereota" type="org">Monastery of Saint George Peristereota</name>.</p>
+                            <p>University of Chicago Libraries bookplate (inside front cover). Inscriptions illegible in part (fols. 39v, 40v, 87v, 92v, [187b]r, and back pastedown).</p></provenance>
+                        <acquisition><p>Acquired by the University of Chicago 
+                            from <name reg="Riefstahl, Rudolf Meyer, 1880-1936" type="person" role="antiquarian">Rudolf M. Riefstahl</name> (New York), November 1929.</p></acquisition>
+                    </history>
+                </msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+  <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+ </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Gospels. Greek</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                    <term>Church of St. John Exoteicho (Trebizond)</term>
+                    <term>Isaac, 14th century</term>
+                </keywords>
+            </textClass>
+ </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0137">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 137</idno>
+<altName type="Gregory number">Greg. 2399</altName>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 13</altIdentifier>
+ </msIdentifier>
+<msHeading>
+ <title>New Testament. Gospels</title>
+ <otherName>Isaac Gospels</otherName>
+    <origPlace>Trabzon, Turkey (Trebizond)?</origPlace>
+    <origDate notBefore="1301" notAfter="1400">14th century</origDate>
+<textLang langKey="grc">Greek</textLang>
+</msHeading>
+<msContents> 
+    <overview><p>Four gospels in Greek. Lectionary headings and dates with incipits in upper and lower 
+        margins. Ammonian section numbers in the outer margins, and independently numbered text divisions for each gospel 
+        meant to be used with lectionary tables (now lost). Formerly Goodspeed Ms. Grk. 13.</p></overview>
+<msItem n="1">
+    <locus from = "003" to ="090">fols. 1r-44v</locus> 
+    <summary>Matthew (begins at 13:18 with [Υμε]ις). Subscription and stichoi (2,600).</summary>
+    <colophon>Church of St. John Exoteicho: ανηκει τω ιερω εκκλησια εξοτειχων (fol. 2r).</colophon>
+</msItem>
+    <msItem n="2">
+        <locus from = "091" to ="166">fols. 45r-82v</locus> 
+        <summary>Mark (begins at 1:13 with [δι]ηκονουν and ends at 16:1 with ϊνα).</summary></msItem>
+    <msItem n="3">
+        <locus from = "167" to ="308">fols. 83r-153v</locus> 
+        <summary>Luke (begins at 1:15 with μητρος and ends at 23:48 with ταυ [την]).</summary></msItem>
+    <msItem n="4">
+        <locus from = "309" to ="372">fols. 154r-185v</locus>
+        <locus from = "389" to ="390">fols. 193r-193v</locus>
+        <locus from = "373" to ="388">fols. 186r-192v</locus>
+        <locus from = "391" to ="410">fols. 194r-203v</locus> 
+        <summary>John (begins at 1:18 with εκεινος). Subscription and stichoi (2,300).</summary>
+        <summary>Pericope: The Woman taken in Adultery (fols. 174v-175r).</summary>
+    </msItem>
+    <msItem n="5">
+        <locus from = "410" to ="410">fol. 203v</locus> 
+        <colophon>The scribe Isaac (undated).</colophon></msItem> 
+    <msItem n="6">
+            <locus from = "411" to ="411">Pastedown (back)</locus> 
+        <colophon>Church of St. John Exoteicho: τοδε θεορειται της εκκλησιας τον Αγιου Ιωαννου Εξοτειχων.</colophon>
+    </msItem>
+</msContents>
+    <physDesc>
+ <support><p><material>Paper</material>. <dimensions type="block" units="mm">221 x 145 mm</dimensions>.</p></support>
+        <watermarks><p>Watermarks in the form of hearts (fols. 13, 76) and of circles (fols. 36, 45, 51, 78-79).</p></watermarks> 
+    <extent>204 leaves, of which 1 leaf attached to fol. 187 was separated and the 2 leaves renumbered 187a and 187b.</extent> 
+        <foliation><p>187 + 1 (187b) + 16. Modern foliation in Arabic numerals in pencil 1-203.</p></foliation> 
+        <collation><p>Portions of 31 quires extant. Estimate of content lost: 31  leaves (beginning, Matthew 1:1-13:18); 1 leaf (after fol. 15, Matthew 19:6-21); 
+            2 leaves (Mark 1:1-13); 2 leaves (after fol. 62, Mark 7:27-8:22); 2 leaves (after fol. 76, Mark 13:2-33); 2 leaves (after fol. 80, Mark 14:56-15:16); 5 leaves 
+            (Mark 16:1-end, Luke 1:1-15); 2 leaves (after fol. 117, Luke 11:2-31); 6 leaves (after fol. 153, Luke 23:48-end, subscription, stichoi, John 1:1-18); 3 leaves 
+            (after fol. 175, John 8:23-9:9); 3 leaves (after fol. 181, John 11:24-12:13); 1 leaf (after fol. 186, John 14:15-29); 1 leaf (after fol. 192, John 17:26-18:15); 
+            lectionary tables. The leaf presently numbered fol. 193 (begins at John 13:21 with [εξυ]μων) is bound out of order and should follow fol. 185.</p>
+            <p>To correct omitted text, John 15:9-12 (ends with ηγαπησα, and begins with υμας), the scribe glued a sheet of paper to the verso of fol. 187. A whole column 
+                was rewritten starting at John 15:6 (begins with εξω) on the side serving as the new verso. A pious inscription was recorded on the glued-down side. Later 
+                separated, the leaves are now fols. 187a and 187b.</p>
+            <p>Quire numbers in minuscule on the recto of each quire's first leaf in the lower margin, 25-54 (κε-υδ). The number 18 in uncial script 
+                on fol. 98v (lower inner margin) is thought to be a remnant of an older quire number set.</p></collation> 
+    <dimensions type="written" units="mm">Written space 165 x 95 mm (fol. 93r).</dimensions> 
+    <layout columns="1" writtenLines="22"><p>1 column, 22 lines. Ruling with hard point.</p></layout>
+    <msWriting><handDesc script="Minuscule" medium="ink">
+        <p>Written in minuscule script in dark brown ink.</p>
+        <p>Punctuation includes high and low points, comma, marks of interrogation and elision. Double 
+            point (:) is used after lection headings and before incipits.</p>
+        <p>Methods of correcting text includes erasure, glued and inked-in revisions, and insertion (fol. 38).</p></handDesc>
+    </msWriting>
+        <textDivisions><p>Lections denoted by the indicators αρχε (beginning) and τελος (end).</p></textDivisions>
+        <condition><p>Edges worn; some tears. Overwriting of faded text with black or red ink. 
+            Several leaves loose from binding. Water stains and worm holes.</p></condition>
+        <bindingDesc>
+        <binding><p>Bound in dark brown <material>leather</material> over boards. <material>Linen</material> lining exposed 
+            owing to the loss of part of the cover.</p></binding></bindingDesc>
+ </physDesc>
+<history>
+    <origin><p>The manuscript was written by the scribe <name reg="Isaac, 14th century" type="person" role="scribe">Isaac</name> (his undated colophon, fol. 203v), possibly at or near
+        <name reg="Trebizond" type="place">Trebizond</name>, the present-day <name reg="Trabzon, Turkey" type="place">Trabzon, Turkey</name>. It is dated to the 14th century.</p></origin> 
+    <provenance><p>Late medieval to late 19th century provenance unknown. In 1884, the manuscript was part of the library of the 
+        <name reg="Church of St. John Exoteicho (Trebizond)" type="org">Church of St. John Exoteicho</name> (undated 
+        colophons, fol. 2r and back pastedown). It was seen there by <name reg="Papadopoulos-Kerameus, Athanasios, 1856-1912" type="person" role="author">A. I. 
+            Papadopoulos-Kerameus</name> (1856-1912), who included a description of it in his catalogue of Trebizond's Greek codices (no. 60). 
+        Under the same catalogue number, Papadopoulos-Kerameus described a banner embroidered with the image of St. George dated 1714, which 
+        belonged to a near-by monastic foundation. Thus, it has been suggested, the present manuscript may have been part of the same foundation's library 
+        at one time, the <name reg="Monastery of Saint George Peristereota" type="org">Monastery of Saint George Peristereota</name>.</p>
+        <p>University of Chicago Libraries bookplate (inside front cover). Inscriptions illegible in part (fols. 39v, 40v, 87v, 92v, [187b]r, and back pastedown).</p></provenance>
+    <acquisition><p>Acquired by the University of Chicago 
+        from <name reg="Riefstahl, Rudolf Meyer, 1880-1936" type="person" role="antiquarian">Rudolf M. Riefstahl</name> (New York), November 1929.</p></acquisition>
+</history>
+    <additional>
+        <listBibl><bibl>
+           <author>A. I. Papadopoulos-Kerameus</author>, 
+            <title level="a">"Ελληνικοι κωδικες Τραπεζουντος,"</title> 
+            <title level="j">Vizantijskij Vremennik</title> 
+                <biblScope type="volume">19</biblScope> 
+                <imprint><date>(1912 [1915]),</date></imprint> 
+            <biblScope type="pages">no. 60, p. 250.</biblScope>
+        </bibl>
+            <bibl><author>David O. Voss</author>, 
+                <title level="u">"A study of the Isaac, Hyacinthus, and Exoteicho Gospels"</title> 
+                <note>(Ph.D. diss., University of Chicago, 1932).</note>
+            </bibl>
+            <bibl><author>Kenneth W. Clark</author>, 
+                <title level="m">A Descriptive Catalogue of Greek New Testament Manuscripts in America</title>
+            <imprint>
+                <pubPlace>(Chicago:</pubPlace>
+                <publisher>University of Chicago Press,</publisher>
+                <date>1937),</date>
+            </imprint>
+            <biblScope type="pages">pp. 249-251.</biblScope></bibl>
+            <bibl>
+                <author>Merrill Mead Parvis</author>, 
+                <title level="m">The Story of the Goodspeed Collection</title>
+                <imprint>
+                    <pubPlace>([Chicago]:</pubPlace>
+                    <publisher>s.n.,</publisher>
+                    <date>1952),</date>
+                </imprint>
+                <biblScope type="pages">p. 13.</biblScope></bibl>
+            <bibl> 
+                <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+                Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+                <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+                <imprint> 
+                    <pubPlace>([Chicago:</pubPlace> 
+                    <publisher>s.n.,</publisher> 
+                    <date>1973]),</date></imprint> 
+                <biblScope type="volume">36,</biblScope> 
+                <biblScope type="catalogNo">no. 15.</biblScope></bibl></listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

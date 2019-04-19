@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+ 
+ <teiHeader date.created="2015-11-04" creator="jfcd">
+  <fileDesc>
+   <titleStmt>
+    <title>[University of Chicago Library GMS-0378, a manuscript catalogue description in electronic form]</title>
+    <funder>Institute of Museum and Library Services</funder>
+    <respStmt>
+     <resp>Creation of electronic version:</resp>
+     <name>University of Chicago Library</name>
+     <resp>Creation of digital images:</resp>
+     <name>University of Chicago Library</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <date>2009</date>
+    <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0378</idno>
+    <availability status= "free">
+     <p>Publicly accessible</p></availability>
+   </publicationStmt>
+   <sourceDesc> 
+    <msDescription>                 
+    <msIdentifier>
+     <country>United States</country>
+     <region>Illinois</region>
+     <settlement>Chicago</settlement>
+     <institution>University of Chicago Library</institution> 
+     <repository>Special Collections Research Center</repository>
+     <collection>Goodspeed Manuscript Collection</collection>
+     <idno>Ms. 378</idno>
+     <altIdentifier type="former shelfmark">Goodspeed Ms. Lat. 61</altIdentifier>
+    </msIdentifier>
+    <msHeading>
+     <title>Bible</title>
+     <otherName>Biblia Sacra Latina</otherName>
+     <origPlace>Italy</origPlace>
+     <origDate notBefore="1401" notAfter="1500">15th century</origDate>
+     <textLang langKey="lat">Latin</textLang>
+    </msHeading>
+     <msContents>
+      <overview><p>Bible in Latin. Portions of the Old and New Testaments include the Octateuch (Genesis - Ruth), 
+       the four gospels, Revelation, and the epistles of James, and 1 and 2 Peter. 
+       Contains prologues to Joshua, and the gospels of Matthew, Mark, and Luke. 
+       Formerly Goodspeed Ms. Lat. 61.</p></overview></msContents>
+     <decoration>
+      <initials><p>Primary initials (20-130 mm) in red, some with penwork of the same color.</p></initials>
+     </decoration>
+     <physDesc>
+      <support><p><material>Paper</material>. <dimensions type="block" units="mm">386 x 282 mm</dimensions>.</p></support> 
+      <watermarks><p>Watermark similar to Briquet 15505, Tête de Cerf sans yeux (Verona 1422-1438).</p></watermarks> 
+      <extent>122 leaves, of which 4 are flyleaves of paper (white and marbled). Flyleaves conjoint with pastedowns.</extent> 
+      <foliation><p>2 (unfoliated paper flyleaves) + 118 + 2 (unfoliated paper flyleaves). Foliation in Arabic numerals in ink 1-118.</p></foliation> 
+      <dimensions type="written" units="mm">Written space 310 x 190 mm (fol. 5r). Each column is 310 x 85 mm with a space of 20 mm between.</dimensions> 
+      <layout columns="2" writtenLines="51-62 per column"><p>2 columns, 51 to 62 lines. Ruling with lead point.</p></layout>
+      <msWriting><handDesc script="roman" medium="Ink">
+       <p>Written in Roman script in dark brown ink (some fading). Abbreviation throughout. Capitals and strokes, paragraph marks, 
+        and marginal notation in red. Lacks opening initials, capitals, titles, and numbers from fol. 113 forward.</p></handDesc></msWriting> 
+      <textDivisions><p>Running titles and chapter numbers in red.</p></textDivisions>
+      <condition><p>Random water and grease stains. One taped repair.</p></condition>
+      <bindingDesc>
+       <binding><p>Bound in half red <material>morocco</material>. Title on spine in gilt: Biblia Sacra Latina.</p></binding></bindingDesc> 
+      <secFol>et mortuus est. Vixitque iared sexaginta</secFol>
+     </physDesc>
+     <history>
+      <origin><p>Written in the 15th century in <name reg="Italy" type="place">Italy</name> to judge from the Tête de Cerf sans yeux watermark and the scribal hand.</p></origin>
+      <provenance><p>Late medieval to mid-20th century provenance unknown. Sale catalogue description attached (front pastedown). A handwritten 
+       description initialed and dated D.ZV. 9/4/42 is affixed to the front flyleaf (recto). Notation on the back flyleaf (recto) XX/-/-, 23993, 21670, the latter number struck through.</p></provenance>
+      <acquisition><p>Gift of <name reg="Goodspeed, Edgar Johnson, 1871-1962" type="person" role="donor">Edgar J. Goodspeed</name>, Professor 
+       Emeritus in the <name reg="University of Chicago. Divinity School" type="org">Divinity School</name>, to the University of Chicago, September 1956, in memory of his 
+       wife <name reg="Goodspeed, Elfleda Bond, 1880-1949" type="person" role="dedicatee">Elfleda Bond Goodspeed</name> (1880-1949). 
+       Purchased by Mr. Goodspeed from <name reg="Bernard Quaritch (Firm)" type="org" role="bookseller">Bernard Quaritch Ltd.</name> (London), ca. 1956.</p></acquisition>
+     </history></msDescription>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+     Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+     of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+     the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+     resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+     an interface that supports browsing within individual manuscripts and across the collection.</p>
+    <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+     Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+     as of <date>2012-09-22</date>.</p> 
+    <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+     at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+     accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+     and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+     recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+     visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+  <langUsage><language id="lat"></language><p>Latin, ISO 639-3</p>
+ </langUsage> 
+   <textClass>
+    <keywords>
+     <term>Bible--Manuscripts</term>
+     <term>Manuscripts, Latin (Medieval and modern)</term>
+     <term>Goodspeed, Elfleda Bond, 1880-1949</term>
+    </keywords>
+   </textClass>
+ </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0378">               
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 378</idno>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Lat. 61</altIdentifier>
+</msIdentifier>
+<msHeading>
+ <title>Bible</title>
+ <otherName>Biblia Sacra Latina</otherName>
+<origPlace>Italy</origPlace>
+<origDate notBefore="1401" notAfter="1500">15th century</origDate>
+<textLang langKey="lat">Latin</textLang>
+</msHeading>
+<msContents>
+ <overview><p>Bible in Latin. Portions of the Old and New Testaments include the Octateuch (Genesis - Ruth), 
+  the four gospels, Revelation, and the epistles of James, and 1 and 2 Peter. 
+  Contains prologues to Joshua, and the gospels of Matthew, Mark, and Luke. 
+  Formerly Goodspeed Ms. Lat. 61.</p></overview>
+<msItem n="1">
+ <locus from="007" to="036">fols. 1r-15v</locus>
+ <summary>Genesis.</summary> 
+ <incipit>In principio creavit deus celum et terram</incipit>
+ <explicit>...mortuus est expletis centum decem vite sue annis et conditus aromatibus repositus est in loculo in egipto.</explicit> 
+</msItem>
+ <msItem n="2">
+  <locus from="037" to="061">fols. 16r-28r</locus>
+  <summary>Exodus.</summary> 
+  <incipit>Hec sunt nomina filiorum ysrael qui ingressi sunt in egiptam cum iacob singuli cum domibus suis introierunt</incipit>
+  <explicit>...Nubes quippe domini incubabat per diem tabernaculo et ignis in nocte videntibus populis israel per cunctas mansiones suas.</explicit>
+ </msItem>
+ <msItem n="3">
+  <locus from="062" to="079">fols. 28v-37r</locus>
+  <summary>Leviticus.</summary> 
+  <incipit>Vocavit autem moisen et locutus est illi dominus de tabernaculo testimonii dicens</incipit>
+  <explicit>...Hec sunt precepta que mandavit dominus moisi ad filios israhel in monte synai.</explicit> 
+  <note>Blank (fol. 37v).</note>
+ </msItem>
+ <msItem n="4">
+  <locus from="081" to="104">fols. 38r-49v</locus>
+  <summary>Numbers.</summary> 
+  <incipit>Locutus est dominus ad moisem in deserto synai in tabernaculo federis prima 
+  die mensis secundi Anno altero egressionis eorum ex egipto dicens</incipit>
+  <explicit>...Hec sunt mandata atque iudicia que precepit dominus per manum moysi ad 
+  filios israel in campestribus moab super iordanem contra hiericho.</explicit> 
+  <note>Blank (fol. 50r-50v).</note>
+ </msItem>
+ <msItem n="5">
+  <locus from="107" to="130">fols. 51r-62v</locus>
+  <summary>Deuteronomy.</summary> 
+  <incipit>Hec sunt verba que locutus est moyses ad omnem israel transiordanem in solitudine campestri 
+  contra mare rubrum inter pharan et thopel et laban et aseroth ubi auri est plurimum</incipit>
+  <explicit>...et cunctam manum robustam magnaque mirabilia que fecit moyses coram universo israel.</explicit>
+ </msItem>
+ <msItem n="6">
+  <locus from="131" to="131">fol. 63r</locus> 
+  <summary>Prologue of Joshua.</summary> 
+  <incipit>Tanden finita pentatheuco moisi vel ut grandi fenore liberati ad hiesum filium nave manum 
+  mittimus quem hebrei iosue filium nun bennun id est filium nun vocant</incipit>
+  <explicit>...et nos ad patriam festinantes mortiferos sirenarum cantus surda debeamus aure transire 
+   [Hieronymus, Prol. Iosue, Stegmüller 311].</explicit>
+ </msItem>
+ <msItem n="7">
+  <locus from="131" to="143">fols. 63r-69r</locus> 
+  <summary>Joshua.</summary>
+  <incipit>Et factum est post mortem moisi servi domini ut loqueretur dominus ad iosue 
+  filium nun ministrum moysi et diceret ei</incipit>
+  <explicit>...Eleazar quoque filius Aaron mortuus est et sepelierunt eum in gaabaath phinees 
+  filius eius que data est ei in monte ephraim.</explicit> 
+  <note>Blank (fol. 69v).</note>
+ </msItem>
+ <msItem n="8">
+  <locus from="145" to="157">fols. 70r-76r</locus> 
+  <summary>Judges.</summary> 
+  <incipit>Post mortem iosue consuluerunt filii israel dominum dicentes quis ascendet 
+  ante nos contra chananeum et erit dux belli</incipit>
+  <explicit>...filii quoque israel reversi sunt per tribus et familias in tabernacula sua. In diebus 
+   illis non erat rex in israhel sed unusquisque quod sibi rectum videbatur hoc faciebat.</explicit>
+ </msItem>
+ <msItem n="9">
+  <locus from="157" to="159">fols. 76r-77r</locus>  
+  <summary>Ruth.</summary> 
+  <incipit>In diebus unius iudicis quando iudices preerant facta est fames in terra. Abiitque homo 
+  de bethleem iuda ut peregrinaretur in regione moabitide cum uxore sua ac duobus liberis</incipit>
+  <explicit>...Obed genuit isai. Isai genuit david regem.</explicit> 
+  <note>Blank (fol. 77v).</note>
+ </msItem>
+ <msItem n="10">
+  <locus from="161" to="161">fol. 78r</locus>  
+  <summary>Prologues of Matthew.</summary> 
+  <incipit>Matheus ex iudea sicut primus in ordine ponitur ita evangelium in iudea primus scripsit 
+  cuius vocatio addeum ex publicanis actibus fuit duorum in generatione christi principia</incipit>
+  <explicit>...fuit et fidem facte rei tradere et operantis dei intellegendam diligenter esse dispositionem 
+  querentibus non tacere [Prol. Monarchian, Stegmüller 590].</explicit> 
+  <incipit>Item alius prologus Matheus cum primo predicasset evangelium in iudea... [Stegmüller 589].</incipit>
+ </msItem>
+ <msItem n="11">
+  <locus from="161" to="179">fols. 78r-87r</locus>  
+  <summary>Matthew.</summary> 
+  <incipit> Liber generacionis ihesu christi filii david filii abraam</incipit>
+  <explicit>...docentes eos omnia servare quecumque mandavi vobis. Et ecce ego vobiscum 
+   sum omnibus diebus usque ad consumacionem seculi. Amen.</explicit>
+ </msItem>
+ <msItem n="12">
+  <locus from="179" to="179">fol. 87r</locus>  
+  <summary>Prologue of Mark.</summary> 
+  <incipit>Marcus evangelista dei ellectus et petri in babtismate filius atque in divino sermone 
+  discipulus sacerdocium in israhel agens secundum carnem levita ad fidem christi conversus evangelium in ytalia</incipit>
+  <explicit>...habentes mercedem exhortacionis quoniam qui plantat et qui rigat unum sunt, qui autem incrementum 
+   prestat deus est [Prol. Monarchian, Stegmüller 607].</explicit>
+ </msItem>
+ <msItem n="13">
+  <locus from="180" to="192">fols. 87v-93v</locus>  
+  <summary>Mark.</summary> 
+  <incipit>Inicium evangelii ihesu christi filii dei</incipit>
+  <explicit>...Illi autem profecti predicaverunt ubique domino cooperante et sermonem confirmante 
+   sequentibus signis.</explicit>
+ </msItem>
+ <msItem n="14">
+  <locus from="192" to="192">fol. 93v</locus>  
+  <summary>Prologue of Luke.</summary>
+  <incipit>Quoniam quidem multi conati sunt narracionem rerum que in nobis conplete sunt</incipit>
+  <explicit>...ut cognoscas eorum verborum de quibus eruditus es veritatem [Luke 1:1-4 treated as prologue].</explicit> 
+  <incipit>Lucas syrus natione antiochenus arte medicus discipulus apostolorum postea paulum secutus 
+  usque ad confessionem eius </incipit>
+  <explicit>...vitavimus publicam curiositatem, ne non tam demonstrare volentibus deum videremur quam 
+   fastidientibus prodidisse [Prol. Monarchian, Stegmüller 620].</explicit>
+ </msItem>
+ <msItem n="15">
+  <locus from="193" to="211"> fols. 94r-103r</locus>  
+  <summary>Luke.</summary> 
+  <incipit>Fuit in diebus herodis regis iudee sacerdos quidam nomine zacharias de vice abia et uxor illi 
+  de filiabus aaron et nomen eius helisabeth</incipit>
+  <explicit>...et erant semper in templo laudantes et benedicentes deum.</explicit>
+ </msItem>
+ <msItem n="16">
+  <locus from="212" to="226">fols. 103v-110v</locus>  
+  <summary>John.</summary> 
+  <incipit>In principio erat verbum et verbum erat apud deum et deus erat verbum</incipit>
+  <explicit>...Sunt autem et alia multa que fecit ihesus que si scribantur per singula nec ipsum 
+   arbitror mundum eos capere posse qui scribendi sunt libros.</explicit>
+ </msItem>
+ <msItem n="17">
+  <locus from="227" to="236">fols. 111r-115v</locus>
+  <summary>Revelation.</summary> 
+  <incipit>Apocalipsis yhesu christi quam dedit illi deus palam facere servis suis que oportet fieri 
+  cito et significavit mittens per angelum suum servo suo iohanni</incipit>
+  <explicit>...gratia domini nostri iesu christi cum omnibus vobis amen.</explicit>
+ </msItem>  
+  <msItem n="18">
+   <locus from="236" to="238">fols. 115v-116v</locus>
+   <summary>James.</summary> 
+   <incipit>[I]acobus dei et domini nostri yhesu christi servus duodecim tribubus que sunt in dispersione salutem</incipit>
+   <explicit>...scire debet quoniam qui converti fecerit peccatorem ab errore vie sue salvabit animam eius a morte et cooperit 
+    multitudinem peccatorum.</explicit></msItem>  
+   <msItem n="19">
+    <locus from="238" to="239">fols. 116v-117r</locus>
+    <summary>1 Peter.</summary> 
+    <incipit> [P]etrus apostolus ihesu christi electis advenis dispersionis ponti galaciae cappadocie asie et bithinie</incipit>
+    <explicit>...Salutate invicem in osculo sancto gratia vobis omnibus qui estis in christo amen.</explicit>
+   </msItem>  
+    <msItem n="20">
+     <locus from="240" to="241">fols. 117v-118r</locus>
+     <summary>2 Peter.</summary> 
+     <incipit>[S]imon petrus servus et apostolus iesu christi his qui coequalem nobiscum sortiti sunt 
+     fidem in iustitia domini nostri et salvatoris iesu christi</incipit>
+     <explicit>...Crescite vero in gratia et in cognitione domini nostri iesu christi et 
+     salvatoris ipsi gloria nun et in die eternitatis amen.</explicit>
+    </msItem>  
+</msContents>
+<decoration>
+ <initials><p>Primary initials (20-130 mm) in red, some with penwork of the same color.</p></initials>
+ </decoration>
+<physDesc>
+ <support><p><material>Paper</material>. <dimensions type="block" units="mm">386 x 282 mm</dimensions>.</p></support> 
+ <watermarks><p>Watermark similar to Briquet 15505, Tête de Cerf sans yeux (Verona 1422-1438).</p></watermarks> 
+ <extent>122 leaves, of which 4 are flyleaves of paper (white and marbled). Flyleaves conjoint with pastedowns.</extent> 
+ <foliation><p>2 (unfoliated paper flyleaves) + 118 + 2 (unfoliated paper flyleaves). Foliation in Arabic numerals in ink 1-118.</p></foliation> 
+ <dimensions type="written" units="mm">Written space 310 x 190 mm (fol. 5r). Each column is 310 x 85 mm with a space of 20 mm between.</dimensions> 
+ <layout columns="2" writtenLines="51-62 per column"><p>2 columns, 51 to 62 lines. Ruling with lead point.</p></layout>
+ <msWriting><handDesc script="roman" medium="Ink">
+  <p>Written in Roman script in dark brown ink (some fading). Abbreviation throughout. Capitals and strokes, paragraph marks, 
+   and marginal notation in red. Lacks opening initials, capitals, titles, and numbers from fol. 113 forward.</p></handDesc></msWriting> 
+ <textDivisions><p>Running titles and chapter numbers in red.</p></textDivisions>
+ <condition><p>Random water and grease stains. One taped repair.</p></condition>
+ <bindingDesc>
+  <binding><p>Bound in half red <material>morocco</material>. Title on spine in gilt: Biblia Sacra Latina.</p></binding></bindingDesc> 
+ <secFol>et mortuus est. Vixitque iared sexaginta</secFol>
+</physDesc>
+<history>
+ <origin><p>Written in the 15th century in <name reg="Italy" type="place">Italy</name> to judge from the Tête de Cerf sans yeux watermark and the scribal hand.</p></origin>
+ <provenance><p>Late medieval to mid-20th century provenance unknown. Sale catalogue description attached (front pastedown). A handwritten 
+  description initialed and dated D.ZV. 9/4/42 is affixed to the front flyleaf (recto). Notation on the back flyleaf (recto) XX/-/-, 23993, 21670, the latter number struck through.</p></provenance>
+ <acquisition><p>Gift of <name reg="Goodspeed, Edgar Johnson, 1871-1962" type="person" role="donor">Edgar J. Goodspeed</name>, Professor 
+  Emeritus in the <name reg="University of Chicago. Divinity School" type="org">Divinity School</name>, to the University of Chicago, September 1956, in memory of his 
+  wife <name reg="Goodspeed, Elfleda Bond, 1880-1949" type="person" role="dedicatee">Elfleda Bond Goodspeed</name> (1880-1949). 
+  Purchased by Mr. Goodspeed from <name reg="Bernard Quaritch (Firm)" type="org" role="bookseller">Bernard Quaritch Ltd.</name> (London), ca. 1956.</p></acquisition>
+</history>
+ <additional>
+  <listBibl>
+   <bibl>
+    <author>Friedrich Stegmüller</author>, 
+    <title level="m">Repertorium Biblicum Medii Aevi</title>
+    <imprint> 
+     <pubPlace>(Spain:</pubPlace> 
+     <publisher>Consejo Superior de Investigaciones Cientificas. Instituto Francisco Suárez,</publisher> 
+     <date>1950),</date></imprint> 
+    <biblScope type="volume">vol. 1, Initia Biblica: Apocrypha, Prologi.</biblScope></bibl></listBibl>
+ </additional>
+</msDescription>
+        </body>
+    </text>      
+</TEI.2>

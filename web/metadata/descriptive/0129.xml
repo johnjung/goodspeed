@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0129, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0129</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 129</idno>
+                        <altName type="Gregory number">Greg. 1152</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 11</altIdentifier></msIdentifier>
+                    <msHeading>
+                        <title>New Testament. Gospels</title>
+                        <otherName>Nicolaus Gospels</otherName>
+                        <origPlace>Édhessa, Greece (Macedonia)</origPlace>
+                        <origDate>1133</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents> 
+                        <overview><p>Four gospels in Greek. Ammonian section and Eusebian canon numbers, lectionary headings, and incipits in the margins. 
+                            Contains 15th century lectionary tables. Formerly Goodspeed Ms. Grk. 11.</p>
+                            <p>Foliation cited in the description follows the numbering written before the loss of fols. 4, 61, and 149.</p></overview>
+                    </msContents>
+                    <decoration>  
+                        <miniatures> 
+                            <minItem n="1">
+                                <locus from="004" to="004">fol. 1v</locus>
+                                <minDesc>Virgin Mary: with Suppliant. Virgin at left, wearing a blue robe and wimple or kerchief, and red shoes; her hand extends over 
+                                    a female suppliant kneeling, lower right; suppliant, dressed in gray cape, blue head covering, robe, and pectoral decorated with a red cross; 
+                                    hand of god emerges from clouds, upper right.</minDesc>
+                                <note>Inscriptions, partially  illegible. Miniature attached with tape to fol. 6.</note>
+                            </minItem></miniatures>
+                        <comments>
+                            <p>In an 1864 catalogue entry, Emmanuel Joannides described 5 miniatures within the manuscript as portraits of the Evangelists, and 
+                                of the Hyperagia Theotokos (most Holy Mother of God) pictured with a young woman. A second catalogue description by 
+                                Athanasios Papadopoulos-Kerameus, published in 1915, notes 4 extant miniatures, all of which were said to be Evangelists, 
+                                as the Virgin Mary (fol. 1v) was misidentified as St. Matthew.</p></comments>
+                        <headpieces>
+                            <p>Headpieces embellished with birds and foliate motifs in blue, rose, gold, and green (fols. 5r, 62r, 94r, 150r).</p>
+                        </headpieces>
+                        <initials>
+                            <p>Major initials (30 mm) composed of bead and foliate designs in blue, rose, and gold. Minor initials in red set off from the text 
+                                (occasional duplication of an end letter of the preceding line).</p></initials>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material> and <material>paper</material>. <dimensions type="block" units="mm">125 x 98 mm</dimensions>.</p></support>
+                        <watermarks>
+                            <p>Watermark of lectionary leaves, fols. 196, 207, and 208, similar to Briquet, Balance dans un cercle à plateaux circulaires suspendus à l'attache 
+                                mediane, 2551 (Ferrare, 1475). For fols. 210, 211, and 221, the watermark is similar to Briquet, Tête de boeuf au serpent s'enroulant 
+                                autour d'une croix ou d'une tige, 15366 (Brescia, 1474). </p></watermarks>
+                        <extent>222 leaves, of which 189 are parchment, 32 are of 15th century paper, and 1 is modern paper (flyleaf, yellow). Flyleaf conjoint with back pastedown.</extent> 
+                        <foliation><p>219 + 3 (foliated paper leaves). Foliation in Arabic numerals in pencil 1-219. Blank lectionary end leaves and flyleaf foliated 220-222 by a second hand.</p></foliation>
+                        <collation><p>Quires 1 and 3 through 24 are of 8 leaves, quires 2 and 25 contain 6 and 5 leaves respectively. The block and writing space dimensions of the 
+                            3 paper quires match that of the parchment leaves (fols. 194-221). Estimate of content lost: Miniatures of Matthew and Luke (fol. 4); Mark (fol. 61); and 
+                            John (fol. 149). A 15th century replacement paper leaf containing the text of Matthew 19:1-19:19 was inserted between fols. 40 and 42.</p></collation>
+                        <dimensions type="written" units="mm">Written space 90 x 70 mm (fol. 34r).</dimensions> 
+                        <layout columns="1" writtenLines="21-25"><p>1 column, 21 to 25 lines. Ruling with hard point. Pricking in the outer margins.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in dark brown ink (some flaking).</p>
+                            <p>Punctuation includes high and low points, comma, marks of elision and interrogation. Quotation marks in left margin next to each line of quoted text.</p></handDesc>
+                        </msWriting>
+                        <textDivisions><p>Titles and indicators αρχε (beginning) and τελος (end) in red.</p></textDivisions>
+                        <condition><p>Parchment darkened, cracking around cords. Several leaves reinforced with tape or paper. Text block detached from binding. 
+                            Fragmentary pieces of lost leaves after fols. 60 and 149. Some marginal notation marred owing to trimming. Water stains.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Bound in <material>marbled paper</material> over <material>millboard</material>, quarter green <material>morocco</material>. 
+                                Stamped title ΕΥΑΓΓΕΛΙΟΝ ΜΕΜΒΡΑΙΝΟΝ and panels of floral design on spine in gold.</p></binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript was written in <name reg="Macedonia" type="place">Macedonia</name> in the 
+                            city of Edessa, the present-day <name reg="Édhessa, Greece" type="place">Édhessa, Greece</name> by the 
+                            monk <name reg="Nicolaus, 12th century" type="person" role="scribe">Nicolaus</name>, who 
+                            completed his work May 4, 1133 (his colophon, fols. 192v-193r). The miniature of the Virgin Mary with suppliant 
+                            is judged to be a later addition.</p></origin> 
+                        <provenance><p>Provenance from the 12th to the mid-19th century is unknown. The manuscript was in 
+                            the collection of the <name reg="Church of the Holy Sepulchre (Constantinople)" type="org">Metochion of the Holy Sepulchre</name>
+                            in <name reg="Constantinople" type="place">Constantinople</name>, the 
+                            present-day <name reg="Istanbul, Turkey" type="place">Istanbul, Turkey</name>, where it was seen and 
+                            catalogued by <name reg="Joannides, Emmanuel" type="person">Emmanuel Joannides</name> in the early 1860s, and 
+                            by <name reg="Papadopoulos-Kerameus, Athanasios, 1856-1912" type="person">Athanasios 
+                                Papadopoulos-Kerameus</name> in the early 20th century. Catalogues and scholarly publications have noted the 
+                            shelfmarks 419, 767, and 799 as those assigned at various times to the gospels while it was part of the Metochion Library.</p>
+                            <p>University of Chicago Libraries bookplate (pastedown, front); stamp (illegible, fol. 1r); notation, 62.94.150 (pastedown, back).</p></provenance>
+                        <acquisition><p>Acquired by the University of Chicago in 1929 from <name reg="Riefstahl, Rudolf Meyer, 1880-1936" type="person" role="antiquarian">Rudolf M. Riefstahl</name> (New York), 
+                            with funds provided by Chicago businessman <name reg="Haskell, Frederick T., 1854-1935" type="person" role="donor">Frederick T. Haskell</name>.</p></acquisition>
+                    </history>
+                </msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+  <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+ </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Gospels. Greek</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                    <term>Miniatures (Illuminations)</term>
+                    <term>Church of the Holy Sepulchre (Constantinople)</term>
+                </keywords>
+            </textClass>
+ </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0129">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 129</idno>
+    <altName type="Gregory number">Greg. 1152</altName>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 11</altIdentifier></msIdentifier>
+    <msHeading>
+        <title>New Testament. Gospels</title>
+        <otherName>Nicolaus Gospels</otherName>
+        <origPlace>Édhessa, Greece (Macedonia)</origPlace>
+        <origDate>1133</origDate>
+        <textLang langKey="grc">Greek</textLang>
+    </msHeading>
+<msContents> 
+    <overview><p>Four gospels in Greek. Ammonian section and Eusebian canon numbers, lectionary headings, and incipits in the margins. 
+        Contains 15th century lectionary tables. Formerly Goodspeed Ms. Grk. 11.</p>
+    <p>Foliation cited in the description follows the numbering written before the loss of fols. 4, 61, and 149.</p></overview>
+<msItem n="1">
+    <locus from = "005" to ="007">fols. 2r-3r</locus> 
+    <summary>Kephalaia of Matthew.</summary>
+    <note>Blank (fol. 1r).</note>
+</msItem>
+    <msItem n="2">
+        <locus from = "007" to ="008">fols. 3r-3v</locus> 
+        <summary>Prologue of Matthew. Introduction to the four gospels.</summary>
+    </msItem>
+    <msItem n="3">
+        <locus from = "009" to ="119">fols. 5r-60r</locus> 
+        <summary>Matthew. Subscription.</summary>
+    </msItem>
+    <msItem n="4">
+        <locus from = "120" to ="120">fol. 60v</locus> 
+        <summary>Kephalaia of Mark (lacking).</summary>
+    </msItem>
+    <msItem n="5">
+        <locus from = "121" to ="182">fols. 62r-92v</locus> 
+        <summary>Mark.</summary>
+    </msItem>
+    <msItem n="6">
+        <locus from = "183" to ="184">fols.93r-93v</locus> 
+        <summary>Kephalaia of Luke.</summary>
+    <note>Consists of 83, but incorrectly numbered to 84.</note></msItem>
+        <msItem n="7">
+            <locus from ="184" to ="184"> fol. 93v</locus>
+            <summary>Prologue of Luke.</summary>
+        </msItem>
+        <msItem n="8">
+            <locus from ="185" to ="294"> fols. 94r-148v</locus>
+            <summary>Luke.</summary>
+        </msItem>
+        <msItem n="9">
+            <locus from ="295" to ="380"> fols. 150r-192v</locus>
+            <summary>John. Subscription.</summary>
+        </msItem>
+        <msItem n="10">
+            <locus from ="380" to ="381"> fols. 192v-193r</locus>
+            <colophon>Here is the end of the Christ-spoken words. Remember Lord the writer 
+                Nicolaus of Edessa the sinful monk and his family. Amen. This book was finished in the month
+                Artemision which is in the Roman reckoning May on the 4th day the 11th indiction in the year 
+                6641 (1133) in the Christ-blessed city of Edessa.</colophon>
+        </msItem>
+        <msItem n="11">
+            <locus from ="385" to ="434"> fols. 195r-219v</locus>
+            <summary>Lectionary tables (Synaxarion, Menologion).</summary>
+            <note>Tables contain saints' names, or date references, gospel source and Ammonian section number, 
+                incipits and explicits, marginal cross references, and indications of mode. Blank (leaves 194, 220, 221).</note></msItem>
+</msContents>
+    <decoration>  
+        <miniatures> 
+            <minItem n="1">
+                <locus from="004" to="004">fol. 1v</locus>
+                <minDesc>Virgin Mary: with Suppliant. Virgin at left, wearing a blue robe and wimple or kerchief, and red shoes; her hand extends over 
+                    a female suppliant kneeling, lower right; suppliant, dressed in gray cape, blue head covering, robe, and pectoral decorated with a red cross; 
+                    hand of god emerges from clouds, upper right.</minDesc>
+                <note>Inscriptions, partially  illegible. Miniature attached with tape to fol. 6.</note>
+            </minItem></miniatures>
+        <comments>
+            <p>In an 1864 catalogue entry, Emmanuel Joannides described 5 miniatures within the manuscript as portraits of the Evangelists, and 
+                of the Hyperagia Theotokos (most Holy Mother of God) pictured with a young woman. A second catalogue description by 
+                Athanasios Papadopoulos-Kerameus, published in 1915, notes 4 extant miniatures, all of which were said to be Evangelists, 
+                as the Virgin Mary (fol. 1v) was misidentified as St. Matthew.</p></comments>
+        <headpieces>
+            <p>Headpieces embellished with birds and foliate motifs in blue, rose, gold, and green (fols. 5r, 62r, 94r, 150r).</p>
+        </headpieces>
+        <initials>
+            <p>Major initials (30 mm) composed of bead and foliate designs in blue, rose, and gold. Minor initials in red set off from the text 
+                (occasional duplication of an end letter of the preceding line).</p></initials>
+        </decoration>
+    <physDesc>
+ <support><p><material>Parchment</material> and <material>paper</material>. <dimensions type="block" units="mm">125 x 98 mm</dimensions>.</p></support>
+        <watermarks>
+            <p>Watermark of lectionary leaves, fols. 196, 207, and 208, similar to Briquet, Balance dans un cercle à plateaux circulaires suspendus à l'attache 
+                mediane, 2551 (Ferrare, 1475). For fols. 210, 211, and 221, the watermark is similar to Briquet, Tête de boeuf au serpent s'enroulant 
+                autour d'une croix ou d'une tige, 15366 (Brescia, 1474). </p></watermarks>
+        <extent>222 leaves, of which 189 are parchment, 32 are of 15th century paper, and 1 is modern paper (flyleaf, yellow). Flyleaf conjoint with back pastedown.</extent> 
+        <foliation><p>219 + 3 (foliated paper leaves). Foliation in Arabic numerals in pencil 1-219. Blank lectionary end leaves and flyleaf foliated 220-222 by a second hand.</p></foliation>
+        <collation><p>Quires 1 and 3 through 24 are of 8 leaves, quires 2 and 25 contain 6 and 5 leaves respectively. The block and writing space dimensions of the 
+            3 paper quires match that of the parchment leaves (fols. 194-221). Estimate of content lost: Miniatures of Matthew and Luke (fol. 4); Mark (fol. 61); and 
+            John (fol. 149). A 15th century replacement paper leaf containing the text of Matthew 19:1-19:19 was inserted between fols. 40 and 42.</p></collation>
+        <dimensions type="written" units="mm">Written space 90 x 70 mm (fol. 34r).</dimensions> 
+        <layout columns="1" writtenLines="21-25"><p>1 column, 21 to 25 lines. Ruling with hard point. Pricking in the outer margins.</p></layout>
+        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in dark brown ink (some flaking).</p>
+            <p>Punctuation includes high and low points, comma, marks of elision and interrogation. Quotation marks in left margin next to each line of quoted text.</p></handDesc>
+        </msWriting>
+        <textDivisions><p>Titles and indicators αρχε (beginning) and τελος (end) in red.</p></textDivisions>
+        <condition><p>Parchment darkened, cracking around cords. Several leaves reinforced with tape or paper. Text block detached from binding. 
+            Fragmentary pieces of lost leaves after fols. 60 and 149. Some marginal notation marred owing to trimming. Water stains.</p></condition>
+        <bindingDesc>
+            <binding><p>Bound in <material>marbled paper</material> over <material>millboard</material>, quarter green <material>morocco</material>. 
+                Stamped title ΕΥΑΓΓΕΛΙΟΝ ΜΕΜΒΡΑΙΝΟΝ and panels of floral design on spine in gold.</p></binding></bindingDesc>
+ </physDesc>
+<history>
+    <origin><p>The manuscript was written in <name reg="Macedonia" type="place">Macedonia</name> in the 
+        city of Edessa, the present-day <name reg="Édhessa, Greece" type="place">Édhessa, Greece</name> by the 
+        monk <name reg="Nicolaus, 12th century" type="person" role="scribe">Nicolaus</name>, who 
+        completed his work May 4, 1133 (his colophon, fols. 192v-193r). The miniature of the Virgin Mary with suppliant 
+        is judged to be a later addition.</p></origin> 
+    <provenance><p>Provenance from the 12th to the mid-19th century is unknown. The manuscript was in 
+        the collection of the <name reg="Church of the Holy Sepulchre (Constantinople)" type="org">Metochion of the Holy Sepulchre</name>
+        in <name reg="Constantinople" type="place">Constantinople</name>, the 
+        present-day <name reg="Istanbul, Turkey" type="place">Istanbul, Turkey</name>, where it was seen and 
+        catalogued by <name reg="Joannides, Emmanuel" type="person">Emmanuel Joannides</name> in the early 1860s, and 
+        by <name reg="Papadopoulos-Kerameus, Athanasios, 1856-1912" type="person">Athanasios 
+            Papadopoulos-Kerameus</name> in the early 20th century. Catalogues and scholarly publications have noted the 
+        shelfmarks 419, 767, and 799 as those assigned at various times to the gospels while it was part of the Metochion Library.</p>
+        <p>University of Chicago Libraries bookplate (pastedown, front); stamp (illegible, fol. 1r); notation, 62.94.150 (pastedown, back).</p></provenance>
+    <acquisition><p>Acquired by the University of Chicago in 1929 from <name reg="Riefstahl, Rudolf Meyer, 1880-1936" type="person" role="antiquarian">Rudolf M. Riefstahl</name> (New York), 
+        with funds provided by Chicago businessman <name reg="Haskell, Frederick T., 1854-1935" type="person" role="donor">Frederick T. Haskell</name>.</p></acquisition>
+</history>
+    <additional><listBibl>
+        <bibl>
+            <author>Emmanuel Joannides</author>, 
+            <title level="a">"[Catalogue],"</title> 
+            <title level="j">Ho en Konstantinopolei Hellenikos Philologikos Syllogos</title> 
+            <biblScope type="volume">2</biblScope> 
+            <imprint><date>(1864),</date></imprint> 
+            <biblScope type="pages">pp. 62-63, no. 5 (Holy Sepulchre 419)</biblScope>
+        </bibl>
+        <bibl>
+            <author>Caspar René Gregory</author>, 
+            <title level="m">Textkritik des Neuen Testamentes</title>
+            <imprint>
+                <pubPlace>(Leipzig:</pubPlace>
+                <publisher>J. C. Hinrichs,</publisher>
+                <date>1900-1909),</date>
+            </imprint>
+            <biblScope type="pages">vol. 1, p. 243; vol. 3, pp. 1131, 1474. no. 1152.</biblScope>
+        </bibl>
+        <bibl><author>A. I. Papadopoulos-Kerameus</author>, 
+            <title level="m">Hierosolymitikē Vivliothēkē, ētoi Katalogos tōn en tais vivliothēkais: 
+                tou hagiōtatou apostolikou te kai katholikou orthodoxou patriarchikou thronou tōn 
+                Hierosolymōn kai pasēs Palaistinēs apokeimenōn Hellēnikōn Kōdikōn</title>
+        <imprint>
+            <pubPlace>En Petroupolei:</pubPlace>
+            <publisher>ech tou typographeiou V. Kirspaoum,</publisher>
+            <date>1915),</date>
+        </imprint>
+        <biblScope type="pages">pp. 291-292, 555. no. 799.</biblScope>
+        </bibl>
+        <bibl><author>Samuel A. Cartledge</author>, 
+            <title level="u">"A group of Gospels manuscripts"</title> 
+            <note>(Ph.D. diss., University of Chicago, 1930).</note></bibl>
+        <bibl>
+            <author>Seymour de Ricci,</author>
+            <title level="m">Census of Medieval and Renaissance Manuscripts in the United States and Canada</title>
+            <imprint>
+                <pubPlace>(New York:</pubPlace>
+                <publisher>H. W. Wilson Company,</publisher>
+                <date>1935),</date>
+            </imprint>
+            <biblScope type="volume">vol. 1, p. 568.</biblScope></bibl>
+        <bibl><author>Kenneth W. Clark</author>, 
+            <title level="m">A Descriptive Catalogue of Greek New Testament Manuscripts in America</title>
+            <imprint>
+                <pubPlace>(Chicago:</pubPlace>
+                <publisher>University of Chicago Press,</publisher>
+                <date>1937),</date>
+            </imprint>
+            <biblScope type="pages">pp. 231-233.</biblScope></bibl>
+        <bibl>
+            <author>Merrill Mead Parvis</author>, 
+            <title level="m">The Story of the Goodspeed Collection</title>
+            <imprint>
+                <pubPlace>([Chicago]:</pubPlace>
+                <publisher>s.n.,</publisher>
+                <date>1952),</date>
+            </imprint>
+            <biblScope type="pages">pp. 12-13.</biblScope></bibl></listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

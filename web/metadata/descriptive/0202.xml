@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0202, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0202</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 202</idno>
+                        <altName type="Gregory number">Greg. 2608</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 57</altIdentifier>
+                    </msIdentifier> 
+                    <msHeading>
+                        <title>New Testament. Gospels</title>
+                        <otherName>Edward Goodman Gospels</otherName>
+                        <origPlace>Greece or Asia Minor</origPlace>
+                        <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents> 
+                        <overview><p>Four gospels in Greek. Formerly Goodspeed Ms. Grk. 57.</p></overview></msContents>
+                    <decoration>
+                            <headpieces>
+                                <p>Headpieces of floral design in red, green, and blue on a gold ground (fols. 5r, 97r, 156r).</p>
+                            </headpieces>
+                            <initials>
+                                <p>Major initials (30-60 mm). Minor initials in red set off from the text.</p>
+                            </initials>
+                        </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="block" units="mm">145 x 105 mm</dimensions>.</p></support>
+                        <extent>341 leaves, of which 2 now function pastedowns (partially raised), and two are flyleaves.</extent> 
+                        <foliation><p>1 (unfoliated pastedown) + 337 + 2 (foliated parchment flyleaves) + 1 (unfoliated pastedown). Modern foliation in Arabic numerals in pencil 1-339.</p></foliation> 
+                        <collation><p>44 quires, each of 8 leaves, with the exception of the quire designated 1 (fols. 5-11), which contains 7 leaves. Estimate of content lost: 2 leaves of the unnumbered 
+                            initial quire (after fol. 3, portrait of the Evangelist Matthew, and possibly an inscription); 2 leaves of quire 6 (after fol. 43, Matthew 13:32, ending at, κατασκηνο[υν], and 
+                            beginning on fol. 44r with 13:54  at, πατριδα αυτου); 1 leaf of quire 12 (after fol. 96, portrait of the Evangelist Mark); 1 leaf of quire 20 (after fol. 155, portrait of the Evangelist 
+                            Luke, and possibly an inscription); 2 leaves of quire 34, wrongly labeled 33 (after fol. 268, portrait of the Evangelist John, a headpiece, an initial, and text 1:1-14).</p>
+                            <p>Primarily quires were numbered on the last leaf (verso, lower inner margin) and specified according to gospel content. These were later renumbered sequentially on the first 
+                                leaf (recto, upper margin), and are extant from fol. 12r, β-μγ.</p></collation> 
+                        <dimensions type="written" units="mm">Written space 95 x 70 mm (fol. 90r).</dimensions> 
+                        <layout columns="1" writtenLines="18"><p>1 column, 18 lines. Ruling with hard point. Pricking in the outer margins.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in brown ink (some fading).</p>
+                            <p>Punctuation includes high point, comma, and the mark of interrogation.</p></handDesc>
+                        </msWriting>
+                        <condition><p>Leaves used as padding between the pastedowns and boards are fragmented. Evangelist portraits cut out of the manuscript, parchment stubs remain. 
+                            Several leaves of the primary quire are loose. Paint of Matthew's initial has run owing to water damage. Water and minor dirt stains. Instances of text overwritten 
+                            in black ink. Some trimming of margins.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Bound in light brown <material>leather</material> over thin boards.</p></binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript is dated to the 13th century, and is judged to have been written in either <name reg="Greece" type="place">Greece</name> 
+                            or <name reg="Asia Minor" type="place">Asia Minor</name>.</p></origin> 
+                        <provenance><p>Medieval to mid-20th century provenance unknown.</p>
+                            <p>Illegible notation (fol. 1v); inscription and signature of Gerasimus Bikousmos, possibly a one-time owner (fol. 2r); prayer and notation (fol. 4r); drawing of a blessing hand (fol. 4v); 
+                                malediction (fol. 337v); lectionary incipits (fols. 338r, 339v); doxology (fol. 339r); notation (back pastedown).</p></provenance>
+                        <acquisition><p>Acquired by the University of Chicago in June 1948 from Boston banker <name reg="Gano, Seth T., 1879-1955" type="person" role="banker">Seth T. Gano</name> with 
+                            funds provided by <name reg="Goodman, William E." type="person" role="donor">William E. Goodman</name>. The manuscript was named in honor of Mr. Goodman's 
+                            grandfather <name reg="Goodwin, Edward, 1830-1911" type="person" role="dedicatee">Edward Goodwin</name>, a Baptist minister and university trustee (1890-1909).</p></acquisition>
+                    </history>
+</msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+  <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+  </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Gospels. Greek</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                    <term>Goodman, Edward, 1830-1911</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0202">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 202</idno>
+    <altName type="Gregory number">Greg. 2608</altName>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 57</altIdentifier>
+</msIdentifier> 
+    <msHeading>
+        <title>New Testament. Gospels</title>
+        <otherName>Edward Goodman Gospels</otherName>
+        <origPlace>Greece or Asia Minor</origPlace>
+        <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+        <textLang langKey="grc">Greek</textLang>
+    </msHeading>
+<msContents> 
+    <overview><p>Four gospels in Greek. Formerly Goodspeed Ms. Grk. 57.</p></overview>
+<msItem n="1">
+    <locus from ="002" to ="002">Pastedown (front)</locus> 
+    <summary>Kephalaia of Matthew (15-32 only).</summary>
+</msItem>
+    <msItem n="2">
+        <locus from ="003" to ="003">fol. 1r</locus> 
+        <summary>Table (unidentified content).</summary>
+    </msItem>
+    <msItem n="3">
+        <locus from ="005" to ="006">fols. 2r-2v</locus> 
+        <summary>Kephalaia of Matthew (33-68).</summary>
+    </msItem>
+    <msItem n="4">
+        <locus from ="007" to ="008">fols. 3r-3v</locus> 
+        <summary>Theophylactus, of Ochrida, Archbishop of Ochrida, ca. 1050-ca. 1108, Commentary on the Four Gospels (abstract).</summary>
+    </msItem>
+    <msItem n="5">
+        <locus from ="011" to ="192">fols. 5r-95v</locus> 
+        <summary>Matthew (lacking).</summary>
+    </msItem>
+    <msItem n="6">
+        <locus from ="193" to ="194">fols. 96r-96v</locus> 
+        <summary>Kephalaia of Mark (48). Inscription.</summary>
+    </msItem>
+    <msItem n="7">
+        <locus from ="195" to ="309">fols. 97r-154r</locus> 
+        <summary>Mark.</summary>
+    </msItem>
+    <msItem n="8">
+        <locus from ="309" to ="312">fols. 154r-155v</locus> 
+        <summary>Kephalaia of Luke (82).</summary>
+    </msItem>
+    <msItem n="9">
+        <locus from ="313" to ="537">fols. 156r-268r</locus> 
+        <summary>Luke.</summary>
+    </msItem>
+    <msItem n="10">
+        <locus from ="537" to ="538">fols. 268r-268v</locus> 
+        <summary>Kephalaia of John (18). Inscription.</summary>
+    </msItem>
+    <msItem n="11">
+        <locus from ="539" to ="675">fols. 269r-337r</locus> 
+        <summary>John (begins with 1:14 at, ημιν και εθεασαμεθα την).</summary>
+    </msItem>
+    <msItem n="12">
+        <locus from ="676" to ="676">fol. 337v</locus> 
+        <summary>Malediction of the three hundred and eighteen inspired fathers.</summary>
+    </msItem>
+    </msContents>
+    <decoration>
+        <headpieces>
+            <p>Headpieces of floral design in red, green, and blue on a gold ground (fols. 5r, 97r, 156r).</p>
+        </headpieces>
+        <initials>
+            <p>Major initials (30-60 mm). Minor initials in red set off from the text.</p>
+        </initials>
+        </decoration>
+    <physDesc>
+ <support><p><material>Parchment</material>. <dimensions type="block" units="mm">145 x 105 mm</dimensions>.</p></support>
+        <extent>341 leaves, of which 2 now function pastedowns (partially raised), and two are flyleaves.</extent> 
+        <foliation><p>1 (unfoliated pastedown) + 337 + 2 (foliated parchment flyleaves) + 1 (unfoliated pastedown). Modern foliation in Arabic numerals in pencil 1-339.</p></foliation> 
+        <collation><p>44 quires, each of 8 leaves, with the exception of the quire designated 1 (fols. 5-11), which contains 7 leaves. Estimate of content lost: 2 leaves of the unnumbered 
+            initial quire (after fol. 3, portrait of the Evangelist Matthew, and possibly an inscription); 2 leaves of quire 6 (after fol. 43, Matthew 13:32, ending at, κατασκηνο[υν], and 
+            beginning on fol. 44r with 13:54  at, πατριδα αυτου); 1 leaf of quire 12 (after fol. 96, portrait of the Evangelist Mark); 1 leaf of quire 20 (after fol. 155, portrait of the Evangelist 
+            Luke, and possibly an inscription); 2 leaves of quire 34, wrongly labeled 33 (after fol. 268, portrait of the Evangelist John, a headpiece, an initial, and text 1:1-14).</p>
+            <p>Primarily quires were numbered on the last leaf (verso, lower inner margin) and specified according to gospel content. These were later renumbered sequentially on the first 
+                leaf (recto, upper margin), and are extant from fol. 12r, β-μγ.</p></collation> 
+        <dimensions type="written" units="mm">Written space 95 x 70 mm (fol. 90r).</dimensions> 
+        <layout columns="1" writtenLines="18"><p>1 column, 18 lines. Ruling with hard point. Pricking in the outer margins.</p></layout>
+        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in brown ink (some fading).</p>
+            <p>Punctuation includes high point, comma, and the mark of interrogation.</p></handDesc>
+        </msWriting>
+        <condition><p>Leaves used as padding between the pastedowns and boards are fragmented. Evangelist portraits cut out of the manuscript, parchment stubs remain. 
+            Several leaves of the primary quire are loose. Paint of Matthew's initial has run owing to water damage. Water and minor dirt stains. Instances of text overwritten 
+            in black ink. Some trimming of margins.</p></condition>
+        <bindingDesc>
+            <binding><p>Bound in light brown <material>leather</material> over thin boards.</p></binding></bindingDesc>
+ </physDesc>
+<history>
+    <origin><p>The manuscript is dated to the 13th century, and is judged to have been written in either <name reg="Greece" type="place">Greece</name> 
+        or <name reg="Asia Minor" type="place">Asia Minor</name>.</p></origin> 
+    <provenance><p>Medieval to mid-20th century provenance unknown.</p>
+        <p>Illegible notation (fol. 1v); inscription and signature of Gerasimus Bikousmos, possibly a one-time owner (fol. 2r); prayer and notation (fol. 4r); drawing of a blessing hand (fol. 4v); 
+            malediction (fol. 337v); lectionary incipits (fols. 338r, 339v); doxology (fol. 339r); notation (back pastedown).</p></provenance>
+    <acquisition><p>Acquired by the University of Chicago in June 1948 from Boston banker <name reg="Gano, Seth T., 1879-1955" type="person" role="banker">Seth T. Gano</name> with 
+        funds provided by <name reg="Goodman, William E." type="person" role="donor">William E. Goodman</name>. The manuscript was named in honor of Mr. Goodman's 
+        grandfather <name reg="Goodwin, Edward, 1830-1911" type="person" role="dedicatee">Edward Goodwin</name>, a Baptist minister and university trustee (1890-1909).</p></acquisition>
+</history>
+    <additional>
+        <listBibl><bibl>
+            <author>Merrill Mead Parvis</author>, 
+            <title level="m">The Story of the Goodspeed Collection</title>
+            <imprint>
+                <pubPlace>([Chicago]:</pubPlace>
+                <publisher>s.n.,</publisher>
+                <date>1952),</date>
+            </imprint>
+            <biblScope type="pages">p. 28.</biblScope></bibl>
+            <bibl> 
+                <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+                    Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+                <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+                <imprint> 
+                    <pubPlace>([Chicago:</pubPlace> 
+                    <publisher>s.n.,</publisher> 
+                    <date>1973]),</date></imprint> 
+                <biblScope type="volume">36,</biblScope> 
+                <biblScope type="catalogNo">no. 48.</biblScope></bibl></listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

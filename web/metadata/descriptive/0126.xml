@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0126, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0126</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc> 
+                <msDescription><msIdentifier>
+                    <country>United States</country>
+                    <region>Illinois</region>
+                    <settlement>Chicago</settlement>
+                    <institution>University of Chicago Library</institution> 
+                    <repository>Special Collections Research Center</repository>
+                    <collection>Goodspeed Manuscript Collection</collection>
+                    <idno>Ms. 126</idno>
+                    <altName type="Gregory number">Greg. 2404</altName>
+                    <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 22</altIdentifier>
+                </msIdentifier>
+                    <msHeading>
+                        <title>Bible. New Testament</title>
+                        <otherName>Scott Brown New Testament</otherName>
+                        <origPlace>Greece or Asia Minor</origPlace>
+                        <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents> 
+                        <overview><p>New Testament in Greek. Ammonian section numbers in the gospels, with 
+                            lectionary headings and incipits, and lection numbers in the praxapostolos. 
+                            Lectionary reference tables. Formerly Goodspeed Ms. Grk. 22.</p></overview></msContents>
+                    <decoration>
+                        <headpieces>
+                            <p>Small headpieces composed of geometric and foliate motifs in gold, blue, green, and red before the gospels and Acts (fols. 1r, 49v, 82v, 137r, 193r). 
+                                The initial leaf of the lectionary reference table contains a headpiece in the form of a serpent (fol. 177r). Tailpiece in red (fol. 136r).</p>
+                        </headpieces>
+                        <initials><p>Major initials (20-30 mm) in red (faded) set off from the text.</p>
+                        </initials>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="block" units="mm">205 x 150 mm</dimensions>.</p></support>
+                        <extent>376 leaves.</extent> 
+                        <foliation><p>1-376. Modern foliation in Arabic numerals in pencil</p></foliation> 
+                        <collation><p>47 quires, each of 8 leaves. Quires of gospel and Praxapostolos numbered separately, respectively 1-22 (α-κβ), and 1-23 (α-κγ). 
+                            Two unnumbered quires of lectionary reference tables between. Lacking kephalaia of Matthew and of Acts.</p>  
+                            <p>Quire numbers recorded in the lower margin on the first leaf (recto) and last leaf (verso) of each quire.</p></collation> 
+                        <dimensions type="written" units="mm">Written space 135 x 95 mm (fol. 26r).</dimensions> 
+                        <layout columns="1" writtenLines="25-29"><p>1 column, 25 to 29 lines. Ruling with hard point. Pricking in outer margins.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in dark brown ink (some flaking)</p></handDesc>
+                        </msWriting>
+                        <textDivisions><p>Titles in red. Lectionary headings (side margins), and αρχ (arche) and τελ (telos) mark the position of lections 
+                            in the gospel text.</p></textDivisions>
+                        <condition><p>Random water stains. Tracing of letters in black ink where text has flaked.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Blind stamped brown <material>leather</material> over boards (remnants).</p></binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript is dated to the 13th century, and is judged to have been written in either <name reg="Greece" type="place">Greece</name> 
+                            or <name reg="Asia Minor" type="place">Asia Minor</name>.</p></origin> 
+                        <provenance><p>Medieval to early 20th century provenance unknown. Belonged to an unidentified collector in <name reg="France" type="place">France</name>, date unknown. 
+                            Prayer (fol. 376v).</p></provenance>
+                        <acquisition><p>Acquired by the University of Chicago from <name reg="Davis &amp; Orioli (Firm)" type="org" role="bookseller">Davis &amp; Orioli</name> (London), 
+                            January 1931. Purchased with funds provided by <name reg="Brown, Scott" type="person" role="donor">Scott Brown</name>, alumnus of the University of Chicago, 
+                            and named in his honor in recognition of the gift.</p></acquisition>
+                    </history>
+                </msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+  <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+ </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T.</term>
+                    <term>Bible--Manuscripts</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                    <term>Brown, Scott</term>
+                </keywords>
+            </textClass>
+ </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0126">
+<msIdentifier>
+    <country>United States</country>
+    <region>Illinois</region>
+    <settlement>Chicago</settlement>
+    <institution>University of Chicago Library</institution> 
+    <repository>Special Collections Research Center</repository>
+    <collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 126</idno>
+    <altName type="Gregory number">Greg. 2404</altName>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 22</altIdentifier>
+</msIdentifier>
+    <msHeading>
+        <title>Bible. New Testament</title>
+        <otherName>Scott Brown New Testament</otherName>
+        <origPlace>Greece or Asia Minor</origPlace>
+        <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+        <textLang langKey="grc">Greek</textLang>
+    </msHeading>
+<msContents> 
+    <overview><p>New Testament in Greek. Ammonian section numbers in the gospels, with 
+        lectionary headings and incipits, and lection numbers in the praxapostolos. 
+        Lectionary reference tables. Formerly Goodspeed Ms. Grk. 22.</p></overview>
+<msItem n="1">
+    <locus from = "003" to ="099">fols. 1r-49r</locus> 
+    <summary>Matthew.</summary>
+</msItem>
+    <msItem n="2">
+        <locus from = "100" to ="100">fol. 49v</locus> 
+        <summary>Kephalaia of Mark.</summary>
+    </msItem>
+    <msItem n="3">
+        <locus from = "101" to ="164">fols. 50r-81v</locus> 
+        <summary>Mark.</summary>
+    </msItem>
+    <msItem n="4">
+        <locus from = "164" to ="165">fols. 81v-82r</locus> 
+        <summary>Kephalaia of Luke.</summary>
+    </msItem>
+    <msItem n="5">
+        <locus from = "166" to ="272">fols. 82v-135v</locus> 
+        <summary>Luke.</summary>
+    </msItem>
+    <msItem n="6">
+        <locus from = "272" to ="273">fols. 135v-136r</locus> 
+        <summary>Kephalaia of John.</summary>
+    </msItem>
+    <msItem n="7">
+        <locus from = "275" to ="354">fols. 137r-176v</locus> 
+        <summary>John.</summary>
+        <note>John 1:1-3 inscribed in 3 lines (fol. 136v).</note>
+    </msItem>
+    <msItem n="8">
+        <locus from = "355" to ="368">fols. 177r-183v</locus>
+        <summary>Table of Synaxarion references for Lent, Holy Week, Easter, and other feasts, and the Menologion.</summary>
+        <summary>Menologion portion of the table for January 22 to July 20 (fols. 192, 376), and for July 25 to August 31 (fol. 185).</summary>
+        <note>Blank (fol. 184r-184v).</note>
+    </msItem>
+    <msItem n="9">
+        <locus from = "372" to ="386">fols. 185v-192v</locus> 
+        <summary>Table of Synaxarion and Menologion references for the Praxapostolos.</summary>
+        <note>Some lections numbered 1-331, others unnumbered.</note>
+    </msItem>
+    <msItem n="10">
+        <locus from = "387" to ="490">fols. 193r-244v</locus> 
+        <summary>Acts.</summary>
+    </msItem>
+    <msItem n="11">
+        <locus from = "490" to ="492">fols. 244v-245v</locus> 
+        <summary>Kephalaia of Romans.</summary>
+    </msItem>
+    <msItem n="12">
+        <locus from = "492" to ="495">fols. 245v-247r</locus> 
+        <summary>Euthalius, Hypothesis of Romans.</summary>
+    </msItem>
+    <msItem n="13">
+        <locus from = "495" to ="530">fols. 247r-264v</locus> 
+        <summary>Romans.</summary>
+        <note>Romans 16:25-27 omitted.</note>
+    </msItem>
+    <msItem n="14">
+        <locus from = "530" to ="531">fols. 264v-265r</locus> 
+        <summary>Kephalaia of 1 Corinthians.</summary>
+    </msItem>
+    <msItem n="15">
+        <locus from = "531" to ="532">fols. 265r-265v</locus> 
+        <summary>Euthalius, Hypothesis of 1 Corinthians.</summary>
+    </msItem>
+    <msItem n="16">
+        <locus from = "532" to ="566">fols. 265v-282v</locus> 
+        <summary>1 Corinthians. Subscription and stichoi (870).</summary>
+    </msItem>
+    <msItem n="17">
+        <locus from = "566" to ="567">fols. 282v-283r</locus> 
+        <summary>Kephalaia of 2 Corinthians.</summary>
+    </msItem>
+    <msItem n="18">
+        <locus from ="567" to ="568">fols. 283r-283v</locus> 
+        <summary>Euthalius, Hypothesis of 2 Corinthians.</summary>
+    </msItem>
+    <msItem n="19">
+        <locus from = "568" to ="590">fols. 283v-294v</locus> 
+        <summary>2 Corinthians. Subscription and stichoi (590).</summary>
+    </msItem>
+    <msItem n="20">
+        <locus from = "590" to ="591">fols. 294v-295r</locus> 
+        <summary>Kephalaia of Galatians.</summary>
+    </msItem>
+    <msItem n="21">
+        <locus from = "591" to ="592">fols. 295r-295v</locus> 
+        <summary>Euthalius, Hypothesis of Galatians.</summary>
+    </msItem>
+    <msItem n="22">
+        <locus from = "592" to ="603">fols. 295v-301r</locus> 
+        <summary>Galatians. Subscription and stichoi (293).</summary>
+    </msItem>
+    <msItem n="23">
+        <locus from = "603" to ="604">fols. 301r-301v</locus> 
+        <summary>Kephalaia of Ephesians.</summary>
+    </msItem>
+    <msItem n="24">
+        <locus from = "604" to ="605">fols. 301v-302r</locus> 
+        <summary>Euthalius, Hypothesis of Ephesians.</summary>
+    </msItem>
+    <msItem n="25">
+        <locus from = "605" to ="617">fols. 302r-308r</locus> 
+        <summary>Ephesians. Subscription and stichoi (312).</summary>
+    </msItem>
+    <msItem n="26">
+        <locus from = "617" to ="617">fol. 308r</locus> 
+        <summary>Kephalaia of Philippians.</summary>
+    </msItem>
+    <msItem n="27">
+        <locus from = "617" to ="618">fols. 308r-308v</locus> 
+        <summary>Euthalius, Hypothesis of Philippians.</summary>
+    </msItem>
+    <msItem n="28">
+        <locus from = "618" to ="626">fols. 308v-312v</locus> 
+        <summary>Philippians.</summary>
+    </msItem>
+    <msItem n="29">
+        <locus from = "626" to ="627">fols. 312v-313r</locus> 
+        <summary>Kephalaia of Colossians.</summary>
+    </msItem>
+    <msItem n="30">
+        <locus from = "627" to ="628">fols. 313r-313v</locus> 
+        <summary>Euthalius, Hypothesis of Colossians.</summary>
+    </msItem>
+    <msItem n="31">
+        <locus from = "628" to ="636">fols. 313v-317v</locus> 
+        <summary>Colossians. Subscription and stichoi (208).</summary>
+    </msItem>
+    <msItem n="32">
+        <locus from = "636" to ="637">fols. 317v-318r</locus> 
+        <summary>Kephalaia of 1 Thessalonians.</summary>
+    </msItem>
+    <msItem n="33">
+        <locus from = "637" to ="638">fols. 318r-318v</locus> 
+        <summary>Euthalius, Hypothesis of 1 Thessalonians.</summary>
+    </msItem>
+    <msItem n="34">
+        <locus from = "638" to ="645">fols. 318v-322r</locus> 
+        <summary>1 Thessalonians. Subscription and stichoi (193).</summary>
+    </msItem>
+    <msItem n="35">
+        <locus from = "645" to ="646">fols. 322r-322v</locus> 
+        <summary>Kephalaia of 2 Thessalonians.</summary>
+    </msItem>
+    <msItem n="36">
+        <locus from = "646" to ="647">fols. 322v-323r</locus> 
+        <summary>Euthalius, Hypothesis of 2 Thessalonians.</summary>
+    </msItem>
+    <msItem n="37">
+        <locus from = "647" to ="651">fols. 323r-325r</locus> 
+        <summary>2 Thessalonians. Subscription and stichoi (106).</summary>
+    </msItem>
+    <msItem n="38">
+        <locus from = "651" to ="652">fols. 325r-325v</locus> 
+        <summary>Euthalius, Hypothesis of 1 Timothy.</summary>
+    </msItem>
+    <msItem n="39">
+        <locus from = "652" to ="661">fols. 325v-330r</locus> 
+        <summary>1 Timothy. Subscription and stichoi (230).</summary>
+    </msItem>
+    <msItem n="40">
+        <locus from = "661" to ="662">fols. 330r-330v</locus> 
+        <summary>Euthalius, Hypothesis of 2 Timothy.</summary>
+    </msItem>
+    <msItem n="41">
+        <locus from = "662" to ="669">fols. 330v-334r</locus> 
+        <summary>2 Timothy. Subscription and stichoi (172).</summary>
+    </msItem>
+    <msItem n="42">
+        <locus from = "669" to ="670">fols. 334r-334v</locus> 
+        <summary>Euthalius, Hypothesis of Titus.</summary>
+    </msItem>
+    <msItem n="43">
+        <locus from = "670" to ="673">fols. 334v-336r</locus> 
+        <summary>Titus. Subscription and stichoi (97).</summary>
+    </msItem>
+    <msItem n="44">
+        <locus from = "673" to ="674">fols. 336r-336v</locus> 
+        <summary>Euthalius, Hypothesis of Philemon.</summary>
+    </msItem>
+    <msItem n="45">
+        <locus from = "674" to ="675">fols. 336v-337r</locus> 
+        <summary>Philemon. Subscription and stichoi (37).</summary>
+    </msItem>
+    <msItem n="46">
+        <locus from = "675" to ="677">fols. 337r-338r</locus> 
+        <summary>Euthalius, Hypothesis of Hebrews.</summary>
+    </msItem>
+    <msItem n="47">
+        <locus from = "677" to ="703">fols. 338r-351r</locus> 
+        <summary>Hebrews.</summary>
+    </msItem>
+    <msItem n="48">
+        <locus from = "704" to ="704">fol. 351v</locus> 
+        <summary>Euthalius, Hypothesis of James.</summary>
+    </msItem>
+    <msItem n="49">
+        <locus from = "704" to ="714">fols. 351v-356v</locus> 
+        <summary>James.</summary>
+    </msItem>
+    <msItem n="50">
+        <locus from = "714" to ="714">fol. 356v</locus> 
+        <summary>Euthalius, Hypothesis of 1 Peter.</summary>
+    </msItem>
+    <msItem n="51">
+        <locus from = "715" to ="725">fols. 357r-362r</locus> 
+        <summary>1 Peter.</summary>
+        <note>Text of 1 Peter continues on fol. 358r. Blank (fol. 357v).</note>
+    </msItem>
+    <msItem n="52">
+        <locus from = "725" to ="726">fols. 362r-362v</locus> 
+        <summary>Euthalius, Hypothesis of 2 Peter.</summary>
+    </msItem>
+    <msItem n="53">
+        <locus from = "727" to ="733">fols. 363r-366r</locus> 
+        <summary>2 Peter.</summary>
+    </msItem>
+    <msItem n="54">
+        <locus from = "733" to ="734">fols. 366r-366v</locus> 
+        <summary>Euthalius, Hypothesis of 1 John.</summary>
+    </msItem>
+    <msItem n="55">
+        <locus from = "734" to ="745">fols. 366v-372r</locus> 
+        <summary>1 John.</summary>
+    </msItem>
+    <msItem n="56">
+        <locus from = "745" to ="745">fol. 372r</locus> 
+        <summary>Euthalius, Hypothesis of 2 John.</summary>
+    </msItem>
+    <msItem n="57">
+        <locus from = "745" to ="746">fols. 372r-372v</locus> 
+        <summary>2 John.</summary>
+    </msItem>
+    <msItem n="58">
+        <locus from = "746" to ="747">fols. 372v-373r</locus> 
+        <summary>Euthalius, Hypothesis of 3 John.</summary>
+    </msItem>
+    <msItem n="59">
+        <locus from = "747" to ="748">fols. 373r-373v</locus> 
+        <summary>3 John.</summary>
+    </msItem>
+    <msItem n="60">
+        <locus from = "748" to ="749">fols. 373v-374r</locus> 
+        <summary>Euthalius, Hypothesis of Jude.</summary>
+    </msItem>
+    <msItem n="61">
+        <locus from = "749" to ="752">fols. 374r-375v</locus> 
+        <summary>Jude.</summary>
+    </msItem>
+    </msContents>
+    <decoration>
+        <headpieces>
+            <p>Small headpieces composed of geometric and foliate motifs in gold, blue, green, and red before the gospels and Acts (fols. 1r, 49v, 82v, 137r, 193r). 
+                The initial leaf of the lectionary reference table contains a headpiece in the form of a serpent (fol. 177r). Tailpiece in red (fol. 136r).</p>
+        </headpieces>
+        <initials><p>Major initials (20-30 mm) in red (faded) set off from the text.</p>
+        </initials>
+        </decoration>
+    <physDesc>
+        <support><p><material>Parchment</material>. <dimensions type="block" units="mm">205 x 150 mm</dimensions>.</p></support>
+        <extent>376 leaves.</extent> 
+        <foliation><p>1-376. Modern foliation in Arabic numerals in pencil</p></foliation> 
+        <collation><p>47 quires, each of 8 leaves. Quires of gospel and Praxapostolos numbered separately, respectively 1-22 (α-κβ), and 1-23 (α-κγ). 
+            Two unnumbered quires of lectionary reference tables between. Lacking kephalaia of Matthew and of Acts.</p>  
+            <p>Quire numbers recorded in the lower margin on the first leaf (recto) and last leaf (verso) of each quire.</p></collation> 
+        <dimensions type="written" units="mm">Written space 135 x 95 mm (fol. 26r).</dimensions> 
+        <layout columns="1" writtenLines="25-29"><p>1 column, 25 to 29 lines. Ruling with hard point. Pricking in outer margins.</p></layout>
+    <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in dark brown ink (some flaking)</p></handDesc>
+    </msWriting>
+        <textDivisions><p>Titles in red. Lectionary headings (side margins), and αρχ (arche) and τελ (telos) mark the position of lections 
+            in the gospel text.</p></textDivisions>
+        <condition><p>Random water stains. Tracing of letters in black ink where text has flaked.</p></condition>
+        <bindingDesc>
+            <binding><p>Blind stamped brown <material>leather</material> over boards (remnants).</p></binding></bindingDesc>
+ </physDesc>
+<history>
+    <origin><p>The manuscript is dated to the 13th century, and is judged to have been written in either <name reg="Greece" type="place">Greece</name> 
+        or <name reg="Asia Minor" type="place">Asia Minor</name>.</p></origin> 
+    <provenance><p>Medieval to early 20th century provenance unknown. Belonged to an unidentified collector in <name reg="France" type="place">France</name>, date unknown. 
+        Prayer (fol. 376v).</p></provenance>
+    <acquisition><p>Acquired by the University of Chicago from <name reg="Davis &amp; Orioli (Firm)" type="org" role="bookseller">Davis &amp; Orioli</name> (London), 
+        January 1931. Purchased with funds provided by <name reg="Brown, Scott" type="person" role="donor">Scott Brown</name>, alumnus of the University of Chicago, 
+        and named in his honor in recognition of the gift.</p></acquisition>
+</history>
+    <additional><listBibl>
+        <bibl><author>Alfred Ernst Haefner</author>, 
+            <title level="u">"The Scott Brown New Testament"</title> 
+            <note>(Ph.D. diss., University of Chicago, 1935).</note>
+        </bibl>
+        <bibl>
+            <author>Seymour de Ricci,</author>
+            <title level="m">Census of Medieval and Renaissance Manuscripts in the United States and Canada</title>
+            <imprint>
+                <pubPlace>(New York:</pubPlace>
+                <publisher>H. W. Wilson Company,</publisher>
+                <date>1935),</date>
+            </imprint>
+            <biblScope type="volume">vol. 1, p. 568.</biblScope></bibl>
+        <bibl><author>Kenneth W. Clark</author>, 
+            <title level="m">A Descriptive Catalogue of Greek New Testament Manuscripts in America</title>
+            <imprint>
+                <pubPlace>(Chicago:</pubPlace>
+                <publisher>University of Chicago Press,</publisher>
+                <date>1937),</date>
+            </imprint>
+            <biblScope type="pages">pp. 227-229.</biblScope></bibl>
+        <bibl>
+            <author>Merrill Mead Parvis</author>, 
+            <title level="m">The Story of the Goodspeed Collection</title>
+            <imprint>
+                <pubPlace>([Chicago]:</pubPlace>
+                <publisher>s.n.,</publisher>
+                <date>1952),</date>
+            </imprint>
+            <biblScope type="pages">p. 18.</biblScope></bibl>
+        <bibl> 
+            <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+                Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+            <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+            <imprint> 
+                <pubPlace>([Chicago:</pubPlace> 
+                <publisher>s.n.,</publisher> 
+                <date>1973]),</date></imprint> 
+            <biblScope type="volume">36,</biblScope> 
+            <biblScope type="catalogNo">no. 30.</biblScope></bibl></listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

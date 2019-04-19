@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0128, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0128</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+             <sourceDesc>
+                 <msDescription>
+                     <msIdentifier>
+                         <country>United States</country>
+                         <region>Illinois</region>
+                         <settlement>Chicago</settlement>
+                         <institution>University of Chicago Library</institution> 
+                         <repository>Special Collections Research Center</repository>
+                         <collection>Goodspeed Manuscript Collection</collection>
+                         <idno>Ms. 128</idno>
+                         <altName type="Gregory number">Greg. l 1599</altName>
+                         <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 17</altIdentifier>
+                     </msIdentifier>
+                     <msHeading>
+                         <title>Lectionary</title>
+                         <otherName>Argos Lectionary</otherName>
+                         <origPlace>Constantinople?</origPlace>
+                         <origDate notBefore="801" notAfter="1000">9th or 10th century</origDate>
+                         <textLang langKey="grc">Greek</textLang>
+                     </msHeading><msContents>
+                         <overview>
+                             <p>Gospel lectionary in Greek. Includes both Synaxarion and Menologion. With ecphonetic notation. Formerly Goodspeed Ms. Grk. 17.</p> 
+                         </overview>
+                     </msContents>
+                     <decoration>
+                         <headpieces><p>Small headpieces of floral motifs and scrollwork in blue, red, white, and gold (fols. 100r, 115r, 128r, 135r).</p></headpieces>
+                         <initials><p>Major initials (20-40 mm) set off from text and embellished with floral, foliate, and bead motifs in blue, red, and gold. Minor initials in gold over red.</p></initials>
+                     </decoration><physDesc>
+                         <support><p><material>Parchment</material>. <dimensions type="block" units="mm">290 x 220 mm</dimensions>.</p></support>
+                         <extent>147 leaves of which 2 are flyleaves of paper.</extent> 
+                         <foliation><p>1 (unfoliated marbled paper flyleaf) + 145 + 1 (unfoliated marbled paper flyleaf). Modern foliation in Arabic numerals in pencil. Earlier system of 
+                             pagination in ink extant from fol. 2r to fol. 22r.</p></foliation> 
+                         <collation><p>23 quires extant. All quires of the present manuscript were originally of 8 leaves with the exception of quires 18 and 22, each of 6 leaves. Estimate 
+                             of content lost: 1 leaf, quire 1 (headpiece and text); 2 to 3 leaves (after fol. 5); 6 to 7 leaves (after fol. 6); approximately 80 leaves (after fol. 7, remainder of John, complete 
+                             Matthean section, and beginning of Luke); 1 leaf (after fol. 9); 6 to 7 leaves or more (after fol. 14); 1 leaf (after fol. 15); 1 leaf (after fol. 21); 1 leaf (after fol. 23); 
+                             1 leaf (fol. 72); 1 leaf (after fol. 102); 1 leaf (after fol. 104); 1 leaf (fol. 115); 1 to 2 leaves (after fol. 120); 2 leaves (after fol. 122); 1 leaf (after fol. 124); 1 leaf 
+                             (after fol. 125); 1 leaf (after fol. 135); 2 or more leaves (after fol. 144); unknown number of leaves (after fol. 145).</p></collation> 
+                         <dimensions type="written" units="mm">Written space 210 x 170 mm (fol. 36r ). Each column is 210 x 75 mm with a space of 20 mm between.</dimensions> 
+                         <layout columns="2" writtenLines="17-18 per column"><p>2 columns, 17 to 18 lines. Ruling with hard point.</p></layout>
+                         <msWriting><handDesc script="Uncial" medium="ink"><p>Written in uncial script in medium brown ink (flaking and fading).</p>
+                             <p>Punctuation includes high and middle points.</p></handDesc>
+                         </msWriting>
+                         <textDivisions><p>Titles in gold over red.</p></textDivisions>
+                         <condition><p>Corners broken on several leaves. Paper hinges used to reinforce a number of quires. Trimming of margins with the loss of some notation. 
+                             Damaged leaves, sections of which are patched with paper (fols. 1, 6, 9, 13, 20, 21, 22, 28, 37, 45, 59, 60, 69, 70, 71, 72, 76, 115). Certain lost lection 
+                             headings, incipits, and portions of lections were supplied in blue ink and pencil.</p></condition>
+                         <bindingDesc>
+                             <binding><p>Bound in black and white mottled <material>paper</material> over <material>pasteboard</material>. Spine of green <material>leather</material> 
+                                 divided into panels, each framed with a stamped gold arabesque design. Pastedowns of <material>marbled paper</material>. 
+                                 Title ΙΕΡΟΝ ΕΥΑΓΓΕΛΙΟΝ.</p></binding></bindingDesc>
+                     </physDesc>
+                     <history>
+                         <origin><p>The manuscript is dated to the 9th or 10th century, and may have been written in <name reg="Constantinople" type="place">Constantinople</name>, 
+                             the present-day <name reg="Istanbul, Turkey" type="place">Istanbul, Turkey</name>.</p></origin>
+                         <provenance><p>Said to have belonged to a church in <name reg="Argos, Greece" type="place">Argos, Greece</name> and damaged during the 
+                             Greek War of Independence (1821-1829). In the later 19th century, belonged to <name reg="Papadopoulos, Nikolaos" type="person" role="owner">Nikolaos 
+                                 Papadopoulos</name>. Brought from Greece to the United States by the family of <name reg="Biskos, Michael" type="person" role="owner">Michael Biskos</name>, 
+                             and claimed by him to have been used as an oath book by gangland members during induction ceremonies at a Chicago restaurant.</p></provenance>
+                         <acquisition><p>Acquired by the University of Chicago from Michael Biskos, February 1930, with funds provided by 
+                             <name reg="Woodward, Frederic Campbell, 1874-1954" type="person" role="donor">Frederic C. Woodward</name>, university vice-president, 
+                             <name reg="Matthews, Shailer, 1863-1941" type="person" role="donor">Shailer Matthews</name>, dean of the Divinity School, real estate developer 
+                             <name reg="Galt, Arthur T., born 1876" type="person" role="donor">Arthur T. Galt</name>, and 
+                             <name reg="Raney, McKendree Llewellyn, 1877-1964" type="person" role="donor">Llewellyn Raney</name>, director of the university libraries.</p></acquisition></history> 
+                      </msDescription>
+             </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+     <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Lectionaries</term> 
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                </keywords>
+            </textClass></profileDesc>
+    </teiHeader>
+    <text>
+   <body>
+ <msDescription id="GMS-0128">
+ <msIdentifier>
+ <country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 128</idno>
+<altName type="Gregory number">Greg. l 1599</altName>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 17</altIdentifier>
+</msIdentifier>
+<msHeading>
+<title>Lectionary</title>
+<otherName>Argos Lectionary</otherName>
+<origPlace>Constantinople?</origPlace>
+    <origDate notBefore="801" notAfter="1000">9th or 10th century</origDate>
+    <textLang langKey="grc">Greek</textLang>
+</msHeading>
+     <msContents>
+         <overview>
+             <p>Gospel lectionary in Greek. Includes both Synaxarion and Menologion. With ecphonetic notation. Formerly Goodspeed Ms. Grk. 17.</p> 
+             </overview>
+         <msItem n="1">
+             <locus from="005" to="018">fols. 1r-7v</locus>
+             <summary>Synaxarion. John, Weekday, and Saturday-Sunday Lections: Sunday, Resurrection Day, John 1:1-17 (lacking, fol. 1r, col.1, Εν αρχη ην ο Λογος,  to fol. 1v, 
+                 col. 2, with 1:12 at, τεκνα θεου γενεσθαι τοις πιστευ[ουσιν]). Thursday, Week 2 of Easter, John 5:24-30 (lacking, fol. 7r, col. 2, begins on fourth line with 5:24 at, αμην αμην 
+                 λεγω υμιν οτι ο τον, to fol. 7v, with 5:29 at, τα αγαθα ποιησαντες εις αναστασιν). 
+                 <note>Lost upper portion of parchment leaf (fol. 1r) replaced at an unknown date with a paper repair. Supplied title and lection rubric in blue ink, 
+                     Τη αγια και μεγαλη κυριακη του πασχα and Εκ του κατα Ιωαννη. Owing to the parchment loss and overlap of the repair, the text of fol. 1v, col. 1 
+                     begins with John 1:7 at, [φω]τος ινα παντες πιστευσωσιν δι..., and on col. 2, with 1:11 at, [εις τα] ιδια ηλθεν και. A paper repair covers the 
+                     bottom two lines of fol. 6v, col. 2., continuing the text of John 3:13 at, μη ο εκ του ουρανου καταβας ο υιος του. Running title in red, Της Διακινησιμου, 
+                     designating Easter, fols. 2r, 3r, and 5v, and on 6r in pencil.</note></summary>
+              </msItem>
+<msItem n="2">
+             <locus from="019" to="050">fols. 8r-23v</locus>
+    <summary>Synaxarion. Luke, Saturday-Sunday Lections: Sunday, Week 7 after Pentecost, Luke 8:26, 27-35, 38-39 (lacking, fol. 8r, col. 1, begins at the last word 
+        of 8:27, μνημασιν... to fol. 9r, col. 1 with 8:39 at, οσα εποιησεν αυτω ο Ιησους). Sunday, Tyrophagou or Cheesefare, Matthew 6:14-21 (fol. 23r, col. 2, to fol. 23v, col. 2).</summary>
+    <note>Missing portion of the reading for Luke 8:26-27 supplied in blue ink in the upper margin (fol. 8r).</note>
+</msItem>
+         <msItem n="3">
+             <locus from="051" to="080">fols. 24r-38v</locus>
+             <summary>Synaxarion. Lections for Saturday and Sunday of Lent: Saturday, Week 1 of Great Lent, Mark 2:23-3:5 (lacking, fol. 24r, col. 1 begins with 3:5 
+                 at, της καρδιας αυτων λεγει...). Sunday, Week 6 of Great Lent (Palm Sunday), John 12:1-18 (fol. 37r, col. 2, to fol. 38v, col. 2).</summary>
+         </msItem>
+         <msItem n="4">
+             <locus from="080" to="147">fols. 38v-72r</locus>
+             <summary>Synaxarion. Holy Week Lections through Thursday: Monday, Holy Week, Matthew 21:18-43 (fol. 38v, col. 2, to fol. 41v, col. 1). Thursday, 
+                 Holy Week, Foot-washing (Liturgy), Matthew 26:40-27:2 (lacking, fol. 68v, col. 2 to fol. 72r, col. 1).</summary>
+             <note>Loss of portions of leaves and text (fols. 69-72).</note>
+         </msItem>
+         <msItem n="5">
+             <locus from="148" to="203">fols. 72v-100r</locus>
+             <summary>Synaxarion. Good Friday, Twelve Lections of the Holy Passions: Friday, Holy Week, 1st Passion Gospel, John 13:31-18:1 (lacking, fol. 72v, col. 2, 
+                 begins with 13:36, to fol. 83r, col. 1). Friday, Holy Week, 12th Passion Gospel, Matthew 27:62-66 (fol. 99v, col. 1 to fol. 100r, col. 1).</summary>
+             <note>Loss of outer column of text (fol. 72).</note>
+         </msItem>
+         <msItem n="6">
+             <locus from="203" to="233">fols. 100r-115r</locus>
+             <summary>Synaxarion. Good Friday and Holy Saturday Lections, Canonical Hours, and Liturgy: Friday, Holy Week, 1st Hour, Matthew 27:1-56 
+                 (lacking, fol. 100r, col. 1, begins with 27:3, to fol. 103r, col. 2). Saturday, Holy Week (Liturgy), Matthew 28:1-20 (lacking, fol. 113v, col. 1, to fol. 115r, 
+                 col. 1. Ends with 28:20 at, εως της συντελει[ας]). </summary>
+             <note>Text on lower portion of leaf is lost (fol. 115).</note>
+         </msItem>
+         <msItem n="7">
+             <locus from="233" to="244">fols. 115r-120v</locus>
+             <summary>Synaxarion. Eleven Resurrection Lections (Heothina): 1st Lection, Matthew 28:16-20 (lacking, fol. 115r, col. 2, ends with 28:18 at, και προσελθ[ων]. 
+                 Begins on fol. 115v, col. 1, with 28:19 at, [μα]θητευσατε παντα τα, and ends, col. 1, with 28:20 at, ειμι πασας τας η[μερας]. 2nd Lection, Mark 16:1-8 (lacking, 
+                 fol. 115v, col. 2, with 16.1 at, η Μαγδαληνη καὶ, and ends with 16:3 at, ελεγον προς εαυτας). 10th Lection, John 21:1-14 (lacking, fol. 119v, col. 2, to fol. 120v, 
+                 col. 2, ends with 21:11 at, και τοσουτων οντων).</summary>
+             <note>Text on lower portion of leaf lost (fol. 115).</note>
+         </msItem>
+         <msItem n="8">
+             <locus from="245" to="259">fols. 121r-128r</locus>
+             <summary>Menologion. September (lacking).</summary>
+         </msItem>
+         <msItem n="9">
+             <locus from="259" to="272">fols. 128r-134v</locus>
+             <summary>Menologion. October (lacking).</summary>
+         </msItem>
+         <msItem n="10">
+             <locus from="273" to="274">fols. 135r-135v</locus>
+             <summary>Menologion. November (lacking).</summary>
+         </msItem>
+         <msItem n="11">
+             <locus from="275" to="292">fols. 136r-144v</locus>
+             <summary>Menologion. December (lacking).</summary>
+         </msItem>
+         <msItem n="12">
+             <locus from="293" to="294">fols. 145r-145v</locus>
+             <summary>Menologion. January (lacking).</summary>
+         </msItem>
+     </msContents>
+     <decoration>
+         <headpieces><p>Small headpieces of floral motifs and scrollwork in blue, red, white, and gold (fols. 100r, 115r, 128r, 135r).</p></headpieces>
+         <initials><p>Major initials (20-40 mm) set off from text and embellished with floral, foliate, and bead motifs in blue, red, and gold. Minor initials in gold over red.</p></initials>
+     </decoration><physDesc>
+         <support><p><material>Parchment</material>. <dimensions type="block" units="mm">290 x 220 mm</dimensions>.</p></support>
+         <extent>147 leaves of which 2 are flyleaves of paper.</extent> 
+         <foliation><p>1 (unfoliated marbled paper flyleaf) + 145 + 1 (unfoliated marbled paper flyleaf). Modern foliation in Arabic numerals in pencil. Earlier system of 
+             pagination in ink extant from fol. 2r to fol. 22r.</p></foliation> 
+         <collation><p>23 quires extant. All quires of the present manuscript were originally of 8 leaves with the exception of quires 18 and 22, each of 6 leaves. Estimate 
+             of content lost: 1 leaf, quire 1 (headpiece and text); 2 to 3 leaves (after fol. 5); 6 to 7 leaves (after fol. 6); approximately 80 leaves (after fol. 7, remainder of John, complete 
+             Matthean section, and beginning of Luke); 1 leaf (after fol. 9); 6 to 7 leaves or more (after fol. 14); 1 leaf (after fol. 15); 1 leaf (after fol. 21); 1 leaf (after fol. 23); 
+             1 leaf (fol. 72); 1 leaf (after fol. 102); 1 leaf (after fol. 104); 1 leaf (fol. 115); 1 to 2 leaves (after fol. 120); 2 leaves (after fol. 122); 1 leaf (after fol. 124); 1 leaf 
+             (after fol. 125); 1 leaf (after fol. 135); 2 or more leaves (after fol. 144); unknown number of leaves (after fol. 145).</p></collation> 
+         <dimensions type="written" units="mm">Written space 210 x 170 mm (fol. 36r ). Each column is 210 x 75 mm with a space of 20 mm between.</dimensions> 
+         <layout columns="2" writtenLines="17-18 per column"><p>2 columns, 17 to 18 lines. Ruling with hard point.</p></layout>
+         <msWriting><handDesc script="Uncial" medium="ink"><p>Written in uncial script in medium brown ink (flaking and fading).</p>
+             <p>Punctuation includes high and middle points.</p></handDesc>
+   </msWriting>
+         <textDivisions><p>Titles in gold over red.</p></textDivisions>
+         <condition><p>Corners broken on several leaves. Paper hinges used to reinforce a number of quires. Trimming of margins with the loss of some notation. 
+             Damaged leaves, sections of which are patched with paper (fols. 1, 6, 9, 13, 20, 21, 22, 28, 37, 45, 59, 60, 69, 70, 71, 72, 76, 115). Certain lost lection 
+             headings, incipits, and portions of lections were supplied in blue ink and pencil.</p></condition>
+         <bindingDesc>
+             <binding><p>Bound in black and white mottled <material>paper</material> over <material>pasteboard</material>. Spine of green <material>leather</material> 
+                 divided into panels, each framed with a stamped gold arabesque design. Pastedowns of <material>marbled paper</material>. 
+                 Title ΙΕΡΟΝ ΕΥΑΓΓΕΛΙΟΝ.</p></binding></bindingDesc>
+     </physDesc>
+     <history>
+         <origin><p>The manuscript is dated to the 9th or 10th century, and may have been written in <name reg="Constantinople" type="place">Constantinople</name>, 
+             the present-day <name reg="Istanbul, Turkey" type="place">Istanbul, Turkey</name>.</p></origin> 
+         <provenance><p>Said to have belonged to a church in <name reg="Argos, Greece" type="place">Argos, Greece</name> and damaged during the 
+             Greek War of Independence (1821-1829). In the later 19th century, belonged to <name reg="Papadopoulos, Nikolaos" type="person" role="owner">Nikolaos 
+                 Papadopoulos</name>. Brought from Greece to the United States by the family of <name reg="Biskos, Michael" type="person" role="owner">Michael Biskos</name>, 
+             and claimed by him to have been used as an oath book by gangland members during induction ceremonies at a Chicago restaurant.</p></provenance>
+         <acquisition><p>Acquired by the University of Chicago from Michael Biskos, February 1930, with funds provided by 
+             <name reg="Woodward, Frederic Campbell, 1874-1954" type="person" role="donor">Frederic C. Woodward</name>, university vice-president, 
+             <name reg="Matthews, Shailer, 1863-1941" type="person" role="donor">Shailer Matthews</name>, dean of the Divinity School, real estate developer 
+             <name reg="Galt, Arthur T., born 1876" type="person" role="donor">Arthur T. Galt</name>, and 
+             <name reg="Raney, McKendree Llewellyn, 1877-1964" type="person" role="donor">Llewellyn Raney</name>, director of the university libraries.</p></acquisition></history>
+     <additional><listBibl>
+         <bibl><title level="m">Prolegomena to the Study of the Lectionary Text of the Gospels.</title> 
+         <title level="s">Studies in the Lectionary Text of the Greek New Testament.</title> Edited by <editor>Ernest C. Colwell</editor> and <editor>Donald W. Riddle</editor> <imprint>
+             <pubPlace>(Chicago:</pubPlace> 
+             <publisher>The University of Chicago Press,</publisher>
+             <date>c1933),</date>
+         </imprint>
+         <biblScope type="volume">1</biblScope> 
+         <biblScope type="pages">pp. 81, 85-156.</biblScope></bibl>
+         <bibl>
+             <author>Seymour de Ricci,</author>
+             <title level="m">Census of Medieval and Renaissance Manuscripts in the 
+                 United States and Canada</title>.
+             <imprint>
+                 <pubPlace>(New York:</pubPlace>
+                 <publisher>H. W. Wilson Company,</publisher>
+                 <date>1935),</date>
+             </imprint>
+             <biblScope type="volume">vol. 1, p. 568.</biblScope>
+         </bibl>
+         <bibl><author>Kenneth W. Clark</author>, 
+             <title level="m">A Descriptive Catalogue of Greek New Testament 
+                 Manuscripts in America</title>
+             <imprint>
+                 <pubPlace>(Chicago:</pubPlace>
+                 <publisher>University of Chicago Press,</publisher>
+                 <date>1937),</date>
+             </imprint>
+             <biblScope type="pages">pp. 229-231.</biblScope></bibl>
+         <bibl> 
+             <author>Harold Rideout Willoughby</author>, 
+             <title level="a">"Greek Rebinding Colophons in Chicago 
+                 Manuscripts,"</title> 
+             <title level="j">Annales de l'institut Kondakov</title> 
+             <biblScope type="volume">11</biblScope> 
+             <imprint><date>(1940),</date></imprint> 
+             <biblScope type="pages">p. 30.</biblScope></bibl>
+         <bibl>
+             <author>Merrill Mead Parvis</author>, 
+             <title level="m">The Story of the Goodspeed Collection</title>
+             <imprint>
+                 <pubPlace>([Chicago]:</pubPlace>
+                 <publisher>s.n.,</publisher>
+                 <date>1952),</date>
+             </imprint>
+             <biblScope type="pages">pp. 15-16.</biblScope></bibl>
+         <bibl> 
+             <title level="m">New Testament manuscript traditions. An exhibition based 
+                 on the Edgar J. Goodspeed 
+                 Collection of the University of Chicago Library, the Joseph Regenstein 
+                 Library, January-March, 1973</title>. 
+             <title level="s">University of Chicago. Library. Dept. of Special 
+                 Collections. Exhibition catalogs</title>
+             <imprint> 
+                 <pubPlace>([Chicago:</pubPlace> 
+                 <publisher>s.n.,</publisher> 
+                 <date>1973]),</date></imprint> 
+             <biblScope type="volume">36,</biblScope> 
+             <biblScope type="catalogNo">no. 38.</biblScope></bibl></listBibl> 
+     </additional></msDescription>
+        </body>
+    </text>            
+</TEI.2>

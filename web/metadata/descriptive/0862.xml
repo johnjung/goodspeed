@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0862, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0862</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 862</idno>
+                    </msIdentifier>
+                    <msHeading>
+                        <author>John Chrysostom, Saint, died 407</author>,
+                        <title>Homily 53 on Matthew</title>
+                        <origPlace>Unknown Place of Origin</origPlace>
+                        <origDate notBefore="1001" notAfter="1100">11th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents>
+                        <overview><p>Leaf of John Chrysostom's Homily 53 on Matthew (from 15:32 to 16:12) in Greek.</p> 
+                            <p>John Chrysostom, Saint, died 407, <hi rend="italics">Homiliae in Matthaeum</hi>, ed., Frederick Field, vols. 1, 3 (Cambridge, 1839). 
+                                The text of the present leaf, collated with Field, reads with manuscripts G (Cambridge, Trinity College, cant. B.9.12); 
+                                H (Paris, Bibliothèque Mazarine Ms. 687); K (Paris, Bibliothèque Mazarine Ms. 695); L (Paris, Bibliothèque 
+                                Mazarine Ms. 685); and, M (Cambridge, Emmanuel College, cantab. I.1.14 and 15).</p>
+                        </overview>
+                        <msItem n="1" status= "frag">
+                            <locus from = "001" to ="001">fol. [1r]</locus> 
+                            <summary>τασ κατη γοριασ τασ...νη οντα και γελωντα (col. 1, ll. 1-35 correspond to Field 544:3-17).</summary> 
+                            <summary>και παιζοντα και...ρετη αλλα το συνειδοσ (col. 2, ll. 1-35 correspond to Field 544:17-30).</summary>
+                        </msItem>
+                        <msItem n="2" status= "frag">
+                            <locus from = "002" to ="002">fol. [1v]</locus> 
+                            <summary>πολλησ πληροι τησ...και εγκαλυπτομενον (col. 1, ll. 1-35 correspond to Field 544:30-43).</summary> 
+                            <summary> επι τουτοισ δε πετομε[νον]...εκεινων φερει εισ μεσον (col. 2, ll. 1-35 correspond to Field 544:30-545:6).</summary> 
+                            <summary>Old and New Testament passages incorporated correspond to Field 544:46-49 and 545:2-5: 2 Kings 20:3 (col. 2, ll. 8-11); 
+                                2 Timothy 4:7 (col. 2, ll. 14-17); Galatians 4:14, 15 (col. 2, ll. 26-31); and Romans 16: 4 (col. 2, ll. 32-34).</summary>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">403 x 250 mm</dimensions>.</p></support>  
+                        <extent>1 leaf.</extent>
+                        <dimensions type="written" units="mm">Written space 290 x 165 mm (fol. [1r]). Each column is 290 x 70 mm with a space of 25 mm between.</dimensions> 
+                        <layout columns="2" writtenLines="35 per column"><p>2 columns, 35 lines. Ruling with hard point.</p></layout>
+                        <msWriting><handDesc script="cursive" medium="ink">
+                            <p>Written in cursive script in dark brown ink.</p></handDesc></msWriting>
+                        <condition><p>Used in the binding of another manuscript, the leaf was folded and the inner margin trimmed. A number 
+                            of words (recto and verso) are illegible. The leaf has darkened, and its edges are dry and split in several places. Some insect damage is visible.</p></condition>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript to which the present leaf belonged is judged to have been written in the 11th century. A place of origin is unknown.</p></origin> 
+                        <provenance><p>Medieval to early 20th century provenance unknown. Belonged to bibliophile 
+                            <name reg="Kurdian, Harry, 1902-1976" type="person" role="owner">Harry Kurdian</name> (1902-1976), 
+                            of <name reg="Wichita, Kansas" type="place">Wichita, Kansas</name> who 
+                            purchased the leaf from an antiques dealer in <name reg="Tehran, Iran" type="place">Tehran, Iran</name>, date unknown. 
+                            Belonged also to <name reg="Wikgren, Allen Paul, 1906-1998" type="person" role="owner">Allen Wikgren</name> (1906-1998), Professor Emeritus in the 
+                            <name reg="University of Chicago. Divinity School" type="org">Divinity School</name> of the University of Chicago.
+                        </p></provenance>
+                        <acquisition><p>Gift of Allen Wikgren to the University of Chicago, March 1972.</p></acquisition>
+                    </history></msDescription></sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+ </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Matthew--Commentaries--Early works to 1800</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                    <term>Sermons, Early Christian--Early works to 1800</term>
+                    <term>John Chrysostom, Saint, died 407</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0862">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 862</idno>
+ </msIdentifier>
+<msHeading>
+<author>John Chrysostom, Saint, died 407</author>,
+    <title>Homily 53 on Matthew</title>
+    <origPlace>Unknown Place of Origin</origPlace>
+    <origDate notBefore="1001" notAfter="1100">11th century</origDate>
+<textLang langKey="grc">Greek</textLang>
+</msHeading>
+<msContents>
+<overview><p>Leaf of John Chrysostom's Homily 53 on Matthew (from 15:32 to 16:12) in Greek.</p> 
+    <p>John Chrysostom, Saint, died 407, <hi rend="italics">Homiliae in Matthaeum</hi>, ed., Frederick Field, vols. 1, 3 (Cambridge, 1839). 
+     The text of the present leaf, collated with Field, reads with manuscripts G (Cambridge, Trinity College, cant. B.9.12); 
+     H (Paris, Bibliothèque Mazarine Ms. 687); K (Paris, Bibliothèque Mazarine Ms. 695); L (Paris, Bibliothèque 
+     Mazarine Ms. 685); and, M (Cambridge, Emmanuel College, cantab. I.1.14 and 15).</p>
+</overview>
+<msItem n="1" status= "frag">
+<locus from = "001" to ="001">fol. [1r]</locus> 
+<summary>τασ κατη γοριασ τασ...νη οντα και γελωντα (col. 1, ll. 1-35 correspond to Field 544:3-17).</summary> 
+    <summary>και παιζοντα και...ρετη αλλα το συνειδοσ (col. 2, ll. 1-35 correspond to Field 544:17-30).</summary>
+</msItem>
+ <msItem n="2" status= "frag">
+ <locus from = "002" to ="002">fol. [1v]</locus> 
+ <summary>πολλησ πληροι τησ...και εγκαλυπτομενον (col. 1, ll. 1-35 correspond to Field 544:30-43).</summary> 
+     <summary> επι τουτοισ δε πετομε[νον]...εκεινων φερει εισ μεσον (col. 2, ll. 1-35 correspond to Field 544:30-545:6).</summary> 
+     <summary>Old and New Testament passages incorporated correspond to Field 544:46-49 and 545:2-5: 2 Kings 20:3 (col. 2, ll. 8-11); 
+         2 Timothy 4:7 (col. 2, ll. 14-17); Galatians 4:14, 15 (col. 2, ll. 26-31); and Romans 16: 4 (col. 2, ll. 32-34).</summary>
+ </msItem>
+</msContents>
+ <physDesc>
+ <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">403 x 250 mm</dimensions>.</p></support>  
+ <extent>1 leaf.</extent>
+     <dimensions type="written" units="mm">Written space 290 x 165 mm (fol. [1r]). Each column is 290 x 70 mm with a space of 25 mm between.</dimensions> 
+<layout columns="2" writtenLines="35 per column"><p>2 columns, 35 lines. Ruling with hard point.</p></layout>
+ <msWriting><handDesc script="cursive" medium="ink">
+ <p>Written in cursive script in dark brown ink.</p></handDesc></msWriting>
+     <condition><p>Used in the binding of another manuscript, the leaf was folded and the inner margin trimmed. A number 
+         of words (recto and verso) are illegible. The leaf has darkened, and its edges are dry and split in several places. Some insect damage is visible.</p></condition>
+ </physDesc>
+<history>
+    <origin><p>The manuscript to which the present leaf belonged is judged to have been written in the 11th century. A place of origin is unknown.</p></origin> 
+<provenance><p>Medieval to early 20th century provenance unknown. Belonged to bibliophile 
+    <name reg="Kurdian, Harry, 1902-1976" type="person" role="owner">Harry Kurdian</name> (1902-1976), 
+    of <name reg="Wichita, Kansas" type="place">Wichita, Kansas</name> who 
+    purchased the leaf from an antiques dealer in <name reg="Tehran, Iran" type="place">Tehran, Iran</name>, date unknown. 
+    Belonged also to <name reg="Wikgren, Allen Paul, 1906-1998" type="person" role="owner">Allen Wikgren</name> (1906-1998), Professor Emeritus in the 
+    <name reg="University of Chicago. Divinity School" type="org">Divinity School</name> of the University of Chicago.
+</p></provenance>
+<acquisition><p>Gift of Allen Wikgren to the University of Chicago, March 1972.</p></acquisition>
+</history>
+    <additional>
+        <listBibl>
+            <bibl>
+                <author>John Chrysostom, Saint, died 407</author>, 
+                <title level="m">Homiliae in Matthaeum</title>, ed., 
+                <editor>Frederick Field</editor>
+                <imprint>
+                <pubPlace>(Cambridge, in Officina academica; [etc., etc.];</pubPlace> 
+                    <date>1839),</date>
+                </imprint> 
+                <biblScope type="volume">vol. 1,</biblScope> 
+                <biblScope type="pages">544-545 (pp. 103-104);</biblScope> 
+                <biblScope type="volume">vol. 3,</biblScope> 
+                <biblScope type="pages">xx-xxi, 544-545 (p. 117).</biblScope></bibl>
+                <bibl>
+                <author>Allen Wikgren</author>,
+                <title level="a">"A Chrysostom leaf in the Kurdian Collection,"</title>
+                <title level="j">Byzantion</title> 
+                <biblScope type="volume">17</biblScope> 
+                <imprint><date>(1944-1945),</date></imprint> 
+                <biblScope type="pages">p. 329.</biblScope></bibl>
+                 </listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

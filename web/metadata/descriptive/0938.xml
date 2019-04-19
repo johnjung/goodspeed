@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0938, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0938</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 938</idno>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 43</altIdentifier>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>Menologion</title>
+                        <otherName>Menologion for September</otherName>
+                        <origPlace>Constantinople</origPlace>
+                        <origDate notBefore="1001" notAfter="1200">11th or 12th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents> 
+                        <overview><p>Menologion for September in Greek. Contains stories of saints' lives and 
+                            martyrdoms arranged in the order of days the church devotes to their memories. The table 
+                            of contents (pinax) includes titles and incipits of the daily readings. 
+                            Formerly Goodspeed Ms. Grk. 43.</p></overview></msContents>
+                    <decoration>
+                        <headpieces><p>Headpieces of multi-colored floral, foliate, and geometric designs at the beginning of each reading, and on the table of contents.</p>
+                        </headpieces>
+                        <initials><p>Major initials (15-60 mm) of abstract floral and bead motifs in blue, red and yellow, set off from the text.</p></initials>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="block" units="mm">341 x 245 mm</dimensions>.</p></support>
+                        <extent>225 leaves.</extent> 
+                        <foliation><p>1-225. Modern foliation in Arabic numerals in pencil.</p></foliation>
+                        <collation><p> Originally 31 quires, each of 8 leaves, with the exception of quires 14 and 31 of 5 leaves. Estimate of content lost: quire 30; 3 leaves of quire 28; 
+                            6 leaves of quire 29; 2 leaves of quire 31.</p>
+                            <p>The Menologion was composed in two parts. Part one, of 14 readings, ends at September 15 on leaf 5 of quire 14 (fol. 111v). Part two contains 13 readings, 
+                                and begins at September 15, on leaf 1 of quire 15 (fol. 112r). During the writing process, each part was numbered separately. After binding, the manuscript's 
+                                quires were sequentially numbered in the lower margin on the first leaf (recto) and last leaf (verso). Quire numbers 1-29, 31 (α-κθ, λα) are extant. Of the 
+                                initial scheme, all but numbers 12 and 13 of the second section are lost (ιβ fol. 200r, ιΓ fol. 208r).</p>
+                            <p>The pinax or table of contents (fols. 1r-2v) does not correspond fully with headings and incipits, and may have been a later addition to the manuscript.</p></collation>
+                        <dimensions type="written" units="mm">Written space 220 x 160 mm (fol. 35r). Each column is 220 x 70 mm with a space of 20 mm between.</dimensions> 
+                        <layout columns="2" writtenLines="33 per column"><p>2 columns, 33 lines. Ruling with hard point.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="">
+                            <p>Written in minuscule script in dark brown ink (some flaking).</p> 
+                            <p>Punctuation includes high, middle, and low points, marks of interrogation and elision, and quotation marks.</p> 
+                            <p>Corrections to the text were made in brown ink, and inaccuracies eliminated by erasure, washing, and strike through. 
+                                Some marginal text was excised (fols. 74, 154, 157, 159); and, holes were cut in two leaves (fols. 57, 91) with corrected copy supplied in the upper margin of the versos.</p>
+                        </handDesc>
+                        </msWriting>
+                        <textDivisions><p>Titles and capitals in red.</p></textDivisions>
+                        <condition><p>Outer and lower margins of several leaves cut away or broken off 
+                            along ruling lines. Some faded letters traced over and omitted 
+                            letters added in black ink. Creases, tears, insect damage, random holes, and taped repairs. Stained 
+                            with dirt, water, grease, wax, and ink. </p></condition>
+                        <bindingDesc>
+                            <binding><p>Bound in grey-green <material>leather</material> over boards. Leaves cut from a Latin bible serve as pastedowns.</p></binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript is judged to have been written in <name reg="Constantinople" type="place">Constantinople</name>, 
+                            the present-day <name reg="Istanbul, Turkey" type="place">Istanbul, Turkey</name>, in either the 11th or 12th century.</p></origin> 
+                        <provenance><p>Medieval to 20th century provenance unknown.</p>
+                            <p>Inscriptions dated 1303 and 23 November 1309 (fol. 2r). Other additions include a supplied title 
+                                μεταφρσης σαιπτεβρηος (September Metaphrastes), and the numbering of leaves allotted each reading.</p></provenance>
+                        <acquisition><p>Acquired by the University of Chicago from <name reg="Furst, Jacques" type="person" role="owner">Jacques Furst</name> of New York, April 1939.</p></acquisition>
+                    </history>
+                </msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+  <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+ </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Orthodox Eastern Church--Liturgy and ritual. Menologion</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                </keywords>
+            </textClass>
+ </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0938">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 938</idno>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 43</altIdentifier>
+ </msIdentifier>
+<msHeading>
+    <title>Menologion</title>
+    <otherName>Menologion for September</otherName>
+    <origPlace>Constantinople</origPlace>
+    <origDate notBefore="1001" notAfter="1200">11th or 12th century</origDate>
+<textLang langKey="grc">Greek</textLang>
+</msHeading>
+<msContents> 
+    <overview><p>Menologion for September in Greek. Contains stories of saints' lives and 
+        martyrdoms arranged in the order of days the church devotes to their memories. The table 
+        of contents (pinax) includes titles and incipits of the daily readings. 
+        Formerly Goodspeed Ms. Grk. 43.</p></overview>
+    <msItem n="1">
+        <locus from = "002" to ="002">Pastedown (front)</locus>
+        <summary>Bible Leaf in Latin. Text of John 14:25-15:4 (from vos manens to semet ipso) written on parchment in 
+            two columns (340 x 235 mm).</summary>
+    </msItem>
+<msItem n="2">
+<locus from = "003" to ="005">fols. 1r-2r</locus> 
+    <summary>Table of Contents (Pinax).</summary>
+</msItem>
+    <msItem n="3">
+        <locus from = "007" to ="054">fols. 3r-26v</locus> 
+        <summary>September 1: Life of Simeon Stylites.</summary>
+    </msItem>
+    <msItem n="4">
+        <locus from = "054" to ="070">fols. 26v-34v</locus> 
+        <summary>September 2: Passion of the holy megalomartyr Mamas.</summary>
+    </msItem>
+    <msItem n="5">
+        <locus from = "070" to ="081">fols. 34v-40r</locus> 
+        <summary>September 3: Passion of the holy hosiomartyr Anthimus, Bishop of Nicomedia.</summary>
+    </msItem>
+    <msItem n="6">
+        <locus from = "082" to ="094">fols. 40v-46v</locus> 
+        <summary>September 4: Passion of the holy hieromartyr Babylas, Bishop of Antioch.</summary>
+    </msItem>
+    <msItem n="7">
+        <locus from = "094" to ="104">fols. 46v-51v</locus> 
+        <summary>September 6: Account of the miracle at Chonae by the Archangel Michael.</summary>
+    </msItem>
+    <msItem n="8">
+        <locus from = "104" to ="115">fols. 51v-57r</locus> 
+        <summary>September 6: Passion of the holy martyrs Eudocius, Romulus, Zeno, and Macarius.</summary>
+    </msItem>
+    <msItem n="9">
+        <locus from = "115" to ="120">fols. 57r-59v</locus> 
+        <summary>September 7: Passion of the holy martyr Sozon.</summary>
+    </msItem>
+    <msItem n="10">
+        <locus from = "120" to ="137">fols. 59v-68r</locus> 
+        <summary>September 8: Account of the birth of the Mother of God from the Protevangelium of James the
+            Brother of God.</summary>
+    </msItem>
+    <msItem n="11">
+        <locus from = "138" to ="149">fols. 68v-74r</locus> 
+        <summary>September 9: Passion of the holy megalomartyr Severianus.</summary>
+    </msItem>
+    <msItem n="12">
+        <locus from = "149" to ="160">fols. 74r-79v</locus> 
+        <summary>September 10: Passion of the holy women Menodora, Nymphodora, and Metrodora.</summary>
+    </msItem>
+    <msItem n="13">
+        <locus from = "160" to ="183">fols. 79v-91r</locus> 
+        <summary>September 11: Life and conduct of Theodora of Alexandria.</summary>
+    </msItem>
+    <msItem n="14">
+        <locus from = "183" to ="189">fols. 91r-94r</locus> 
+        <summary>September 12: Passion of the holy hieromartyr Autonomous.</summary>
+    </msItem>
+    <msItem n="15">
+        <locus from = "190" to ="205">fols. 94v-102r</locus> 
+        <summary>September 13: Example and conduct of holy Cornelius the Centurion.</summary>
+    </msItem>
+    <msItem n="16">
+        <locus from = "205" to ="224">fols. 102r-111v</locus> 
+        <summary>September 14: Oration of Andrew the Jerusalemite, Bishop of Crete, concerning the 
+            elevation of the precious and life-giving cross.</summary>
+    </msItem>
+    <msItem n="17">
+        <locus from = "225" to ="231">fols. 112r-115r</locus> 
+        <summary>September 15: Passion of the holy megalomartyr Nicetas.</summary>
+    </msItem>
+    <msItem n="18">
+        <locus from = "231" to ="249">fols. 115r-124r</locus> 
+        <summary>September 16: Passion of the holy martyr Euphemia.</summary>
+    </msItem>
+    <msItem n="19">
+        <locus from = "249" to ="264">fols. 124r-131v</locus> 
+        <summary>September 17: Passion of the holy women Sophia and her daughters 
+            Pistis, Elpis, and Agape.</summary>
+    </msItem>
+    <msItem n="20">
+        <locus from = "265" to ="279">fols. 132r-139r</locus> 
+        <summary>September 19: Passion of the holy martyrs Trophimus, Sabbatius, and 
+            Dorymedon.</summary>
+    </msItem>
+    <msItem n="21">
+        <locus from = "280" to ="318">fols. 139v-158v</locus> 
+        <summary>September 20: Passion of the holy megalomartyr Eustace, his wife Theopistis, 
+            and his sons Agapius and Theopistus.</summary>
+    </msItem>
+    <msItem n="22">
+        <locus from = "318" to ="325">fols. 158v-162r</locus> 
+        <summary>September 22: On Phocas the holy martyr of Christ, a panegyric of Asterius, Bishop of Amasea.</summary>
+    </msItem>
+    <msItem n="23">
+        <locus from = "325" to ="348">fols. 162r-173v</locus> 
+        <summary>September 24: Passion of the holy protomartyr and apostle Thecla.</summary>
+    </msItem>
+    <msItem n="24">
+        <locus from = "348" to ="363">fols. 173v-181r</locus> 
+        <summary>September 25: Life and conduct of holy Euphrosyne of Alexandria.</summary>
+    </msItem>
+    <msItem n="25">
+        <locus from = "364" to ="384">fols. 181v-191v</locus> 
+        <summary>September 26: Memorial to the holy apostle and evangelist John the Theologion.</summary>
+    </msItem>
+    <msItem n="26">
+        <locus from = "384" to ="400">fols. 191v-199v</locus> 
+        <summary>September 27: Passion of the holy megalomartyr Callistratus.</summary>
+    </msItem>
+    <msItem n="27">
+        <locus from = "400" to ="418">fols. 199v-208v</locus> 
+        <summary>September 28: Life and conduct of the holy father and confessor Chariton.</summary>
+    </msItem>
+    <msItem n="28">
+        <locus from = "418" to ="436">fols. 208v-217v</locus> 
+        <summary>September 29: Life and conduct of the holy father Cyriacus the Anchorite.</summary>
+    </msItem>
+    <msItem n="29">
+        <locus from = "436" to ="452">fols. 217v-225v</locus> 
+        <summary>September: 30: Life, conduct, and passion of the holy hieromartyr Gregory of Armenia.</summary>
+    </msItem>
+    <msItem n="30">
+        <locus from = "453" to ="453">Pastedown (back)</locus>
+        <summary>Bible Leaf in Latin. Text of John 11:1-11:13 (from marie et marthe to dormitione sompni) written on parchment in 
+            two columns (344 x 240 mm). Index of a register recorded in the outer margin.</summary>
+    </msItem>
+</msContents>
+    <decoration>
+        <headpieces><p>Headpieces of multi-colored floral, foliate, and geometric designs at the beginning of each reading, and on the table of contents.</p>
+        </headpieces>
+        <initials><p>Major initials (15-60 mm) of abstract floral and bead motifs in blue, red and yellow, set off from the text.</p></initials>
+    </decoration>
+    <physDesc>
+        <support><p><material>Parchment</material>. <dimensions type="block" units="mm">341 x 245 mm</dimensions>.</p></support>
+        <extent>225 leaves.</extent> 
+        <foliation><p>1-225. Modern foliation in Arabic numerals in pencil.</p></foliation>
+        <collation><p> Originally 31 quires, each of 8 leaves, with the exception of quires 14 and 31 of 5 leaves. Estimate of content lost: quire 30; 3 leaves of quire 28; 
+            6 leaves of quire 29; 2 leaves of quire 31.</p>
+            <p>The Menologion was composed in two parts. Part one, of 14 readings, ends at September 15 on leaf 5 of quire 14 (fol. 111v). Part two contains 13 readings, 
+                and begins at September 15, on leaf 1 of quire 15 (fol. 112r). During the writing process, each part was numbered separately. After binding, the manuscript's 
+                quires were sequentially numbered in the lower margin on the first leaf (recto) and last leaf (verso). Quire numbers 1-29, 31 (α-κθ, λα) are extant. Of the 
+                initial scheme, all but numbers 12 and 13 of the second section are lost (ιβ fol. 200r, ιΓ fol. 208r).</p>
+            <p>The pinax or table of contents (fols. 1r-2v) does not correspond fully with headings and incipits, and may have been a later addition to the manuscript.</p></collation>
+        <dimensions type="written" units="mm">Written space 220 x 160 mm (fol. 35r). Each column is 220 x 70 mm with a space of 20 mm between.</dimensions> 
+        <layout columns="2" writtenLines="33 per column"><p>2 columns, 33 lines. Ruling with hard point.</p></layout>
+    <msWriting><handDesc script="Minuscule" medium="">
+        <p>Written in minuscule script in dark brown ink (some flaking).</p> 
+        <p>Punctuation includes high, middle, and low points, marks of interrogation and elision, and quotation marks.</p> 
+        <p>Corrections to the text were made in brown ink, and inaccuracies eliminated by erasure, washing, and strike through. 
+            Some marginal text was excised (fols. 74, 154, 157, 159); and, holes were cut in two leaves (fols. 57, 91) with corrected copy supplied in the upper margin of the versos.</p>
+    </handDesc>
+    </msWriting>
+        <textDivisions><p>Titles and capitals in red.</p></textDivisions>
+        <condition><p>Outer and lower margins of several leaves cut away or broken off 
+            along ruling lines. Some faded letters traced over and omitted 
+            letters added in black ink. Creases, tears, insect damage, random holes, and taped repairs. Stained 
+            with dirt, water, grease, wax, and ink. </p></condition>
+        <bindingDesc>
+            <binding><p>Bound in grey-green <material>leather</material> over boards. Leaves cut from a Latin bible serve as pastedowns.</p></binding></bindingDesc>
+ </physDesc>
+<history>
+    <origin><p>The manuscript is judged to have been written in <name reg="Constantinople" type="place">Constantinople</name>, 
+        the present-day <name reg="Istanbul, Turkey" type="place">Istanbul, Turkey</name>, in either the 11th or 12th century.</p></origin> 
+    <provenance><p>Medieval to 20th century provenance unknown.</p>
+        <p>Inscriptions dated 1303 and 23 November 1309 (fol. 2r). Other additions include a supplied title 
+            μεταφρσης σαιπτεβρηος (September Metaphrastes), and the numbering of leaves allotted each reading.</p></provenance>
+    <acquisition><p>Acquired by the University of Chicago from <name reg="Furst, Jacques" type="person" role="owner">Jacques Furst</name> of New York, April 1939.</p></acquisition>
+</history>
+    <additional>
+        <listBibl><bibl>
+            <author>Merrill Mead Parvis</author>, 
+            <title level="m">The Story of the Goodspeed Collection</title>
+            <imprint>
+                <pubPlace>([Chicago]:</pubPlace>
+                <publisher>s.n.,</publisher>
+                <date>1952),</date>
+            </imprint>
+            <biblScope type="pages">p. 24.</biblScope></bibl>
+            <bibl>
+                <author>C. U. Faye</author> and <author> W. H. Bond</author>,
+                <title level="m">Supplement to the Census of Medieval and Renaissance Manuscripts 
+                    in the United States and Canada</title>
+                <imprint>
+                    <pubPlace>(New York:</pubPlace>
+                    <publisher>Bibliographical Society of America,</publisher>
+                    <date>1962),</date>
+                </imprint>
+                <biblScope type="pages">p. 162.</biblScope></bibl></listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0995, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0995</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                        <msIdentifier>
+                            <country>United States</country>
+                            <region>Illinois</region>
+                            <settlement>Chicago</settlement>
+                            <institution>University of Chicago Library</institution> 
+                            <repository>Special Collections Research Center</repository>
+                            <collection>Goodspeed Manuscript Collection</collection>
+                            <idno>Ms. 995</idno>
+                            <altIdentifier type="former shelfmark">Goodspeed Ms. Eth. 67</altIdentifier>
+                        </msIdentifier>
+                        <msHeading>
+                            <title>Magic Scroll</title>
+                            <otherName>Ethiopic Magical Prayer Scroll</otherName>
+                            <origPlace>Ethiopia</origPlace>
+                            <origDate notBefore="1701" notAfter="1900">18th or 19th century</origDate>
+                            <textLang langKey="gez">Geez</textLang>
+                        </msHeading>
+                    <msContents>
+                        <overview>
+                            <p>Magic Scroll in Gə‘əz (Ethiopic). Petitioning texts and painted charms in tandem function to invoke protection from 
+                                demonic possession, spells, and disease. Formerly Goodspeed Ms. Eth. 67.</p></overview>
+                        <msItem n="1">
+                            <locus from = "001" to ="001">obverse</locus>
+                            <summary>1. Prayer for those bound by demons. Trinitarian invocation. Invocations for the owner of the scroll. (col. a, ll. 1-60). Miniature: Angel.</summary>
+                            <summary>2. Incantation for driving out devils. Invocation for the owner of the scroll (col. b, ll. 1-56).</summary>
+                            <summary>3. Prayer maftehē šerāy for undoing spells (col. a, ll. 61-122). Miniature: Spider.</summary>
+                            <summary>4. Prayer fethata šerāy undoing spells. Prayer against eye diseases. Invocations for the owner of the scroll  (col. b, ll. 57-120).</summary>
+                            <summary>5. Prayer for driving out demons. A hymn (salām type) to the angel Phanuel, expeller of demons (col. a, ll. 123-178). Miniature: Spider.</summary>
+                            <summary>6. Prayers against chest pain, evil eye (buda), and colic. Invocations for the owner of the scroll (col. b, ll. 121-170). Miniature: Cross and churches.</summary>
+                            <note>Reverse, blank.</note></msItem></msContents>
+                    <decoration>
+                        <overview><p>4 miniatures. Plain and decorative borders in green, gold, red, blue, and white, filled with abstract patterns of diamonds, bars, 
+                            circles, spirals, rings, fret, and triangles.</p></overview>
+                        <miniatures><minItem n="1">
+                            <locus from="001" to="001">obverse</locus>
+                            <minDesc>1. Angel, Portrait: Angel holds raised sword in right hand, in left hand, a scabbard.</minDesc> 
+                            <minDesc>2. Spider, Portrait: Spider with human face and 8 appendages; stippled background.</minDesc> 
+                            <minDesc>3. Spider, Portrait: Spider with human face and 8 appendages, centered on green cross; blue background.</minDesc> 
+                            <minDesc>4. Cross, Between churches: Large cross mounted on plinth; small churches stand at either side.</minDesc></minItem></miniatures>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="scroll" units="mm">1426 x 137 mm</dimensions>.</p></support>
+                        <dimensions type="written" units="mm">Written space, 3 sections sewn together measure 360, 410, and 320 mm in length. Width varies from 120 to 130 mm.</dimensions> 
+                        <layout columns="2" writtenLines="178"><p>2 columns, 178 lines.</p></layout>
+                        <msWriting><handDesc medium="ink" lang="gez">
+                            <p>Written in black ink (some fading).</p> 
+                        </handDesc></msWriting> 
+                        <textDivisions><p>Titles in red.</p></textDivisions>
+                        <condition><p>Paint of some miniatures abraded.</p></condition>
+                        <bindingDesc><binding><p>Mounted in Plexiglas.</p></binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The scroll is judged to have been written and illuminated in <name reg="Ethiopia" type="place">Ethiopia</name> in either the 18th or 19th century.</p></origin>
+                        <provenance><p>Belonged to <name reg="Hāymānot, Walda Takla" type="person" role="owner">Walda Takla Hāymānot</name> and
+                            <name reg="Mikā'ēl, Walatta " type="person" role="owner">Walatta Mikā'ēl</name> whose names are inscribed in the invocations for the scroll's original owner. Later provenance unknown.</p></provenance>
+                        <acquisition><p>Date acquired by the University of Chicago unknown.</p></acquisition>
+                    </history></msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage><language id="gez"></language><p>Geez, ISO 639-3</p></langUsage>
+            <textClass>
+                <keywords>
+                    <term>Ethiopian magic scrolls</term>
+                    <term>Illumination of books and manuscripts, Ethiopian</term>
+                    <term>Magic, Ethiopian</term>
+                    <term>Manuscripts, Ethiopic</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0995">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 995</idno>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Eth. 67</altIdentifier>
+</msIdentifier>
+    <msHeading>
+        <title>Magic Scroll</title>
+        <otherName>Ethiopic Magical Prayer Scroll</otherName>
+        <origPlace>Ethiopia</origPlace>
+        <origDate notBefore="1701" notAfter="1900">18th or 19th century</origDate>
+        <textLang langKey="gez">Geez</textLang>
+    </msHeading>
+<msContents>
+    <overview>
+        <p>Magic Scroll in Gə‘əz (Ethiopic). Petitioning texts and painted charms in tandem function to invoke protection from 
+            demonic possession, spells, and disease. Formerly Goodspeed Ms. Eth. 67.</p></overview>
+    <msItem n="1">
+        <locus from = "001" to ="001">obverse</locus>
+        <summary>1. Prayer for those bound by demons. Trinitarian invocation. Invocations for the owner of the scroll. (col. a, ll. 1-60). Miniature: Angel.</summary>
+        <summary>2. Incantation for driving out devils. Invocation for the owner of the scroll (col. b, ll. 1-56).</summary>
+        <summary>3. Prayer maftehē šerāy for undoing spells (col. a, ll. 61-122). Miniature: Spider.</summary>
+        <summary>4. Prayer fethata šerāy undoing spells. Prayer against eye diseases. Invocations for the owner of the scroll  (col. b, ll. 57-120).</summary>
+        <summary>5. Prayer for driving out demons. A hymn (salām type) to the angel Phanuel, expeller of demons (col. a, ll. 123-178). Miniature: Spider.</summary>
+        <summary>6. Prayers against chest pain, evil eye (buda), and colic. Invocations for the owner of the scroll (col. b, ll. 121-170). Miniature: Cross and churches.</summary>
+    <note>Reverse, blank.</note></msItem></msContents>
+ <decoration>
+     <overview><p>4 miniatures. Plain and decorative borders in green, gold, red, blue, and white, filled with abstract patterns of diamonds, bars, 
+             circles, spirals, rings, fret, and triangles.</p></overview>
+     <miniatures><minItem n="1">
+             <locus from="001" to="001">obverse</locus>
+             <minDesc>1. Angel, Portrait: Angel holds raised sword in right hand, in left hand, a scabbard.</minDesc> 
+             <minDesc>2. Spider, Portrait: Spider with human face and 8 appendages; stippled background.</minDesc> 
+         <minDesc>3. Spider, Portrait: Spider with human face and 8 appendages, centered on green cross; blue background.</minDesc> 
+             <minDesc>4. Cross, Between churches: Large cross mounted on plinth; small churches stand at either side.</minDesc></minItem></miniatures>
+ </decoration>
+<physDesc>
+    <support><p><material>Parchment</material>. <dimensions type="scroll" units="mm">1426 x 137 mm</dimensions>.</p></support>
+    <dimensions type="written" units="mm">Written space, 3 sections sewn together measure 360, 410, and 320 mm in length. Width varies from 120 to 130 mm.</dimensions> 
+    <layout columns="2" writtenLines="178"><p>2 columns, 178 lines.</p></layout>
+    <msWriting><handDesc medium="ink" lang="gez">
+    <p>Written in black ink (some fading).</p> 
+  </handDesc></msWriting> 
+   <textDivisions><p>Titles in red.</p></textDivisions>
+    <condition><p>Paint of some miniatures abraded.</p></condition>
+    <bindingDesc><binding><p>Mounted in Plexiglas.</p></binding></bindingDesc>
+ </physDesc>
+    <history>
+        <origin><p>The scroll is judged to have been written and illuminated in <name reg="Ethiopia" type="place">Ethiopia</name> in either the 18th or 19th century.</p></origin>
+        <provenance><p>Belonged to <name reg="Hāymānot, Walda Takla" type="person" role="owner">Walda Takla Hāymānot</name> and
+            <name reg="Mikā'ēl, Walatta " type="person" role="owner">Walatta Mikā'ēl</name> whose names are inscribed in the invocations for the scroll's original owner. Later provenance unknown.</p></provenance>
+        <acquisition><p>Date acquired by the University of Chicago unknown.</p></acquisition>
+    </history>
+</msDescription>
+        </body>
+    </text>      
+</TEI.2>

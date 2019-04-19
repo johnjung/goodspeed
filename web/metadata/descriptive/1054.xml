@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-1054, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/1054</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 1054</idno>
+                        <altName type="Gregory number">Greg. 2474</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 59</altIdentifier>
+                    </msIdentifier> 
+                    <msHeading>
+                        <title>New Testament. Gospels</title>
+                        <otherName>Elfleda Bond Goodspeed Gospels</otherName>
+                        <origPlace>Unknown Place of Origin</origPlace>
+                        <origDate notBefore="901" notAfter="1000">10th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents> 
+                        <overview><p>Four gospels in Greek. Lectionary apparatus, headings, and incipits, and Ammonian section numbers. 
+                            Formerly Goodspeed Ms. Grk. 59.</p></overview></msContents>
+                    <decoration>
+                        <headpieces>
+                            <p>Headpieces of acanthus, heart, scrollwork, and vine motifs in blue, red, green, and gold (fols. 76r, 208v).</p>
+                        </headpieces>
+                        <initials>
+                            <p>Initials (50 mm) of acanthus and scrollwork in blue, red, green and gold. Inhabited initial (fol. 208v), 
+                                John the Evangelist seated, his hand extended to indicate adjacent text. Minor initials in red set off from the text.</p>
+                        </initials>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="block" units="mm">185 x 140 mm</dimensions>.</p></support>
+                        <extent>265 leaves.</extent> 
+                        <foliation><p>1-265. Modern foliation in Arabic numerals in pencil (upper right margin).</p></foliation> 
+                        <collation><p>The present manuscript contains 36 quires, each of 8 leaves, with the exception of quire 20.</p>
+                            <p>Estimate of content lost: Unknown number of leaves (before fol. 1r, kephalaia and Matthew 1:1 to 1:15. Begins with 1:15 at, ελιουδ δε εγεννησε); 
+                                1 leaf, quire 2 (after fol. 34, ends with Matthew 5:31 at, ος εαν απολελυμενην, and begins on fol. 43r with 6:1 at, Προσεχετε την ελεημοσυνην); 
+                                1 leaf, quire 2 (after fol. 45, ends with Matthew 6:25 at, μηδε τω σω[ματι] and begins on fol. 8r with 7:6 at, μη δωτε το); 1 leaf 
+                                (after fol. 18, ends with Matthew 11:20 at, πλεισται δυναμεις αυτου, and begins on fol. 19r with 12:5 at, [σαβ]βασιν οι ιερεις); 1 leaf, 
+                                quire 7 (after fol. 42, ends with Matthew 20:14 at, σον και υπαγε, and begins on fol. 47r with 20:25 at, των εθνων κατακυριευουσιν); 1 leaf 
+                                (after fol. 95, ends with Mark 7:15 at, αυτου κοινωσαι, and begins on fol. 96r with 7:28 at, Η δε απεκριθη); 3 leaves (after fol. 126, ends with kephalaia 
+                                after chapter 16, and begins on fol. 127r with Luke 1:14 at, και εσται χαρα); 1 leaf (after fol. 151, ends with Luke 7:28 at, του βαπτιστου, 
+                                and begins on fol. 152r with 7:39 at, ητις απτεται αυτου); 1 leaf (after fol. 158, ends with Luke 9:13 at, οι δε ειπον, and begins on fol. 159r 
+                                with 9:25 at, απολεσας η ζημιωθεις); 1 leaf (after fol. 159, ends with Luke 9:37 at, οχλος πολυς, and begins on fol. 160r with 9:49 at, και 
+                                εκωλυσαμεν αυτον); 1 leaf (after fol. 199, ends with Luke 22:29 at, υμιν καθως, and begins on fol. 200r with 22:44 at, [εκτενεστε]ρον 
+                                προσηυχετο); 1 leaf (after fol. 200, ends with Luke 22:57 at, ο δε ηρνησατο λεγων, and begins on fol. 201r with 23:2 at, ευρομεν διαστρεφοντα 
+                                το); 1 leaf (after fol. 201, ends with Luke 23:14 at, υμων ανακρινας, and begins on fol. 202r with 23:29 at, οι ουκ εθηλασαν); 1 leaf (after fol. 221, 
+                                ends with John 5:29 at, εις αναστασιν ζωης, and begins on fol. 222r with 5:43 at, ληψεσθε); 1 leaf (after fol. 223, ends with John 6:26 at, και ειπεν, 
+                                and begins on fol. 224r with 6:40 at, εις αυτον εχη); 1 leaf (after fol. 232, ends with John 8:49 at, και υμεις α[τιμαζετε], and begins on fol. 233r 
+                                with 9:5 at, οταν εν τω); 1 leaf (after fol. 258, ends with John 19:1 at, ελαβεν ο πιλᾶτος, and begins on fol. 259r with 19:14 at, ην δε παρασκευη); 
+                                unknown number of leaves of the Menologion (after fol. 265, ends with September).</p></collation> 
+                        <dimensions type="written" units="mm">Written space 130 x 85 mm (fol. 104r ).</dimensions> 
+                        <layout columns="1" writtenLines="23"><p>1 column, 23 lines. Ruling with hard point.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink">
+                            <p>Written in minuscule script in medium brown ink (flaking and fading).</p>
+                            <p>Punctuation includes high  and low points, comma, marks of elision and interrogation. Quotation marks in the left margins next to 
+                                each line of quoted text.</p></handDesc>
+                        </msWriting>
+                        <textDivisions><p>Titles in red. Indications αρχ (arche) and τελ (telos) mark the position of 
+                            lections in the gospel text.</p></textDivisions>
+                        <condition><p>At an unknown date during a rebinding process, the leaves were cut out of old covers along the gutter-side margins. These 
+                            were then anchored with paper hinges in the current binding. Some leaves later separated from the hinges, and were either lost or were 
+                            reattached out of order. Leaves of another 10th century manuscript were used for the hinges of fols. 1-35. Slight cockling of leaves, edges 
+                            darkened. Some faded passages of text written over in black ink. Trimmed with the loss of certain marginal text.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Bound in dark brown <material>leather</material> over boards. Nail holes (back) of straps once attached. Fore-edge pegs. 
+                                Front pastedown of paper.</p></binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript is judged to have been written in the 10th century. A place of origin is unknown.</p></origin> 
+                        <provenance><p>Medieval to late 19th century provenance unknown. On 20 September 1884, the manuscript was given to the 
+                            <name reg="Hellēnikos Philologikos Syllogos (Istanbul, Turkey)" type="org">Greek Philosophical Society</name> in <name reg="Constantinople" type="place">Constantinople</name>, 
+                            the present-day <name reg="Istanbul, Turkey" type="place">Istanbul, Turkey</name> (partially erased colophon, inside back cover). It remained part of the library until 1923, when the 
+                            society was dissolved and its holdings confiscated during the Turkish Revolution. Belonged to bibliophile 
+                            <name reg="Kurdian, Harry, 1902-1976" type="person" role="owner">Harry Kurdian</name> (1902-1976), of <name reg="Wichita, Kansas" type="place">Wichita, Kansas</name> 
+                            who purchased the manuscript in Istanbul in March 1952. Acquired by <name reg="Goodspeed, Edgar Johnson, 1871-1962" type="person" role="owner">Edgar J. Goodspeed</name>, 
+                            Professor Emeritus in the <name reg="University of Chicago. Divinity School" type="org">Divinity School</name> of the University of Chicago, from Mr. Kurdian in June 1952.</p>
+                            <p>Inscriptions (fols. 75v, 231r); jottings (front pastedown).</p></provenance>
+                        <acquisition><p>Gift of Edgar J. Goodspeed to the University of Chicago, July 1952, in memory of his wife 
+                            <name reg="Goodspeed, Elfleda Bond, 1880-1949" type="person" role="dedicatee">Elfleda Bond Goodspeed</name> (1880-1949) for whom it was named.</p></acquisition></history>
+                </msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+  <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+  </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Gospels. Greek</term>
+                    <term>Bible--Manuscripts</term>
+                    <term>Hellēnikos Philologikos Syllogos (Istanbul, Turkey)</term>
+                    <term>Goodspeed, Edgar Johnson, 1871-1962</term>
+                    <term>Goodspeed, Elfleda Bond, 1880-1949</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-1054">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 1054</idno>
+    <altName type="Gregory number">Greg. 2474</altName>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 59</altIdentifier>
+</msIdentifier> 
+    <msHeading>
+        <title>New Testament. Gospels</title>
+        <otherName>Elfleda Bond Goodspeed Gospels</otherName>
+        <origPlace>Unknown Place of Origin</origPlace>
+        <origDate notBefore="901" notAfter="1000">10th century</origDate>
+        <textLang langKey="grc">Greek</textLang>
+    </msHeading>
+<msContents> 
+    <overview><p>Four gospels in Greek. Lectionary apparatus, headings, and incipits, and Ammonian section numbers. 
+        Formerly Goodspeed Ms. Grk. 59.</p></overview>
+<msItem n="1">
+    <locus from = "003" to ="149">fols. 1r-74r</locus>
+    <summary>Matthew (lacking). Subscription and stichoi (2,600).</summary>
+    <note>Leaves of quire 2, 6, and 7 bound out of order. For correct sequence of quire 2 read, fols: 7, 34, (leaf missing), 43, 45, 
+        (leaf missing), 8. For quire 6, read, fols. 35, 36, 38, 37, 40, 39, 41, 42. For quire 7, read, fols. (leaf missing), 47, 44, 46, 49, 
+        50, 48, 51.</note>
+</msItem>
+    <msItem n="2">
+        <locus from = "149" to ="152">fols. 74r-75v</locus> 
+        <summary>Kephalaia of Mark.</summary>
+    </msItem>
+    <msItem n="3">
+        <locus from = "153" to ="254">fols. 76r-126v</locus> 
+        <summary>Mark (lacking). Subscription and stichoi (1,600).</summary>
+    </msItem>
+    <msItem n="4">
+        <locus from = "254" to ="254">fol. 126v</locus> 
+        <summary>Kephalaia of Luke (lacking).</summary>
+    </msItem>
+    <msItem n="5">
+        <locus from = "255" to ="416">fols. 127r-207v</locus> 
+        <summary>Luke (lacking). Subscription and stichoi (2,800).</summary>
+    </msItem>
+    <msItem n="6">
+        <locus from = "416" to ="417">fols. 207v-208r</locus> 
+        <summary>Kephalaia of John.</summary>
+    </msItem>
+    <msItem n="7">
+        <locus from = "418" to ="532">fols. 208v-265v </locus> 
+        <summary>John (lacking). Subscription and stichoi (2,200).</summary>
+    </msItem>
+    <msItem n="8">
+        <locus from = "532" to ="532">fol. 265v </locus> 
+        <summary>Lectionary table, Menologion (lacking).</summary>
+    </msItem>
+    <msItem n="9">
+        <locus from = "533" to ="533">Cover, Inside (back)</locus> 
+        <colophon>δωριτε εις τον ιερων σιλογον Κωνσταντινου πολεος 
+            Σακελλαριος ελευθερις ιερους ο Ξιφιλινος και 
+            κουτζουκ βεζιρουλι προσκυνιτης του παναγιου ταφου 
+            τραπεζους 1884 20 Σεπτεμβριου</colophon>
+    </msItem>
+</msContents>
+    <decoration>
+        <headpieces>
+            <p>Headpieces of acanthus, heart, scrollwork, and vine motifs in blue, red, green, and gold (fols. 76r, 208v).</p>
+        </headpieces>
+        <initials>
+            <p>Initials (50 mm) of acanthus and scrollwork in blue, red, green and gold. Inhabited initial (fol. 208v), 
+                John the Evangelist seated, his hand extended to indicate adjacent text. Minor initials in red set off from the text.</p>
+        </initials>
+        </decoration>
+    <physDesc>
+ <support><p><material>Parchment</material>. <dimensions type="block" units="mm">185 x 140 mm</dimensions>.</p></support>
+        <extent>265 leaves.</extent> 
+        <foliation><p>1-265. Modern foliation in Arabic numerals in pencil (upper right margin).</p></foliation> 
+        <collation><p>The present manuscript contains 36 quires, each of 8 leaves, with the exception of quire 20.</p>
+            <p>Estimate of content lost: Unknown number of leaves (before fol. 1r, kephalaia and Matthew 1:1 to 1:15. Begins with 1:15 at, ελιουδ δε εγεννησε); 
+                1 leaf, quire 2 (after fol. 34, ends with Matthew 5:31 at, ος εαν απολελυμενην, and begins on fol. 43r with 6:1 at, Προσεχετε την ελεημοσυνην); 
+                1 leaf, quire 2 (after fol. 45, ends with Matthew 6:25 at, μηδε τω σω[ματι] and begins on fol. 8r with 7:6 at, μη δωτε το); 1 leaf 
+                (after fol. 18, ends with Matthew 11:20 at, πλεισται δυναμεις αυτου, and begins on fol. 19r with 12:5 at, [σαβ]βασιν οι ιερεις); 1 leaf, 
+                quire 7 (after fol. 42, ends with Matthew 20:14 at, σον και υπαγε, and begins on fol. 47r with 20:25 at, των εθνων κατακυριευουσιν); 1 leaf 
+                (after fol. 95, ends with Mark 7:15 at, αυτου κοινωσαι, and begins on fol. 96r with 7:28 at, Η δε απεκριθη); 3 leaves (after fol. 126, ends with kephalaia 
+                after chapter 16, and begins on fol. 127r with Luke 1:14 at, και εσται χαρα); 1 leaf (after fol. 151, ends with Luke 7:28 at, του βαπτιστου, 
+                and begins on fol. 152r with 7:39 at, ητις απτεται αυτου); 1 leaf (after fol. 158, ends with Luke 9:13 at, οι δε ειπον, and begins on fol. 159r 
+                with 9:25 at, απολεσας η ζημιωθεις); 1 leaf (after fol. 159, ends with Luke 9:37 at, οχλος πολυς, and begins on fol. 160r with 9:49 at, και 
+                εκωλυσαμεν αυτον); 1 leaf (after fol. 199, ends with Luke 22:29 at, υμιν καθως, and begins on fol. 200r with 22:44 at, [εκτενεστε]ρον 
+                προσηυχετο); 1 leaf (after fol. 200, ends with Luke 22:57 at, ο δε ηρνησατο λεγων, and begins on fol. 201r with 23:2 at, ευρομεν διαστρεφοντα 
+                το); 1 leaf (after fol. 201, ends with Luke 23:14 at, υμων ανακρινας, and begins on fol. 202r with 23:29 at, οι ουκ εθηλασαν); 1 leaf (after fol. 221, 
+                ends with John 5:29 at, εις αναστασιν ζωης, and begins on fol. 222r with 5:43 at, ληψεσθε); 1 leaf (after fol. 223, ends with John 6:26 at, και ειπεν, 
+                and begins on fol. 224r with 6:40 at, εις αυτον εχη); 1 leaf (after fol. 232, ends with John 8:49 at, και υμεις α[τιμαζετε], and begins on fol. 233r 
+                with 9:5 at, οταν εν τω); 1 leaf (after fol. 258, ends with John 19:1 at, ελαβεν ο πιλᾶτος, and begins on fol. 259r with 19:14 at, ην δε παρασκευη); 
+                unknown number of leaves of the Menologion (after fol. 265, ends with September).</p></collation> 
+    <dimensions type="written" units="mm">Written space 130 x 85 mm (fol. 104r ).</dimensions> 
+        <layout columns="1" writtenLines="23"><p>1 column, 23 lines. Ruling with hard point.</p></layout>
+        <msWriting><handDesc script="Minuscule" medium="ink">
+            <p>Written in minuscule script in medium brown ink (flaking and fading).</p>
+            <p>Punctuation includes high  and low points, comma, marks of elision and interrogation. Quotation marks in the left margins next to 
+                each line of quoted text.</p></handDesc>
+    </msWriting>
+        <textDivisions><p>Titles in red. Indications αρχ (arche) and τελ (telos) mark the position of 
+            lections in the gospel text.</p></textDivisions>
+        <condition><p>At an unknown date during a rebinding process, the leaves were cut out of old covers along the gutter-side margins. These 
+            were then anchored with paper hinges in the current binding. Some leaves later separated from the hinges, and were either lost or were 
+            reattached out of order. Leaves of another 10th century manuscript were used for the hinges of fols. 1-35. Slight cockling of leaves, edges 
+            darkened. Some faded passages of text written over in black ink. Trimmed with the loss of certain marginal text.</p></condition>
+        <bindingDesc>
+            <binding><p>Bound in dark brown <material>leather</material> over boards. Nail holes (back) of straps once attached. Fore-edge pegs. 
+                Front pastedown of paper.</p></binding></bindingDesc>
+ </physDesc>
+<history>
+    <origin><p>The manuscript is judged to have been written in the 10th century. A place of origin is unknown.</p></origin> 
+    <provenance><p>Medieval to late 19th century provenance unknown. On 20 September 1884, the manuscript was given to the 
+        <name reg="Hellēnikos Philologikos Syllogos (Istanbul, Turkey)" type="org">Greek Philosophical Society</name> in <name reg="Constantinople" type="place">Constantinople</name>, 
+        the present-day <name reg="Istanbul, Turkey" type="place">Istanbul, Turkey</name> (partially erased colophon, inside back cover). It remained part of the library until 1923, when the 
+        society was dissolved and its holdings confiscated during the Turkish Revolution. Belonged to bibliophile 
+        <name reg="Kurdian, Harry, 1902-1976" type="person" role="owner">Harry Kurdian</name> (1902-1976), of <name reg="Wichita, Kansas" type="place">Wichita, Kansas</name> 
+        who purchased the manuscript in Istanbul in March 1952. Acquired by <name reg="Goodspeed, Edgar Johnson, 1871-1962" type="person" role="owner">Edgar J. Goodspeed</name>, 
+        Professor Emeritus in the <name reg="University of Chicago. Divinity School" type="org">Divinity School</name> of the University of Chicago, from Mr. Kurdian in June 1952.</p>
+        <p>Inscriptions (fols. 75v, 231r); jottings (front pastedown).</p></provenance>
+    <acquisition><p>Gift of Edgar J. Goodspeed to the University of Chicago, July 1952, in memory of his wife 
+        <name reg="Goodspeed, Elfleda Bond, 1880-1949" type="person" role="dedicatee">Elfleda Bond Goodspeed</name> (1880-1949) for whom it was named.</p></acquisition>
+</history>
+    <additional>
+        <listBibl><bibl> 
+            <author>Demetrios M. Sarros</author>, 
+            <title level="a">"Katalogos ton cheirographon tou en Konstantinoupolei Hellenikou philologikou syllogou,"</title> 
+            <title level="j">Epetēris</title> 
+            <biblScope type="volume">8</biblScope> 
+            <imprint><date>(1931),</date></imprint> 
+            <biblScope type="pages">pp. 168-169, no. (9) 52.</biblScope>
+        </bibl>
+            <bibl><author>Marcel Richard</author>, 
+                <title level="m">Répertoire des bibliothèques et des catalogues de manuscrits grecs</title>.
+                <imprint>
+                    <pubPlace>(Paris:</pubPlace>
+                    <publisher>Centre national de la recherche scientifique,</publisher>
+                    <date>1958),</date>
+                </imprint>
+                <biblScope type="pages">pp. 113-114, nos. 428, 429.</biblScope></bibl>
+        </listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

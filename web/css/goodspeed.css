@@ -1,0 +1,378 @@
+/* RESET */
+
+html, body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, img {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body {
+	background: #081618 url(http://goodspeed.lib.uchicago.edu/images/bg.gif) repeat-x;
+	border-top: 5px solid #266871;
+	text-align: center;
+	min-width: 760px;
+	padding-bottom: 2em;
+}
+div#nametag {
+	background: #266871;
+	padding: 0 0 5px 0;
+	position: absolute;
+	top: 0;
+	right: 0;
+	text-align: center;
+	width: 250px;
+}
+div#header {
+	background: url(http://goodspeed.lib.uchicago.edu/images/content-bg.gif) repeat 0 0;
+	height: 53px;
+	overflow: hidden;
+	position: relative;
+	text-align: right;
+	width: 100%;
+}
+div#sidebar div#advancedsearchoverlay {
+	background: #eeecdb;
+	display: none;
+	left: 50%;
+	margin-left: -300px;
+	position: absolute;
+	top: 75px;
+	width: 600px;
+}
+div#sidebar div#advancedsearchoverlay input {
+	width: 95%;
+}
+div#sidebar div#advancedsearchoverlay input.submit {
+}
+div#sidebar div#advancedsearchoverlay select {
+	width: auto;
+}
+div#sidebar div#advancedsearchoverlay table {
+	width: 100%;
+}
+div#sidebar div#advancedsearchoverlay td.label {
+	width: 5%;
+}
+div#sidebar div#advancedsearchoverlay td.input {
+	width: 45%;
+}
+div#content {
+	background: #f3f3e0;
+	border-left: 1px solid #444;
+	border-right: 1px solid #444;
+	margin: 0 auto;
+	min-width: 800px;
+	max-width: 1168px;
+	text-align: left;
+	width: 90%;
+}
+div#text {
+	clear: both;
+	padding: 2em 80px 4em 160px;
+}
+
+div#maincolumn {
+	margin: 1.7em 270px 0 0;
+	padding: 0 0 0 62px;
+}
+div#sidebar div.panel,
+div#browsepanel div {
+	background: #e5e1c9;
+	margin: 20px 0;
+	padding: 0 10px 2px 10px;
+	zoom: 1;
+}
+div#sidebar h2,
+div#browsepanel h2 {
+	margin: 0 0 5px 0;
+	padding: 10px 0 0 0;
+}
+div#sidebar input,
+div#sidebar select,
+div#browsepanel input,
+div#browsepanel select {
+	width: 100%;
+}
+div#sidebar h2 a:link,
+div#sidebar h2 a:visited,
+div#sidebar h2 a:hover,
+div#sidebar h2 a:active {
+	color: black;
+}
+div#sidebar .textinput,
+div#browsepanel .textinput {
+	width: 97%;
+}
+div#sidebar li {
+	line-height: 1.15;
+	padding-bottom: .6em;
+}
+div#browsepanel input {
+	width: auto;
+}
+
+div#footer {
+	background: #7a7344;
+	clear: both;
+	height: 4px;
+	overflow: hidden;
+	margin: 0 auto;
+	width: 100%;
+}
+div.tab {
+	border: 1px solid black;
+	clear: left;
+	margin: 0 0 2em 0;
+	padding: 0 1em 1em 1em;
+	zoom: 1;
+}
+ul#tabs {
+	clear: left;
+	float: left;
+	margin: 1em 0 0 0;
+	position: relative;
+	top: 1px;
+	width: 100%;
+}
+ul#tabs li {
+	float: left;
+	margin: 0 0 0 5px;
+	padding: 0;
+}
+ul#tabs a {
+	border: 1px solid black;
+	float: left;
+	padding: 2px 10px;
+}
+ul#tabs a.current {
+	border-bottom: 1px solid #f3f3e0;
+}
+/*
+*/
+/*
+	background: #e5e1c9;
+	border: 1px solid black;
+	float: left;
+	line-height: 1.1;
+	margin-right: 5px;
+	padding: 2px 10px;
+	position: relative;
+	top: -5px;
+*/
+
+/* TYPOGRAPHY */
+
+h1 {
+	font: normal 1.6em Georgia, serif;
+	margin: 0 0 .68em 0;
+}
+h1#cattitle {
+	float: left;
+	font: normal 1.2em/1.4 Georgia, serif;
+	margin: 1.5em 0 0 0;
+	width: 100%;
+}
+h1#cattitle .collection {
+	display: block;
+	font-size: .65em;
+	text-transform: uppercase;
+}
+h1#cattitle .manuscriptnumber {
+	font-weight: bold;
+}
+h1#cattitle .additionalinfo {
+	display: block;
+}
+h2 {
+	border-bottom: 1px solid #d3c8ac;
+	font: normal 1.0em Georgia, serif;
+	margin: 1.70em 0 .2em 0;
+	padding-bottom: .25em;
+}
+h3 {
+	font: bold small/1.7 Georgia, serif;
+}
+p, td, th {
+	font: small/1.7 Georgia, serif;
+	margin-bottom: 1.36em;
+}
+dl {
+}
+dt, dd {
+	font: small/1.7 Georgia, serif;
+}
+ul {
+	list-style-type: none;
+}
+ol {
+	margin-left: 1.5em;
+	margin-bottom: 1em;
+}
+li {
+	font: small/1.7 Georgia, serif;
+	margin-bottom: 0;
+	padding-left: 16px;
+}
+p#flipper, p#showscanned {
+	margin-left: 1em;
+}
+p#flipper {
+	margin-bottom: 0;
+}
+li.collapsed a {
+	background: url(http://goodspeed.lib.uchicago.edu/images/collapsed.gif) no-repeat 0 3px;
+	padding-left: 16px;
+}
+li.expanded a {
+	background: url(http://goodspeed.lib.uchicago.edu/images/expanded.gif) no-repeat 0 3px;
+	padding-left: 16px;
+}
+ul.expandable li a {
+	background: none;
+	padding: none;
+}
+li.leaf a {
+	background: none;
+	padding-left: 8px;
+}
+li a.objectlink {
+	background: none;
+	padding: 0;
+}
+.objectlink {
+	position: relative;
+}
+div#browselist img {
+	padding-left: 4px;
+}
+img.icon {
+	padding-left: 4px;
+}
+/*
+ * I got this to work in IE6 and FF
+ * by using visibility instead of display-
+ * also specifying top in em's instead of percentage of
+ * parent height.
+*/
+.objectlink img.popup {
+	border: 10px solid #f3f3e0;
+	left: 0;
+	padding: 0;
+	position: absolute;
+	top: 1.25em; 
+	visibility: hidden;
+	z-index: 2;
+}
+.objectlink:link img.popup,
+.objectlink:visited img.popup {
+	visibility: hidden;
+}
+.objectlink:hover img.popup,
+.objectlink:active img.popup {
+	visibility: visible;
+}
+.objectlink:hover {
+	display: inline;
+}
+a:link, a:visited, a:hover, a:active {
+	color: #800000;
+	font-weight: normal;
+}
+a:link, a:visited {
+	text-decoration: none;
+}
+a:hover, a:active {
+	text-decoration: underline;
+}
+
+/* NAVIGATION */
+
+div.navigation {
+	background: #d2cebd;
+	width: 100%;
+}
+div.navigation p {
+	margin: 0;
+	padding: 2px 10px;
+}
+
+ul.navigation2 {
+	background: #dddddd;
+}
+ul.navigation2 li {
+	display: inline;
+	color: #222222;
+	font-size: .75em;
+	font-weight: bold;
+	padding: 3px 4px 2px 4px;
+}
+ul.navigation2 li a:link,
+ul.navigation2 li a:visited {
+	color: #999;
+	text-decoration: none;
+}
+ul.navigation2 li a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+/* MANUSCRIPT LIST */
+
+table#manuscriptlist {
+	border-collapse: collapse;
+	width: 100%;
+}
+table#manuscriptlist td {
+	width: 22px;
+}
+table#manuscriptlist td,
+table#manuscriptlist th {
+	border-bottom: 1px solid #bbb;
+	padding: .2em;
+}
+div#manuscriptlisticons p {
+	margin-bottom: .6em;
+}
+div#manuscriptlisticons img {
+	padding-right: .5em;
+	vertical-align: middle;
+}
+
+/* THUMBS */
+
+p.pager {
+	margin-top: 1em;
+}
+p.pager span {
+	border-left: 1px solid black;
+	margin-left: .4em;
+	padding-left: .4em;
+}
+p.pager span.noborder {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+div.thumbs {
+	float: left;
+	font: .6em Arial;
+	height: 85px;
+	margin: 0 5px 20px 5px;
+	text-align: center;
+	width: 75px;
+}
+div.thumbs a {
+	text-decoration: none;
+}
+
+/* DESCRIPTIVE DISPLAY */
+
+.foliation {
+	padding-right: 1em;
+}
+.note {
+}
+.subheading {
+	font-weight: bold;
+	padding-right: .5em;
+}

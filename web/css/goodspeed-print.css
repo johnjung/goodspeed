@@ -1,0 +1,38 @@
+* {
+	background: white !important;
+	border: 0 !important;
+	color: black !important;
+}
+body {
+}
+
+div#header {
+	display: none;
+}
+div#footer {
+	display: none;
+}
+p#breadcrumbs {
+	display: none;
+}
+div#content {
+	margin: 0;
+	width: 100%;
+}
+div#content:before {
+	content: string("<h1>The Goodspeed Manuscript Collection</h1>");
+}
+div#maincolumn {
+	margin: 0;
+	padding: 0;
+}
+div#sidebar {
+	display: none;
+}
+
+a.printablelink:link:after, 
+a.printablelink:visited:after {
+	content: " (" attr(href) ") ";
+	font-size: 90%;
+}
+

@@ -1,0 +1,16 @@
+/* INTRO PAGE */
+
+div#header {
+	background: #000000 url(http://goodspeed.lib.uchicago.edu/images/banner.jpg) no-repeat 0px 0px;
+	color: white;
+	height: 237px;
+}
+
+p#copyright {
+	font-family: Arial, sans-serif;
+	font-size: .6em;
+	text-align: center;
+	padding-top: 20px;
+}
+
+	

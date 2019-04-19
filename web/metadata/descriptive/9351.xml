@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-9351, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/9351</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 9351 (OIM)</idno>
+                        <altName type="Gregory number">Greg. 0163</altName>
+                        <altIdentifier type="shelfmark">OIM 9351: Oxyrhynchus Papyri pt. 6 #848</altIdentifier>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 5</altIdentifier>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>New Testament. Mark</title>
+                        <otherName>Oxyrhynchus Revelation Fragment</otherName>
+                        <origPlace>Al-Bashnasā, Egypt (ancient Oxyrhynchus)</origPlace>
+                        <origDate notBefore="301" notAfter="500">4th or 5th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents>
+                        <overview>
+                            <p>Revelation fragment in Greek. Contains Revelation 16:17-20. Formerly Goodspeed Ms. Grk. 5.</p>
+                        </overview>
+                        <msItem n="1" status="frag">
+                            <locus from="001" to="001">fol. [1r]</locus>
+                        </msItem>
+                        <msItem n="2" status="frag">
+                            <locus from="002" to="002">fol. [1v]</locus>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">38 x 86 mm (approximate surface area)</dimensions>.</p></support>
+                        <extent>1 leaf (partial).</extent>
+                        <msWriting><handDesc script="Uncial" medium="ink">
+                            <p>Written in uncial script in dark brown ink (some fading).</p></handDesc>
+                        </msWriting>
+                        <condition><p>Slight discoloration of the parchment support.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Mounted in glass.</p>
+                            </binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript to which the present fragment belonged is judged to have been written in the 4th or 5th century, possibly at <name reg="Oxyrhynchus" type="place">Oxyrhynchus</name>, 
+                            the present-day <name reg="Al-Bashnasā, Egypt" type="place">Al-Bashnasā, Egypt</name> where it was discovered.</p></origin>
+                        <provenance><p>The Egyptologist <name reg="Grenfell, Bernard Pyne, 1869-1926" type="person" role="egyptologist">Bernard Grenfell</name> (1869-1926) and 
+                            the Papyrologist <name reg="Hunt, Arthur Surridge, 1871-1934" type="person" role="papyrologist">Arthur Hunt</name> (1871-1934), 
+                            both of Oxford University's <name reg="Queen's College (University of Oxford)" type="org">Queen's College</name>, found the fragment while 
+                            excavating the site under the auspices of the <name reg="Egypt Exploration Society" type="org">Egypt Exploration Society</name>.</p></provenance>  
+                        <acquisition><p>Presented to the University of Chicago in the early 20th century by the Egypt Exploration Society as part of a distribution of documents 
+                            to institutions which supported the Oxyrhynchus excavations. The fragment is held in the collection of 
+                            the <name reg="University of Chicago. Oriental Institute. Museum" type="org">Oriental Institute Museum</name> (OIM 9351: Oxyrhynchus Papyri pt. 6 #848).</p></acquisition>
+                    </history>
+                </msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+     <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Revelation</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                    <term>Grenfell, Bernard Pyne, 1869-1926</term>
+                    <term>Hunt, Arthur Surridge, 1871-1934</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+   <body>
+ <msDescription id="GMS-9351">
+     <msIdentifier>
+         <country>United States</country>
+         <region>Illinois</region>
+         <settlement>Chicago</settlement>
+         <institution>University of Chicago Library</institution> 
+         <repository>Special Collections Research Center</repository>
+         <collection>Goodspeed Manuscript Collection</collection>
+         <idno>Ms. 9351 (OIM)</idno>
+         <altName type="Gregory number">Greg. 0163</altName>
+         <altIdentifier type="shelfmark">OIM 9351: Oxyrhynchus Papyri pt. 6 #848</altIdentifier>
+         <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 5</altIdentifier>
+     </msIdentifier>
+     <msHeading>
+         <title>New Testament. Mark</title>
+         <otherName>Oxyrhynchus Revelation Fragment</otherName>
+         <origPlace>Al-Bashnasā, Egypt (ancient Oxyrhynchus)</origPlace>
+         <origDate notBefore="301" notAfter="500">4th or 5th century</origDate>
+         <textLang langKey="grc">Greek</textLang>
+     </msHeading>
+     <msContents>
+         <overview>
+             <p>Revelation fragment in Greek. Contains Revelation 16:17-20. Formerly Goodspeed Ms. Grk. 5.</p>
+         </overview>
+         <msItem n="1" status="frag">
+             <locus from="001" to="001">fol. [1r]</locus>
+           </msItem>
+         <msItem n="2" status="frag">
+             <locus from="002" to="002">fol. [1v]</locus>
+            </msItem>
+     </msContents>
+      <physDesc>
+         <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">38 x 86 mm (approximate surface area)</dimensions>.</p></support>
+         <extent>1 leaf (partial).</extent>
+         <msWriting><handDesc script="Uncial" medium="ink">
+             <p>Written in uncial script in dark brown ink (some fading).</p></handDesc>
+         </msWriting>
+          <condition><p>Slight discoloration of the parchment support.</p></condition>
+         <bindingDesc>
+             <binding><p>Mounted in glass.</p>
+             </binding></bindingDesc>
+     </physDesc>
+     <history>
+         <origin><p>The manuscript to which the present fragment belonged is judged to have been written in the 4th or 5th century, possibly at <name reg="Oxyrhynchus" type="place">Oxyrhynchus</name>, 
+             the present-day <name reg="Al-Bashnasā, Egypt" type="place">Al-Bashnasā, Egypt</name> where it was discovered.</p></origin>
+         <provenance><p>The Egyptologist <name reg="Grenfell, Bernard Pyne, 1869-1926" type="person" role="egyptologist">Bernard Grenfell</name> (1869-1926) and 
+             the Papyrologist <name reg="Hunt, Arthur Surridge, 1871-1934" type="person" role="papyrologist">Arthur Hunt</name> (1871-1934), 
+             both of Oxford University's <name reg="Queen's College (University of Oxford)" type="org">Queen's College</name>, found the fragment while 
+             excavating the site under the auspices of the <name reg="Egypt Exploration Society" type="org">Egypt Exploration Society</name>.</p></provenance>  
+         <acquisition><p>Presented to the University of Chicago in the early 20th century by the Egypt Exploration Society as part of a distribution of documents 
+             to institutions which supported the Oxyrhynchus excavations. The fragment is held in the collection of 
+             the <name reg="University of Chicago. Oriental Institute. Museum" type="org">Oriental Institute Museum</name> (OIM 9351: Oxyrhynchus Papyri pt. 6 #848).</p></acquisition>
+     </history>
+     <additional>
+         <listBibl>
+             <bibl>
+                 <author>Merrill Mead Parvis</author>,
+                 <title level="m">The Story of the Goodspeed Collection</title>
+                 <imprint>
+                     <pubPlace>([Chicago]:</pubPlace>
+                     <publisher>s.n.,</publisher> 
+                     <date>1952),</date>
+                 </imprint>
+                 <biblScope type="pages">pp. 3-4.</biblScope></bibl>
+             <bibl> 
+                 <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed Collection 
+                     of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>.
+                 <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+                 <imprint> 
+                     <pubPlace>([Chicago:</pubPlace> 
+                     <publisher>s.n.,</publisher>  
+                     <date>1973]),</date></imprint> 
+                 <biblScope type="volume">36,</biblScope> 
+                 <biblScope type="catalogNo">no. 35.</biblScope></bibl></listBibl>
+     </additional>
+            </msDescription>
+        </body>
+    </text>            
+</TEI.2>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0781, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0781</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 781</idno>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 29</altIdentifier>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>New Testament. Gospels</title>
+                        <otherName>Khouban Gospels</otherName>
+                        <origPlace>Şəmkir, Azerbaijan (Shamkhor)</origPlace>
+                        <origDate>1670</origDate>
+                        <textLang langKey="hye">Armenian</textLang>
+                    </msHeading>
+                    <msContents>
+                        <overview>
+                            <p>Four gospels in Armenian. Eusebian section numbers in the margins against the text. Concordance numbers 
+                                in the lower margins. Pentecostal lection numbers. Portions of Matthew 16, Luke 22, and John 5 and 7 omitted. 
+                                Formerly Goodspeed Ms. Arm. 29</p></overview>
+                        <msItem n="1">
+                            <locus from="005" to="139">fols. 2r-69r</locus>
+                            <summary>Matthew.</summary>
+                            <note>Prayer (fol. 1r). University of Chicago Libraries stamp and call number (fol. 1v). Blank (fol. 69v).</note>
+                        </msItem>
+                        <msItem n="2">
+                            <locus from="141" to="228">fols. 70r-113v</locus>
+                            <summary>Mark.</summary>
+                        </msItem>
+                        <msItem n="3">
+                            <locus from="231" to="381">fols. 115r-190r</locus>
+                            <summary>Luke.</summary>
+                            <note>Blank (fol. 190v).</note></msItem>
+                        <msItem n="4">
+                            <locus from="383" to="499">fols. 191r-249r</locus>
+                            <summary>John.</summary>
+                            <note>Blank (fol. 249v).</note></msItem>
+                        <msItem n="5">
+                            <locus from="501" to="504">fols. 250r-251v</locus>
+                            <summary>Principal colophon: Glory be to the Eternal Father and Son, and to the Holy Ghost, now and always 
+                                forever and ever. Amen. He gave strength to the humble deacon, who is called Yovannēs to complete the word of God, 
+                                the Gospel. I began with the grace of God and finished it with his mercies in the Armenian year of 1119. During the 
+                                patriarchate of his holiness Bedros the Catholicos, and in the time of Bishop Yovannēs of Alovans Shamkarou, which 
+                                belongs to St. Asdouadzadzin, a celibate penitent named Khouban desired and commissioned a Holy Gospel. It was to 
+                                memorialize his own soul, the souls of his parents Sarkis and Tilikhan, those of his brothers Sahag and Abraham, his 
+                                sisters Marian, Marinos, and Kohar, his sisters-in-law Shahvoroum and Marian, their sons Van, Zaram, Zakar, 
+                                and Khutchadour, their daughters Yaghloukhan, Louroum, Parin, Heriknaz, Toukldzam, and Hurikhan, Van's 
+                                wife Naner, her father Zarsam, and all the relatives that are near to his heart. May God give life and health to 
+                                those who are living; and to those who are dead, peace and salvation, Amen. Again, I beseech you father and brothers 
+                                that whenever you read this holy writ, remember in your fervent prayers the above-mentioned celibate, who bought this 
+                                Holy Gospel with a thrice-desiring heart and gave it to you. His is a son of Zion and a household member of Jerusalem 
+                                according to the Prophet. His self was absorbed because he did not have any immediate heir in the world besides his 
+                                brothers and their families, and he did this with the best intentions. Now they live, but they are corruptible according to the 
+                                law of nature, but his memorial remains forever. Amen. It is food in store and a guide for their souls on the way that leads 
+                                to heaven. And I beseech you to remember also this humble scribe. Remember and you shall be remembered in our 
+                                Lord, Amen. And also remember the celibate penitent Khouban and his uncle Mardiros who sleeps in Christ. May the 
+                                Lord remember him and be merciful to him, and forgive his sins and give comfort to his children, Aris, Tamana, and Huazant.
+                            </summary>
+                        </msItem>
+                    </msContents>
+                    <decoration> 
+                        <overview><p>Marginal vignettes of multi-colored arabesques, medallions, and birds.</p></overview>
+                        <headpieces>
+                            <p>Headpieces of  multi-colored floral, key, meander, fret, and foliate motifs (fols. 2r, 70r, 115r, 191r).</p>
+                        </headpieces>
+                        <initials><p>The major initial (40-55 mm) of each gospel's opening line is formed by figures of animals, such as birds and lions. Minor 
+                            initials are formed by figures of birds or flowers.</p>
+                        </initials>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Paper</material>. <dimensions type="block" units="mm">175 x 125 mm</dimensions>.</p></support> 
+                        <extent>251 leaves.</extent> 
+                        <foliation><p>1-251. Modern foliation in Arabic numerals in pencil.</p></foliation> 
+                        <collation><p>21 numbered quires.</p></collation>
+                        <dimensions type="written" units="mm">Written space 125 x 85 mm (fol. 13r). Each column is 125 x 40 mm with a space of 5 mm between.</dimensions>
+                        <layout  columns="2" writtenLines="22 per column"><p>2 columns, 22 lines. Ruling with hard point. Framing highlighted in red.</p></layout>
+                        <msWriting><handDesc script="Bolorgir" medium="ink">
+                            <p>Written chiefly in bolorgir script in black ink. Each gospel's first line is inscribed in bird letters or bead and foliate forms. 
+                                Second and third lines are written in erkat’agir script.</p></handDesc></msWriting> 
+                        <textDivisions><p>Titles in red.</p></textDivisions>
+                        <condition><p>Water, dirt, and grease stains. Occasional tears. Insect damage.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Bound in blind stamped brown <material>leather</material> over boards (worm-damaged). Clasps lost, 1 strap present. 
+                                Doublures of white <material>linen</material>, with painted floral and lozenge designs in red, green, and black.</p>
+                            </binding></bindingDesc>
+                    </physDesc>
+                    <history> 
+                        <origin><p>The manuscript was written in 1670 (Armenian Era 1119) by the deacon <name reg="Yovannēs, the Deacon, 17th century" type="person" role="scribe">Yovannēs</name> 
+                            at Shamkhor, the present-day <name reg="Şəmkir, Azerbaijan" type="place">Şəmkir, Azerbaijan</name> (his colophon, fols. 250r-251v). Commissioned by the monk 
+                            <name reg="Xuban, 17th century" type="person" role="commissioner">Xuban or Khouban</name>, it is thought he presented the gospels as a gift to his family, who are remembered in the scribe's colophon.</p></origin>
+                        <provenance><p>Inscriptions of later owners are undated. Belonged to <name reg="Talit‛ay, Kusan" type="person" role="owner">Kusan Talit‛ay</name>. 
+                            Belonged also to an antiques dealer, the mahtesi <name reg="Yovhannēs" type="person" role="owner">Yovhannēs</name> 
+                            of <name reg="Sebastia" type="place">Sebastia</name>, the present-day <name reg="Sivas, Turkey" type="place">Sivas, Turkey</name> (his inscription, fol. 114r). Inscription (fol. 69r); prayers (fols. 1r, 70r). 
+                            University of Chicago Libraries bookplate and stamp (front doublure, fol. 1v).</p>
+                            <p>Said to have been confiscated in the first quarter of the 20th century from a church in <name reg="Trebizond" type="place">Trebizond</name>, the 
+                                present-day <name reg="Trabzon, Turkey" type="place">Trabzon, Turkey</name>. Agents of the book collector <name reg="Tashjian, H. M." type="person" role="collector">H. M. Tashjian</name> of 
+                                Chicago, Illinois purchased the manuscript in <name reg="Istanbul, Turkey" type="place">Istanbul, Turkey</name>, ca. 1919.</p></provenance>
+                        <acquisition><p>Acquired by the University of Chicago from H. M. Tashjian, June 1932.</p></acquisition></history></msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage><language id="hye"></language><p>Armenian, ISO 639-3</p>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Gospels. Armenian</term> 
+                    <term>Manuscripts, Armenian</term>
+                    <term>Yovannēs, the Deacon, 17th century</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+<msDescription id="GMS-0781">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 781</idno>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 29</altIdentifier>
+</msIdentifier>
+<msHeading>
+<title>New Testament. Gospels</title>
+<otherName>Khouban Gospels</otherName>
+    <origPlace>Şəmkir, Azerbaijan (Shamkhor)</origPlace>
+<origDate>1670</origDate>
+<textLang langKey="hye">Armenian</textLang>
+</msHeading>
+<msContents>
+    <overview>
+        <p>Four gospels in Armenian. Eusebian section numbers in the margins against the text. Concordance numbers 
+            in the lower margins. Pentecostal lection numbers. Portions of Matthew 16, Luke 22, and John 5 and 7 omitted. 
+            Formerly Goodspeed Ms. Arm. 29</p></overview>
+    <msItem n="1">
+<locus from="005" to="139">fols. 2r-69r</locus>
+<summary>Matthew.</summary>
+        <note>Blank (fol. 69v).</note>
+ </msItem>
+ <msItem n="2">
+<locus from="141" to="228">fols. 70r-113v</locus>
+     <summary>Mark.</summary>
+ </msItem>
+    <msItem n="3">
+<locus from="231" to="381">fols. 115r-190r</locus>
+ <summary>Luke.</summary>
+<note>Blank (fol. 190v).</note></msItem>
+<msItem n="4">
+<locus from="383" to="499">fols. 191r-249r</locus>
+<summary>John.</summary>
+<note>Blank (fol. 249v).</note></msItem>
+<msItem n="5">
+<locus from="501" to="504">fols. 250r-251v</locus>
+    <colophon>The deacon Yovannēs (dated 1670). Glory be to the Eternal Father and Son, and to the Holy Ghost, now and always 
+  forever and ever. Amen. He gave strength to the humble deacon, who is called Yovannēs to complete the word of God, 
+  the Gospel. I began with the grace of God and finished it with his mercies in the Armenian year of 1119. During the 
+  patriarchate of his holiness Bedros the Catholicos, and in the time of Bishop Yovannēs of Alovans Shamkarou, which 
+  belongs to St. Asdouadzadzin, a celibate penitent named Khouban desired and commissioned a Holy Gospel. It was to 
+memorialize his own soul, the souls of his parents Sarkis and Tilikhan, those of his brothers Sahag and Abraham, his 
+sisters Marian, Marinos, and Kohar, his sisters-in-law Shahvoroum and Marian, their sons Van, Zaram, Zakar, 
+and Khutchadour, their daughters Yaghloukhan, Louroum, Parin, Heriknaz, Toukldzam, and Hurikhan, Van's 
+wife Naner, her father Zarsam, and all the relatives that are near to his heart. May God give life and health to 
+those who are living; and to those who are dead, peace and salvation, Amen. Again, I beseech you father and brothers 
+that whenever you read this holy writ, remember in your fervent prayers the above-mentioned celibate, who bought this 
+Holy Gospel with a thrice-desiring heart and gave it to you. His is a son of Zion and a household member of Jerusalem 
+according to the Prophet. His self was absorbed because he did not have any immediate heir in the world besides his 
+brothers and their families, and he did this with the best intentions. Now they live, but they are corruptible according to the 
+law of nature, but his memorial remains forever. Amen. It is food in store and a guide for their souls on the way that leads 
+to heaven. And I beseech you to remember also this humble scribe. Remember and you shall be remembered in our 
+Lord, Amen. And also remember the celibate penitent Khouban and his uncle Mardiros who sleeps in Christ. May the 
+Lord remember him and be merciful to him, and forgive his sins and give comfort to his children, Aris, Tamana, and Huazant.
+    </colophon>
+</msItem>
+</msContents>
+    <decoration> 
+        <overview><p>Marginal vignettes of multi-colored arabesques, medallions, and birds.</p></overview>
+    <headpieces>
+        <p>Headpieces of  multi-colored floral, key, meander, fret, and foliate motifs (fols. 2r, 70r, 115r, 191r).</p>
+</headpieces>
+    <initials><p>The major initial (40-55 mm) of each gospel's opening line is formed by figures of animals, such as birds and lions. Minor 
+        initials are formed by figures of birds or flowers.</p>
+</initials>
+</decoration>
+<physDesc>
+<support><p><material>Paper</material>. <dimensions type="block" units="mm">175 x 125 mm</dimensions>.</p></support> 
+    <extent>251 leaves.</extent> 
+    <foliation><p>1-251. Modern foliation in Arabic numerals in pencil.</p></foliation> 
+    <collation><p>21 numbered quires.</p></collation>
+    <dimensions type="written" units="mm">Written space 125 x 85 mm (fol. 13r). Each column is 125 x 40 mm with a space of 5 mm between.</dimensions>
+    <layout  columns="2" writtenLines="22 per column"><p>2 columns, 22 lines. Ruling with hard point. Framing highlighted in red.</p></layout>
+<msWriting><handDesc script="Bolorgir" medium="ink">
+    <p>Written chiefly in bolorgir script in black ink. Each gospel's first line is inscribed in bird letters or bead and foliate forms. 
+        Second and third lines are written in erkat’agir script.</p></handDesc></msWriting> 
+    <textDivisions><p>Titles in red.</p></textDivisions>
+<condition><p>Water, dirt, and grease stains. Occasional tears. Insect damage.</p></condition>
+<bindingDesc>
+<binding><p>Bound in blind stamped brown <material>leather</material> over boards (worm-damaged). Clasps lost, 1 strap present. 
+    Doublures of white <material>linen</material>, with painted floral and lozenge designs in red, green, and black.</p>
+</binding></bindingDesc>
+</physDesc>
+    <history> 
+ <origin><p>The manuscript was written in 1670 (Armenian Era 1119) by the deacon <name reg="Yovannēs, the Deacon, 17th century" type="person" role="scribe">Yovannēs</name> 
+     at Shamkhor, the present-day <name reg="Şəmkir, Azerbaijan" type="place">Şəmkir, Azerbaijan</name> (his colophon, fols. 250r-251v). Commissioned by the monk 
+     <name reg="Xuban, 17th century" type="person" role="commissioner">Xuban or Khouban</name>, it is thought he presented the gospels as a gift to his family, who are remembered in the scribe's colophon.</p></origin>
+<provenance><p>Inscriptions of later owners are undated. Belonged to <name reg="Talit‛ay, Kusan" type="person" role="owner">Kusan Talit‛ay</name>. 
+Belonged also to an antiques dealer, the mahtesi <name reg="Yovhannēs" type="person" role="owner">Yovhannēs</name> 
+    of <name reg="Sebastia" type="place">Sebastia</name>, the present-day <name reg="Sivas, Turkey" type="place">Sivas, Turkey</name> (his inscription, fol. 114r). Inscription (fol. 69r); prayers (fols. 1r, 70r). 
+    University of Chicago Libraries bookplate and stamp (front doublure, fol. 1v).</p>
+<p>Said to have been confiscated in the first quarter of the 20th century from a church in <name reg="Trebizond" type="place">Trebizond</name>, the 
+present-day <name reg="Trabzon, Turkey" type="place">Trabzon, Turkey</name>. Agents of the book collector <name reg="Tashjian, H. M." type="person" role="collector">H. M. Tashjian</name> of 
+Chicago, Illinois purchased the manuscript in <name reg="Istanbul, Turkey" type="place">Istanbul, Turkey</name>, ca. 1919.</p></provenance>
+        <acquisition><p>Acquired by the University of Chicago from H. M. Tashjian, June 1932.</p></acquisition></history>
+<additional>
+    <listBibl><bibl>
+        <author>Merrill Mead Parvis</author>, 
+        <title level="m">The Story of the Goodspeed Collection</title>
+        <imprint>
+            <pubPlace>([Chicago:]</pubPlace>
+            <publisher>s.n.,</publisher>
+            <date>1952),</date>
+        </imprint>
+        <biblScope type="pages">p. 20.</biblScope></bibl>
+        <bibl>
+    <author>Erroll F. Rhodes</author>, 
+            <title level="m">An Annotated List of Armenian New Testament Manuscripts</title>, 
+            <title level="s">Annual Report of Theology</title>
+    <biblScope type="volume">1</biblScope>
+    <imprint><date>(1959),</date></imprint>
+    <biblScope type="pages">p. 134 (1036).</biblScope>
+</bibl>
+    <bibl> 
+        <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+        Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+        <title level="s"> University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+        <imprint> 
+            <pubPlace>([Chicago:</pubPlace> 
+            <publisher>s.n.,</publisher> 
+            <date>1973]),</date></imprint> 
+        <biblScope type="volume">36,</biblScope> 
+        <biblScope type="catalogNo">no. 75.</biblScope></bibl> 
+    <bibl>
+        <author>Avedis K. Sanjian</author>, 
+        <title level="m">A catalogue of medieval Armenian manuscripts in the United States</title>
+        <imprint>
+            <pubPlace>(Berkeley:</pubPlace>
+            <publisher>University of California Press,</publisher>
+            <date>1976),</date>
+        </imprint>
+        <biblScope type="pages">pp. 222-225.</biblScope></bibl>
+ </listBibl>
+                </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

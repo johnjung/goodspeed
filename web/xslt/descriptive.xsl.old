@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<xsl:stylesheet version="1.0"
+ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
+<xsl:output omit-xml-declaration="yes"/>
+
+<!-- ACQUISITION -->
+<xsl:template match="acquisition">
+<p><span class="subheading">Acquisition:</span><xsl:apply-templates mode="notags"/></p>
+</xsl:template>
+
+<!-- ADDITIONS -->
+<xsl:template match="additions">
+<span class="note">Additions: <xsl:value-of select="."/></span>
+</xsl:template>
+
+<!-- BIBL -->
+<xsl:template match="bibl">
+<li><xsl:apply-templates/></li>
+</xsl:template>
+
+<!-- BINDINGDESC -->
+<xsl:template match="bindingDesc">
+<p><span class="subheading">Binding Description:</span><xsl:apply-templates mode="notags"/></p>
+</xsl:template>
+
+<!-- CATCHWORDS -->
+<xsl:template match="catchwords">
+<p><span class="subheading">Catchwords:</span><xsl:apply-templates mode="notags"/></p>
+</xsl:template>
+
+<!-- COLLATION -->
+<xsl:template match="collation">
+<p><span class="subheading">Collation:</span><xsl:apply-templates mode="notags"/></p>
+</xsl:template>
+
+<!-- CONDITION -->
+<xsl:template match="condition">
+<p><span class="subheading">Condition:</span><xsl:apply-templates mode="notags"/></p>
+</xsl:template>
+
+<!-- CONTENTS -->
+<xsl:template match="msContents">
+<h2>Contents</h2>
+<xsl:apply-templates select="overview"/>
+<ol><xsl:apply-templates select="msItem"/></ol>
+</xsl:template>
+
+<!-- DECORATION -->
+<xsl:template match="decoration">
+<h2>Decoration</h2>
+<xsl:if test="minItem">
+<ol><xsl:apply-templates select="minItem"/></ol>
+</xsl:if>
+<xsl:apply-templates select="canonTables|headpieces|initials|comments"/>
+</xsl:template>
+
+<!-- DIMENSIONS -->
+<xsl:template match="dimensions">
+<p><span class="subheading">Dimensions:</span><xsl:apply-templates mode="notags"/></p>
+</xsl:template>
+
+<!-- EXTENT -->
+<xsl:template match="extent">
+<p><span class="subheading">Number of Leaves:</span><xsl:apply-templates mode="notags"/></p>
+</xsl:template>
+
+<!-- FOLIATION -->
+<xsl:template match="foliation">
+<p><span class="subheading">Foliation:</span><xsl:apply-templates mode="notags"/></p>
+</xsl:template>
+
+<!-- HISTORY -->
+<xsl:template match="history">
+<h2>History</h2>
+<xsl:apply-templates/>
+</xsl:template>
+
+<!-- INITIALS -->
+<xsl:template match="initials">
+<p><span class="subheading">Initials:</span> <xsl:value-of select="."/></p>
+</xsl:template>
+
+<!-- LAYOUT -->
+<xsl:template match="layout">
+<p><span class="subheading">Layout:</span><xsl:apply-templates mode="notags"/></p>
+</xsl:template>
+
+<!-- LISTBIBL -->
+<xsl:template match="listBibl">
+<h2>Bibliography</h2>
+<ul>
+<xsl:apply-templates/>
+</ul>
+</xsl:template>
+
+<!-- LOCUS -->
+<xsl:template match="locus">
+<span class="foliation">
+<a href="../view/index.php?doc={substring(/TEI.2/text/body/msDescription/@id,5)}&amp;obj={@from}"><xsl:value-of select="."/></a>
+</span>
+</xsl:template>
+
+<!-- MINITEM -->
+<xsl:template match="minItem">
+<li>
+<xsl:apply-templates select="locus"/>
+<xsl:apply-templates select="minDesc|note"/>
+</li>
+</xsl:template>
+
+<!-- MSIDENTIFIER -->
+<xsl:template match="msDescription/msIdentifier">
+</xsl:template>
+
+<!-- MSITEM -->
+<xsl:template match="msItem">
+<li>
+<xsl:apply-templates select="locus"/>
+<xsl:apply-templates select="summary|additions|incipit|explicit|rubric|note"/>
+</li>
+</xsl:template>
+
+<!-- MSHEADING -->
+<xsl:template match="msHeading"/>
+
+<!-- MSWRITING -->
+<xsl:template match="msWriting">
+<p><span class="subheading">Writing:</span><xsl:apply-templates mode="notags" /></p>
+</xsl:template>
+
+<!-- NAME -->
+<xsl:template match="name">
+<xsl:value-of select="."/>
+</xsl:template>
+
+<!-- NOTE -->
+<xsl:template match="note">
+<br/>Note: <xsl:apply-templates/>
+</xsl:template>
+
+<!-- ORIGIN -->
+<xsl:template match="origin">
+<p><span class="subheading">Origin:</span><xsl:apply-templates mode="notags" /></p>
+</xsl:template>
+
+<!-- P -->
+<xsl:template match="p">
+<xsl:copy><xsl:apply-templates/></xsl:copy>
+</xsl:template>
+
+<xsl:template match="p" mode="notags">
+<xsl:value-of select="."/>
+</xsl:template>
+
+<!-- PHYSDESC -->
+<xsl:template match="physDesc">
+<h2>Physical Description</h2>
+<xsl:apply-templates/>  
+</xsl:template>
+
+<!-- PROVENANCE -->
+<xsl:template match="provenance">
+<p><span class="subheading">Provenance:</span><xsl:apply-templates mode="notags" /></p>
+</xsl:template>
+
+<!-- RUBRIC -->
+<xsl:template match="rubric">
+<br/>Rubric: <xsl:apply-templates/>
+</xsl:template>
+
+<!-- SECFOL -->
+<xsl:template match="secFol">
+<p><span class="subheading">Secondo Folio:</span><xsl:apply-templates mode="notags"/></p>
+</xsl:template>
+
+<!-- SUPPORT -->
+<xsl:template match="support">
+<p><span class="subheading">Support:</span><xsl:apply-templates mode="notags"/></p>
+</xsl:template>
+
+<!-- TEIHEADER -->
+<xsl:template match="teiHeader"/>
+
+<!-- TITLE -->
+<xsl:template match="title">
+<em><xsl:value-of select="."/></em>
+</xsl:template>
+
+<xsl:template match="title[@level='a']">
+<xsl:value-of select="."/>
+</xsl:template>
+
+<!-- WATERMARKS -->
+<xsl:template match="watermarks">
+<p><span class="subheading">Watermarks:</span> <xsl:value-of select="."/></p>
+</xsl:template>
+</xsl:stylesheet>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0937, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0937</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 937</idno>
+                        <altName type="Gregory number">Greg. l 1961</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 41</altIdentifier>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. 939b</altIdentifier>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>Lectionary</title>
+                        <otherName>Matthew Lectionary Fragment</otherName>
+                        <origPlace>Italy</origPlace>
+                        <origDate notBefore="1301" notAfter="1400">14th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents>
+                        <overview>
+                            <p>Gospel lectionary leaves in Greek. Contain portions of the Matthean section of the 
+                                Synaxarion. Passages begin with the formula τω καιρω εκεινω (On a certain occasion) 
+                                or ειπεν ο κυριος (The Lord said). Formerly Goodspeed Ms. Grk. 41 and Ms. 939b.</p>
+                        </overview></msContents>
+                    <decoration>
+                        <initials>
+                            <p>Major initials (40-50 mm) set off from the text in black or red. Instances of the initial T (tau) 
+                                embellished with barbs, beads, ribbons, or a combination of motifs.</p>
+                        </initials></decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">266 x 187 mm</dimensions>.</p></support>
+                        <extent>4 leaves.</extent>
+                        <dimensions type="written" units="mm">Written space 180 x 133 mm (fol. [1r]).</dimensions>
+                        <layout columns="1" writtenLines="27"><p>1 column, 27 lines.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink">
+                            <p>Written in minuscule script in black ink (some flaking).</p> 
+                            <p>Punctuation includes the cross (full stop), middle point, comma, and marks of elision and interrogation.</p></handDesc>
+                        </msWriting> 
+                        <textDivisions><p>Headings in uncial script in red (faded).</p> </textDivisions>
+                        <condition><p>Random holes. Edges are irregular. Some leaves trimmed resulting in the loss of text written in the margins.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Bound by <name reg="R.R. Donnelley &amp; Sons Company (Firm)" type="org">R.R. Donnelley &amp; Sons Company</name> 
+                                in dark blue <material>linen</material> over cardboard. Front cover label in gilt: Four Lectionary Leaves (Matthew) XIV cent.</p>
+                            </binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript to which the present leaves belonged is judged to have been written in the 14th century in <name reg="Italy" type="place">Italy</name>.</p></origin>
+                        <provenance><p>Late medieval to early 20th century provenance unknown. Belonged 
+                            to <name reg="Willoughby, Harold Rideout, 1890-1962" type="person" role="owner">Harold Rideout Willoughby</name> (1890-1962), 
+                            professor in the University of Chicago's <name reg="University of Chicago. Divinity School" type="org">Divinity School</name>. Mr. Willoughby 
+                            purchased the leaves from <name reg="Duschnes, Philip C." type="person" role="bookseller">Philip C. Duschnes</name> (New York), ca. 1938.</p>
+                            <p>Dealer marks? (fols. [2v], [3r], outer margins).</p></provenance>
+                        <acquisition><p>Gift of Harold R. Willoughby to the University of Chicago, November 1938.</p></acquisition>
+                    </history></msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+     <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Lectionaries</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                    <term>Willoughby, Harold Rideout, 1890-1962</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+   <body>
+ <msDescription id="GMS-0937">
+ <msIdentifier>
+ <country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 937</idno>
+<altName type="Gregory number">Greg. l 1961</altName>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 41</altIdentifier>
+     <altIdentifier type="former shelfmark">Goodspeed Ms. 939b</altIdentifier>
+</msIdentifier>
+<msHeading>
+<title>Lectionary</title>
+<otherName>Matthew Lectionary Fragment</otherName>
+<origPlace>Italy</origPlace>
+<origDate notBefore="1301" notAfter="1400">14th century</origDate>
+<textLang langKey="grc">Greek</textLang>
+</msHeading>
+     <msContents>
+         <overview>
+             <p>Gospel lectionary leaves in Greek. Contain portions of the Matthean section of the 
+                 Synaxarion. Passages begin with the formula τω καιρω εκεινω (On a certain occasion) 
+                 or ειπεν ο κυριος (The Lord said). Formerly Goodspeed Ms. Grk. 41 and Ms. 939b.</p>
+         </overview>
+         <msItem n="1" status="frag">
+             <locus from="005" to="005">fol. [1r]</locus>
+             <summary>Monday, Week 6 after Pentecost, Matthew 13:15-22 (lacking, begins with οφθαλμουσ).</summary>
+         </msItem>
+         <msItem n="2" status="frag">
+             <locus from="006" to="006">fol. [1v]</locus>
+             <summary>Monday, Week 6 after Pentecost (continuation), Matthew 13:22-23.</summary> 
+             <summary>Tuesday, Week 6 after Pentecost, Matthew 13:24-30.</summary>
+             <rubric>εκ του κατα Ματθαιον (From the Gospel according to Matthew).</rubric>
+         </msItem>
+         <msItem n="3" status="frag">
+             <locus from="007" to="007">fol. [2r]</locus>
+             <summary>Tuesday, Week 6 after Pentecost (continuation), Matthew 13:30.</summary> 
+             <summary>Wednesday, Week 6 after Pentecost, Matthew 13:31-36.</summary> 
+             <rubric>εκ του κατα Ματθαιον.</rubric>
+         </msItem>
+         <msItem n="4" status="frag">
+             <locus from="008" to="008">fol. [2v]</locus>
+             <summary>Wednesday, Week 6 after Pentecost (continuation), Matthew 13:36.</summary>
+             <summary>Thursday, Week 6 after Pentecost, Matthew 13:36-43 (lacking, ends with ο εχων).</summary>
+             <rubric>εκ του κατα Ματθαιον.</rubric> 
+             <note>Between fols. [2] and [3], readings lost for Friday, Week 6 after Pentecost, and part 
+                 of Monday, Week 7 after Pentecost.</note>
+         </msItem>
+         <msItem n="5" status="frag">
+             <locus from="009" to="009">fol. [3r]</locus>
+             <summary>Monday, Week 7 after Pentecost, Matthew 13:58 ((lacking, begins with [ε]ποιησεν).</summary> 
+             <summary>Tuesday, Week 7 after Pentecost, Matthew 14:1-10.</summary>
+             <rubric>εκ του κατα Ματθαιον.</rubric>
+         </msItem>
+         <msItem n="6" status="frag">
+             <locus from="010" to="010">fol. [3v]</locus>
+             <summary>Tuesday, Week 7 after Pentecost (continuation), Matthew 14:10-13.</summary>
+             <summary>Wednesday, Week 7 after Pentecost, Matthew 14:35-15:3.</summary>
+             <rubric>εκ του κατα Ματθαιον.</rubric>
+         </msItem>
+         <msItem n="7" status="frag">
+             <locus from="011" to="011">fol. [4r]</locus>
+             <summary>Wednesday, Week 7 after Pentecost (continuation), Matthew 15:3-11.</summary>
+             <summary>Thursday, Week 7 after Pentecost, Matthew 15:12-13.</summary>
+             <rubric>εκ του κατα Ματθαιον.</rubric>
+         </msItem>
+         <msItem n="8" status="frag">
+             <locus from="012" to="012">fol. [4v]</locus>
+             <summary>Thursday, Week 7 after Pentecost (continuation), Matthew 15: 13-21.</summary>
+             <summary>Friday, Week 7 after Pentecost, Matthew 15:29-[31] (lacking, ends at verse 29 with εκει).</summary>
+             <rubric>εκ του κατα Ματθαιον.</rubric></msItem>
+     </msContents>
+<decoration>
+<initials>
+    <p>Major initials (40-50 mm) set off from the text in black or red. Instances of the initial T (tau) 
+        embellished with barbs, beads, ribbons, or a combination of motifs.</p>
+</initials></decoration>
+<physDesc>
+    <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">266 x 187 mm</dimensions>.</p></support>
+<extent>4 leaves.</extent>
+<dimensions type="written" units="mm">Written space 180 x 133 mm (fol. [1r]).</dimensions>
+ <layout columns="1" writtenLines="27"><p>1 column, 27 lines.</p></layout>
+    <msWriting><handDesc script="Minuscule" medium="ink">
+        <p>Written in minuscule script in black ink (some flaking).</p> 
+        <p>Punctuation includes the cross (full stop), middle point, comma, and marks of elision and interrogation.</p></handDesc>
+    </msWriting> 
+ <textDivisions><p>Headings in uncial script in red (faded).</p> </textDivisions>
+    <condition><p>Random holes. Edges are irregular. Some leaves trimmed resulting in the loss of text written in the margins.</p></condition>
+    <bindingDesc>
+        <binding><p>Bound by <name reg="R.R. Donnelley &amp; Sons Company (Firm)" type="org">R.R. Donnelley &amp; Sons Company</name> 
+            in dark blue <material>linen</material> over cardboard. Front cover label in gilt: Four Lectionary Leaves (Matthew) XIV cent.</p>
+        </binding></bindingDesc>
+</physDesc>
+     <history>
+         <origin><p>The manuscript to which the present leaves belonged is judged to have been written in the 14th century in <name reg="Italy" type="place">Italy</name>.</p></origin>
+         <provenance><p>Late medieval to early 20th century provenance unknown. Belonged 
+             to <name reg="Willoughby, Harold Rideout, 1890-1962" type="person" role="owner">Harold Rideout Willoughby</name> (1890-1962), 
+             professor in the University of Chicago's <name reg="University of Chicago. Divinity School" type="org">Divinity School</name>. Mr. Willoughby 
+             purchased the leaves from <name reg="Duschnes, Philip C." type="person" role="bookseller">Philip C. Duschnes</name> (New York), ca. 1938.</p>
+             <p>Dealer marks? (fols. [2v], [3r], outer margins).</p></provenance>
+         <acquisition><p>Gift of Harold R. Willoughby to the University of Chicago, November 1938.</p></acquisition>
+     </history>
+<additional>
+<listBibl>
+    <bibl>
+        <editor>Ernest Cadman Colwell</editor> and <editor>Donald W. Riddle</editor> eds.,
+        <title level="m">Prolegomena to the Study of the Lectionary Text of the Gospels,</title>
+        <title level="s">Studies in the Lectionary Text of the Greek New Testament</title>
+        <imprint>
+            <pubPlace>(Chicago:</pubPlace>
+            <publisher>University of Chicago Press,</publisher>
+            <date>c1933),</date>
+            <biblScope type="volume">vol. 1.</biblScope>
+        </imprint></bibl>
+    <bibl>
+        <author>Merrill Mead Parvis</author>,
+        <title level="m">The Story of the Goodspeed Collection</title>
+        <imprint>
+            <pubPlace>([Chicago]:</pubPlace>
+            <publisher>s.n.,</publisher> 
+            <date>1952),</date>
+        </imprint>
+        <biblScope type="pages">pp. 23-24.</biblScope></bibl>
+    <bibl>
+        <author>C. U. Faye</author> and <author> W. H. Bond</author>,
+        <title level="m">Supplement to the Census of Medieval and Renaissance Manuscripts 
+            in the United States and Canada</title>
+        <imprint>
+            <pubPlace>(New York:</pubPlace>
+            <publisher>Bibliographical Society of America,</publisher>
+            <date>1962),</date>
+        </imprint>
+        <biblScope type="pages">p. 163.</biblScope></bibl>
+ </listBibl>
+                </additional>
+            </msDescription>
+        </body>
+    </text>            
+</TEI.2>

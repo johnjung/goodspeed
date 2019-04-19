@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+<teiHeader date.created="2015-11-04" creator="jfcd">
+<fileDesc>
+<titleStmt>
+ <title>[University of Chicago Library GMS-0139, a manuscript catalogue description in electronic form]</title>
+ <funder>Institute of Museum and Library Services</funder>
+ <respStmt>
+  <resp>Creation of electronic version:</resp>
+  <name>University of Chicago Library</name>
+  <resp>Creation of digital images:</resp>
+  <name>University of Chicago Library</name>
+ </respStmt> 
+</titleStmt>
+ <publicationStmt>
+  <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+  <pubPlace>Chicago, Illinois</pubPlace>
+  <date>2009</date>
+  <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0139</idno>
+  <availability status= "free">
+   <p>Publicly accessible</p></availability>
+ </publicationStmt>
+ <sourceDesc>
+  <msDescription>  
+   <msIdentifier>
+    <country>United States</country>
+    <region>Illinois</region>
+    <settlement>Chicago</settlement>
+    <institution>University of Chicago Library</institution> 
+    <repository>Special Collections Research Center</repository>
+    <collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 139</idno>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 6</altIdentifier>
+   </msIdentifier>
+   <msHeading>
+    <title>New Testament. Gospels</title>
+    <otherName>Gospels of the Fluting Shepherd</otherName>
+    <origPlace>Unknown Place of Origin</origPlace>
+    <origDate notBefore="1401" notAfter="1600">15th or 16th century</origDate>
+    <textLang langKey="hye">Armenian</textLang>
+   </msHeading>
+   <msContents>
+    <overview>
+     <p>Four gospels in Armenian. Section numbers in the margins against the text. Pentecostal lection numbers and 
+      concordances recorded in the lower margins. Words and passages omitted in the main text have been added in 
+      the left or lower margins. Formerly Goodspeed Ms. Arm. 6.</p>
+     <p>The manuscript is commonly known as Gospels of the Fluting Shepherd because of its marginal miniature of 
+      a shepherd making music (fol. 150v).</p></overview></msContents>
+   <decoration>
+    <overview><p>Marginal vignettes of portraits and arabesques.</p></overview>  
+    <canonTables><p>Citations of concordant gospel sections are framed by architectural columns. These support headpieces of multi-colored floral, foliate, 
+     and geometric designs upon which large birds stand.</p>
+    </canonTables>
+    <headpieces><p>Headpieces of multi-colored floral, foliate, and geometric motifs at each gospel's opening (fols. 7r, 93r, 145r, and 231r), and with 
+     the copy of Eusebius's letter to Carpianus (front pastedown).</p>
+    </headpieces> 
+    <initials><p>The major initial of each gospel's opening line is formed by an Evangelist symbol: Matthew 
+     (angel, 110 mm), Mark (lion, 38 mm), Luke (ox, 92 mm), and John (eagle, 120 mm). Minor initials are formed by figures of birds or flowers.</p>
+    </initials></decoration>
+   <physDesc>
+    <support><p><material>Paper</material>. <dimensions type="block" units="mm">228 x 159 mm</dimensions>.</p></support> 
+    <watermarks><p>Watermarked blank leaves (16th century) inserted before the gospels of Mark, Luke, and John.</p></watermarks>
+    <extent>291 leaves, of which 1 leaf, once part of the first quire, now functions as the front pastedown.</extent> 
+    <foliation><p>1 (unfoliated paper pastedown) + 290. Modern foliation in Arabic numerals in pencil 1-290.</p></foliation> 
+    <dimensions type="written" units="mm">Written space 180 x 125 mm (fol. 9r). Each column is 180 x 55 mm with a space of 15 mm between.</dimensions> 
+    <layout columns="2" writtenLines="21 per column"><p>2 columns, 21 lines. Ruling with hard point.</p></layout> 
+    <msWriting><handDesc script="Bolorgir" medium="ink"> 
+     <p>Written chiefly in bolorgir script in black ink. Each gospel's first line is inscribed in capitals of multi-colored birds, beads, and leaves. 
+      Second and third lines are written in erkat’agir script.</p></handDesc></msWriting>
+    <textDivisions><p>Titles in red.</p></textDivisions>
+    <condition><p>Margins trimmed presumably during rebinding, thus marring marginal miniatures and 
+     decoration. Several leaves are lost. Inner margins of many leaves are reinforced with strips of tape 
+     or paper inscribed with unidentified text. Occasional creases. Dirt and grease stains.</p></condition> 
+    <bindingDesc> 
+     <binding><p>Bound in blind tooled red <material>morocco</material> over pasteboard. Nail 
+      holes are present and the outline of a cross once attached. Remnants of index tabs.</p></binding></bindingDesc>
+   </physDesc>
+   <history>
+    <origin><p>The manuscript is thought to have been written in either the 15th or 16th century. A place of origin is unknown.</p></origin>
+    <provenance><p>Medieval to 20th century provenance unknown. University of Chicago bookplate (fol. 1r).</p></provenance> 
+    <acquisition><p>Acquired by the University of Chicago 
+     from <name reg="Luzac and Company (Firm)" type="org" role="bookseller">Luzac and Company</name> (London), 
+     January 1929.</p></acquisition>
+   </history></msDescription>
+ </sourceDesc>
+</fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+    an interface that supports browsing within individual manuscripts and across the collection.</p>
+   <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+    as of <date>2012-09-22</date>.</p> 
+   <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+  </projectDesc>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage><language id="hye"></language><p>Armenian, ISO 639-3</p>
+ </langUsage>
+  <textClass>
+   <keywords>
+    <term>Bible. N.T. Gospels. Armenian</term>
+    <term>Miniatures (Illuminations)</term>
+    <term>Manuscripts, Armenian</term>
+   </keywords>
+  </textClass>
+ </profileDesc>
+</teiHeader>
+ <text>
+ <body>
+ <msDescription id="GMS-0139">
+ <msIdentifier>
+ <country>United States</country>
+<region>Illinois</region>
+ <settlement>Chicago</settlement>
+ <institution>University of Chicago Library</institution> 
+ <repository>Special Collections Research Center</repository>
+ <collection>Goodspeed Manuscript Collection</collection>
+ <idno>Ms. 139</idno>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 6</altIdentifier>
+</msIdentifier>
+<msHeading>
+ <title>New Testament. Gospels</title>
+ <otherName>Gospels of the Fluting Shepherd</otherName>
+ <origPlace>Unknown Place of Origin</origPlace>
+ <origDate notBefore="1401" notAfter="1600">15th or 16th century</origDate>
+<textLang langKey="hye">Armenian</textLang>
+</msHeading>
+ <msContents>
+  <overview>
+   <p>Four gospels in Armenian. Section numbers in the margins against the text. Pentecostal lection numbers and 
+    concordances recorded in the lower margins. Words and passages omitted in the main text have been added in 
+    the left or lower margins. Formerly Goodspeed Ms. Arm. 6.</p>
+   <p>The manuscript is commonly known as Gospels of the Fluting Shepherd because of its marginal miniature of 
+    a shepherd making music (fol. 150v).</p></overview>
+<msItem n="1">
+<locus from="002" to="002">Pastedown (front)</locus>
+<summary>Eusebius of Caesarea (ca. 260-ca. 340), letter to Carpianus, on the gospel canons.</summary> 
+ <additions><p>Seal (illegible), lower left margin.</p></additions>
+</msItem>
+ <msItem n="2"> 
+  <locus from="004" to="014">fols. 1v-6v</locus> 
+  <summary>Canon tables have been bound out of order. For the correct sequence: II (fol. 3r); III (fol. 2r); IV (fol. 4v); 
+   V (fol. 5r); VI (fol. 6v); IX and X (fol. 1v). Tables lost, I, VII, and VIII.</summary> 
+  <note>Blank (fols. 2v, 3v, 4r, 5v, 6r).</note>
+</msItem>
+<msItem n="3">
+<locus from="015" to="183">fols. 7r-91r</locus>
+<summary>Matthew.</summary>
+<note>Blank (fols. 91v-92v).</note>
+</msItem>
+ <msItem n="4">
+ <locus from="187" to="287">fols. 93r-143r</locus>
+<summary>Mark.</summary>
+<note>Blank (fols. 143v-144v).</note>
+ </msItem>
+ <msItem n="5">
+<locus from="291" to="459">fols. 145r-229r</locus>
+<summary>Luke.</summary>
+<note>Blank (fols. 229v-230v).</note>
+</msItem>
+<msItem n="6">
+<locus from="463" to="582">fols. 231r-290v</locus>
+<summary>John.</summary>
+</msItem>
+<msItem n="7">
+<locus from="582" to="582">fol. 290v</locus>
+<summary>Pericope: The Woman taken in Adultery (incomplete).</summary>
+</msItem>
+</msContents>
+  <decoration>
+   <overview><p>Marginal vignettes of portraits and arabesques.</p></overview> 
+   <miniatures>
+    <minItem n="1">
+<locus from ="002" to="002">Pastedown (front)</locus> 
+     <minDesc>Eusebius, Bishop of Caesarea, Palestine, Portrait: Eusebius, dressed in liturgical vestments, holds an open scroll.</minDesc>
+</minItem>
+<minItem n="2"> 
+ <locus from ="180" to="180">fol. 89v</locus> 
+ <minDesc>Evangelist, Matthew, Portrait: Matthew, seated in left margin, his hand rests on adjacent bird initial.</minDesc>
+</minItem>
+ <minItem n="3"> 
+  <locus from ="283" to="283">fol. 141r</locus> 
+  <minDesc>Evangelist, Mark, Portrait: Mark, seated in right margin, his hand extended to indicate adjacent text.</minDesc>
+ </minItem>
+ <minItem n="4"> 
+  <locus from ="302" to="302">fol. 150v</locus> 
+  <minDesc>Shepherd, Making music: Shepherd plays a pipe in left margin, a wineskin hanging over his shoulder.</minDesc>
+ </minItem>
+ <minItem n="5"> 
+  <locus from ="451" to="451">fol. 225r</locus> 
+  <minDesc>Evangelist, Luke, Portrait (damaged): Luke, seated in right margin, his hand extended to indicate adjacent text and bird initial.</minDesc>
+ </minItem></miniatures>
+   <canonTables><p>Citations of concordant gospel sections are framed by architectural columns. These support headpieces of multi-colored floral, foliate, 
+    and geometric designs upon which large birds stand.</p>
+   </canonTables>
+ <headpieces><p>Headpieces of multi-colored floral, foliate, and geometric motifs at each gospel's opening (fols. 7r, 93r, 145r, and 231r), and with 
+  the copy of Eusebius's letter to Carpianus (front pastedown).</p>
+ </headpieces> 
+ <initials><p>The major initial of each gospel's opening line is formed by an Evangelist symbol: Matthew 
+  (angel, 110 mm), Mark (lion, 38 mm), Luke (ox, 92 mm), and John (eagle, 120 mm). Minor initials are formed by figures of birds or flowers.</p>
+ </initials></decoration>
+<physDesc>
+<support><p><material>Paper</material>. <dimensions type="block" units="mm">228 x 159 mm</dimensions>.</p></support> 
+ <watermarks><p>Watermarked blank leaves (16th century) inserted before the gospels of Mark, Luke, and John.</p></watermarks>
+ <extent>291 leaves, of which 1 leaf, once part of the first quire, now functions as the front pastedown.</extent> 
+ <foliation><p>1 (unfoliated paper pastedown) + 290. Modern foliation in Arabic numerals in pencil 1-290.</p></foliation> 
+ <dimensions type="written" units="mm">Written space 180 x 125 mm (fol. 9r). Each column is 180 x 55 mm with a space of 15 mm between.</dimensions> 
+ <layout columns="2" writtenLines="21 per column"><p>2 columns, 21 lines. Ruling with hard point.</p></layout> 
+ <msWriting><handDesc script="Bolorgir" medium="ink"> 
+  <p>Written chiefly in bolorgir script in black ink. Each gospel's first line is inscribed in capitals of multi-colored birds, beads, and leaves. 
+   Second and third lines are written in erkat’agir script.</p></handDesc></msWriting>
+ <textDivisions><p>Titles in red.</p></textDivisions>
+ <condition><p>Margins trimmed presumably during rebinding, thus marring marginal miniatures and 
+  decoration. Several leaves are lost. Inner margins of many leaves are reinforced with strips of tape 
+  or paper inscribed with unidentified text. Occasional creases. Dirt and grease stains.</p></condition> 
+ <bindingDesc> 
+  <binding><p>Bound in blind tooled red <material>morocco</material> over pasteboard. Nail 
+   holes are present and the outline of a cross once attached. Remnants of index tabs.</p></binding></bindingDesc>
+</physDesc>
+<history>
+ <origin><p>The manuscript is thought to have been written in either the 15th or 16th century. A place of origin is unknown.</p></origin>
+ <provenance><p>Medieval to 20th century provenance unknown. University of Chicago bookplate (fol. 1r).</p></provenance> 
+<acquisition><p>Acquired by the University of Chicago 
+ from <name reg="Luzac and Company (Firm)" type="org" role="bookseller">Luzac and Company</name> (London), 
+ January 1929.</p></acquisition>
+</history>
+<additional><listBibl><bibl>
+<author>Seymour de Ricci</author>, 
+ <title level="m">Census of Medieval and Renaissance Manuscripts in the United States 
+and Canada</title>
+<imprint><pubPlace>(New York:</pubPlace>
+<publisher>H. W. Wilson Company,</publisher>
+<date>1935),</date>
+</imprint>
+<biblScope type="volume">vol. 1, p. 570.</biblScope></bibl>
+<bibl>
+<author>Merrill Mead Parvis</author>, 
+ <title level="m">The Story of the Goodspeed Collection</title>
+<imprint>
+<pubPlace>([Chicago:]</pubPlace>
+ <publisher>s.n.,</publisher>
+<date>1952),</date>
+</imprint>
+<biblScope type="pages">p. 7.</biblScope></bibl>
+ <bibl>
+  <author>Erroll F. Rhodes</author>, 
+  <title level="m">An Annotated List of Armenian New Testament Manuscripts</title>, 
+  <title level="s">Annual Report of Theology</title>
+  <biblScope type="volume">1</biblScope>
+  <imprint><date>(1959),</date></imprint>
+  <biblScope type="pages">p. 133 (1034).</biblScope></bibl>
+ <bibl> 
+  <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed Collection 
+  of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+  <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+  <imprint> 
+   <pubPlace>([Chicago:</pubPlace> 
+   <publisher>s.n.,</publisher> 
+   <date>1973]),</date></imprint> 
+  <biblScope type="volume">36,</biblScope> 
+  <biblScope type="catalogNo">no. 12.</biblScope></bibl>
+ <bibl>
+  <author>Avedis K. Sanjian</author>, 
+  <title level="m">A catalogue of medieval Armenian manuscripts in the United States</title>
+  <imprint>
+   <pubPlace>(Berkeley:</pubPlace>
+   <publisher>University of California Press,</publisher>
+   <date>1976),</date>
+  </imprint>
+  <biblScope type="pages">pp. 187-188.</biblScope></bibl>
+</listBibl>
+</additional>
+ </msDescription>
+ </body>
+ </text>    
+ </TEI.2>

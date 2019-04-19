@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2> 
+ <teiHeader date.created="2015-11-04" creator="jfcd">
+  <fileDesc>
+   <titleStmt>
+    <title>[University of Chicago Library GMS-0019, a manuscript catalogue description in electronic form]</title>
+    <funder>Institute of Museum and Library Services</funder>
+    <respStmt>
+     <resp>Creation of electronic version:</resp>
+     <name>University of Chicago Library</name>
+     <resp>Creation of digital images:</resp>
+     <name>University of Chicago Library</name>
+    </respStmt> 
+   </titleStmt>
+   <publicationStmt>
+    <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <date>2009</date>
+    <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0019</idno>
+    <availability status= "free">
+     <p>Publicly accessible</p></availability>
+   </publicationStmt>
+   <sourceDesc> 
+    <msDescription><msIdentifier>
+     <country>United States</country>
+     <region>Illinois</region>
+     <settlement>Chicago</settlement>
+     <institution>University of Chicago Library</institution> 
+     <repository>Special Collections Research Center</repository>
+     <collection>Goodspeed Manuscript Collection</collection>
+     <idno>Ms. 19</idno>
+     <altIdentifier type="former shelfmark">Goodspeed Ms. Lat. 1</altIdentifier>
+    </msIdentifier>
+     <msHeading>
+      <title>New Testament. Gospels. Harmonies</title>
+      <otherName>Evangeliorum Quattuor Harmonia</otherName>
+      <origPlace>Germany?</origPlace>
+      <origDate notBefore="1401" notAfter="1500">15th century</origDate>
+      <textLang langKey="lat">Latin</textLang>
+     </msHeading>
+     <msContents>
+      <overview><p>Gospel Harmony in Latin. Initials of gospels Matthew, Mark, Luke, and John (M, m, L, J), and chapter numbers noted in red above the first 
+       word of each recorded passage. Titles of gospel sections in adjacent margins, and in the table of contents. 
+       Formerly Goodspeed Ms. Lat. 1.</p></overview></msContents>
+     <decoration> 
+      <initials><p>Major initials (10-15 mm) in blue ink with penwork flourishes in red. Minor initials in red or blue. The first letter of the opening word of most verses is highlighted in yellow.</p></initials>
+     </decoration> 
+     <physDesc>
+      <support><p> <material>Paper</material>. <dimensions type="block" units="mm">134 x 101 mm</dimensions>.</p></support> 
+      <watermarks><p>Watermark for quires 2 through 7 similar to Briquet, Balance dans un cercle 2447 
+       (Gurck 1448, Munich 1450-1459, Hungary 1453-1470, Vienne 1454-1459). For quires 8, 9, and fol. 116, 
+       the watermark is similar to Briquet, Tour 15872 (Wied, 1477, Halberstadt, 1446, Gnessen, 1448).</p></watermarks> 
+      <extent>120 leaves, of which 3 are flyleaves. Flyleaves conjoint with pastedowns.</extent> 
+      <foliation><p>2 (unfoliated flyleaves) + 117 + 1 (unfoliated flyleaf). Modern foliation in Arabic numerals in pencil 1-117. 
+       Earlier foliation of leaf openings in red.</p></foliation> 
+      <collation><p>Quires 1 through 9 of 12 leaves, the 10th quire is of 9 leaves. It is presumed the prologue, table of 
+       contents, and table description were bound initially in front of the Harmony's main text.</p> 
+       <p>At the beginning and end of the table of contents, the titles of gospel sections on lost leaves range from the conception 
+        of John the Baptist to his imprisonment by Herod Antipas, and from Jesus's cleansing of the temple to his ascension.</p></collation>
+      <catchwords>Catchwords at the end of quires 1 through 9.</catchwords> 
+      <dimensions type="written" units="mm">Written space 95 x 70 mm (fol. 10r).</dimensions> 
+      <layout columns="1" writtenLines="24-26"><p>1 column, 24 to 26 lines (variants of 22 to 27 lines). 
+       Frame ruling with lead point.</p></layout>
+      <msWriting><handDesc script="Cursive" medium="Ink"><p>Written in cursive script mainly in dark brown ink 
+       (moderate fading).</p></handDesc></msWriting>
+      <condition><p>Some marginal titles and ink foliation marred owing to trimming. Several leaves 
+       detached at the end of the manuscript. Random water, dirt, and grease stains.</p></condition> 
+      <bindingDesc>
+       <binding>
+        <p>Bound with <material>parchment</material> pieces of 2 missals upon which square musical notation (no staff lines), text, and penwork 
+         flourishes are visible. Phrase on back inside cover [s]eruorum tuorum..., possibly Psalm 73:22.</p>
+       </binding></bindingDesc> 
+      <secFol>Et ecce helisabeth</secFol>
+     </physDesc>
+     <history>
+      <origin><p>The manuscript is dated to the 15th century, and may have been written in <name reg="Germany" type="place">Germany</name>.</p></origin> 
+      <provenance><p>Provenance unknown from the 15th to the mid-19th century. Belonged to German Lutheran 
+       theologian <name reg="Hengstenberg, Ernst Wilhelm, 1802-1869" type="person" role="owner">Ernst Wilhelm Hengstenberg</name> (1802-1869), his 
+       surname inscribed in pencil (front flyleaf). Belonged also to 
+       the <name reg="Baptist Union Theological Seminary (Chicago, Ill.)" type="org" role="owner">Baptist Union Theological Seminary</name> 
+       of <name reg="Chicago, Illinois" type="place">Chicago, Illinois</name> which purchased Hengstenberg's Library from his heirs, December 1869.</p> 
+       <p>University of Chicago Libraries bookplate and stamp (front pastedown, flyleaf). Inscriptions and notation: adi 17 marzo 1550 io do zuav..., maria di nargarado, ego johanes + Caminus[?] 
+        (front flyleaf); Carissimo amant[issim]o m[esser] barba Sariti contento di mandarmi (fol. 111v); este liber est mei (back flyleaf, recto); adi 17 
+        marzo 1550 io do.... (back flyleaf, verso); hec sine numine domini[?] eveniunt, este liber est mei domini....(back pastedown).</p></provenance>
+      <acquisition><p>Acquired by the University of Chicago when the Baptist Union Theological 
+       Seminary became the university's <name reg="University of Chicago. Divinity School" type="org">Divinity School</name>, ca. 1892.</p></acquisition>
+     </history>
+    </msDescription>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+     Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+     of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+     the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+     resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+     an interface that supports browsing within individual manuscripts and across the collection.</p>
+    <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+     Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+     as of <date>2012-09-22</date>.</p> 
+    <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+     at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+     accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+     and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+     recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+     visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+  <langUsage><language id="lat"></language><p>Latin, ISO 639-3</p>
+ </langUsage> 
+   <textClass>
+    <keywords>
+     <term>Bible. N.T. Gospels--Harmonies</term>
+     <term>Bible--Manuscripts</term>
+     <term>Manuscripts, Latin (Medieval and modern)</term>
+     <term>Hengstenberg, Ernst Wilhelm, 1802-1869</term>
+     <term>Baptist Union Theological Seminary (Chicago, Ill.)</term>
+    </keywords>
+   </textClass>
+  </profileDesc> 
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0019">               
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 19</idno>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Lat. 1</altIdentifier>
+</msIdentifier>
+<msHeading>
+ <title>New Testament. Gospels. Harmonies</title>
+ <otherName>Evangeliorum Quattuor Harmonia</otherName>
+<origPlace>Germany?</origPlace>
+<origDate notBefore="1401" notAfter="1500">15th century</origDate>
+<textLang langKey="lat">Latin</textLang>
+</msHeading>
+<msContents>
+ <overview><p>Gospel Harmony in Latin. Initials of gospels Matthew, Mark, Luke, and John (M, m, L, J), and chapter numbers noted in red above the first 
+  word of each recorded passage. Titles of gospel sections in adjacent margins, and in the table of contents. 
+  Formerly Goodspeed Ms. Lat. 1.</p></overview> 
+ <msItem n="1">
+<locus from="007" to="228">fols. 1r-111v</locus>
+  <summary>Gospel Harmony.</summary> 
+  <incipit>Fuit in diebus Herodis regis Iudaeae sacerdos quidam nomine 
+  Zaccharias de vice Abia (Luke 1:5)</incipit>
+  <explicit>...praedicaverunt ubique Domino cooperante et sermonem confirmante 
+ sequentibus signis (Mark 16:20).</explicit> 
+ <rubric>Ihesus dulcis memoria da nobis te in tua gloria amen.</rubric> 
+  </msItem> 
+ <msItem n="2">
+ <locus from="229" to="237">fols. 112r-116r</locus>
+  <summary>Table of contents (lacking).</summary> 
+  <incipit>Reliquit ihesus Iudaeam terram et abiit in Galilaeam</incipit>
+  <explicit>...eicere vendentes et ementes in templo cum introisset in coepit.</explicit> 
+  <rubric>Explicit tabula super evvangelium domini nostri et salvatoris ihesu christi filii 
+   dei et virginis marie domini nostre.</rubric>
+ </msItem> 
+ <msItem n="3">
+ <locus from="237" to="237">fol. 116r</locus>
+ <summary>Description of table of contents (rubricated).</summary> 
+  <incipit>Sequitur rubricha ad intelligendum ipsam tabulam....</incipit>
+ </msItem> 
+ <msItem n="4">
+ <locus from="237" to="238">fols. 116r-116v</locus>
+<summary>Prologue.</summary> 
+  <incipit>Cum evvangelistarum legissem volumina reperissemque in eis signa multa 
+  ac verba domini ihesu</incipit>
+  <explicit>...qui non studiosse sed ignoranter composui credems ac firmiter tenens que 
+mater ecclesia per omnia tenet.</explicit></msItem>
+</msContents>
+<decoration> 
+ <initials><p>Major initials (10-15 mm) in blue ink with penwork flourishes in red. Minor initials in red or blue. The first letter of the opening word of most verses is highlighted in yellow.</p></initials>
+</decoration> 
+ <physDesc>
+  <support><p> <material>Paper</material>. <dimensions type="block" units="mm">134 x 101 mm</dimensions>.</p></support> 
+  <watermarks><p>Watermark for quires 2 through 7 similar to Briquet, Balance dans un cercle 2447 
+ (Gurck 1448, Munich 1450-1459, Hungary 1453-1470, Vienne 1454-1459). For quires 8, 9, and fol. 116, 
+ the watermark is similar to Briquet, Tour 15872 (Wied, 1477, Halberstadt, 1446, Gnessen, 1448).</p></watermarks> 
+  <extent>120 leaves, of which 3 are flyleaves. Flyleaves conjoint with pastedowns.</extent> 
+  <foliation><p>2 (unfoliated flyleaves) + 117 + 1 (unfoliated flyleaf). Modern foliation in Arabic numerals in pencil 1-117. 
+   Earlier foliation of leaf openings in red.</p></foliation> 
+  <collation><p>Quires 1 through 9 of 12 leaves, the 10th quire is of 9 leaves. It is presumed the prologue, table of 
+   contents, and table description were bound initially in front of the Harmony's main text.</p> 
+   <p>At the beginning and end of the table of contents, the titles of gospel sections on lost leaves range from the conception 
+    of John the Baptist to his imprisonment by Herod Antipas, and from Jesus's cleansing of the temple to his ascension.</p></collation>
+  <catchwords>Catchwords at the end of quires 1 through 9.</catchwords> 
+  <dimensions type="written" units="mm">Written space 95 x 70 mm (fol. 10r).</dimensions> 
+  <layout columns="1" writtenLines="24-26"><p>1 column, 24 to 26 lines (variants of 22 to 27 lines). 
+   Frame ruling with lead point.</p></layout>
+ <msWriting><handDesc script="Cursive" medium="Ink"><p>Written in cursive script mainly in dark brown ink 
+  (moderate fading).</p></handDesc></msWriting>
+  <condition><p>Some marginal titles and ink foliation marred owing to trimming. Several leaves 
+   detached at the end of the manuscript. Random water, dirt, and grease stains.</p></condition> 
+  <bindingDesc>
+ <binding>
+  <p>Bound with <material>parchment</material> pieces of 2 missals upon which square musical notation (no staff lines), text, and penwork 
+ flourishes are visible. Phrase on back inside cover [s]eruorum tuorum..., possibly Psalm 73:22.</p>
+ </binding></bindingDesc> 
+  <secFol>Et ecce helisabeth</secFol>
+</physDesc>
+<history>
+ <origin><p>The manuscript is dated to the 15th century, and may have been written in <name reg="Germany" type="place">Germany</name>.</p></origin> 
+ <provenance><p>Provenance unknown from the 15th to the mid-19th century. Belonged to German Lutheran 
+  theologian <name reg="Hengstenberg, Ernst Wilhelm, 1802-1869" type="person" role="owner">Ernst Wilhelm Hengstenberg</name> (1802-1869), his 
+  surname inscribed in pencil (front flyleaf). Belonged also to 
+  the <name reg="Baptist Union Theological Seminary (Chicago, Ill.)" type="org" role="owner">Baptist Union Theological Seminary</name> 
+  of <name reg="Chicago, Illinois" type="place">Chicago, Illinois</name> which purchased Hengstenberg's Library from his heirs, December 1869.</p> 
+  <p>University of Chicago Libraries bookplate and stamp (front pastedown, flyleaf). Inscriptions and notation: adi 17 marzo 1550 io do zuav..., maria di nargarado, ego johanes + Caminus[?] 
+   (front flyleaf); Carissimo amant[issim]o m[esser] barba Sariti contento di mandarmi (fol. 111v); este liber est mei (back flyleaf, recto); adi 17 
+   marzo 1550 io do.... (back flyleaf, verso); hec sine numine domini[?] eveniunt, este liber est mei domini....(back pastedown).</p></provenance>
+ <acquisition><p>Acquired by the University of Chicago when the Baptist Union Theological 
+  Seminary became the university's <name reg="University of Chicago. Divinity School" type="org">Divinity School</name>, ca. 1892.</p></acquisition>
+</history>
+ <additional>
+ <listBibl>
+ <bibl>
+  <author>Edgar J. Goodspeed</author> and <author>Martin Sprengling,</author> 
+  <title level="m">A descriptive catalogue of manuscripts in the libraries of the University of Chicago</title>
+  <imprint> 
+   <pubPlace>(Chicago:</pubPlace> 
+   <publisher>University of Chicago Press,</publisher> 
+   <date>1912),</date>
+  </imprint> 
+  <biblScope type="pages">pp. 18-19.</biblScope>
+ </bibl>
+  <bibl> 
+   <author>Merrill Mead Parvis,</author> 
+   <title level="m">The Story of the Goodspeed Collection</title>
+   <imprint> 
+    <pubPlace>([Chicago:]</pubPlace> 
+    <publisher>s.n.,</publisher> 
+    <date>1952),</date>
+   </imprint> 
+   <biblScope type="pages">pp. 1-2.</biblScope></bibl>
+  <bibl> 
+   <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed Collection of the University of Chicago Library, 
+    the Joseph Regenstein Library, January-March, 1973.</title>
+   <title level="s"> University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+   <imprint> 
+    <pubPlace>([Chicago:</pubPlace> 
+    <publisher>s.n.,</publisher> 
+    <date>1973]),</date></imprint> 
+   <biblScope type="volume">36,</biblScope> 
+   <biblScope type="catalogNo">no. 9.</biblScope></bibl>
+ </listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+<teiHeader date.created="2015-11-04" creator="jfcd">
+<fileDesc>
+<titleStmt>
+ <title>[University of Chicago Library GMS-0338, a manuscript catalogue description in electronic form]</title>
+ <funder>Institute of Museum and Library Services</funder>
+ <respStmt>
+  <resp>Creation of electronic version:</resp>
+  <name>University of Chicago Library</name>
+  <resp>Creation of digital images:</resp>
+  <name>University of Chicago Library</name>
+ </respStmt> 
+</titleStmt>
+ <publicationStmt>
+  <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+  <pubPlace>Chicago, Illinois</pubPlace>
+  <date>2009</date>
+  <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0338</idno>
+  <availability status= "free">
+   <p>Publicly accessible</p></availability>
+ </publicationStmt>
+ <sourceDesc>
+  <msDescription>
+   <msIdentifier>
+    <country>United States</country>
+    <region>Illinois</region>
+    <settlement>Chicago</settlement>
+    <institution>University of Chicago Library</institution> 
+    <repository>Special Collections Research Center</repository>
+    <collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 338</idno>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 56</altIdentifier>
+   </msIdentifier>
+   <msHeading>
+    <title>New Testament. Gospels. Mark</title>
+    <otherName>Harold Lamb Manuscript of Mark</otherName>
+    <origPlace>Unknown Place of Origin</origPlace>
+    <origDate notBefore="801" notAfter="1000">9th or 10th century</origDate>
+    <textLang langKey="arm">Armenian</textLang>
+   </msHeading>
+   <msContents>
+    <overview>
+     <p>Gospel of Mark leaf in Armenian. Contains Mark 2:5-7, 2:9-10, 2:12-14, 15, 16. Eusebian section numbers in the margins against the text. 
+      Concordance numbers in the lower margin. Formerly Goodspeed Ms. Arm. 56.</p></overview> 
+    <msItem n="1" status="frag">
+     <locus from="001" to="001">fol. [1r]</locus>
+    </msItem>
+    <msItem n="2" status="frag">
+     <locus from="002" to="002">fol. [1v]</locus>
+    </msItem>
+   </msContents>
+   <physDesc>
+    <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">176 x 241 mm</dimensions>.</p></support> 
+    <extent>One-half leaf.</extent>
+    <dimensions type="written" units="mm">Written space width 180 mm (recto). Each column is 80 mm wide with a space of 20 mm between.</dimensions>
+    <layout  columns="2"><p>2 columns. Ruling with hard point.</p></layout>
+    <msWriting><handDesc script="Erkat’agir" medium="ink">
+     <p>Written in erkat’agir script in dark brown ink.</p>
+    </handDesc></msWriting>
+    <condition><p>Used as a flyleaf in a later manuscript, the leaf was folded and lines of text (upper portion) were cut 
+     off. Some retracing of faded text in ink. Edges are dry and discolored.</p></condition>
+   </physDesc>
+   <history><origin><p>The manuscript to which the present leaf belonged is judged to have been written in either the 9th or 10th century. A place of origin is unknown.</p></origin>
+    <provenance><p>Medieval to mid-20th century provenance unknown. Belonged to the historian and novelist 
+     <name reg="Lamb, Harold, 1892-1962" type="person" role="owner">Harold Lamb</name> (1892-1962), who purchased an Armenian manuscript into which 
+     the leaf was bound from an unidentified bookseller in the <name reg="Kapalıçarşı (Istanbul, Turkey)" type="org">Grand Bazaar</name> 
+     of <name reg="Istanbul, Turkey" type="place">Istanbul</name>.</p> 
+     <p>Notation in pencil, [Mark] 2:15 in the outer margin (verso), and the number 196 in ink inscribed in Arabic numerals in the lower 
+      margin (verso).</p></provenance>
+    <acquisition><p>Gift of Harold Lamb to the University of Chicago, 1948.</p></acquisition>
+   </history>
+    </msDescription>
+ </sourceDesc>
+</fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+    an interface that supports browsing within individual manuscripts and across the collection.</p>
+   <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+    as of <date>2012-09-22</date>.</p> 
+   <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+  </projectDesc>
+ </encodingDesc>
+ <profileDesc>
+<langUsage><language id="arm"></language><p>Armenian, ISO 639-3</p>
+</langUsage>
+  <textClass>
+   <keywords>
+    <term>Bible. N.T. Gospels. Mark. Armenian</term>
+    <term>Manuscripts, Armenian</term>
+    <term>Lamb, Harold, 1892-1962</term>
+   </keywords>
+  </textClass>
+</profileDesc>
+</teiHeader>
+ <text>
+ <body>
+ <msDescription id="GMS-0338">
+ <msIdentifier>
+ <country>United States</country>
+ <region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 338</idno>
+ <altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 56</altIdentifier>
+</msIdentifier>
+<msHeading>
+ <title>New Testament. Gospels. Mark</title>
+ <otherName>Harold Lamb Manuscript of Mark</otherName>
+ <origPlace>Unknown Place of Origin</origPlace>
+<origDate notBefore="801" notAfter="1000">9th or 10th century</origDate>
+<textLang langKey="arm">Armenian</textLang>
+</msHeading>
+  <msContents>
+   <overview>
+    <p>Gospel of Mark leaf in Armenian. Contains Mark 2:5-7, 2:9-10, 2:12-14, 15, 16. Eusebian section numbers in the margins against the text. 
+     Concordance numbers in the lower margin. Formerly Goodspeed Ms. Arm. 56.</p></overview> 
+   <msItem n="1" status="frag">
+    <locus from="001" to="001">fol. [1r]</locus>
+   </msItem>
+   <msItem n="2" status="frag">
+    <locus from="002" to="002">fol. [1v]</locus>
+   </msItem>
+  </msContents>
+ <physDesc>
+ <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">176 x 241 mm</dimensions>.</p></support> 
+ <extent>One-half leaf.</extent>
+  <dimensions type="written" units="mm">Written space width 180 mm (recto). Each column is 80 mm wide with a space of 20 mm between.</dimensions>
+<layout  columns="2"><p>2 columns. Ruling with hard point.</p></layout>
+<msWriting><handDesc script="Erkat’agir" medium="ink">
+ <p>Written in erkat’agir script in dark brown ink.</p>
+</handDesc></msWriting>
+<condition><p>Used as a flyleaf in a later manuscript, the leaf was folded and lines of text (upper portion) were cut 
+ off. Some retracing of faded text in ink. Edges are dry and discolored.</p></condition>
+</physDesc>
+ <history><origin><p>The manuscript to which the present leaf belonged is judged to have been written in either the 9th or 10th century. A place of origin is unknown.</p></origin>
+<provenance><p>Medieval to mid-20th century provenance unknown. Belonged to the historian and novelist 
+ <name reg="Lamb, Harold, 1892-1962" type="person" role="owner">Harold Lamb</name> (1892-1962), who purchased an Armenian manuscript into which 
+ the leaf was bound from an unidentified bookseller in the <name reg="Kapalıçarşı (Istanbul, Turkey)" type="org">Grand Bazaar</name> 
+ of <name reg="Istanbul, Turkey" type="place">Istanbul</name>.</p> 
+ <p>Notation in pencil, [Mark] 2:15 in the outer margin (verso), and the number 196 in ink inscribed in Arabic numerals in the lower 
+  margin (verso).</p></provenance>
+ <acquisition><p>Gift of Harold Lamb to the University of Chicago, 1948.</p></acquisition>
+</history>
+<additional>
+<listBibl>
+ <bibl>
+<author>Erroll F. Rhodes</author>, 
+  <title level="m">An Annotated List of Armenian New Testament Manuscripts</title>, 
+  <title level="s">Annual Report of Theology</title>
+<biblScope type="volume">1</biblScope>
+<imprint><date>(1959),</date></imprint>
+<biblScope type="pages">p. 135 (1043).</biblScope>
+ </bibl>
+ <bibl>
+  <author>Merrill Mead Parvis</author>, 
+  <title level="m">The Story of the Goodspeed Collection</title>
+  <imprint>
+   <pubPlace>([Chicago]:</pubPlace>
+   <publisher>s.n.,</publisher>
+   <date>1952),</date>
+  </imprint>
+  <biblScope type="pages">p. 27.</biblScope></bibl>
+ <bibl>
+  <author>Avedis K. Sanjian</author>, 
+  <title level="m">A catalogue of medieval Armenian manuscripts in the United States</title>
+  <imprint>
+   <pubPlace>(Berkeley:</pubPlace>
+   <publisher>University of California Press,</publisher>
+   <date>1976),</date>
+  </imprint>
+  <biblScope type="pages">pp. 220-221.</biblScope></bibl>
+</listBibl>
+</additional>
+</msDescription>
+</body>
+ </text>         
+</TEI.2>

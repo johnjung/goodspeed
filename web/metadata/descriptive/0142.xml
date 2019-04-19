@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0142, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0142</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 142</idno>
+                        <altName type="Gregory number">Greg. 2401</altName>
+                        <altName type="Gregory number">Greg. l 1609</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 9</altIdentifier>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 10</altIdentifier>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>New Testament. Acts. Epistles of Paul. Catholic Epistles</title>
+                        <otherName>Theophanes Praxapostolos and Theophanes Lectionary</otherName>
+                        <origPlace>Balkan Peninsula?</origPlace>
+                        <origDate notBefore="1101" notAfter="1200">12th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents>
+                        <overview>
+                            <p>Praxapostolos in Greek with a half-leaf of a 12th century lectionary (front pastedown). 
+                                Marginal lectionary apparatus identifies lections by title, or occasion and incipit. The placement of the Epistles of Paul 
+                                before the Catholic Epistles corresponds to a change in reading order during the ecclesiastical year made in the 12th century.</p> 
+                            <p>Leaves of the present manuscript  have been renumbered after fol. 134. Both sets of foliation are cited in this description. 
+                                Formerly Goodspeed Ms. Grk. 9 and Ms. Grk. 10.</p></overview></msContents>
+                    <decoration>
+                        <headpieces><p>Large and small headpieces decorated with leaf scrolls or interlace and floral motifs in red, or red and black.</p></headpieces>
+                        <initials><p>Major initials (20-55 mm) of looped ribbon design set off from the text.</p></initials>
+                    </decoration> 
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="block" units="mm">189 x 129 mm</dimensions>.</p></support> 
+                        <extent>152 leaves.</extent> 
+                        <foliation><p>1-152. Modern foliation in Arabic numerals in pencil. After the removal of fols. 135 and 144, subsequent leaves were renumbered 135-152, 
+                            and the earlier set of numbering crossed out.</p>
+                        </foliation> 
+                        <collation><p>Originally 19 quires, now 20, after quire 8 was divided and rebound as two. The final quire is a later restoration. A 
+                            replacement of 12 leaves (13th century scribal hand), sometime after the primary leaves broke off along inner rulings, 
+                            has disrupted the original structure of 8 leaves per quire. Restored leaves were inserted as follows: Leaf 5, quire 1 (fol. 5); 
+                            leaf 2, quire 2 (fol. 10); leaf 1, quire 5 (fol. 33); leaves 4-6, quire 6 (fols. 44-46); leaf 5 and leaf 8, quire 7 (fol. 53, fol. 56); 
+                            leaves 6-8, quire 8 (fols. 62-64); leaf 6, quire 9 (fol. 70).</p>
+                            <p>With the loss of fols. 135 and 144, content lost consists of the ending of 2 Peter, the Euthalian Hypothesis of 1 John, the ending 
+                                of the Treatise on the Twelve Apostles, and the beginning of the Account of Paul's journeys. Prior to the manuscript's 
+                                initial foliation, a leaf was lost containing the text of 1 John 2:14-3:8 (after fol. 136).</p>
+                            <p>Quire numbers on the final leaf of quires 1 through 19 (verso, lower right).</p></collation> 
+                        <dimensions type="written" units="mm">Written space 136 x 85 mm (fol. 24r).</dimensions> 
+                        <layout columns="1" writtenLines="32-34"><p>1 column, 32 to 34 lines (variants of 29 to 36 lines). 
+                            Ruling with hard point.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink">
+                            <p>Written in minuscule script in black ink (some fading and flaking). Corrections written on original and 
+                                restored text leaves in the margins.</p> 
+                            <p>Punctuation includes middle point, and comma. The reference sign (cross framed 
+                                by 4 dots) indicates marginal additions; a triple point (triangle formed of three dots) is placed at the 
+                                conclusion of books and hypotheses.</p></handDesc></msWriting> 
+                        <textDivisions><p>Titles in red.</p></textDivisions> 
+                        <condition><p>Holes and tears. A number of leaves moderately cockled. Water stains.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Bound in dark brown <material>leather</material> over wooden boards. Covered in red <material>velvet</material> with 
+                                attached <material>brass</material> plates (Russian, possibly 18th century), and brass corner bosses. Fore-edge clasps (one remaining).</p> 
+                                <decoNote><p>Central scenes of the brass plates within a floral and foliate reticulated frame. Front panel: The Crucifixion, with 
+                                    the Virgin Mary and John at the foot of cross; an Evangelist and his symbol depicted at each corner. Back 
+                                    panel: The Resurrection; a prophet depicted at each corner. Front and back corner bosses, 
+                                    seraphim (top) and double-headed eagles (bottom).</p></decoNote>
+                            </binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript is dated to the late 12th century, and may have been written in the <name reg="Balkan Peninsula " type="place">Balkan Peninsula</name>.</p></origin>
+                        <provenance><p>Medieval to late 19th century provenance unknown. Belonged to <name reg="Theophanes" type="person" role="owner">Theophanes</name> 
+                            (his undated colophon, fol. 1r). Said to have belonged to a monastic library on <name reg="Mount Athos, Greece" type="place">Mount Athos</name> until 1890. 
+                            Acquired in the 1920s by bookseller <name reg="Grivakis, Athenas" type="person" role="bookseller">Athenas Grivakis</name> supposedly from a Greek national 
+                            or his widow, possibly in <name reg="Istanbul, Turkey"  type="place">Istanbul, Turkey</name>.</p> 
+                            <p>Two excised leaves, fol. 135 and fol. 144 (initial foliation), formerly owned 
+                                by <name reg="Morgan, F. Cleveland, 1881-1962" type="person" role="owner">F. Cleveland Morgan</name> (1881-1962), are currently in the collection 
+                                of  the <name reg="McGill University. Libraries" type="org">McGill University Libraries</name>, 
+                                <name reg="Montreal, Quebec, Canada" type="place">Montreal, Quebec, Canada</name> as Ms. Greek 10.</p> 
+                            <p>A motif thought to be a scribe's monogram occurs at the end of several books (see, Jude, fol. 143r). Notation in pencil by 
+                                <name reg="Phillips, Gordon W." type="person">Gordon W. Phillips</name>, an assistant to Mr. Grivakis (fols. 53v, 54r, 55v, 136v, 137r). Partly illegible inscriptions (back pastedown).</p></provenance>
+                        <acquisition><p>Acquired by the University of Chicago from Athenas Grivakis, 1929.</p></acquisition>
+                    </history></msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+  <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+ </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Acts. Epistles</term>
+                    <term>Lectionaries</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                    <term>Theophanes</term>
+                </keywords>
+            </textClass>
+ </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0142">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 142</idno>
+<altName type="Gregory number">Greg. 2401</altName>
+<altName type="Gregory number">Greg. l 1609</altName>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 9</altIdentifier>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 10</altIdentifier>
+</msIdentifier>
+<msHeading>
+ <title>New Testament. Acts. Epistles of Paul. Catholic Epistles</title>
+<otherName>Theophanes Praxapostolos and Theophanes Lectionary</otherName>
+<origPlace>Balkan Peninsula?</origPlace>
+<origDate notBefore="1101" notAfter="1200">12th century</origDate>
+<textLang langKey="grc">Greek</textLang>
+</msHeading>
+<msContents>
+<overview>
+<p>Praxapostolos in Greek with a half-leaf of a 12th century lectionary (front pastedown). 
+    Marginal lectionary apparatus identifies lections by title, or occasion and incipit. The placement of the Epistles of Paul 
+    before the Catholic Epistles corresponds to a change in reading order during the ecclesiastical year made in the 12th century.</p> 
+    <p>Leaves of the present manuscript  have been renumbered after fol. 134. Both sets of foliation are cited in this description. 
+        Formerly Goodspeed Ms. Grk. 9 and Ms. Grk. 10.</p></overview>
+<msItem n="1" status= "frag">
+<locus from = "002" to ="002">Pastedown (front)</locus>
+<summary>Lectionary leaf with text of Mark 16:1-6, for Sunday, Week 2 after Easter.</summary> 
+    <note>Acts 9:19-20, for Saturday, Week 3 after Easter, on the verso stub visible between 
+   fols. 8 and 9.</note>
+</msItem>
+<msItem n="2">
+<locus from="003" to="003">fol. 1r</locus>
+    <colophon>Theophanes (undated).</colophon>
+</msItem>
+    <msItem n="3">
+        <locus from="003" to="081">fols. 1r-40r</locus>
+        <summary> Acts. Subscription and stichoi (2,524).</summary>
+    </msItem>
+<msItem n="4">
+<locus from = "081" to ="083">fols. 40r-41r</locus>
+    <summary>Euthalius, Hypothesis of Romans. Notation at the conclusion, a reminder to readers of the new order 
+        of the Epistles of Paul and the Catholic Epistles: ζητη τας καθολικας εις το τελος... 
+        (Look for the Catholics at the end due to the order of the weeks).</summary>
+</msItem>
+    <msItem n="5">
+        <locus from = "083" to ="083">fol. 41r</locus>
+        <colophon>Scribal: ζητη τας καθολικας επιστολας εις το τελος δια την 
+            ευθυτητα των ευδομαδων.</colophon>
+    </msItem>
+<msItem n="6">
+ <locus from = "083" to ="110">fols. 41r-54v</locus>
+<summary>Romans. Subscription and stichoi (750).</summary></msItem>
+    <msItem n="7">
+<locus from = "110" to ="111">fols. 54v-55r</locus>
+    <summary>Euthalius, Hypothesis of 1 Corinthians. Notation concerning the Hypothesis (fol. 55r).</summary>
+</msItem>
+<msItem n="8">
+<locus from = "111" to ="112">fols. 55r-55v</locus>
+<summary>Oecumenius, Prologue of 1 Corinthians (attributed to Theodoret).</summary>
+</msItem>
+<msItem n="9">
+<locus from = "112" to ="135">fols. 55v-67r</locus>
+<summary>1 Corinthians. Subscription and stichoi (870).</summary>
+</msItem>
+<msItem n="10">
+<locus from = "135" to ="136">fols. 67r-67v</locus>
+    <summary>Euthalius, Hypothesis of 2 Corinthians. Notation concerning the Hypothesis (fol. 67v).</summary>
+</msItem>
+<msItem n="11">
+<locus from = "136" to ="137">fols. 67v-68r</locus>
+<summary>Oecumenius, Prologue of 2 Corinthians (attributed to Theodoret).</summary>
+</msItem>
+<msItem n="12">
+<locus from = "137" to ="153">fols. 68r-76r</locus>
+ <summary>2 Corinthians. Subscription and stichoi (770).</summary>
+</msItem>
+ <msItem n="13">
+<locus from = "153" to ="154">fols. 76r-76v</locus>
+<summary>Euthalius, Hypothesis of Galatians.</summary>
+ </msItem>
+<msItem n="14">
+<locus from = "154" to ="154">fol. 76v</locus>
+<summary>Oecumenius, Prologue of Galatians (attributed to Theodoret).</summary>
+</msItem>
+<msItem n="15">
+<locus from = "154" to ="163">fols. 76v-81r</locus>
+<summary>Galatians. Subscription and stichoi (293).</summary>
+</msItem>
+<msItem n="16">
+<locus from = "163" to ="164">fols. 81r-81v</locus>
+<summary>Euthalius, Hypothesis of Ephesians.</summary>
+</msItem>
+<msItem n="17">
+<locus from = "164" to ="173">fols. 81v-86r</locus>
+<summary>Ephesians. Subscription and stichoi (312).</summary>
+</msItem>
+ <msItem n="18">
+<locus from = "173" to ="174">fols. 86r-86v</locus>
+<summary>Euthalius, Hypothesis of Philippians.</summary>
+ </msItem>
+<msItem n="19">
+<locus from = "174" to ="180">fols. 86v-89v</locus>
+<summary>Philippians. Subscription and stichoi (290).</summary>
+</msItem>
+<msItem n="20">
+<locus from = "180" to ="181">fols. 89v-90r</locus>
+<summary>Euthalius, Hypothesis of Colossians.</summary>
+</msItem>
+<msItem n="21">
+<locus from = "181" to ="188">fols. 90r-93v</locus>
+<summary>Colossians. Subscription and stichoi (208).</summary>
+</msItem>
+<msItem n="22">
+<locus from = "188" to ="189">fols. 93v-94r</locus>
+<summary>Euthalius, Hypothesis of 1 Thessalonians.</summary>
+</msItem>
+<msItem n="23">
+<locus from = "189" to ="195">fols. 94r-97r</locus>
+<summary>1 Thessalonians. Subscription and stichoi (193).</summary>
+</msItem>
+<msItem n="24">
+<locus from = "195" to ="196">fols. 97r-97v</locus>
+<summary>Euthalius, Hypothesis of 2 Thessalonians.</summary>
+</msItem>
+<msItem n="25">
+<locus from = "196" to ="199">fols. 97v-99r</locus>
+<summary>2 Thessalonians. Subscription and stichoi (106).</summary>
+</msItem>
+<msItem n="26">
+<locus from = "199" to ="200">fols. 99r-99v</locus>
+<summary>Euthalius, Hypothesis of 1 Timothy.</summary>
+</msItem>
+<msItem n="27">
+<locus from = "201" to ="208">fols. 100r-103v</locus>
+<summary>1 Timothy. Subscription and stichoi (230).</summary>
+</msItem>
+<msItem n="28">
+<locus from = "208" to ="209">fols. 103v-104r</locus>
+<summary>Euthalius, Hypothesis of 2 Timothy.</summary>
+</msItem>
+ <msItem n="29">
+<locus from = "209" to ="215">fols. 104r-107r</locus>
+<summary>2 Timothy. Subscription and stichoi (172).</summary>
+</msItem>
+<msItem n="30">
+<locus from = "215" to ="215">fol. 107r</locus>
+<summary>Euthalius, Hypothesis of Titus.</summary>
+</msItem>
+<msItem n="31">
+<locus from = "216" to ="219">fols. 107v-109r</locus>
+<summary>Titus. Subscription and stichoi (97).</summary>
+</msItem>
+<msItem n="32">
+<locus from = "219" to ="219">fol. 109r</locus>
+<summary>Euthalius, Hypothesis of Philemon.</summary>
+</msItem>
+<msItem n="33">
+<locus from = "219" to ="220">fols. 109r-109v</locus>
+<summary>Philemon. Subscription and stichoi (32).</summary>
+</msItem>
+<msItem n="34">
+<locus from = "220" to ="221">fols. 109v-110r</locus>
+<summary>Euthalius, Hypothesis of Hebrews.</summary>
+</msItem>
+ <msItem n="35">
+<locus from = "222" to ="245">fols. 110v-122r</locus>
+<summary>Hebrews.</summary></msItem>
+<msItem n="36">
+<locus from = "246" to ="246">fol. 122v</locus>
+<summary>Euthalius, Hypothesis of James.</summary>
+</msItem>
+<msItem n="37">
+<locus from = "247" to ="255">fols. 123r-127r</locus>
+<summary>James. Subscription.</summary>
+</msItem>
+<msItem n="38">
+<locus from = "255" to ="255">fol. 127r</locus>
+<summary>Euthalius, Hypothesis of 1 Peter.</summary>
+</msItem>
+<msItem n="39">
+<locus from = "256" to ="264">fols. 127v-131v</locus>
+<summary>1 Peter. Subscription and stichoi (236).</summary>
+</msItem>
+<msItem n="40">
+<locus from = "264" to ="265">fols. 131v-132r</locus>
+    <summary>Euthalius, Hypothesis of 2 Peter. Kephalaia or table of four chapter titles (fol. 132r).</summary>
+</msItem>
+<msItem n="41">
+<locus from = "265" to ="270">fols. 132r-134v</locus>
+ <summary>2 Peter (lacking).</summary> 
+    <note>Missing leaf after fol. 134. Double foliation begins.</note>
+</msItem>
+<msItem n="42">
+<locus from = "271" to ="278">fols. 136r-139v (135r-138v)</locus>
+<summary> 1 John.</summary></msItem>
+<msItem n="43">
+<locus from = "278" to ="279">fols. 139v-140r (138v-139r)</locus>
+<summary>Euthalius, Hypothesis of 2 John.</summary>
+</msItem>
+<msItem n="44">
+<locus from = "279" to ="280">fols. 140r-140v (139r-139v)</locus>
+<summary>2 John.</summary>
+</msItem>
+<msItem n="45">
+<locus from = "280" to ="280">fol. 140v (139v)</locus>
+<summary>Euthalius, Hypothesis of 3 John.</summary>
+</msItem>
+<msItem n="46">
+<locus from = "280" to ="282">fols. 140v-141v (139v-140v)</locus>
+<summary>3 John.</summary>
+</msItem>
+<msItem n="47">
+<locus from = "282" to ="282">fol. 141v (140v)</locus>
+<summary>Euthalius, Hypothesis of Jude.</summary></msItem>
+<msItem n="48">
+<locus from = "283" to ="285">fols. 142r-143r (141r-142r)</locus>
+<summary>Jude.</summary>
+</msItem>
+<msItem n="49">
+    <locus from = "286" to ="286">fol. 143v (142v)</locus>
+<summary>Table of Contents (list of Epistles of St. Paul and the Catholic Epistles arranged in incorrect order).</summary></msItem>
+<msItem n="50">
+<locus from = "286" to ="286">fol. 143v (142v)</locus>
+<summary>Dorotheus, Treatise on the Twelve Apostles (lacking).</summary> 
+    <note>Missing leaf after fol. 143.</note></msItem>
+<msItem n="51">
+<locus from = "287" to ="287">fol. 145r (143r)</locus>
+ <summary>Pseudo-Oecumenius, Account of St. Paul's journeys (Apodemia Paulou, lacking).</summary> 
+    <note>Blank (fol. 145v (143v).</note>
+</msItem>
+<msItem n="52">
+<locus from = "289" to ="306">fols. 146r-154v (144r-152v)</locus>
+<summary>Lectionary table (Synaxarion, Menologion, Heothina).</summary>
+</msItem>
+</msContents>
+ <decoration>
+     <headpieces><p>Large and small headpieces decorated with leaf scrolls or interlace and floral motifs in red, or red and black.</p></headpieces>
+     <initials><p>Major initials (20-55 mm) of looped ribbon design set off from the text.</p></initials>
+ </decoration> 
+<physDesc>
+<support><p><material>Parchment</material>. <dimensions type="block" units="mm">189 x 129 mm</dimensions>.</p></support> 
+    <extent>152 leaves.</extent> 
+    <foliation><p>1-152. Modern foliation in Arabic numerals in pencil. After the removal of fols. 135 and 144, subsequent leaves were renumbered 135-152, 
+        and the earlier set of numbering crossed out.</p>
+    </foliation> 
+    <collation><p>Originally 19 quires, now 20, after quire 8 was divided and rebound as two. The final quire is a later restoration. A 
+        replacement of 12 leaves (13th century scribal hand), sometime after the primary leaves broke off along inner rulings, 
+        has disrupted the original structure of 8 leaves per quire. Restored leaves were inserted as follows: Leaf 5, quire 1 (fol. 5); 
+        leaf 2, quire 2 (fol. 10); leaf 1, quire 5 (fol. 33); leaves 4-6, quire 6 (fols. 44-46); leaf 5 and leaf 8, quire 7 (fol. 53, fol. 56); 
+        leaves 6-8, quire 8 (fols. 62-64); leaf 6, quire 9 (fol. 70).</p>
+        <p>With the loss of fols. 135 and 144, content lost consists of the ending of 2 Peter, the Euthalian Hypothesis of 1 John, the ending 
+            of the Treatise on the Twelve Apostles, and the beginning of the Account of Paul's journeys. Prior to the manuscript's 
+            initial foliation, a leaf was lost containing the text of 1 John 2:14-3:8 (after fol. 136).</p>
+        <p>Quire numbers on the final leaf of quires 1 through 19 (verso, lower right).</p></collation> 
+ <dimensions type="written" units="mm">Written space 136 x 85 mm (fol. 24r).</dimensions> 
+ <layout columns="1" writtenLines="32-34"><p>1 column, 32 to 34 lines (variants of 29 to 36 lines). 
+Ruling with hard point.</p></layout>
+<msWriting><handDesc script="Minuscule" medium="ink">
+    <p>Written in minuscule script in black ink (some fading and flaking). Corrections written on original and 
+        restored text leaves in the margins.</p> 
+ <p>Punctuation includes middle point, and comma. The reference sign (cross framed 
+by 4 dots) indicates marginal additions; a triple point (triangle formed of three dots) is placed at the 
+conclusion of books and hypotheses.</p></handDesc></msWriting> 
+    <textDivisions><p>Titles in red.</p></textDivisions> 
+    <condition><p>Holes and tears. A number of leaves moderately cockled. Water stains.</p></condition>
+<bindingDesc>
+<binding><p>Bound in dark brown <material>leather</material> over wooden boards. Covered in red <material>velvet</material> with 
+    attached <material>brass</material> plates (Russian, possibly 18th century), and brass corner bosses. Fore-edge clasps (one remaining).</p> 
+ <decoNote><p>Central scenes of the brass plates within a floral and foliate reticulated frame. Front panel: The Crucifixion, with 
+ the Virgin Mary and John at the foot of cross; an Evangelist and his symbol depicted at each corner. Back 
+ panel: The Resurrection; a prophet depicted at each corner. Front and back corner bosses, 
+ seraphim (top) and double-headed eagles (bottom).</p></decoNote>
+</binding></bindingDesc>
+</physDesc>
+<history>
+    <origin><p>The manuscript is dated to the late 12th century, and may have been written in the <name reg="Balkan Peninsula " type="place">Balkan Peninsula</name>.</p></origin>
+    <provenance><p>Medieval to late 19th century provenance unknown. Belonged to <name reg="Theophanes" type="person" role="owner">Theophanes</name> 
+        (his undated colophon, fol. 1r). Said to have belonged to a monastic library on <name reg="Mount Athos, Greece" type="place">Mount Athos</name> until 1890. 
+        Acquired in the 1920s by bookseller <name reg="Grivakis, Athenas" type="person" role="bookseller">Athenas Grivakis</name> supposedly from a Greek national 
+        or his widow, possibly in <name reg="Istanbul, Turkey"  type="place">Istanbul, Turkey</name>.</p> 
+    <p>Two excised leaves, fol. 135 and fol. 144 (initial foliation), formerly owned 
+        by <name reg="Morgan, F. Cleveland, 1881-1962" type="person" role="owner">F. Cleveland Morgan</name> (1881-1962), are currently in the collection 
+        of  the <name reg="McGill University. Libraries" type="org">McGill University Libraries</name>, 
+        <name reg="Montreal, Quebec, Canada" type="place">Montreal, Quebec, Canada</name> as Ms. Greek 10.</p> 
+    <p>A motif thought to be a scribe's monogram occurs at the end of several books (see, Jude, fol. 143r). Notation in pencil by 
+        <name reg="Phillips, Gordon W." type="person">Gordon W. Phillips</name>, an assistant to Mr. Grivakis (fols. 53v, 54r, 55v, 136v, 137r). Partly illegible inscriptions (back pastedown).</p></provenance>
+<acquisition><p>Acquired by the University of Chicago from Athenas Grivakis, 1929.</p></acquisition>
+</history>
+    <additional>
+        <listBibl>
+            <bibl>
+                <author>Seymour de Ricci,</author>
+                <title level="m">Census of Medieval and Renaissance Manuscripts in the United States and Canada</title>
+                <imprint>
+                    <pubPlace>(New York:</pubPlace>
+                    <publisher>H. W. Wilson Company,</publisher>
+                    <date>1935),</date>
+                </imprint>
+                <biblScope type="volume">vol. 1, p. 571.</biblScope></bibl>
+            <bibl><author>Kenneth W. Clark</author>, 
+                <title level="u">"Codex 2401--The Theophanes Praxapostolos."</title> 
+                <note>(Ph.D. diss., University of Chicago, 1931).</note></bibl>
+            <bibl>
+                <author>———</author>,
+                <title level="m">A Descriptive Catalogue of Greek New Testament Manuscripts in America</title>
+                <imprint>
+                    <pubPlace>(Chicago:</pubPlace>
+                    <publisher>University of Chicago Press,</publisher>
+                    <date>1937),</date>
+                </imprint>
+                <biblScope type="pages">pp. 256-259.</biblScope></bibl>
+            <bibl>
+                <author>———</author>, 
+                <title level="m">Eight American Praxapostoloi</title>
+                <imprint>
+                    <pubPlace>(Chicago:</pubPlace>
+                    <publisher>University of Chicago Press,</publisher>
+                    <date>c1941),</date>
+                </imprint>
+                <biblScope type="pages">pp. 29-33.</biblScope></bibl>
+            <bibl> 
+                <author>Merrill Mead Parvis,</author> 
+                <title level="m">The Story of the Goodspeed Collection</title>
+                <imprint> 
+                    <pubPlace>([Chicago:]</pubPlace> 
+                    <publisher>s.n.,</publisher> 
+                    <date>1952),</date>
+                </imprint> 
+                <biblScope type="pages">pp. 8-11.</biblScope></bibl>
+            <bibl> 
+                <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed Collection 
+                    of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>.
+                <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+                <imprint> 
+                    <pubPlace>([Chicago:</pubPlace> 
+                    <publisher>s.n.,</publisher> 
+                    <date>1973]),</date></imprint> 
+                <biblScope type="volume">36,</biblScope> 
+                <biblScope type="catalogNo">no. 1.</biblScope></bibl>
+        </listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

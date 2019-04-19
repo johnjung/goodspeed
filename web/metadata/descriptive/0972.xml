@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    
+<teiHeader date.created="2015-11-04" creator="jfcd">
+ <fileDesc>
+ <titleStmt>
+     <title>[University of Chicago Library GMS-0972, a manuscript catalogue description in electronic form]</title>
+     <funder>Institute of Museum and Library Services</funder>
+     <respStmt>
+         <resp>Creation of electronic version:</resp>
+         <name>University of Chicago Library</name>
+         <resp>Creation of digital images:</resp>
+         <name>University of Chicago Library</name>
+     </respStmt> 
+ </titleStmt>
+     <publicationStmt>
+         <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+         <pubPlace>Chicago, Illinois</pubPlace>
+         <date>2009</date>
+         <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0972</idno>
+         <availability status= "free">
+             <p>Publicly accessible</p></availability>
+     </publicationStmt>
+     <sourceDesc>
+         <msDescription>
+             <msIdentifier>
+                 <country>United States</country>
+                 <region>Illinois</region>
+                 <settlement>Chicago</settlement>
+                 <institution>University of Chicago Library</institution> 
+                 <repository>Special Collections Research Center</repository>
+                 <collection>Goodspeed Manuscript Collection</collection>
+                 <idno>Ms. 972</idno>
+                 <altName type="Gregory number">Greg. 2427</altName>
+                 <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 38</altIdentifier>
+             </msIdentifier>
+             <msHeading>
+                 <title>New Testament. Gospels. Mark</title>
+                 <otherName>Archaic Mark</otherName>
+                 <origPlace>Greece?</origPlace>
+                 <origDate notBefore="1801" notAfter="2000">19th or 20th century</origDate>
+                 <textLang langKey="ell">Greek</textLang>
+             </msHeading>
+             <msContents>
+                 <overview>
+                     <p>Gospel of Mark in Greek. Formerly Goodspeed Ms. Grk. 38.</p>
+                     <p>The manuscript is commonly known as the Archaic Mark because of characteristics evident in its text.</p></overview></msContents>
+             <decoration> 
+                 <overview><p>17 miniatures consist of a portrait of the Evangelist Mark, and depictions of events 
+                     drawn primarily from the cycles of Christ's miracles and Passion.</p></overview>
+                 <headpieces>
+                     <p>Headpiece composed of floral, foliate, and geometric designs in rose, blue, and gold (fol. 2r).</p>
+                 </headpieces> 
+                 <initials>
+                     <p>Initial A (10 mm) in rose outlined in blue, red, and gold with gold pen-flourishing. Minor initials in gold (traces of red) 
+                         set off from the text.</p>
+                 </initials></decoration> 
+             <physDesc> 
+                 <support><p><material>Parchment</material>. <dimensions type="block" units="mm">119 x 84 mm</dimensions>.</p></support> 
+                 <extent>44 leaves, of which 1 is a flyleaf.</extent> 
+                 <foliation><p>43 + 1 (foliated parchment flyleaf). Modern foliation in Arabic numerals in pencil 1-44.</p></foliation> 
+                 <collation><p>6 quires of 8 leaves, with the exception of quire 6, which contains 4 leaves. The bifolium fol. 12 r-v and fol. 13 r-v 
+                     was folded in reverse and bound in.</p></collation>
+                 <dimensions type="written" units="mm">Written space 91 x 60 mm (fol. 9r). Variation in column length, 
+                     91 to 100 mm, and in column width, 55 to 60 mm.</dimensions> 
+                 <layout columns="1" writtenLines="24-25"><p>1 column, 24-25 lines (fols. 3-16) and 20-22 lines (fols. 17-43). Ruling on both recto and verso with hard 
+                     point. Lines previously ruled on the outer bifolium quire 3 (fols. 17, 24) stand at right angles to the lines of the later ruling pattern.</p>
+                 </layout> 
+                 <msWriting> <handDesc script="Minuscule" medium="ink">
+                     <p>Written in minuscule script in medium brown ink. Minor initials duplicate letters in the text or replace letters erased.</p></handDesc>
+                 </msWriting>
+                 <condition><p>Text abraded (fol. 18r). Some miniatures have paint losses. Quire 2 (fols. 9-16) detached from binding.</p>
+                 </condition>
+                 <bindingDesc><binding> 
+                     <p>Bound in blind stamped <material>goatskin</material> (reused), over thin wooden boards. 
+                         Doublures of dark brown <material>leather</material>.</p></binding>
+                 </bindingDesc></physDesc>
+             <history>
+                 <origin><p>The manuscript is dated to the late 19th or early 20th century based on the results of codicological and text critical assessments, 
+                     and the scientific testing of its pigment, ink, and parchment support. Place of origin possibly Greece.</p></origin>
+                 <provenance><p>Belonged to <name reg="Askitopoulos, John, died ca. 1918" type="person" role="owner">John Askitopoulos</name> (died ca. 1918), 
+                     an Athenian collector and dealer in antiquities. University of Chicago Libraries bookplate (front doublure).</p></provenance> 
+                 <acquisition><p>Acquired by the University of Chicago from the family of John Askitopoulos, August 1938.</p></acquisition></history>
+         </msDescription>
+     </sourceDesc>
+ </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+            <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                an interface that supports browsing within individual manuscripts and across the collection.</p>
+            <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                as of <date>2012-09-22</date>.</p> 
+            <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+        </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+        <langUsage><language id="ell"></language><p>Greek (1453-), ISO 639-3</p>
+ </langUsage>
+        <textClass>
+            <keywords>
+                <term>Bible. N.T. Mark</term>
+                <term>Manuscripts, Greek (Medieval and modern)</term>
+                <term>Illuminated manuscripts</term>
+                <term>Miniatures (Illuminations)</term>
+            </keywords>
+        </textClass>
+ </profileDesc>
+</teiHeader>
+<text>
+<body>
+<msDescription id="GMS-0972">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 972</idno>
+<altName type="Gregory number">Greg. 2427</altName>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 38</altIdentifier>
+</msIdentifier>
+<msHeading>
+    <title>New Testament. Gospels. Mark</title>
+<otherName>Archaic Mark</otherName>
+    <origPlace>Greece?</origPlace>
+    <origDate notBefore="1801" notAfter="2000">19th or 20th century</origDate>
+<textLang langKey="ell">Greek</textLang>
+</msHeading>
+<msContents>
+    <overview>
+        <p>Gospel of Mark in Greek. Formerly Goodspeed Ms. Grk. 38.</p>
+        <p>The manuscript is commonly known as the Archaic Mark because of characteristics evident in its text.</p></overview> 
+<msItem n="1"> 
+<locus from="006" to="013">fols. 2r-5v</locus> 
+    <summary>Mark 1.</summary></msItem> 
+    <msItem n="2"> 
+        <locus from="013" to="016">fols. 5v-7r</locus> 
+        <summary>Mark 2.</summary></msItem>
+<msItem n="3"> 
+    <locus from="016" to="019">fols. 7r-8v</locus> 
+    <summary>Mark 3.</summary></msItem> 
+    <msItem n="4"> 
+        <locus from="019" to="024">fols. 8v-11r</locus> 
+        <summary>Mark 4.</summary></msItem> 
+    <msItem n="5">
+        <locus from="024" to="025">fols. 11r-11v</locus>
+        <locus from="028" to="029">fols. 13r-13v</locus>
+        <summary>Mark 5.</summary>
+        <note>Bifolium 12 r-v and 13 r-v folded in reverse and bound in. 
+            For correct sequence of text, read: 11r-v, 13r-v, 12r-v, 14r.</note></msItem>
+    <msItem n="6">
+        <locus from="026" to="027">fols. 12r-12v</locus>
+        <locus from="030" to="035">fols. 14r-16v</locus>
+        <summary>Mark 6.</summary>
+        <note>Bifolium 12 r-v and 13 r-v folded in reverse and bound in. 
+            For correct sequence of text, read: 11r-v, 13r-v, 12r-v, 14r.</note></msItem> 
+    <msItem n="7"> 
+        <locus from="035" to="038">fols. 16v-18r</locus> 
+        <summary>Mark 7.</summary></msItem> 
+    <msItem n="8"> 
+        <locus from="038" to="043">fols. 18r-20v</locus> 
+        <summary>Mark 8.</summary></msItem>
+<msItem n="9"> 
+    <locus from="043" to="050">fols. 20v-24r</locus> 
+    <summary>Mark 9.</summary></msItem> 
+    <msItem n="10"> 
+        <locus from="050" to="055">fols. 24r-26v</locus> 
+        <summary>Mark 10.</summary></msItem>
+    <msItem n="11"> 
+        <locus from="055" to="060">fols. 26v-29r</locus> 
+        <summary>Mark 11.</summary></msItem> 
+    <msItem n="12"> 
+        <locus from="060" to="065">fols. 29r-31v</locus> 
+        <summary>Mark 12.</summary></msItem>
+    <msItem n="13"> 
+        <locus from="065" to="068">fols. 31v-33r</locus> 
+        <summary>Mark 13.</summary></msItem> 
+    <msItem n="14"> 
+        <locus from="068" to="077">fols. 33r-37v</locus> 
+        <summary>Mark 14.</summary></msItem> 
+    <msItem n="15"> 
+        <locus from="077" to="085">fols. 37v-41v</locus> 
+        <summary>Mark 15.</summary></msItem> 
+    <msItem n="16"> 
+        <locus from="085" to="089">fols. 41v-43v</locus> 
+        <summary>Mark 16.</summary></msItem></msContents>
+    <decoration> 
+    <overview><p>17 miniatures consist of a portrait of the Evangelist Mark, and depictions of events 
+        drawn primarily from the cycles of Christ's miracles and Passion.</p></overview> 
+    <miniatures><minItem n="1">
+            <locus from="005" to="005">fol. 1v</locus>
+            <minDesc>Evangelist, Mark: Portrait. Mark writes, seated in high-backed chair before writing table; 
+                buildings in background.</minDesc></minItem> 
+        <minItem n="2">
+            <locus from="011" to="011">fol. 4v</locus>
+            <minDesc>Christ: Miracle of healing Peter's wife's mother. Christ stands at right, holds arm of 
+            the mother of Peter's wife who is seated in bed; Peter and other disciples wait behind Christ.</minDesc>
+        </minItem>
+<minItem n="3">
+<locus from="013" to="013">fol. 5v</locus>
+    <minDesc>Christ: Miracle of healing paralytic. Christ stands at left, right hand raised in blessing; 
+        paralytic man lies on pallet at center, lowered from roof of building by two men; crowd, left background.</minDesc>
+</minItem>
+<minItem n="4">
+    <locus from="026" to="026">fol. 12r</locus>
+    <minDesc>Christ: Miracle of raising daughter of Jairus. Christ stands at right, touches arm of Jairus' daughter who lies in 
+        bed, foreground; her mother and father wait, left background.</minDesc></minItem> 
+        <minItem n="5"> 
+            <locus from="033" to="033">fol. 15v</locus>
+       <minDesc>Christ: Miracle of loaves. Christ stands at center, looks down at two boys, seated at right, with baskets of fish and bread; 
+           mountains, in background.</minDesc></minItem>
+        <minItem n="6"> 
+            <locus from="041" to="041">fol. 19v</locus>
+            <minDesc>Christ: Miracle of healing blind man. A blind man stands at left, holds cane, eyes closed. Christ, at 
+                center, touches the blind man's eyes.</minDesc></minItem>
+ <minItem n="7">
+     <locus from="044" to="044">fol. 21r</locus>
+     <minDesc>Christ: Transfiguration. Christ, at center, on mountain; the prophets Elijah at left, and Moses to the right.</minDesc></minItem> 
+        <minItem n="8"> 
+        <locus from="057" to="057">fol. 27v</locus>
+            <minDesc>Christ: Entry into Jerusalem. Christ seated on donkey, at center; disciples and crowd in 
+                background; boy lays robe in road; man stands at right, arm raised.</minDesc></minItem> 
+        <minItem n="9"> 
+            <locus from="071" to="071">fol. 34v</locus>
+            <minDesc>Christ: Last Supper. Christ seated at center, a sleeping disciple to his left; other disciples sit 
+                on either side; wine cups, a compote, and plates of bread on table; buildings, in background.</minDesc>
+        </minItem>
+        <minItem n="10"> 
+            <locus from="077" to="077">fol. 37v</locus>
+            <minDesc>Christ: Before Pilate. Pilate seated at left on throne behind cloth-covered table; Christ 
+            waits at right, eyes downcast, hands bound with rope held by soldier.</minDesc>
+        </minItem>
+        <minItem n="11"> 
+            <locus from="078" to="078">fol. 38r</locus> 
+            <minDesc>Christ: Barabbas released. Pilate, left hand raised, stands between prisoners Barabbas and Christ; 
+                men gesture, at right.</minDesc></minItem> 
+        <minItem n="12">
+            <locus from="079" to="079">fol. 38v</locus>
+            <minDesc>Christ: Mocked. Christ, kneels at center, crown of thorns on head; 
+                gesturing soldiers stand on either side, and in left background.</minDesc>
+        </minItem> 
+        <minItem n="13"> 
+            <locus from="080" to="080">fol. 39r</locus> 
+            <minDesc>Simon of Cyrene: Bearing cross. Soldier leads Christ whose hands are bound with rope; 
+                Simon of Cyrene follows at left, carries cross on shoulder.</minDesc></minItem> 
+        <minItem n="14">
+            <locus from="081" to="081">fol. 39v</locus>
+            <minDesc>Christ: Crucifixion. Christ and two thieves crucified on crosses; Virgin Mary an apostle John 
+                stand at foot of cross, left; at center, soldier pierces Christ's side with spear; 
+                second soldier gazes upward, gestures; sun and moon above central cross-arm.</minDesc>
+        </minItem> 
+        <minItem n="15"> 
+            <locus from="082" to="082">fol. 40r</locus>
+            <minDesc>Christ: Casting of Lots for garments. Soldiers, either kneeling or standing, cast lots on top of 
+                Christ's robe and tunic.</minDesc></minItem> 
+        <minItem n="16"> 
+            <locus from="085" to="085">fol. 41v</locus> 
+            <minDesc>Joseph of Arimathea: Before Pilate. Gesturing Pilate stands at left in front of throne; 
+                Joseph of Arimathea, hands crossed on chest, waits at right.</minDesc>
+        </minItem> 
+        <minItem n="17"> 
+            <locus from="086" to="086">fol. 42r</locus> 
+            <minDesc>Holy Women: At sepulchre. Three women stand at left, hands raised; angel 
+                seated at right on stone from Christ's tomb.</minDesc></minItem></miniatures>
+    <headpieces>
+        <p>Headpiece composed of floral, foliate, and geometric designs in rose, blue, and gold (fol. 2r).</p>
+    </headpieces> 
+    <initials>
+        <p>Initial A (10 mm) in rose outlined in blue, red, and gold with gold pen-flourishing. Minor initials in gold (traces of red) 
+       set off from the text.</p>
+    </initials></decoration> 
+    <physDesc> 
+   <support><p><material>Parchment</material>. <dimensions type="block" units="mm">119 x 84 mm</dimensions>.</p></support> 
+    <extent>44 leaves, of which 1 is a flyleaf.</extent> 
+    <foliation><p>43 + 1 (foliated parchment flyleaf). Modern foliation in Arabic numerals in pencil 1-44.</p></foliation> 
+        <collation><p>6 quires of 8 leaves, with the exception of quire 6, which contains 4 leaves. The bifolium fol. 12 r-v and fol. 13 r-v 
+            was folded in reverse and bound in.</p></collation>
+   <dimensions type="written" units="mm">Written space 91 x 60 mm (fol. 9r). Variation in column length, 
+       91 to 100 mm, and in column width, 55 to 60 mm.</dimensions> 
+        <layout columns="1" writtenLines="24-25"><p>1 column, 24-25 lines (fols. 3-16) and 20-22 lines (fols. 17-43). Ruling on both recto and verso with hard 
+            point. Lines previously ruled on the outer bifolium quire 3 (fols. 17, 24) stand at right angles to the lines of the later ruling pattern.</p>
+        </layout> 
+    <msWriting> <handDesc script="Minuscule" medium="ink">
+        <p>Written in minuscule script in medium brown ink. Minor initials duplicate letters in the text or replace letters erased.</p></handDesc>
+    </msWriting>
+        <condition><p>Text abraded (fol. 18r). Some miniatures have paint losses. Quire 2 (fols. 9-16) detached from binding.</p>
+        </condition>
+<bindingDesc><binding> 
+    <p>Bound in blind stamped <material>goatskin</material> (reused), over thin wooden boards. 
+        Doublures of dark brown <material>leather</material>.</p></binding>
+</bindingDesc></physDesc>
+    <history>
+        <origin><p>The manuscript is dated to the late 19th or early 20th century based on the results of codicological and text critical assessments, 
+            and the scientific testing of its pigment, ink, and parchment support. Place of origin possibly Greece.</p></origin>
+        <provenance><p>Belonged to <name reg="Askitopoulos, John, died ca. 1918" type="person" role="owner">John Askitopoulos</name> (died ca. 1918), 
+            an Athenian collector and dealer in antiquities. University of Chicago Libraries bookplate (front doublure).</p></provenance> 
+        <acquisition><p>Acquired by the University of Chicago from the family of John Askitopoulos, August 1938.</p></acquisition>
+    </history>
+<additional>
+<listBibl>
+    <bibl>
+    <author>Kenneth W. Clark</author>, 
+    <title level="m">A Descriptive Catalogue of Greek New Testament Manuscripts in America</title>
+                            <imprint>
+                                <pubPlace>(Chicago:</pubPlace>
+                                <publisher>University of Chicago Press,</publisher>
+                                <date>1937),</date>
+                            </imprint>
+                            <biblScope type="pages">p. 271.</biblScope></bibl>
+    <bibl>
+    <author>Harold Rideout Willoughby</author>, 
+    <title level="a">"Archaic crucifixion iconography,"</title> in 
+        <title level="m">Munera studiosa</title>, edited by 
+    <editor>Massey Hamilton Shepherd Jr.</editor> and <editor>Sherman Elbridge Johnson</editor>
+    <imprint> 
+        <pubPlace>(Cambridge, Mass.:</pubPlace> 
+        <publisher>The Episcopal Theological School,</publisher> 
+        <date>1946),</date>
+    </imprint> 
+    <biblScope type="pages">pp. [123]-144.</biblScope></bibl>
+    <bibl>
+        <author>Robert P. Casey</author>, 
+        <title level="a">"Review of Munera studiosa,"</title> 
+        <title level="j">Journal of Religion</title> 
+        <biblScope type="volume">27</biblScope> 
+        <imprint><date>(April 1947),</date></imprint> 
+        <biblScope type="pages">pp. 148-149.</biblScope></bibl>
+    <bibl>
+        <author>Robert W. Allison</author>, 
+        <title level="u">Report on the study of the Archaic Mark (Ms. 972) under the Stereomicroscope and Polarizing microscope.</title>
+        <note>Written in the early 1970s, this unpublished report contains the notes of Marigene H. Butler, Associate conservator of the Art Institute of 
+        Chicago who conducted an examination of the manuscript, 1971-1972. Her samples are archived at the Art Institute.</note></bibl>
+    <bibl>
+        <author>Mary Virginia Orna</author>, <author>Patricia L. Lang</author>, <author>J. E. Katon</author>, 
+        <author>Thomas F. Matthews</author>, and <author>Robert S. Nelson</author>,  
+        <title level="a">"Applications of Infrared Microspectroscopy to Art Historical questions about medieval manuscripts,"</title> 
+        <title level="m">Archaeological Chemistry IV</title>, edited by <editor>Ralph O. Allen</editor>.
+            <imprint> 
+                <pubPlace>(Washington, D. C.:</pubPlace> 
+                <publisher>American Chemical Society,</publisher> 
+                <date>1989),</date>
+            </imprint> 
+            <biblScope type="pages">pp. [265]-288.</biblScope></bibl>
+    <bibl>
+        <author>Margaret M. Mitchell</author> and <author>Patricia A. Duncan</author>,
+        <title level="a">"Chicago’s 'Archaic Mark' (Ms. 2427): A reintroduction to its enigmas and a fresh collation of its readings,"</title> 
+            <title level="j">Novum Testamentum</title> 
+            <biblScope type="volume">48</biblScope> 
+            <imprint><date>(2006),</date></imprint> 
+            <biblScope type="pages">pp. 1-35.</biblScope>
+    </bibl>
+    <bibl><author>Stephen C. Carlson</author>, 
+        <title level="u">"Archaic Mark" (MS 2427) and the finding of a manuscript fake</title> 
+        <note>(paper presented at the Society of Biblical Literature Forum, August, 2006).</note></bibl>
+    <bibl>
+        <author>Abigail B. Quandt</author>, 
+        <title level="u">Preliminary Observations on the Archaic Mark</title> 
+        <note>(Report, November 13, 2007).</note></bibl>
+    <bibl>
+        <author>Margaret M. Mitchell</author>, <author>Joseph G. Barabe</author>, and <author>Abigail B. Quandt</author>,  
+        <title level="a">"Chicago’s 'Archaic Mark' (Ms. 2427) II: Microscopic, chemical and codicological analyses confirm modern production,"</title>
+            <title level="j">Novum Testamentum</title> 
+        <biblScope type="volume">52</biblScope> 
+        <imprint><date>(2010),</date></imprint> 
+        <biblScope type="pages">pp. 101-133.</biblScope>
+    </bibl>
+    <bibl>
+        <author>McCrone Associates, Inc.</author>, 
+        <title level="u">Analysis of the <hi rend="italics">Archaic Mark</hi> Codex</title>
+        <note>(Final report, 2008).</note></bibl>
+    <bibl>
+            <author>Mary Virginia Orna</author>, 
+        <title level="a">"Artists’ Pigments in Illuminated Medieval Manuscripts: Tracing Artistic Influences and Connections - A Review,"</title> 
+        <title level="m">Archaeological Chemistry VIII</title>, edited by <editor>R. A. Armitage</editor> and <editor>J. Burton</editor>. 
+        <imprint> 
+                <pubPlace>(Washington, D. C.:</pubPlace> 
+                <publisher>American Chemical Society,</publisher> 
+                <date>2014),</date>
+            </imprint> 
+            <biblScope type="pages">pp. [3]-18.</biblScope></bibl>
+</listBibl>
+                </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

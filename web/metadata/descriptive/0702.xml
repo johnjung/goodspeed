@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+ 
+ <teiHeader date.created="2015-11-04" creator="jfcd">
+ <fileDesc>
+ <titleStmt>
+  <title>[University of Chicago Library GMS-0702, a manuscript catalogue description in electronic form]</title>
+  <funder>Institute of Museum and Library Services</funder>
+  <respStmt>
+   <resp>Creation of electronic version:</resp>
+   <name>University of Chicago Library</name>
+   <resp>Creation of digital images:</resp>
+   <name>University of Chicago Library</name>
+  </respStmt> 
+ </titleStmt>
+  <publicationStmt>
+   <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+   <pubPlace>Chicago, Illinois</pubPlace>
+   <date>2009</date>
+   <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0702</idno>
+   <availability status= "free">
+    <p>Publicly accessible</p></availability>
+  </publicationStmt>
+  <sourceDesc>
+  <msDescription>
+   <msIdentifier>
+    <country>United States</country>
+    <region>Illinois</region>
+    <settlement>Chicago</settlement>
+    <institution>University of Chicago Library</institution> 
+    <repository>Special Collections Research Center</repository>
+    <collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 702</idno>
+    <altName type="Gregory number">Greg. l 1598</altName>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 15</altIdentifier>
+   </msIdentifier>
+   <msHeading>
+    <title>Lectionary</title>
+    <otherName>Trebizond Lectionary</otherName>
+    <origPlace>Unknown Place of Origin</origPlace>
+    <origDate notBefore="901" notAfter="1000">10th century</origDate>
+    <textLang langKey="grc">Greek</textLang>
+   </msHeading>
+   <msContents>
+    <overview>
+     <p>Gospel lectionary leaf fragment in Greek. Contains Matthean portions of the Synaxarion for Saturday and Sunday. 
+      Formerly Goodspeed Ms. Grk. 15.</p></overview>
+    <msItem n="1" status="frag">
+     <locus from="001" to="001">fol. [1r]</locus>
+     <summary>Saturday, Week 5 after Pentecost, Matthew 9:12-13 (lacking).</summary> 
+     <summary>Sunday, Week 5 after Pentecost, Matthew 8:29-31.</summary>
+     <additions><p>Drawing of bird (20 x 15 mm) and jottings written crosswise to the text.</p></additions></msItem>
+    <msItem n="2" status="frag">
+     <locus from="002" to="002">fol. [1v]</locus>
+     <summary>Sunday, Week 5 after Pentecost (continuation), Matthew 8:32-34 (lacking).</summary> 
+     <summary>Saturday, Week 6 after Pentecost, Matthew 9:18-20 (lacking).</summary>
+     <additions><p>Apprentice scribe's exercises in the form of brief prayers.</p></additions>
+    </msItem></msContents>
+   <physDesc>
+    <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">132 x 200 mm</dimensions>.</p></support>
+    <extent>One-half leaf.</extent>
+    <layout ><p>Originally 2 columns, each of 25 lines.</p></layout>
+    <msWriting><handDesc script="Uncial" medium="ink">
+     <p>Written in uncial script in dark brown ink (very faded).</p></handDesc></msWriting>
+    <condition>
+     <p>Used as a flyleaf in a later codex, the leaf was turned sidewise, cut in half horizontally below the 13th line, and 
+      the outer margin was trimmed. It is stained, cockled, badly creased, and has sustained some insect damage.</p></condition>
+   </physDesc>
+   <history>
+    <origin><p>The manuscript to which the present leaf belonged is judged to have been written in the 10th century. A place of origin is unknown.</p></origin>
+    <provenance><p>Medieval to early 20th century provenance unknown. The leaf was named for <name reg="Trebizond" type="place">Trebizond</name>, the 
+     present-day <name reg="Trabzon, Turkey" type="place">Trabzon, Turkey</name>, the city wherein it was discovered in the 1920s.</p></provenance>
+    <acquisition><p>Acquired by the University of Chicago from <name reg="Riefstahl, Rudolf Meyer, 1880-1936" type="person" role="antiquarian">Rudolf M. Riefstahl</name> (New York), 
+     November 1929.</p></acquisition>
+   </history></msDescription>
+  </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+     Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+     of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+     the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+     resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+     an interface that supports browsing within individual manuscripts and across the collection.</p>
+    <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+     Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+     as of <date>2012-09-22</date>.</p> 
+    <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+     at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+     accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+     and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+     recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+     visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+ <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+            </langUsage>
+   <textClass>
+    <keywords>
+     <term>Lectionaries</term>
+     <term>Manuscripts, Greek (Medieval and modern)</term>
+    </keywords>
+   </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+ <msDescription id="GMS-0702">
+  <msIdentifier>
+  <country>United States</country>
+ <region>Illinois</region>
+ <settlement>Chicago</settlement>
+ <institution>University of Chicago Library</institution> 
+ <repository>Special Collections Research Center</repository>
+  <collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 702</idno>
+<altName type="Gregory number">Greg. l 1598</altName>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 15</altIdentifier>
+ </msIdentifier>
+ <msHeading>
+ <title>Lectionary</title>
+<otherName>Trebizond Lectionary</otherName>
+  <origPlace>Unknown Place of Origin</origPlace>
+  <origDate notBefore="901" notAfter="1000">10th century</origDate>
+ <textLang langKey="grc">Greek</textLang>
+ </msHeading>
+ <msContents>
+ <overview>
+ <p>Gospel lectionary leaf fragment in Greek. Contains Matthean portions of the Synaxarion for Saturday and Sunday. 
+ Formerly Goodspeed Ms. Grk. 15.</p></overview>
+  <msItem n="1" status="frag">
+   <locus from="001" to="001">fol. [1r]</locus>
+   <summary>Saturday, Week 5 after Pentecost, Matthew 9:12-13 (lacking).</summary> 
+   <summary>Sunday, Week 5 after Pentecost, Matthew 8:29-31.</summary>
+   <additions><p>Drawing of bird (20 x 15 mm) and jottings written crosswise to the text.</p></additions></msItem>
+  <msItem n="2" status="frag">
+   <locus from="002" to="002">fol. [1v]</locus>
+   <summary>Sunday, Week 5 after Pentecost (continuation), Matthew 8:32-34 (lacking).</summary> 
+   <summary>Saturday, Week 6 after Pentecost, Matthew 9:18-20 (lacking).</summary>
+   <additions><p>Apprentice scribe's exercises in the form of brief prayers.</p></additions>
+  </msItem></msContents>
+<physDesc>
+ <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">132 x 200 mm</dimensions>.</p></support>
+ <extent>One-half leaf.</extent>
+ <layout ><p>Originally 2 columns, each of 25 lines.</p></layout>
+<msWriting><handDesc script="Uncial" medium="ink">
+ <p>Written in uncial script in dark brown ink (very faded).</p></handDesc></msWriting>
+ <condition>
+  <p>Used as a flyleaf in a later codex, the leaf was turned sidewise, cut in half horizontally below the 13th line, and 
+   the outer margin was trimmed. It is stained, cockled, badly creased, and has sustained some insect damage.</p></condition>
+</physDesc>
+<history>
+ <origin><p>The manuscript to which the present leaf belonged is judged to have been written in the 10th century. A place of origin is unknown.</p></origin>
+ <provenance><p>Medieval to early 20th century provenance unknown. The leaf was named for <name reg="Trebizond" type="place">Trebizond</name>, the 
+  present-day <name reg="Trabzon, Turkey" type="place">Trabzon, Turkey</name>, the city wherein it was discovered in the 1920s.</p></provenance>
+ <acquisition><p>Acquired by the University of Chicago from <name reg="Riefstahl, Rudolf Meyer, 1880-1936" type="person" role="antiquarian">Rudolf M. Riefstahl</name> (New York), 
+  November 1929.</p></acquisition>
+</history>
+<additional>
+<listBibl>
+<bibl>
+<author>Seymour de Ricci</author>,
+<title level="m">Census of Medieval and Renaissance Manuscripts in the United States and Canada</title>
+<imprint>
+<pubPlace>(New York:</pubPlace>
+<publisher>H. W. Wilson company,</publisher>
+ <date>1935),</date></imprint>
+ <biblScope type="volume">vol. 1, p. 595.</biblScope></bibl>
+<bibl>
+<author>Kenneth W. Clark</author>,
+<title level="m">A Descriptive Catalogue of Greek New Testament Manuscripts in America</title>
+<imprint>
+<pubPlace>(Chicago:</pubPlace>
+ <publisher>University of Chicago Press,</publisher>
+<date>1937),</date>
+</imprint>
+<biblScope type="pages">p. 261.</biblScope></bibl>
+<bibl>
+<author>Merrill Mead Parvis</author>,
+<title level="m">The Story of the Goodspeed Collection</title>
+<imprint>
+<pubPlace>([Chicago]:</pubPlace>
+ <publisher>s.n.,</publisher> 
+<date>1952),</date>
+</imprint>
+<biblScope type="pages">p. 13.</biblScope></bibl>
+                    </listBibl>
+                </additional>
+            </msDescription>
+        </body>
+    </text>   
+</TEI.2>

@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0965, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0965</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 965</idno>
+                        <altName type="Gregory number">Greg. 2400</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 51</altIdentifier>
+                    </msIdentifier> 
+                    <msHeading>
+                        <title>Bible. New Testament</title>
+                        <otherName>Rockefeller-McCormick New Testament</otherName>
+                        <origPlace>Cyprus or Palestine?</origPlace>
+                        <origDate notBefore="1101" notAfter="1200">12th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents> 
+                        <overview><p>New Testament in Greek. Added Ammonian section numbers, lectionary apparatus, and 
+                            chapter titles in the margins. Formerly Goodspeed Ms. Grk. 51.</p></overview></msContents>
+                    <decoration> 
+                        <overview><p>Full and half-page miniatures number 92. These contain portraits of the Evangelists 
+                            Mark, Luke, and John, Apostles Peter, James, and Jude, depictions drawn the 
+                            cycles of Christ's ministry, miracles and Passion, and the ministry of his Apostles.</p>
+                        </overview><canonTables>
+                            <p>Citations of concordant gospel sections are framed by architectural columns. These support arched headpieces of 
+                                multi-colored floral, foliate, and geometric designs on which a variety of birds are posed.</p>
+                        </canonTables>
+                        <initials>
+                            <p>Major initials (30-35 mm) in blue, red, and white at the gospel openings of Mark, Luke, and John (fols. 36r, 56r, 85r). Minor initials in gold over red ink set off from the text.</p>
+                        </initials>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="block" units="mm">200 x 150 mm</dimensions>.</p></support>
+                        <extent>207 leaves, of which 2 are flyleaves.</extent>
+                        <foliation><p>1 (foliated flyleaf) + 205 + 1 (foliated flyleaf). Modern foliation in Arabic numerals in pencil 1-207.</p></foliation> 
+                        <collation><p>30 quires varying in size from 8 to 2 leaves. Estimate of content lost: 2 leaves before fol. 9 (Matthew 1:1-25, headpiece, initial, and 
+                            Evangelist Matthew portrait); 1 leaf after fol. 16 (Matthew 9:20-10:1 and 2 miniatures); 1 leaf after fol. 26 (Matthew 20:20 from προσκυνουσα, 
+                            and 1 miniature. Begins at 21:15 with ωσαννα τω υιω on fol. 27r); 1 leaf after fol. 63 (Luke 4:42 from αυτον, and 2 miniatures. Begins at 5:33 
+                            with προς αυτον διατι on fol. 64r); 1 leaf after fol. 83 (Luke 23:38 and 1 miniature. Begins at 24:21 with αφ ου ταυτα on fol. 84r); 2 leaves after 
+                            fol. 87 (John 2:3 from αυτον, and possibly 4 miniatures. Begins at 4:10 with αυτη ει ηδεις on fol. 88r); 1 leaf after fol. 105 (Acts 1:1-10 and 1 
+                            headpiece, initial, and miniature. Begins at 1:10 with [α]τενιζοντες ησαν εις on fol. 106r); 2 leaves after fol. 114 (Acts 7:58 from κα[λουμενου], 
+                            and 2 miniatures. Begins at 9:3 on fol. 115r); 1 leaf after fol. 125 (Acts 16:39 from αυτους και. Begins at 17:23 on fol. 126r); 1 leaf after fol. 127 
+                            (Acts 19:25 from συναθροισ[ας]. Begins at 20:7 with [ε]παυριον παρετεινε τε on fol. 128r); 1 leaf after fol. 145 (Apostle John portrait before 1 John).</p>
+                            <p>Of an approximate 17 leaves missing, 6 were replaced. These include: fol. 7 (Matthew 1:1-8); fol. 8 (Matthew 1:1-25); 
+                                fol. 60 (Luke 2:27-3:9); fol. 70 (Luke 9:36-10:6); fol. 146 (2 Peter 3:11-18, summary of 1 John, 1 John 1:1-2:8); fol. 151 
+                                (Jude 14-25, Romans 1:1-26). Text of the Hypothesis of James was added to fol. 137v.</p> <p>Some quire numbers visible 
+                                    in the upper right margin on each quire's first leaf (recto), Matthew through John. A new numbering appears to have begun at Acts.</p></collation> 
+                        <dimensions type="written" units="mm">Written space 150 x 100 mm (fol. 119r).</dimensions> 
+                        <layout columns="1" writtenLines="36-42"><p>1 column, 36-42 lines. Ruling with hard point.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in black ink. Text of inserted leaves 
+                            written in medium brown ink (some fading and flaking).</p></handDesc>
+                        </msWriting>
+                        <condition><p>Parchment is cockled. Edges of leaves are brittle and darkened. Portions of several leaves broken. Water, 
+                            wax, and dirt stains. Owing to a flaking of paint, most miniatures lack details, and underdrawings are visible.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Binding of <material>silver-gilt</material> repoussé over boards. Spine of purple <material>velvet</material>. Remains 
+                                of red silk velvet doublures.</p> <decoNote><p>Front cover: The Crucifixion of Christ with the Virgin Mary and the Evangelist John at 
+                                    the foot of the cross. Frame of acanthus, with symbols of the four evangelists (angel, eagle, ox, and lion) depicted, one at each side. Back cover: 
+                                    The Resurrection of Christ.</p></decoNote></binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript is judged to have been written and illuminated in the 12th century, possibly in <name reg="Cyprus" type="place">Cyprus</name> or 
+                            <name reg="Palestine" type="place">Palestine</name>.</p></origin> 
+                        <provenance><p>Belonged to the Voivode Alexander according to <name reg="Jeremias" type="person" role="writer">Jeremias</name>, recorder of the undated 
+                            colophon (fol. 207r). It has been surmised that the owner named was <name reg="Alexandru II Mircea, Voivode of Wallachia, 1568-1577" type="person" role="owner">Alexandru II 
+                                Mircea, Voivode of Wallachia, 1568-1577</name>. Purchased from a resident of <name reg="Zile, Turkey" type="place">Zile</name> in Anatolia in 1910 by 
+                            bookseller <name reg="M. Stora et cie (Firm)" type="org" role="bookseller">Maurice Stora (Paris)</name>. Belonged to philanthropist 
+                            <name reg="McCormick, Edith Rockefeller, 1872-1932" type="person" role="owner">Edith Rockefeller McCormick</name> (1872-1932), 
+                            who bought the manuscript from Stora in 1928.</p> 
+                            <p>Inscriptions, that of the lower margin dated 1891 April 20, with initials B. K. (fol. 7v); illegible note (fol. 35v); notation (fols. 55r, 105v, 137r); 
+                                drawing of a fish (fol. 146v); University of Chicago Libraries bookplate (inside front cover).</p></provenance>
+                        <acquisition><p>Gift of <name reg="McCormick, Elizabeth Day, 1874-1957" type="person" role="owner">Elizabeth Day McCormick</name> (1874-1957) to the University of Chicago, 
+                            following her purchase of the manuscript in 1942 from the estate of Edith Rockefeller McCormick.</p></acquisition>
+                    </history>
+</msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+            
+        </encodingDesc>
+        <profileDesc>
+  <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+  </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Gospels. Greek</term>
+                    <term>Bible--Manuscripts</term>
+                    <term>Miniatures (Illuminations)</term>
+                    <term>Canon tables</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0965">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 965</idno>
+    <altName type="Gregory number">Greg. 2400</altName>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 51</altIdentifier>
+</msIdentifier> 
+    <msHeading>
+        <title>Bible. New Testament</title>
+        <otherName>Rockefeller-McCormick New Testament</otherName>
+        <origPlace>Cyprus or Palestine?</origPlace>
+        <origDate notBefore="1101" notAfter="1200">12th century</origDate>
+        <textLang langKey="grc">Greek</textLang>
+    </msHeading>
+<msContents> 
+    <overview><p>New Testament in Greek. Added Ammonian section numbers, lectionary apparatus, and 
+        chapter titles in the margins. Formerly Goodspeed Ms. Grk. 51.</p></overview>
+ <msItem n="1">
+        <locus from = "007" to ="014">fols. 2r-5v</locus> 
+        <summary>Canon tables I-X.</summary>
+     <note>Blank (fol. 6r).</note>
+    </msItem>
+    <msItem n="2">
+        <locus from = "019" to ="073">fols. 8r-35r</locus> 
+        <summary>Matthew. Subscription.</summary>
+        <note>Duplicate text of Matthew 1:1-8 (fols. 7r, 8r).</note>
+    </msItem>
+    <msItem n="3">
+        <locus from = "075" to ="113">fols. 36r-55r</locus> 
+        <summary>Mark. Subscription.</summary>
+        <note>Blank (fol. 55v).</note>
+    </msItem>
+    <msItem n="4">
+        <locus from = "115" to ="172">fols. 56r-84v</locus> 
+        <summary>Luke. Subscription.</summary>
+    </msItem>
+    <msItem n="5">
+        <locus from = "173" to ="213">fols. 85r-105r</locus> 
+        <summary>John. Subscription.</summary>
+    </msItem>
+    <msItem n="6">
+        <locus from = "215" to ="277">fols. 106r-137r</locus> 
+        <summary>Acts. Subscription.</summary>
+    </msItem>
+  <msItem n="7">
+        <locus from = "278" to ="278">fol. 137v</locus> 
+        <summary>Hypothesis of James.</summary>
+    </msItem>
+    <msItem n="8">
+        <locus from = "279" to ="285">fols. 138r-141r</locus> 
+        <summary>James.</summary>
+    </msItem>
+    <msItem n="9">
+        <locus from = "285" to ="291">fols. 141r-144r</locus> 
+        <summary>1 Peter.</summary>
+    </msItem>
+    <msItem n="10">
+        <locus from = "291" to ="295">fols. 144r-146r</locus> 
+        <summary>2 Peter.</summary>
+    </msItem>
+    <msItem n="11">
+        <locus from = "295" to ="295">fol. 146r</locus> 
+        <summary>Summary of 1 John.</summary>
+    </msItem>
+    <msItem n="12">
+        <locus from = "296" to ="301">fols. 146v-149r</locus> 
+        <summary>1 John.</summary>
+    </msItem>
+    <msItem n="13">
+        <locus from = "301" to ="302">fols. 149r-149v</locus> 
+        <summary>2 John.</summary>
+    </msItem>
+    <msItem n="14">
+        <locus from = "302" to ="303">fols. 149v-150r</locus> 
+        <summary>3 John.</summary>
+    </msItem>
+    <msItem n="15">
+        <locus from = "303" to ="305">fols. 150r-151r</locus> 
+        <summary>Jude.</summary>
+    </msItem>
+    <msItem n="16">
+        <locus from = "305" to ="325">fols. 151r-161r</locus> 
+        <summary>Romans.</summary>
+        <note>Romans 16:25-27 placed at end of chapter 14.</note>
+    </msItem>
+    <msItem n="17">
+        <locus from = "326" to ="344">fols. 161v-170v</locus> 
+        <summary>1 Corinthians.</summary>
+    </msItem>
+    <msItem n="18">
+        <locus from = "345" to ="357">fols. 171r-177r</locus> 
+        <summary>2 Corinthians.</summary>
+    </msItem>
+    <msItem n="19">
+        <locus from = "358" to ="364">fols. 177v-180v</locus> 
+        <summary>Galatians.</summary>
+    </msItem>
+    <msItem n="20">
+        <locus from = "364" to ="371">fols. 180v-184r</locus> 
+        <summary>Ephesians.</summary>
+    </msItem>
+    <msItem n="21">
+        <locus from = "371" to ="375">fols. 184r-186r</locus> 
+        <summary>Philippians.</summary></msItem>
+    <msItem n="22">
+        <locus from = "375" to ="380">fols. 186r-188v</locus> 
+        <summary>Colossians.</summary></msItem>
+    <msItem n="23">
+        <locus from = "380" to ="384">fols. 188v-190v</locus> 
+        <summary>1 Thessalonians.</summary></msItem>
+    <msItem n="24">
+        <locus from = "385" to ="387">fols. 191r-192r</locus> 
+        <summary>2 Thessalonians.</summary></msItem>
+    <msItem n="25">
+        <locus from = "387" to ="392">fols. 192r-194v</locus> 
+        <summary>1 Timothy.</summary></msItem>
+    <msItem n="26">
+        <locus from = "392" to ="396">fols. 194v-196v</locus> 
+        <summary>2 Timothy.</summary></msItem>
+    <msItem n="27">
+        <locus from = "396" to ="398">fols. 196v-197v</locus> 
+        <summary>Titus.</summary></msItem>
+    <msItem n="28">
+        <locus from = "398" to ="399">fols. 197v-198r</locus> 
+        <summary>Philemon.</summary></msItem>
+    <msItem n="29">
+        <locus from = "399" to ="414">fols. 198r-205v</locus> 
+        <summary>Hebrews.</summary></msItem>
+    <msItem n="30">
+        <locus from = "414" to ="415">fols. 205v-206r</locus> 
+        <summary>Table of chapter titles.</summary></msItem>
+    <msItem n="31">
+        <locus from = "417" to ="417">fol. 207r</locus> 
+        <colophon>The Voivode Alexander (undated).</colophon></msItem>
+</msContents>
+    <decoration> 
+        <overview><p>Full and half-page miniatures number 92. These contain portraits of the Evangelists 
+            Mark, Luke, and John, Apostles Peter, James, and Jude, depictions drawn the 
+            cycles of Christ's ministry, miracles and Passion, and the ministry of his Apostles.</p>
+        </overview>
+        <miniatures>
+            <minItem n="1">
+            <locus from="016" to="016">fol. 6v</locus>
+                <minDesc>Moses: Receiving Law. Moses stands in mountain landscape, hands covered; 
+                    looks toward hand of God emerging from heaven (upper right).</minDesc></minItem>
+            <minItem n="2">
+                <locus from="021" to="021">fol. 9r</locus>
+                <minDesc>Christ: Nativity. Virgin Mary (center) in bed; infant Jesus next to her in manger; angels 
+                    hover above them; shepherd stands at right, arm raised; Joseph seated, lower left.</minDesc></minItem>
+            <minItem n="3">
+                <locus from="022" to="022">fol. 9v</locus>
+                <minDesc>Innocents: Massacre commanded. Herod the king, crowned and robed, seated at right; soldier stands 
+                    at center with shield and sword, ready to kill Bethlehem's infant boys. At left in cave, Elizabeth and 
+                    her child John the Baptist find shelter.</minDesc></minItem>
+            <minItem n="4">
+                <locus from="023" to="023">fol. 10r</locus>
+                <minDesc>John Baptist: Preaching. John the Baptist stands at left, dressed in animal skins, 
+                    holding scroll; he preaches to people in crowd at right.</minDesc></minItem>
+            <minItem n="5">
+                <locus from="024" to="024">fol. 10v</locus>
+                <minDesc>John Baptist: Recognizing Christ. Scene (upper): John the Baptist 
+                    (center) preaches to crowd at left; at right, he kneels before Jesus (standing). 
+                    Christ: Baptism. Scene (lower): Jesus waits in river at center, two angels behind him; 
+                    John the Baptist at left, holds water-filled gourd above Jesus's head.</minDesc></minItem>
+            <minItem n="6">
+                <locus from="026" to="026">fol. 11v</locus>
+                <minDesc>Christ: Sermon on Mount. Jesus seated at left with scroll, his right hand raised; 
+                    disciples stand at right.</minDesc></minItem>
+            <minItem n="7">
+                <locus from="031" to="031">fol. 14r</locus>
+                <minDesc>Christ: Miracle of healing leper. Jesus stands at center with scroll, holding 
+                    hand of leper at right; two disciples at left.</minDesc></minItem>
+            <minItem n="8">
+                <locus from="032" to="032">fol. 14v</locus>
+                <minDesc>Christ: Miracle of healing servant of centurion. Jesus, hand raised, stands at 
+                    left holding scroll, a disciple behind him; centurion at center faces Jesus; crowd at right.</minDesc></minItem>
+            <minItem n="9">
+                <locus from="033" to="033">fol. 15r</locus>
+                <minDesc>Christ: Miracle of healing Peter's wife's mother; Jesus stands at right, holds 
+                    hand of Peter's wife's mother who lies in bed; Peter and another disciple wait behind him.</minDesc></minItem>
+            <minItem n="10">
+                <locus from="034" to="034">fol. 15v</locus>
+                <minDesc>Christ: Miracle of healing Gadarene demoniacs. Jesus stands at left, extends hand to heal 
+                    two possessed men at right; disciples wait behind him.</minDesc></minItem>
+            <minItem n="11">
+                <locus from="035" to="035">fol. 16r</locus>
+                <minDesc>Christ: Miracle of healing paralytic. Scene (upper): Jesus, with disciple at right, raises hand 
+                    over paralyzed man lying on pallet; two woman and a man stand in background. Christ: Calling Matthew. 
+                    Scene (lower): Jesus at right, seated at table, extends hand to Matthew, at left.</minDesc></minItem>
+            <minItem n="12">
+                <locus from="036" to="036">fol. 16v</locus>
+                <minDesc>Christ: Sought by official. Young official, at right, urges Jesus to follow and raise up his dead daughter; 
+                    Jesus walks toward him, hand raised; two disciples at left.</minDesc>
+            <note>In the synoptic gospel narratives, the official of Matthew 9:18, is named Jairus.</note></minItem>
+            <minItem n="13">
+                <locus from="039" to="039">fol. 18r</locus>
+                <minDesc>Christ: Denouncing cities. Jesus, seated on cushioned bench at left, right hand raised, book 
+                    held in left hand; two disciples stand behind him; city towers at right.</minDesc></minItem>
+            <minItem n="14">
+                <locus from="040" to="040">fol. 18v</locus>
+                <minDesc>Christ: Apostles plucking corn. Jesus (center right) hand raised, faces two Pharisees 
+                    at right; two disciples, each holding grain stalks, stand at left.</minDesc></minItem>
+            <minItem n="15">
+                <locus from="041" to="041">fol. 19r</locus>
+                <minDesc>Christ: Miracle of healing man with withered hand. Jesus stands at center left, hand raised, 
+                    holding scroll; two disciples wait behind him; man faces Jesus with withered hand extended; 
+                    Pharisees at right.</minDesc></minItem>
+            <minItem n="16">
+                <locus from="042" to="042">fol. 19v</locus>
+                <minDesc>Christ: Miracle of healing demoniac, blind and dumb. Two disciples 
+                    wait behind Jesus (center left) who extends hand to heal possessed man (center right); 
+                    Pharisees watch at right.</minDesc></minItem>
+            <minItem n="17">
+                <locus from="044" to="044">fol. 20v</locus>
+                <minDesc>Christ: Sought by mother and brethren. Jesus, at center, seated on cushioned bench 
+                    teaching those at left; his mother and family members stand at right.</minDesc></minItem>
+            <minItem n="18">
+                <locus from="047" to="047">fol. 22r</locus>
+                <minDesc>Herod Antipas: Feast, Salome delivering head. Herod the king, 
+                    crowned and robed, seated at left, a retainer behind him; Queen Herodias's daughter at center 
+                    balances platter containing John the Baptist's head; guests at feast seated right.</minDesc></minItem>
+            <minItem n="19">
+                <locus from="048" to="048">fol. 22v</locus>
+                <minDesc>Christ: Miracle of loaves. Jesus, seated at left, holds bread, gestures to standing disciple; 
+                    six loaves lay on table between them; crowd seated at right in front of baskets.</minDesc></minItem>
+            <minItem n="20">
+                <locus from="052" to="052">fol. 24v</locus>
+                <minDesc>Christ: Transfiguration. Jesus, within a central mandorla, appears between Elijah (left) and 
+                    Moses (right); Peter (left), lying on ground with disciples James and John, points to sight above them.</minDesc></minItem>
+            <minItem n="21">
+                <locus from="065" to="065">fol. 31r</locus>
+                <minDesc>Christ: Last Supper. Jesus (left) seated with disciples at table set with bowls of food, 
+                    and drinking vessels.</minDesc></minItem>
+            <minItem n="22">
+                <locus from="067" to="067">fol. 32r</locus>
+                <minDesc>Christ: Betrayal. Jesus with scroll (center left) is kissed by Judas 
+                    (center right); soldiers and disciples stand behind them.</minDesc></minItem>
+            <minItem n="23">
+                <locus from="070" to="070">fol. 33v</locus> 
+                <minDesc>Christ: Crucifixion. Jesus crucified on cross, at center; Virgin Mary (left) and disciple John (right) 
+                    at foot of cross.</minDesc></minItem>
+            <minItem n="24">
+                <locus from="072" to="072">fol. 34v</locus>
+                <minDesc>Christ: Appearing to Holy Women. Jesus, holding scroll, stands between the two women 
+                    kneeling on ground.</minDesc></minItem>
+            <minItem n="25">
+                <locus from="075" to="075">fol. 36r</locus>
+                <minDesc>Evangelist, Mark: Portrait. Mark writing, seated on cushioned bench; lectern at right, building in background.</minDesc></minItem>
+            <minItem n="26">
+                <locus from="076" to="076">fol. 36v</locus>
+                <minDesc>John Baptist: Preaching. John the Baptist (center left), dressed in animal skins, and 
+                    holding scroll; he preaches to those standing at right.</minDesc></minItem>
+            <minItem n="27">
+                <locus from="077" to="077">fol. 37r</locus>
+                <minDesc>Christ: Going into wilderness. Jesus stands at River Jordan in desert landscape; 
+                    mountain and tree in background.</minDesc></minItem>
+            <minItem n="28">
+                <locus from="078" to="078">fol. 37v</locus>
+                <minDesc>Christ: Miracle of healing man with unclean spirit. Jesus walks forward from left, 
+                    extends hand to heal possessed man at center; crowd watches at right.</minDesc></minItem>
+            <minItem n="29">
+                <locus from="079" to="079">fol. 38r</locus>
+                <minDesc>Christ: Miracle of healing all that were sick. Jesus walks forward from left, extends 
+                    hand to heal lame man at right, and two people with withered limbs at center.</minDesc></minItem>
+            <minItem n="30">
+                <locus from="080" to="080">fol. 38v</locus>
+                <minDesc>Christ: Miracle of healing paralytic. Jesus, seated at right, raises hand over paralyzed man 
+                    lying on pallet; on-lookers at right.</minDesc></minItem>
+            <minItem n="31">
+                <locus from="082" to="082">fol. 39v</locus>
+                <minDesc>Christ: Miracle of healing man with withered hand. Jesus stands center left, hand raised; 
+                    man faces Jesus, his withered hand extended; on-lookers at right.</minDesc></minItem>
+            <minItem n="32">
+                <locus from="083" to="083">fol. 40r</locus>
+                <minDesc>Christ: Sought by mother and brethren. Jesus, at center, seated on cushioned bench 
+                    teaching those at left; messenger sent by his mother and family members waits at right.</minDesc></minItem>
+            <minItem n="33">
+                <locus from="084" to="084">fol. 40v</locus>
+                <minDesc>Christ: Teaching. Jesus, in boat at left, teaching those standing on shore at right.</minDesc></minItem>
+            <minItem n="34">
+                <locus from="086" to="086">fol. 41v</locus>
+                <minDesc>Christ: Miracle of stilling storm. Jesus, in boat at left, extends hand over 
+                    waves to calm storm; disciples seated at right reach out to him.</minDesc></minItem>
+            <minItem n="35">
+                <locus from="087" to="087">fol. 42r</locus>
+                <minDesc>Christ: Miracle of healing Gerasene demoniac. Jesus stands at left, extends 
+                    hand to heal possessed man at center; demon flies from scene at right.</minDesc></minItem>
+            <minItem n="36">
+                <locus from="088" to="088">fol. 42v</locus>
+                <minDesc>Christ: Sought by Jairus. Jairus a synagogue official, at right, urges Jesus to follow and raise up 
+                    his dead daughter; Jesus seated on cushioned bench at left, hand raised.</minDesc></minItem>
+            <minItem n="37">
+                <locus from="089" to="089">fol. 43r</locus>
+                <minDesc>Christ: Miracle of healing woman with issue of blood. Jesus follows Jairus a synagogue 
+                    official, at right; woman who suffers hemorrhages lies on ground at center touching hem of Jesus's robe; 
+                    spectators at left.</minDesc></minItem>
+            <minItem n="38">
+                <locus from="090" to="090">fol. 43v</locus>
+                <minDesc>Christ: Miracle of raising daughter of Jairus. Jesus stands at center, holds hand of Jairus's
+                    daughter who is sitting up; Jairus and his wife stand at either end of bed.</minDesc></minItem>
+            <minItem n="39">
+                <locus from="096" to="096">fol. 46v</locus>
+                <minDesc>Apostle, Peter: Confessing Christ. Jesus stands at center, hand raised; Peter waits next 
+                    to him gesturing; two disciples at left.</minDesc></minItem>
+            <minItem n="40">
+                <locus from="106" to="106">fol. 51v</locus>
+                <minDesc>Christ: Anointed by woman. Jesus (left) seated at table; woman who 
+                    anointed him kneeling on floor at his feet; Simon the Leper seated at right; two 
+                    disciples stand in background.</minDesc></minItem>
+            <minItem n="41">
+                <locus from="112" to="112">fol. 54v</locus>
+                <minDesc>Holy Women: At sepulcher. Women carrying jars of ointment at left; 
+                    angel seated at center points to empty tomb at right.</minDesc></minItem>
+            <minItem n="42">
+                <locus from="115" to="115">fol. 56r</locus>
+                <minDesc>Evangelist, Luke: Portrait. Luke writing, seated on cushioned bench; desk at right.</minDesc></minItem>
+            <minItem n="43">
+                <locus from="116" to="116">fol. 56v</locus>
+                <minDesc>Zacharias: Annunciation. Angel Gabriel, with hand raised, stands 
+                    at right next to temple; Zacharias the priest gestures with left hand, in right holds 
+                    censer.</minDesc></minItem>
+            <minItem n="44">
+                <locus from="117" to="117">fol. 57r</locus>
+                <minDesc>Virgin Mary: Annunciation. Virgin Mary seated on a 
+                    cushioned bench at left; angel Gabriel stands at right, points up with 
+                    right hand, in left holds rod; building in background.</minDesc></minItem>
+            <minItem n="45">
+                <locus from="118" to="118">fol. 57v</locus>
+                <minDesc>Virgin Mary: Visitation. Virgin Mary stands at left, reaching with right hand to 
+                    embrace her cousin Elizabeth.</minDesc></minItem>
+            <minItem n="46">
+                <locus from="119" to="119">fol. 58r</locus>
+                <minDesc>John Baptist: Birth. Elizabeth rests in bed at 
+                    center; infant John lies in crib at left watched over by man; 
+                    two women stand in doorway at right.</minDesc></minItem>
+            <minItem n="47">
+                <locus from="121" to="121">fol. 59r</locus>
+                <minDesc>Christ: Nativity. Virgin Mary (center) in bed; infant Jesus next to her 
+                    in crib; angels hover above them; shepherd stands at right, holding staff.</minDesc></minItem>
+            <minItem n="48">
+                <locus from="122" to="122">fol. 59v</locus>
+                <minDesc>Christ: Presentation. Infant Jesus held by Simeon at right before 
+                    temple altar; Virgin Mary and Joseph at left.</minDesc></minItem>
+            <minItem n="49">
+                <locus from="125" to="125">fol. 61r</locus>
+                <minDesc>John Baptist: Before Herod Antipas. Scene (right): John the Baptist (center) standing 
+                    before Herod, left hand raised; Herod seated at right, a retainer behind him. John Baptist: In prison. 
+                    (Scene (left): John the Baptist holds lamb and scroll, seated on bench in cell.</minDesc></minItem>
+            <minItem n="50">
+                <locus from="126" to="126">fol. 61v</locus>
+                <minDesc>Christ: Receiving the Spirit. Jesus kneels in prayer at center; Holy Spirit descends as 
+                    a dove from upper right.</minDesc></minItem>
+            <minItem n="51">
+                <locus from="127" to="127">fol. 62r</locus>
+                <minDesc>Christ: Temptation. Within a mountain landscape, Jesus, at left, faces devil whose hand is 
+                    raised.</minDesc></minItem>
+            <minItem n="52">
+                <locus from="128" to="128">fol. 62v</locus>
+                <minDesc>Christ: Reading in synagogue. Jesus stands in the synagogue before a lectern reading the scroll of the prophet Isaiah; 
+                    attendees at the service seated on either side.</minDesc></minItem>
+            <minItem n="53">
+                <locus from="129" to="129">fol. 63r</locus>
+                <minDesc>Christ: Teaching in synagogue. Jesus, seated on cushioned bench in the synagogue at left, 
+                    hand raised; attendees at service stand at right.</minDesc></minItem>
+            <minItem n="54">
+                <locus from="130" to="130">fol. 63v</locus>
+                <minDesc>Christ: Miracle of healing man with unclean spirit. Disciple, at left, stands 
+                    behind Jesus, who extends hand to heal possessed man; spectators at right.</minDesc></minItem>
+            <minItem n="55">
+                <locus from="134" to="134">fol. 65v</locus>
+                <minDesc>Christ: Miracle of raising widow's son. Jesus, hand raised, walks toward dead son of widow at 
+                    city gate of Nain; disciple stands behind him; widow and attendee at funeral wait behind bier.</minDesc></minItem>
+            <minItem n="56">
+                <locus from="136" to="136">fol. 66v</locus>
+                <minDesc>Christ: Anointed by woman. Jesus (left) seated at table; woman who anointed 
+                    him kneels on floor at his feet; Simon the Pharisee seated at center; two disciples sit at right.</minDesc></minItem>
+            <minItem n="57">
+                <locus from="140" to="140">fol. 68v</locus>
+                <minDesc>Christ: Sending out Apostles. Jesus at left, hand raised; two apostles walk toward him, 
+                    ten others wait at right. </minDesc></minItem>
+            <minItem n="58">
+                <locus from="142" to="142">fol. 69v</locus>
+                <minDesc>Christ: Transfiguration. Jesus, within a central mandorla, appears between Moses (left) and Elijah (right); 
+                    Peter (left), lying on ground with disciples James and John, points to sight above them.</minDesc></minItem>
+            <minItem n="59">
+                <locus from="158" to="158">fol. 77v</locus>
+                <minDesc>Christ: Miracle of healing ten lepers. Jesus, hand raised, walks toward group of ten lepers 
+                    at right; disciple waits behind him.</minDesc></minItem>
+            <minItem n="60">
+                <locus from="172" to="172">fol. 84v</locus>
+                <minDesc>Christ: Blessing Apostles. Jesus stands at center, hands raised in blessing; apostles 
+                    wait at either side.</minDesc></minItem>
+            <minItem n="61">
+                <locus from="173" to="173">fol. 85r</locus>
+                <minDesc>Evangelist, John: Portrait. John seated on cushioned bench, holding book; lectern at right.</minDesc></minItem>
+            <minItem n="62">
+                <locus from="174" to="174">fol. 85v</locus>
+                <minDesc>Christ: Harrowing of Hell. Jesus (center) stands on broken gates of Hell, cross in left hand; 
+                    in his right he holds Adam's wrist; Eve stands at left; the kings David and Solomon wait at right.</minDesc></minItem>
+            <minItem n="63">
+                <locus from="175" to="175">fol. 86r</locus>
+                <minDesc>John Baptist: Bearing witness. Scene (upper): John the Baptist, dressed in animal skins, 
+                    stands at center holding scroll; he speaks to crowd at right, and points to Jesus at left. Moses: 
+                    Receiving Law. Scene (lower): Moses stands in mountain landscape, hands covered; looks toward heaven and 
+                    hand of God emerging with tablet (upper right).</minDesc></minItem>
+            <minItem n="64">
+                <locus from="176" to="176">fol. 86v</locus>
+                <minDesc>Christ: Revealing God. At right, Jesus addresses two disciples, points at heaven.</minDesc></minItem>
+            <minItem n="65">
+                <locus from="177" to="177">fol. 87r</locus>
+                <minDesc>John Baptist: Recognizing Christ. John the Baptist (left), dressed in animal 
+                    skins, holding scroll; points to Jesus at right.</minDesc></minItem>
+            <minItem n="66">
+                <locus from="178" to="178">fol. 87v</locus>
+                <minDesc>Christ: Miracle of Cana. Jesus at right on cushioned bench; Virgin Mary stands 
+                    next to him; wedding party (center) seated at table.</minDesc></minItem>
+            <minItem n="67">
+                <locus from="180" to="180">fol. 88v</locus>
+                <minDesc>Christ: Miracle of healing son of ruler. Jesus stands at left, right hand raised, in left holds scroll; 
+                    Ruler at left extends hands toward him; mountains in background.</minDesc></minItem>
+            <minItem n="68">
+                <locus from="181" to="181">fol. 89r</locus>
+                <minDesc>Christ: Miracle of Bethesda pool. Lame man at left carries bed on back; Jesus, his right hand 
+                    raised, stands center right with disciples John and Peter.</minDesc></minItem>
+            <minItem n="69">
+                <locus from="184" to="184">fol. 90v</locus>
+                <minDesc>Christ: Miracle of loaves. Jesus at left, disciple Peter at center seated on rocks, 
+                    loaves and fishes between them; group of people at right. </minDesc></minItem>
+            <minItem n="70">
+                <locus from="195" to="195">fol. 96r</locus>
+                <minDesc>Christ: Miracle of raising Lazarus. Jesus, at left,  extends right hand toward shrouded 
+                    Lazarus, who emerges from tomb; his sisters Mary and Martha kneel at Jesus's feet; an attendant 
+                    waits behind them; two disciples stand at far left.</minDesc></minItem>
+            <minItem n="71">
+                <locus from="199" to="199">fol. 98r</locus>
+                <minDesc>Christ: Washing of feet. Jesus holds towel tied at waist, bends down to wash foot of 
+                    disciple Peter in basin; Peter seated at center on cushioned bench, hand on head; other 
+                    disciples seated behind and beside him.</minDesc></minItem>
+            <minItem n="72">
+                <locus from="215" to="215">fol. 106r</locus>
+                <minDesc>Apostle, Peter: Addressing apostles. Peter, at center, holds scroll in left hand; 
+                    apostles stand on either side.</minDesc></minItem>
+            <minItem n="73">
+                <locus from="216" to="216">fol. 106v</locus>
+                <minDesc>Apostles: Matthias chosen. Three apostles stand behind Peter who gestures 
+                    toward Matthias at right.</minDesc></minItem>
+            <minItem n="74">
+                <locus from="217" to="217">fol. 107r</locus>
+                <minDesc>Pentecost. Peter and Paul at center of apostles seated in semi-circle.</minDesc></minItem>
+            <minItem n="75">
+                <locus from="220" to="220">fol. 108v</locus>
+                <minDesc>Apostle, Peter: Miracle of healing lame man. Apostle Peter extends hand to 
+                    lame man seated at Beautiful Gate of Temple; Apostle John at right.</minDesc></minItem>
+            <minItem n="76">
+                <locus from="222" to="222">fol. 109v</locus>
+                <minDesc>Apostles, Peter and John: Arrest. John and Peter at center stand before Annas and Caiaphas, 
+                    high priests seated on cushioned bench at left; two armed soldiers wait at right.</minDesc></minItem>
+            <minItem n="77">
+                <locus from="225" to="225">fol. 111r</locus>
+                <minDesc>Ananias and Sapphira: Sin. Sapphira stands at right looking down at body of Ananias; 
+                    Peter, hand raised, waits at left with second apostle.</minDesc></minItem>
+            <minItem n="78">
+                <locus from="232" to="232">fol. 114v</locus>
+                <minDesc>Stephen Protomartyr: Stoning. Stephen stands in mountain landscape at center, hand 
+                    raised to heaven; group of men holding stones in raised hands at right.</minDesc></minItem>
+            <minItem n="79">
+                <locus from="233" to="233">fol. 115r</locus>
+                <minDesc>Apostle, Paul: Conversion, led to Damascus. Man holds hand of blinded Paul at left, 
+                    leads him down road; mountains in background.</minDesc></minItem>
+            <minItem n="80">
+                <locus from="234" to="234">fol. 115v</locus>
+                <minDesc>Apostle, Paul: Baptism. Ananias extends hand to Paul who stands in baptismal font at right.</minDesc></minItem>
+            <minItem n="81">
+                <locus from="236" to="236">fol. 116v</locus>
+                <minDesc>Apostle, Peter: Miracle of raising Tabitha. Peter, at right, extends hand to Tabitha 
+                    who sits up in bed, right hand raised; buildings in background.</minDesc></minItem>
+            <minItem n="82">
+                <locus from="237" to="237">fol. 117r</locus>
+                <minDesc>Apostle, Peter: Vision. Peter kneels in prayer on top of house; rays from heaven fall 
+                    on vessel next to him. </minDesc></minItem>
+            <minItem n="83">
+                <locus from="242" to="242">fol. 119v</locus>
+                <minDesc>Apostle, Peter: Release from prison. Peter inside prison seated on ledge; shackles on right wrist, 
+                    his left held by angel; buildings in background.</minDesc></minItem>
+            <minItem n="84">
+                <locus from="248" to="248">fol. 122v</locus>
+                <minDesc>Apostle, Paul: Miracle of healing cripple. Paul, at left, holds wrist of lame man, 
+                    helps him rise up from ground; mountains in background. </minDesc></minItem>
+            <minItem n="85">
+                <locus from="279" to="279">fol. 138r</locus>
+                <minDesc>Apostle, James: Portrait. James, wearing liturgical garments, blesses with right hand, 
+                    in left holds book.</minDesc></minItem>
+            <minItem n="86">
+                <locus from="285" to="285">fol. 141r</locus>
+                <minDesc>Apostle, Peter: Portrait. Peter blesses with right hand, in left holds scroll; 
+                    buildings at either side.</minDesc></minItem>
+            <minItem n="87">
+                <locus from="303" to="303">fol. 150r</locus>
+                <minDesc>Apostle, Jude: Portrait. Jude blesses with right hand, in left holds scroll; 
+                    buildings at either side.</minDesc></minItem>
+            <minItem n="88">
+                <locus from="416" to="416">fol. 206v</locus>
+                <minDesc>David: As Musician. David, seated at center, playing musical instrument.</minDesc></minItem></miniatures>
+        <canonTables>
+            <p>Citations of concordant gospel sections are framed by architectural columns. These support arched headpieces of 
+                multi-colored floral, foliate, and geometric designs on which a variety of birds are posed.</p>
+        </canonTables>
+        <initials>
+            <p>Major initials (30-35 mm) in blue, red, and white at the gospel openings of Mark, Luke, and John (fols. 36r, 56r, 85r). Minor initials in gold over red ink set off from the text.</p>
+        </initials>
+        </decoration>
+    <physDesc>
+        <support><p><material>Parchment</material>. <dimensions type="block" units="mm">200 x 150 mm</dimensions>.</p></support>
+        <extent>207 leaves, of which 2 are flyleaves.</extent>
+        <foliation><p>1 (foliated flyleaf) + 205 + 1 (foliated flyleaf). Modern foliation in Arabic numerals in pencil 1-207.</p></foliation> 
+        <collation><p>30 quires varying in size from 8 to 2 leaves. Estimate of content lost: 2 leaves before fol. 9 (Matthew 1:1-25, headpiece, initial, and 
+            Evangelist Matthew portrait); 1 leaf after fol. 16 (Matthew 9:20-10:1 and 2 miniatures); 1 leaf after fol. 26 (Matthew 20:20 from προσκυνουσα, 
+            and 1 miniature. Begins at 21:15 with ωσαννα τω υιω on fol. 27r); 1 leaf after fol. 63 (Luke 4:42 from αυτον, and 2 miniatures. Begins at 5:33 
+            with προς αυτον διατι on fol. 64r); 1 leaf after fol. 83 (Luke 23:38 and 1 miniature. Begins at 24:21 with αφ ου ταυτα on fol. 84r); 2 leaves after 
+            fol. 87 (John 2:3 from αυτον, and possibly 4 miniatures. Begins at 4:10 with αυτη ει ηδεις on fol. 88r); 1 leaf after fol. 105 (Acts 1:1-10 and 1 
+            headpiece, initial, and miniature. Begins at 1:10 with [α]τενιζοντες ησαν εις on fol. 106r); 2 leaves after fol. 114 (Acts 7:58 from κα[λουμενου], 
+            and 2 miniatures. Begins at 9:3 on fol. 115r); 1 leaf after fol. 125 (Acts 16:39 from αυτους και. Begins at 17:23 on fol. 126r); 1 leaf after fol. 127 
+            (Acts 19:25 from συναθροισ[ας]. Begins at 20:7 with [ε]παυριον παρετεινε τε on fol. 128r); 1 leaf after fol. 145 (Apostle John portrait before 1 John).</p>
+            <p>Of an approximate 17 leaves missing, 6 were replaced. These include: fol. 7 (Matthew 1:1-8); fol. 8 (Matthew 1:1-25); 
+             fol. 60 (Luke 2:27-3:9); fol. 70 (Luke 9:36-10:6); fol. 146 (2 Peter 3:11-18, summary of 1 John, 1 John 1:1-2:8); fol. 151 
+             (Jude 14-25, Romans 1:1-26). Text of the Hypothesis of James was added to fol. 137v.</p> <p>Some quire numbers visible 
+              in the upper right margin on each quire's first leaf (recto), Matthew through John. A new numbering appears to have begun at Acts.</p></collation> 
+    <dimensions type="written" units="mm">Written space 150 x 100 mm (fol. 119r).</dimensions> 
+        <layout columns="1" writtenLines="36-42"><p>1 column, 36-42 lines. Ruling with hard point.</p></layout>
+        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in black ink. Text of inserted leaves 
+            written in medium brown ink (some fading and flaking).</p></handDesc>
+    </msWriting>
+        <condition><p>Parchment is cockled. Edges of leaves are brittle and darkened. Portions of several leaves broken. Water, 
+            wax, and dirt stains. Owing to a flaking of paint, most miniatures lack details, and underdrawings are visible.</p></condition>
+        <bindingDesc>
+            <binding><p>Binding of <material>silver-gilt</material> repoussé over boards. Spine of purple <material>velvet</material>. Remains 
+                of red silk velvet doublures.</p> <decoNote><p>Front cover: The Crucifixion of Christ with the Virgin Mary and the Evangelist John at 
+                the foot of the cross. Frame of acanthus, with symbols of the four evangelists (angel, eagle, ox, and lion) depicted, one at each side. Back cover: 
+                The Resurrection of Christ.</p></decoNote></binding></bindingDesc>
+ </physDesc>
+<history>
+    <origin><p>The manuscript is judged to have been written and illuminated in the 12th century, possibly in <name reg="Cyprus" type="place">Cyprus</name> or 
+        <name reg="Palestine" type="place">Palestine</name>.</p></origin> 
+    <provenance><p>Belonged to the Voivode Alexander according to <name reg="Jeremias" type="person" role="writer">Jeremias</name>, recorder of the undated 
+        colophon (fol. 207r). It has been surmised that the owner named was <name reg="Alexandru II Mircea, Voivode of Wallachia, 1568-1577" type="person" role="owner">Alexandru II 
+        Mircea, Voivode of Wallachia, 1568-1577</name>. Purchased from a resident of <name reg="Zile, Turkey" type="place">Zile</name> in Anatolia in 1910 by 
+        bookseller <name reg="M. Stora et cie (Firm)" type="org" role="bookseller">Maurice Stora (Paris)</name>. Belonged to philanthropist 
+        <name reg="McCormick, Edith Rockefeller, 1872-1932" type="person" role="owner">Edith Rockefeller McCormick</name> (1872-1932), 
+        who bought the manuscript from Stora in 1928.</p> 
+        <p>Inscriptions, that of the lower margin dated 1891 April 20, with initials B. K. (fol. 7v); illegible note (fol. 35v); notation (fols. 55r, 105v, 137r); 
+            drawing of a fish (fol. 146v); University of Chicago Libraries bookplate (inside front cover).</p></provenance>
+    <acquisition><p>Gift of <name reg="McCormick, Elizabeth Day, 1874-1957" type="person" role="owner">Elizabeth Day McCormick</name> (1874-1957) to the University of Chicago, 
+        following her purchase of the manuscript in 1942 from the estate of Edith Rockefeller McCormick.</p></acquisition>
+</history>
+    <additional>
+        <listBibl><bibl>
+            <author>Edgar J. Goodspeed</author>, <author>Donald W. Riddle</author>, and <author>Harold R. Willoughby</author>, 
+            <title level="m">The Rockefeller McCormick New Testament</title>
+            <imprint>
+                <pubPlace>(Chicago:</pubPlace>
+                <publisher>University of Chicago Press,</publisher>
+                <date>1932),</date>
+            </imprint>
+            <biblScope type="volume">vols. 1-3.</biblScope></bibl> 
+            <bibl> 
+                <author>Harold Rideout Willoughby</author>, 
+                <title level="a">"The Reconstruction of Lost Rockefeller McCormick Miniatures,"</title> 
+                <title level="j">Journal of Biblical Literature</title> 
+                <biblScope type="volume">51</biblScope> 
+                <imprint><date>(1932),</date></imprint> 
+                <biblScope type="pages">pp. 253-262.</biblScope></bibl> 
+            <bibl> 
+                    <author>Harold Rideout Willoughby</author>, 
+                    <title level="a">"Codex 2400 and Its Miniatures,"</title> 
+                    <title level="j">The Art Bulletin</title> 
+                    <biblScope type="volume">15</biblScope> 
+                    <imprint><date>(1933),</date></imprint> 
+                    <biblScope type="pages">pp. 3-74.</biblScope></bibl>
+            <bibl>
+                <author>Kenneth W. Clark</author>, 
+                <title level="m">A Descriptive Catalogue of Greek New Testament Manuscripts in America</title>
+                <imprint>
+                    <pubPlace>(Chicago:</pubPlace>
+                    <publisher>University of Chicago Press,</publisher>
+                    <date>1937),</date>
+                </imprint>
+                <biblScope type="pages">pp. 187-193.</biblScope></bibl>
+            <bibl>
+                <author>Merrill Mead Parvis</author>, 
+                <title level="m">The Story of the Goodspeed Collection</title>
+                <imprint>
+                    <pubPlace>([Chicago]:</pubPlace>
+                    <publisher>s.n.,</publisher>
+                    <date>1952),</date>
+                </imprint>
+                <biblScope type="pages">pp. 26-27.</biblScope></bibl>
+                <bibl>
+                    <author>Annemarie Weyl Carr</author>, 
+                    <title level="u">"The Rockefeller McCormick New Testament: Studies toward the Reattribution of Chicago, University Library, MS 965."</title> 
+                    <note>(Ph.D. diss., University of Michigan, 1973).</note></bibl></listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

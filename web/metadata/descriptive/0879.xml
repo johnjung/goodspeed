@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0879, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0879</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+             <sourceDesc>
+                 <msDescription>
+                     <msIdentifier>
+                         <country>United States</country>
+                         <region>Illinois</region>
+                         <settlement>Chicago</settlement>
+                         <institution>University of Chicago Library</institution> 
+                         <repository>Special Collections Research Center</repository>
+                         <collection>Goodspeed Manuscript Collection</collection>
+                         <idno>Ms. 879</idno>
+                         <altName type="Gregory number">Greg. l 1663</altName>
+                         <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 34</altIdentifier>
+                     </msIdentifier>
+                     <msHeading>
+                         <title>Lectionary</title>
+                         <otherName>Lectionary of Constantine the Reader</otherName>
+                         <origPlace>Greece or Asia Minor</origPlace>
+                         <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+                         <textLang langKey="grc">Greek</textLang>
+                     </msHeading>
+                     <msContents>
+                         <overview>
+                             <p>Gospel lectionary in Greek. Includes both Synaxarion and Menologion. Formerly Goodspeed Ms. Grk. 34.</p> 
+                         </overview></msContents>
+                     <decoration>
+                         <headpieces><p>Headpieces of scrollwork in brown and red (fols. 33r, 40v, 81r). Horizontal bars placed at divisions of the Menologion 
+                             text.</p></headpieces>
+                         <initials><p>Major initials in red (40-115 mm) set off from text and embellished with foliate, bead, and knot motifs.</p></initials>
+                     </decoration><physDesc>
+                         <support><p><material>Parchment</material>. <dimensions type="block" units="mm">240 x 185 mm</dimensions>.</p></support>
+                         <extent>112 leaves, of which 2 are flyleaves of paper.</extent> 
+                         <foliation><p>1 (unfoliated paper flyleaf) + 110 + 1 (unfoliated paper flyleaf). Modern foliation in Arabic numerals in pencil, leaves 1 to 5, and 
+                             every 5th leaf thereafter. Pagination in the lower outer margin.</p></foliation> 
+                         <collation><p>14 quires of an original 17, each of 8 leaves, with the exception of quire 17, of 6 leaves. Estimate of content lost: 3 initial 
+                             quires of the Johannine section for Weekdays, Saturdays, and Sundays, Easter through Pentecost.</p>
+                             <p>Quire numbers on the first leaf of each quire (recto, upper right), and infrequently on the last leaf (verso, lower right).</p></collation> 
+                         <dimensions type="written" units="mm">Written space 185 x 140 mm (fol. 10r). Each column is 185 x 60 mm with a space of 20 mm between.</dimensions> 
+                         <layout columns="2" writtenLines="28-31 per column"><p>2 columns, 28 to 31 lines. Ruling with hard point.</p></layout>
+                         <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in dark brown ink.</p>
+                             <p>Punctuation includes high point, low point, and double point, comma, marks of interrogation and elision. Cross for full stop.</p></handDesc>
+                         </msWriting>
+                         <condition><p>Numerous holes in the parchment. Several leaves splitting along ruling lines. Some marginal notation lost owing to trimming.</p></condition>
+                         <bindingDesc>
+                             <binding><p>Bound in blue <material>leather</material> over boards. Paper pastedowns and flyleaves (front and back) conjoined. 
+                                 Edge decoration in red.</p></binding></bindingDesc>
+                     </physDesc>
+                     <history>
+                         <origin><p>The manuscript is judged to have been written in the 13th century, and is the work of the 
+                             theologian <name reg="Constantine the Reader, 13th century" type="person" role="scribe">Constantine the Reader</name> (his undated colophon, fol. 110r). 
+                             The place of origin is thought to be either <name reg="Greece" type="place">Greece</name>, or <name reg="Asia Minor" type="place">Asia Minor</name>.</p></origin>
+                         <provenance><p>Medieval to early 20th century provenance unknown. Belonged to philanthropist 
+                             <name reg="Donnelley, Naomi, 1873-1951" type="person" role="owner">Naomi Donnelley</name> (bookplate, pastedown), who purchased it from antiquarian 
+                             bookseller <name reg="Scherling, Erik von, 1907-1956" type="person" role="bookseller">Erik von Scherling</name> 
+                             of <name reg="Leyden, Netherlands" type="place">Leyden</name>, November 1934.</p>
+                             <p>Undated prayer and notation (fol. 110v). Sale catalogue description and University of Chicago Libraries bookplate (front pastedown).</p></provenance>
+                         <acquisition><p>Gift of Naomi Donnelley to the University of Chicago, January 1935.</p></acquisition>
+                     </history>
+                 </msDescription>
+             </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+     <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Lectionaries</term> 
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                </keywords>
+            </textClass></profileDesc>
+    </teiHeader>
+    <text>
+   <body>
+ <msDescription id="GMS-0879">
+ <msIdentifier>
+ <country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+     <idno>Ms. 879</idno>
+     <altName type="Gregory number">Greg. l 1663</altName>
+     <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 34</altIdentifier>
+ </msIdentifier>
+     <msHeading>
+         <title>Lectionary</title>
+         <otherName>Lectionary of Constantine the Reader</otherName>
+         <origPlace>Greece or Asia Minor</origPlace>
+         <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+         <textLang langKey="grc">Greek</textLang>
+     </msHeading>
+     <msContents>
+         <overview>
+             <p>Gospel lectionary in Greek. Includes both Synaxarion and Menologion. Formerly Goodspeed Ms. Grk. 34.</p> 
+             </overview>
+         <msItem n="1">
+             <locus from="005" to="009">fols. 1r-3r</locus>
+             <summary>Synaxarion. John, Weekday, Saturday, and Sunday Lections.</summary>
+             <note>3 lections extant. Begins with Friday, 7th week, John 17:18-26 (begins with 17:22 at, ινα ωσιν εν καθως).</note>
+              </msItem>
+         <msItem n="2">
+             <locus from="009" to="033">fols. 3r-15r</locus>
+    <summary>Synaxarion. Matthew, Saturday, and Sunday Lections.</summary>
+         </msItem>
+         <msItem n="3">
+             <locus from="033" to="069">fols. 15r-33r</locus>
+             <summary>Synaxarion. Luke, Saturday, and Sunday Lections.</summary>
+         </msItem>
+         <msItem n="4">
+             <locus from="069" to="084">fols. 33r-40v</locus>
+             <summary>Synaxarion. Great Lent, Saturday and Sunday Lections.</summary>
+         </msItem>
+         <msItem n="5">
+             <locus from="084" to="120">fols. 40v-58v</locus>
+             <summary>Synaxarion. Holy Week, Monday through Thursday Lections.</summary>
+         </msItem>
+         <msItem n="6">
+             <locus from="120" to="149">fols. 58v-73r</locus>
+             <summary>Synaxarion. Twelve Lections of the Holy Passions.</summary>
+         </msItem>
+         <msItem n="7">
+             <locus from="149" to="157">fols. 73r-77r</locus>
+             <summary>Synaxarion. Good Friday and Holy Saturday Lections.</summary>
+         </msItem>
+         <msItem n="8">
+             <locus from="157" to="165">fols. 77r-81r</locus>
+             <summary>Synaxarion. Eleven Resurrection Lections (Heothina).</summary>
+         </msItem>
+         <msItem n="9">
+             <locus from="165" to="179">fols. 81r-88r</locus>
+             <summary>Menologion. September through October.</summary>
+         </msItem>
+         <msItem n="10">
+             <locus from="179" to="195">fols. 88r-96r</locus>
+             <summary>Menologion. November through December.</summary>
+         </msItem>
+         <msItem n="11">
+             <locus from="195" to="206">fols. 96r-101v</locus>
+             <summary>Menologion. January through February.</summary>
+         </msItem>
+         <msItem n="12">
+             <locus from="206" to="211">fols. 101v-104r</locus>
+             <summary>Menologion. March through April.</summary>
+         </msItem>
+         <msItem n="13">
+             <locus from="211" to="217">fols. 104r-107r</locus>
+             <summary>Menologion. May through June.</summary>
+         </msItem>
+         <msItem n="14">
+             <locus from="217" to="222">fols. 107r-109v</locus>
+             <summary>Menologion. July through August.</summary>
+         </msItem>
+         <msItem n="15">
+             <locus from="223" to="223">fol. 110r</locus>
+             <summary>Lections for vigils.</summary>
+         </msItem>
+         <msItem n="16">
+             <locus from="223" to="223">fol. 110r</locus>
+             <colophon>The theologian Constantine the Reader (undated).</colophon>
+         </msItem>
+     </msContents>
+     <decoration>
+         <headpieces><p>Headpieces of scrollwork in brown and red (fols. 33r, 40v, 81r). Horizontal bars placed at divisions of the Menologion 
+             text.</p></headpieces>
+         <initials><p>Major initials in red (40-115 mm) set off from text and embellished with foliate, bead, and knot motifs.</p></initials>
+     </decoration><physDesc>
+         <support><p><material>Parchment</material>. <dimensions type="block" units="mm">240 x 185 mm</dimensions>.</p></support>
+         <extent>112 leaves, of which 2 are flyleaves of paper.</extent> 
+         <foliation><p>1 (unfoliated paper flyleaf) + 110 + 1 (unfoliated paper flyleaf). Modern foliation in Arabic numerals in pencil, leaves 1 to 5, and 
+             every 5th leaf thereafter. Pagination in the lower outer margin.</p></foliation> 
+         <collation><p>14 quires of an original 17, each of 8 leaves, with the exception of quire 17, of 6 leaves. Estimate of content lost: 3 initial 
+             quires of the Johannine section for Weekdays, Saturdays, and Sundays, Easter through Pentecost.</p>
+             <p>Quire numbers on the first leaf of each quire (recto, upper right), and infrequently on the last leaf (verso, lower right).</p></collation> 
+         <dimensions type="written" units="mm">Written space 185 x 140 mm (fol. 10r). Each column is 185 x 60 mm with a space of 20 mm between.</dimensions> 
+         <layout columns="2" writtenLines="28-31 per column"><p>2 columns, 28 to 31 lines. Ruling with hard point.</p></layout>
+         <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in dark brown ink.</p>
+             <p>Punctuation includes high point, low point, and double point, comma, marks of interrogation and elision. Cross for full stop.</p></handDesc>
+   </msWriting>
+         <condition><p>Numerous holes in the parchment. Several leaves splitting along ruling lines. Some marginal notation lost owing to trimming.</p></condition>
+         <bindingDesc>
+             <binding><p>Bound in blue <material>leather</material> over boards. Paper pastedowns and flyleaves (front and back) conjoined. 
+                 Edge decoration in red.</p></binding></bindingDesc>
+     </physDesc>
+     <history>
+         <origin><p>The manuscript is judged to have been written in the 13th century, and is the work of the 
+             theologian <name reg="Constantine the Reader, 13th century" type="person" role="scribe">Constantine the Reader</name> (his undated colophon, fol. 110r). 
+             The place of origin is thought to be either <name reg="Greece" type="place">Greece</name>, or <name reg="Asia Minor" type="place">Asia Minor</name>.</p></origin> 
+         <provenance><p>Medieval to early 20th century provenance unknown. Belonged to philanthropist 
+             <name reg="Donnelley, Naomi, 1873-1951" type="person" role="owner">Naomi Donnelley</name> (bookplate, pastedown), who purchased it from antiquarian 
+             bookseller <name reg="Scherling, Erik von, 1907-1956" type="person" role="bookseller">Erik von Scherling</name> 
+             of <name reg="Leyden, Netherlands" type="place">Leyden</name>, November 1934.</p>
+             <p>Undated prayer and notation (fol. 110v). Sale catalogue description and University of Chicago Libraries bookplate (front pastedown).</p></provenance>
+         <acquisition><p>Gift of Naomi Donnelley to the University of Chicago, January 1935.</p></acquisition>
+     </history>
+     <additional><listBibl>
+         <bibl>
+             <author>Seymour de Ricci,</author>
+             <title level="m">Census of Medieval and Renaissance Manuscripts in the 
+                 United States and Canada</title>.
+             <imprint>
+                 <pubPlace>(New York:</pubPlace>
+                 <publisher>H. W. Wilson Company,</publisher>
+                 <date>1935),</date>
+             </imprint>
+             <biblScope type="volume">vol. 1, p. 600.</biblScope>
+         </bibl>
+         <bibl><author>Morgan W. Redus</author>
+             <title level="m">The Text of the Major Festivals of the Menologion in the Greek Gospel Lectionary,</title> 
+             <title level="s">Studies in the Lectionary Text of the Greek New Testament.</title> Edited by <editor>Allen Wikgren</editor>
+             <imprint>
+                 <pubPlace>(Chicago:</pubPlace> 
+                 <publisher>The University of Chicago Press,</publisher>
+                 <date>1936),</date>
+             </imprint>
+             <biblScope type="volume">vol. 2.</biblScope>
+         </bibl>
+         <bibl><author>Kenneth W. Clark</author>, 
+             <title level="m">A Descriptive Catalogue of Greek New Testament 
+                 Manuscripts in America</title>
+             <imprint>
+                 <pubPlace>(Chicago:</pubPlace>
+                 <publisher>University of Chicago Press,</publisher>
+                 <date>1937),</date>
+             </imprint>
+             <biblScope type="pages">pp. 267-268.</biblScope></bibl>
+          <bibl>
+                 <author>Merrill Mead Parvis</author>, 
+             <title level="m">The Story of the Goodspeed Collection</title>
+             <imprint>
+                 <pubPlace>([Chicago]:</pubPlace>
+                 <publisher>s.n.,</publisher>
+                 <date>1952),</date>
+             </imprint>
+             <biblScope type="pages">p. 22.</biblScope></bibl>
+          </listBibl> 
+     </additional></msDescription>
+        </body>
+    </text>            
+</TEI.2>

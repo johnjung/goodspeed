@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+ 
+ <teiHeader date.created="2015-11-04" creator="jfcd">
+  <fileDesc>
+   <titleStmt>
+    <title>[University of Chicago Library GMS-0829, a manuscript catalogue description in electronic form]</title>
+    <funder>Institute of Museum and Library Services</funder>
+    <respStmt>
+     <resp>Creation of electronic version:</resp>
+     <name>University of Chicago Library</name>
+     <resp>Creation of digital images:</resp>
+     <name>University of Chicago Library</name>
+    </respStmt> 
+   </titleStmt>
+   <publicationStmt>
+    <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <date>2009</date>
+    <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0829</idno>
+    <availability status= "free">
+     <p>Publicly accessible</p></availability>
+   </publicationStmt>
+   <sourceDesc> 
+    <msDescription><msIdentifier>
+     <country>United States</country>
+     <region>Illinois</region>
+     <settlement>Chicago</settlement>
+     <institution>University of Chicago Library</institution> 
+     <repository>Special Collections Research Center</repository>
+     <collection>Goodspeed Manuscript Collection</collection>
+     <idno>Ms. 829</idno>
+     <altIdentifier type="former shelfmark">Goodspeed Ms. Syr. 31</altIdentifier>
+    </msIdentifier>
+     <msHeading>
+      <title>New Testament. Syriac. Peshitta</title>
+      <otherName>Kurdistan Fragments</otherName>
+      <origPlace>Unknown Place of Origin</origPlace>
+      <origDate notBefore="801" notAfter="900">9th century</origDate>
+      <textLang langKey="syr">Syriac</textLang></msHeading>
+     <msContents>
+      <overview><p>Peshitta New Testament leaves in Syriac. Reading divisions in the margins. Formerly Goodspeed Ms. Syr. 31.</p></overview> 
+      <msItem n="1">
+       <locus from="001" to="002">pp. 343-344</locus>
+       <summary>1 Peter (incomplete, begins at 1:9 and ends with 2:7).</summary> 
+      </msItem> 
+      <msItem n="2">
+       <locus from="003" to="004">pp. 377-378</locus>
+       <summary>Romans (begins at 7:19 and ends with 8:22).</summary> 
+      </msItem>
+     </msContents>
+     <physDesc>
+      <support><p> <material>Parchment</material>. <dimensions type="leaves" units="mm">250 x 165 mm</dimensions>.</p></support>
+      <extent>2 leaves. Modern pagination in Arabic numerals in pencil.</extent>
+      <dimensions type="written" units="mm">Written space 190 x 120 (p. 377).</dimensions> 
+      <layout columns="1" writtenLines="29"><p>1 column, 29 lines.</p></layout>
+      <msWriting><handDesc script="Estrangelo" medium="Ink"><p>Written in Estrangelo script in black ink. Occasional East Syriac vowels.</p></handDesc></msWriting>
+      <condition><p>Leaves are cockled. Edges are dry and cracked. Random grease and dirt stains.</p></condition>
+      <bindingDesc>
+       <binding><p>Binding is lost.</p></binding></bindingDesc>
+     </physDesc>
+     <history>
+      <origin><p>The manuscript to which the present leaves belonged is judged to have been written in the 9th century. A place of origin is unknown.</p></origin> 
+      <provenance><p>Medieval to early 20th century provenance unknown. 
+       Belonged to <name reg="Jonan, Isaac M." type= "person" role="owner">Isaac M. Jonan</name> 
+       of <name reg="Oak Park, Illinois" type="place">Oak Park, Illinois</name>. The leaves were said to have come 
+       from <name reg="Kurdistan" type="place">Kurdistan</name>.</p></provenance>
+      <acquisition><p>Acquired by the University of Chicago from Isaac M. Jonan, January 14, 1933.</p></acquisition>
+     </history> 
+    </msDescription>
+     </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+     Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+     of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+     the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+     resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+     an interface that supports browsing within individual manuscripts and across the collection.</p>
+    <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+     Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+     as of <date>2012-09-22</date>.</p> 
+    <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+     at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+     accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+     and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+     recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+     visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage><language id="syr"></language><p>Syriac, ISO 639-3</p></langUsage>
+   <textClass>
+    <keywords>
+     <term>Bible. N.T. Syriac</term>
+     <term>Manuscripts, Syriac</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0829">               
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+ <idno>Ms. 829</idno>
+ <altIdentifier type="former shelfmark">Goodspeed Ms. Syr. 31</altIdentifier>
+</msIdentifier>
+ <msHeading>
+  <title>New Testament. Syriac. Peshitta</title>
+  <otherName>Kurdistan Fragments</otherName>
+  <origPlace>Unknown Place of Origin</origPlace>
+  <origDate notBefore="801" notAfter="900">9th century</origDate>
+  <textLang langKey="syr">Syriac</textLang></msHeading>
+ <msContents>
+  <overview><p>Peshitta New Testament leaves in Syriac. Reading divisions in the margins. Formerly Goodspeed Ms. Syr. 31.</p></overview> 
+  <msItem n="1">
+   <locus from="001" to="002">pp. 343-344</locus>
+   <summary>1 Peter (incomplete, begins at 1:9 and ends with 2:7).</summary> 
+  </msItem> 
+  <msItem n="2">
+   <locus from="003" to="004">pp. 377-378</locus>
+   <summary>Romans (begins at 7:19 and ends with 8:22).</summary> 
+  </msItem>
+ </msContents>
+ <physDesc>
+  <support><p> <material>Parchment</material>. <dimensions type="leaves" units="mm">250 x 165 mm</dimensions>.</p></support>
+  <extent>2 leaves. Modern pagination in Arabic numerals in pencil.</extent>
+  <dimensions type="written" units="mm">Written space 190 x 120 (p. 377).</dimensions> 
+  <layout columns="1" writtenLines="29"><p>1 column, 29 lines.</p></layout>
+  <msWriting><handDesc script="Estrangelo" medium="Ink"><p>Written in Estrangelo script in black ink. Occasional East Syriac vowels.</p></handDesc></msWriting>
+  <condition><p>Leaves are cockled. Edges are dry and cracked. Random grease and dirt stains.</p></condition>
+  <bindingDesc>
+   <binding><p>Binding is lost.</p></binding></bindingDesc>
+ </physDesc>
+ <history>
+  <origin><p>The manuscript to which the present leaves belonged is judged to have been written in the 9th century. A place of origin is unknown.</p></origin> 
+  <provenance><p>Medieval to early 20th century provenance unknown. 
+   Belonged to <name reg="Jonan, Isaac M." type= "person" role="owner">Isaac M. Jonan</name> 
+   of <name reg="Oak Park, Illinois" type="place">Oak Park, Illinois</name>. The leaves were said to have come 
+   from <name reg="Kurdistan" type="place">Kurdistan</name>.</p></provenance>
+  <acquisition><p>Acquired by the University of Chicago from Isaac M. Jonan, January 14, 1933.</p></acquisition>
+ </history> 
+ <additional>
+ <listBibl>
+ <bibl> 
+   <author>Merrill Mead Parvis,</author> 
+   <title level="m">The Story of the Goodspeed Collection</title>
+   <imprint> 
+    <pubPlace>([Chicago:]</pubPlace> 
+    <publisher>s.n.,</publisher> 
+    <date>1952),</date>
+   </imprint> 
+   <biblScope type="pages">p. 21.</biblScope></bibl>
+  <bibl>
+   <author>James T. Clemons</author>, 
+   <title level="a">"A checklist of Syriac manuscripts in the United States and Canada,"</title> 
+   <title level="j">Orientalia Christiana Periodica</title> 
+   <biblScope type="volume">32</biblScope> 
+   <imprint><date>(1966),</date></imprint> 
+   <biblScope type="pages">p. 480 (198).</biblScope>
+  </bibl>
+ <bibl>
+    <author>James T. Clemons</author>, 
+  <title level="m">An index of Syriac manuscripts containing the epistles and the Apocalypse.</title> 
+  <title level="s">Studies and Documents</title>
+    <biblScope type="volume">33</biblScope>
+    <imprint><date>(1968),</date></imprint>
+    <biblScope type="pages">p. 14 (198).</biblScope>
+ </bibl>
+  <bibl>
+   <author>Aaron M. Butts</author>, 
+   <title level="u">"Syriac manuscripts in the Edgar J. Goodspeed Collection of the Special Collections Library of the University of Chicago."</title> 
+    <note>(Unpublished work, 2009).</note>
+  </bibl>
+  <bibl>
+   <author>Dale A. Johnson</author>, 
+   <title level="u">"The Goodspeed Syriac Fragments from the Goodspeed Collection, University of Chicago, Mss. 829, 716, 823."</title> 
+   <note>(Unpublished work, 2009).</note>
+  </bibl>
+ </listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

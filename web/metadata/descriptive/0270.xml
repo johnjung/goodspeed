@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0270, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0270</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 270</idno>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Eth. 65</altIdentifier>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>Hymns and Prayers</title>
+                        <otherName>Ethiopic Hymns and Prayers</otherName>
+                        <origPlace>Ethiopia</origPlace>
+                        <origDate notBefore="1701" notAfter="1800">18th century</origDate> 
+                        <textLang langKey="gez">Geez</textLang>
+                        <textLang langKey="amh">Amharic</textLang>
+                        <textLang langKey="ara">Arabic</textLang>
+                        <textLang langKey="heb">Hebrew</textLang>
+                    </msHeading>
+                    <msContents>
+                        <overview><p>Hymns and Prayers in Gə‘əz (Ethiopic) and Amharic. Formerly Goodspeed Ms. Eth. 65.</p>
+                        </overview>   </msContents>
+                    <decoration>
+                        <headpieces><p>Headpieces of red, gold, and green (fols. 1r, 28r, 36r).</p></headpieces>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="block" units="mm">161 x 150 mm</dimensions>.</p></support>  
+                        <extent>62 leaves.</extent>
+                        <foliation><p>1-62. Modern foliation in Arabic numerals in pencil.</p></foliation>
+                        <dimensions type="written" units="mm">Written space 120 x 130 mm (fol. 10r). Each column is 120 x 60 mm with a space of 10 mm between.</dimensions>
+                        <layout  columns="2" writtenLines="17-33 per column"><p>2 columns, 17 to 33 lines. Ruling with hard point. Pricking in the outer margins.</p></layout> 
+                        <msWriting><handDesc medium="ink">
+                            <p>Written in black ink (some fading).</p></handDesc></msWriting>
+                        <textDivisions><p>Titles in red.</p></textDivisions>
+                        <condition><p>Several leaves scraped and reused (fols. 7v, 8r, 23r, 26v, 36v, 52r-52v). Some leaves broken. Stitched mend in leaf (fol. 61).</p></condition>
+                        <bindingDesc> 
+                            <binding><p>Bound in dark brown <material>wood</material> boards. Covers have split vertically and were mended with twine threaded 
+                                through drilled holes on either side of each break. Spine covered in <material>leather</material>.</p></binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript is judged to have been written in the 18th century in <name reg="Ethiopia" type="place">Ethiopia</name>.</p></origin> 
+                        <provenance><p>Provenance unknown.</p>
+                            <p>Arabic and Hebrew notes (fol. 22v). Notation and jottings in pencil, fols. 1r-2r, 5r, 6r-7r, 13r, 20r, 22v, 24r, 25r, 28v, 30r-30v, 32v, 36v, 37v-38r, 
+                                42r, 43r, 44v, 49r, 53r, 56r, 59v, 62v.</p></provenance>
+                        <acquisition><p>Date acquired by the University of Chicago unknown.</p></acquisition>
+                    </history>
+                </msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage><language id="gez"></language><p>Geez, ISO 639-3</p></langUsage> 
+            <langUsage><language id="amh"></language><p>Amharic, ISO 639-3</p></langUsage>
+            <langUsage><language id="ara"></language><p>Arabic, ISO 639-3</p></langUsage>
+            <langUsage><language id="heb"></language><p>Hebrew, ISO 639-3</p></langUsage>
+            <textClass>
+                <keywords>
+                    <term>YaʾItyopyā ʾortodoks tawāḥedo béta kerestiyān--Liturgy</term>
+                    <term>Christian saints--Calendar </term>
+                    <term>Manuscripts, Ethiopic</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0270">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 270</idno>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Eth. 65</altIdentifier>
+</msIdentifier>
+    <msHeading>
+        <title>Hymns and Prayers</title>
+        <otherName>Ethiopic Hymns and Prayers</otherName>
+        <origPlace>Ethiopia</origPlace>
+        <origDate notBefore="1701" notAfter="1800">18th century</origDate> 
+        <textLang langKey="gez">Geez</textLang>
+        <textLang langKey="amh">Amharic</textLang>
+        <textLang langKey="ara">Arabic</textLang>
+        <textLang langKey="heb">Hebrew</textLang>
+    </msHeading>
+    <msContents>
+        <overview><p>Hymns and Prayers in Gə‘əz (Ethiopic) and Amharic. Formerly Goodspeed Ms. Eth. 65.</p>
+        </overview>
+        <msItem n="1">
+            <locus from = "003" to ="016">fols. 1r-7v</locus>
+            <summary>Malk'a Sellăssē, hymn to the Trinity. A second hymn to the Trinity.</summary></msItem>
+        <msItem n="2">
+            <locus from = "016" to ="017">fols. 7v-8r</locus>
+            <summary>Calendar of Saint's days.</summary></msItem>
+        <msItem n="3">
+            <locus from = "019" to ="036">fols. 9r-17v</locus>
+            <summary>Täbibä Täbiban, hymn to God (The Wise of the Wise Ones).</summary></msItem>
+        <msItem n="4">
+            <locus from = "019" to ="041">fols. 17v-20r</locus> 
+            <summary>Kidan zänägh.</summary></msItem>
+        <msItem n="5">
+            <locus from = "041" to ="046">fols. 20r-22v</locus>
+            <summary>Kidan zäsärk (Evening Office).</summary></msItem>
+        <msItem n="6">
+            <locus from = "046" to ="046">fol. 22v</locus>
+            <summary>List of interpretations for proper religious names.</summary></msItem>
+        <msItem n="7">
+            <locus from = "047" to ="053">fols. 23r-26r</locus>
+            <summary>Prayer (beginning erased).</summary></msItem>
+        <msItem n="8">
+            <locus from = "054" to ="054">fol. 26v</locus>
+            <summary>Qenēs (in Amharic).</summary></msItem>
+        <msItem n="9">
+            <locus from = "055" to ="056">fols. 27r-27v</locus>
+            <summary>Salām to the Virgin Mary.</summary></msItem>
+        <msItem n="10">
+            <locus from = "057" to ="070">fols. 28r-34v</locus>
+            <summary>Saqoqawa Dengel, lament of the Virgin Mary. </summary></msItem>
+        <msItem n="11">
+            <locus from = "070" to ="072">fols. 34v-35v</locus>
+            <summary>Hymn to the Virgin Mary.</summary></msItem>
+        <msItem n="12">
+            <locus from = "073" to ="085">fols. 36r-42r</locus>
+            <summary>Malk'a Māryām (for the 3rd, 6th, and 9th hours).</summary></msItem>
+        <msItem n="13">
+            <locus from = "085" to ="088">fols. 42r-43v</locus>
+            <summary>Salām la Felsata Sēgāki, hymn to the assumption of the Virgin Mary.</summary></msItem>
+        <msItem n="14">
+            <locus from = "089" to ="097">fols. 44r-48r</locus>
+            <summary>Salām to the Virgin Mary.</summary></msItem>
+        <msItem n="15">
+            <locus from = "097" to ="105">fols. 48r-52r</locus>
+            <summary>Hymn to the Cherubim.</summary></msItem>
+        <msItem n="16">
+            <locus from = "106" to ="106">fol. 52v</locus>
+            <summary>Weddāsē Maryam (for Monday).</summary></msItem>
+        <msItem n="17">
+            <locus from = "0107" to ="119">fols. 53r-59r</locus>
+            <summary>Zēnā Hāymānot (hortatory homily).</summary></msItem>
+        <msItem n="18">
+            <locus from = "119" to ="120">fols. 59r-59v</locus>
+            <summary>Qenē (in Amharic).</summary></msItem>
+        <msItem n="19">
+            <locus from = "121" to ="121">fol. 60r</locus>
+            <summary>Invocations to the Virgin Mary and Saints.</summary></msItem>
+        <msItem n="20">
+            <locus from = "122" to ="125">fols. 60v-62r</locus>
+            <summary>Song to Jesus on Eucharistic participation (Congregation of the Faithful).</summary></msItem>
+        <msItem n="21">
+            <locus from = "125" to ="126">fols. 62r-62v</locus>
+            <summary>Prayers (in Amharic).</summary></msItem>
+    </msContents>
+    <decoration>
+        <headpieces><p>Headpieces of red, gold, and green (fols. 1r, 28r, 36r).</p></headpieces>
+    </decoration>
+ <physDesc>
+ <support><p><material>Parchment</material>. <dimensions type="block" units="mm">161 x 150 mm</dimensions>.</p></support>  
+ <extent>62 leaves.</extent>
+     <foliation><p>1-62. Modern foliation in Arabic numerals in pencil.</p></foliation>
+     <dimensions type="written" units="mm">Written space 120 x 130 mm (fol. 10r). Each column is 120 x 60 mm with a space of 10 mm between.</dimensions> 
+     <layout  columns="2" writtenLines="17-33 per column"><p>2 columns, 17 to 33 lines. Ruling with hard point. Pricking in the outer margins.</p></layout> 
+ <msWriting><handDesc medium="ink">
+     <p>Written in black ink (some fading).</p></handDesc></msWriting>
+     <textDivisions><p>Titles in red.</p></textDivisions>
+     <condition><p>Several leaves scraped and reused (fols. 7v, 8r, 23r, 26v, 36v, 52r-52v). Some leaves broken. Stitched mend in leaf (fol. 61).</p></condition>
+     <bindingDesc> 
+         <binding><p>Bound in dark brown <material>wood</material> boards. Covers have split vertically and were mended with twine threaded 
+             through drilled holes on either side of each break. Spine covered in <material>leather</material>.</p></binding></bindingDesc>
+ </physDesc>
+<history>
+    <origin><p>The manuscript is judged to have been written in the 18th century in <name reg="Ethiopia" type="place">Ethiopia</name>.</p></origin> 
+    <provenance><p>Provenance unknown.</p>
+        <p>Arabic and Hebrew notes (fol. 22v). Notation and jottings in pencil, fols. 1r-2r, 5r, 6r-7r, 13r, 20r, 22v, 24r, 25r, 28v, 30r-30v, 32v, 36v, 37v-38r, 
+            42r, 43r, 44v, 49r, 53r, 56r, 59v, 62v.</p></provenance>
+    <acquisition><p>Date acquired by the University of Chicago unknown.</p></acquisition>
+</history>
+</msDescription>
+        </body>
+    </text>      
+</TEI.2>

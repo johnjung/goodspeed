@@ -1,0 +1,31 @@
+Be sure to log into quarto to run this. Quarto has sqlite_open(), that
+is used in buildsearch.php
+
+Check to be sure searches work after you update the metadata. If
+web/metadata/gms (the sqlite database) is owned by somebody other than
+www (apache) they won't work and the system will run really slowly. 
+You can switch the file to www ownership without asking sys-admin this
+way:
+
+1) switch permissions on metadata to 777.
+2) make a small php script like this: <?php copy('gms', 'gms.copy'); ?>
+3) run that script IN THE BROWSER.
+4) mv gms.copy to gms. gms should now be owned by www.
+5) switch permissions on metadata back to 775. 
+
+***
+
+pre-build JSON data for browses to speed this process up.
+
+Commands:
+
+php -f buildbrowse.php browsetitle > ../web/metadata/json/browsetitle.json
+php -f buildbrowse.php browsecommonname > ../web/metadata/json/browsecommonname.json
+php -f buildbrowse.php browselocation > ../web/metadata/json/browselocation.json
+php -f buildbrowse.php browsedate > ../web/metadata/json/browsedate.json
+php -f buildbrowse.php browselanguage > ../web/metadata/json/browselanguage.json
+php -f buildbrowse.php browsepersonalname > ../web/metadata/json/browsepersonalname.json
+php -f buildbrowse.php browsematerial > ../web/metadata/json/browsematerial.json
+php -f buildbrowse.php browseminiature > ../web/metadata/json/browseminiature.json
+php -f buildbrowse.php browsebiblebks > ../web/metadata/json/browsebiblebks.json
+

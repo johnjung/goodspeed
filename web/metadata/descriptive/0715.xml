@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0715, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0715</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+             <sourceDesc>
+                 <msDescription>
+                     <msIdentifier>
+                         <country>United States</country>
+                         <region>Illinois</region>
+                         <settlement>Chicago</settlement>
+                         <institution>University of Chicago Library</institution> 
+                         <repository>Special Collections Research Center</repository>
+                         <collection>Goodspeed Manuscript Collection</collection>
+                         <idno>Ms. 715</idno>
+                         <altName type="Gregory number">Greg. l 1642</altName>
+                         <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 27</altIdentifier>
+                     </msIdentifier>
+                     <msHeading>
+                         <title>Lectionary</title>
+                         <otherName>Serpent Lectionary</otherName>
+                         <origPlace>Constantinople</origPlace>
+                         <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+                         <textLang langKey="grc">Greek</textLang>
+                     </msHeading>
+                     <msContents>
+                         <overview>
+                             <p>Gospel lectionary in Greek. Includes both Synaxarion and Menologion. Formerly Goodspeed Ms. Grk. 27.</p> 
+                         </overview></msContents>
+                     <decoration>
+                         <headpieces><p>Headpieces of floral, foliate, interlace motifs, and scrollwork in red and blue (fols. 1r, 68r, 165r). 
+                             Horizontal bars composed of knots and beads also occur at divisions of the text. Most notable of these is a serpent wound around a 
+                             rod (fol. 171r), a vignette from which the manuscript derives its common name. Rosettes mark the beginning of particular lections.</p></headpieces>
+                         <initials><p>Major initials (35-75 mm) set off from text and embellished with floral, foliate, bead, and knot motifs in blue and red. Minor initials 
+                             set off from the text in red.</p></initials>
+                     </decoration><physDesc>
+                         <support><p><material>Parchment</material>. <dimensions type="block" units="mm">255 x 185 mm</dimensions>.</p></support>
+                         <extent>192 leaves, of which 4 are flyleaves of paper.</extent> 
+                         <foliation><p>2 (unfoliated paper flyleaves) + 188 + 2 (unfoliated paper flyleaves). Modern foliation in Arabic numerals in pencil 1-188. Additional system of 
+                             numbering identified as Ottoman Turkish (recto, lower margin).</p></foliation> 
+                         <collation><p>24 quires of 8 leaves, with the exception of quires 1, 9, and 14, each of 7 leaves, and quire 24 of 9 leaves. Estimate of content lost: leaves 
+                             4 and 5 of quire 10 (after fol. 73, Luke, Weekday lections. Ends on Wednesday, Week 3, with 7:1 at, αυτου εις τας, and begins on fol. 74r, 
+                             Monday, Week 4, with 7:48 at, δε αυτη αφεωνται).</p>
+                             <p>Instances of quire numbers extant on the first leaf of each quire (recto, upper right).</p></collation> 
+                         <dimensions type="written" units="mm">Written space 205 x 145 mm (fol. 7r). Each column is 205 x 65 mm with a space of 15 mm between.</dimensions> 
+                         <layout columns="2" writtenLines="28 per column"><p>2 columns, 28 lines. Ruling with hard point.</p></layout>
+                         <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in black ink.</p>
+                             <p>Punctuation includes high point, double point, comma, marks of interrogation and elision. Cross for full stop.</p></handDesc>
+                         </msWriting>
+                         <textDivisions><p>Titles in red.</p></textDivisions>
+                         <condition><p>Numerous holes in the parchment. Corners of several leaves broken. Some marginal notation lost owing to trimming during rebinding. 
+                             Water stains, and minor dirt and rust stains.</p></condition>
+                         <bindingDesc>
+                             <binding><p>Bound in <material>parchment</material> over boards. Pastedowns and single side of flyleaves (front and back) 
+                                 of <material>marbled paper</material>. Edge decoration of red.</p></binding></bindingDesc>
+                     </physDesc>
+                     <history>
+                         <origin><p>The manuscript is dated to the 13th century, and is judged to have been written in <name reg="Constantinople" type="place">Constantinople</name>, 
+                             the present-day <name reg="Istanbul, Turkey" type="place">Istanbul, Turkey</name>.</p></origin> 
+                         <provenance><p>Medieval to early 20th century provenance unknown.</p>
+                             <p>Custom stamp, Douane Centrale Exportation Paris (front flyleaf). University of Chicago Libraries bookplate (front pastedown).</p></provenance>
+                         <acquisition><p>Acquired by the University of Chicago from <name reg="Maggs Bros. (Firm)" type="org" role="bookseller">Maggs Bros.</name> (London), 
+                             November 1931, with funds provided by <name reg="Matthews, Shailer, 1863-1941" type="person" role="donor">Shailer Matthews</name>, dean of the 
+                             Divinity School.</p></acquisition>
+                     </history>
+                      </msDescription>
+             </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+     <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Lectionaries</term> 
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                </keywords>
+            </textClass></profileDesc>
+    </teiHeader>
+    <text>
+   <body>
+ <msDescription id="GMS-0715">
+ <msIdentifier>
+ <country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+     <idno>Ms. 715</idno>
+     <altName type="Gregory number">Greg. l 1642</altName>
+     <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 27</altIdentifier>
+ </msIdentifier>
+     <msHeading>
+         <title>Lectionary</title>
+         <otherName>Serpent Lectionary</otherName>
+         <origPlace>Constantinople</origPlace>
+         <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+         <textLang langKey="grc">Greek</textLang>
+</msHeading>
+     <msContents>
+         <overview>
+             <p>Gospel lectionary in Greek. Includes both Synaxarion and Menologion. Formerly Goodspeed Ms. Grk. 27.</p> 
+             </overview>
+         <msItem n="1">
+             <locus from="007" to="051">fols. 1r-23r</locus>
+             <summary>Synaxarion. John, Weekday, Saturday, and Sunday Lections: Sunday, Resurrection Day, John 1:1-17. Sunday, 
+                 Pentecost (Liturgy), John 8:12.</summary>
+              </msItem>
+<msItem n="2">
+             <locus from="051" to="140">fols. 23r-67v</locus>
+    <summary>Synaxarion. Matthew, Weekday, Saturday, and Sunday Lections: Monday, Week 1 after Pentecost, Matthew 18:10-20. 
+        Sunday, Week 17 after Pentecost (Liturgy), Matthew 15:21-28.</summary>
+</msItem>
+         <msItem n="3">
+             <locus from="141" to="243">fols. 68r-119r</locus>
+             <summary>Synaxarion. Luke, Weekday, Saturday, and Sunday Lections: Monday, Week 18 after Pentecost, Luke 3:19-22. 
+                 Thursday, Tyrophagou or Cheesefare Week, Luke 23:2-34, 44-56.</summary>
+         </msItem>
+         <msItem n="4">
+             <locus from="243" to="245">fols. 119r-120r</locus>
+             <summary>Synaxarion. Tyrophagou or Cheesefare Week Lections: Saturday, Matthew 6:1-13. Sunday, Matthew 6:14-21.</summary>
+         </msItem>
+         <msItem n="5">
+             <locus from="245" to="259">fols. 120r-127r</locus>
+             <summary>Synaxarion. Great Lent, Saturday and Sunday Lections: Saturday, Week 1 of Great Lent, Mark 2:23-3:5. Sunday, 
+                 Week 6 of Great Lent (Liturgy), John 12:1-18.</summary>
+         </msItem>
+         <msItem n="6">
+             <locus from="259" to="287">fols. 127r-141r</locus>
+             <summary>Synaxarion. Holy Week, Monday through Thursday Lections: Monday, Holy Week, (Matins), Matthew 21:18-43. 
+                 Thursday, Foot-washing (Liturgy), Matthew 26:40-27:2.</summary>
+         </msItem>
+         <msItem n="7">
+             <locus from="288" to="313">fols. 141v-154r</locus>
+             <summary>Synaxarion. Twelve Lections of the Holy Passions: Friday, Holy Week, 1st Passion Gospel, John 13:31-18:1. 
+                 Friday, Holy Week, 12th Passion Gospel, Matthew 27:62-66.</summary>
+         </msItem>
+         <msItem n="8">
+             <locus from="313" to="322">fols. 154r-158v</locus>
+             <summary>Synaxarion. Good Friday and Holy Saturday Lections, Canonical Hours, and Liturgy: Friday, Holy Week, 3rd Hour, 
+                 Mark 15:16-41. Saturday, Holy Week, (Liturgy), Matthew 28:1-20.</summary>
+         </msItem>
+         <msItem n="9">
+             <locus from="323" to="335">fols. 159r-165r</locus>
+             <summary>Synaxarion. Eleven Resurrection Lections (Heothina): 1st Lection, Matthew 28:16-20. 
+                 11th Lection, John 21:15-25.</summary>
+         </msItem>
+         <msItem n="10">
+             <locus from="335" to="345">fols. 165r-170r</locus>
+             <summary>Menologion. September through October.</summary>
+         </msItem>
+         <msItem n="11">
+             <locus from="345" to="356">fols. 170r-175v</locus>
+             <summary>Menologion. November (references only) through December.</summary>
+         </msItem>
+         <msItem n="12">
+             <locus from="357" to="366">fols. 176r-180v</locus>
+             <summary>Menologion. January through February.</summary>
+         </msItem>
+         <msItem n="13">
+             <locus from="366" to="368">fols. 180v-181v</locus>
+             <summary>Menologion. March through April (references only).</summary>
+         </msItem>
+         <msItem n="14">
+             <locus from="368" to="374">fols. 181v-184v</locus>
+             <summary>Menologion. May through June.</summary>
+         </msItem>
+         <msItem n="15">
+             <locus from="374" to="381">fols. 184v-188r</locus>
+             <summary>Menologion. July through August.</summary>
+         </msItem>
+         <msItem n="16">
+             <locus from="381" to="382">fols. 188r-188v</locus>
+             <summary>Lections, various occasions.</summary>
+         </msItem>
+         <msItem n="17">
+             <locus from="382" to="382">fol. 188v</locus>
+             <summary>Lections, vigils (references only).</summary>
+         </msItem>
+     </msContents>
+     <decoration>
+         <headpieces><p>Headpieces of floral, foliate, interlace motifs, and scrollwork in red and blue (fols. 1r, 68r, 165r). 
+             Horizontal bars composed of knots and beads also occur at divisions of the text. Most notable of these is a serpent wound around a 
+             rod (fol. 171r), a vignette from which the manuscript derives its common name. Rosettes mark the beginning of particular lections.</p></headpieces>
+         <initials><p>Major initials (35-75 mm) set off from text and embellished with floral, foliate, bead, and knot motifs in blue and red. Minor initials 
+             set off from the text in red.</p></initials>
+     </decoration><physDesc>
+         <support><p><material>Parchment</material>. <dimensions type="block" units="mm">255 x 185 mm</dimensions>.</p></support>
+         <extent>192 leaves, of which 4 are flyleaves of paper.</extent> 
+         <foliation><p>2 (unfoliated paper flyleaves) + 188 + 2 (unfoliated paper flyleaves). Modern foliation in Arabic numerals in pencil 1-188. Additional system of 
+             numbering identified as Ottoman Turkish (recto, lower margin).</p></foliation> 
+         <collation><p>24 quires of 8 leaves, with the exception of quires 1, 9, and 14, each of 7 leaves, and quire 24 of 9 leaves. Estimate of content lost: leaves 
+             4 and 5 of quire 10 (after fol. 73, Luke, Weekday lections. Ends on Wednesday, Week 3, with 7:1 at, αυτου εις τας, and begins on fol. 74r, 
+             Monday, Week 4, with 7:48 at, δε αυτη αφεωνται).</p>
+             <p>Instances of quire numbers extant on the first leaf of each quire (recto, upper right).</p></collation> 
+         <dimensions type="written" units="mm">Written space 205 x 145 mm (fol. 7r). Each column is 205 x 65 mm with a space of 15 mm between.</dimensions> 
+         <layout columns="2" writtenLines="28 per column"><p>2 columns, 28 lines. Ruling with hard point.</p></layout>
+         <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in black ink.</p>
+             <p>Punctuation includes high point, double point, comma, marks of interrogation and elision. Cross for full stop.</p></handDesc>
+   </msWriting>
+         <textDivisions><p>Titles in red.</p></textDivisions>
+         <condition><p>Numerous holes in the parchment. Corners of several leaves broken. Some marginal notation lost owing to trimming during rebinding. 
+             Water stains, and minor dirt and rust stains.</p></condition>
+         <bindingDesc>
+             <binding><p>Bound in <material>parchment</material> over boards. Pastedowns and single side of flyleaves (front and back) 
+                 of <material>marbled paper</material>. Edge decoration of red.</p></binding></bindingDesc>
+     </physDesc>
+     <history>
+         <origin><p>The manuscript is dated to the 13th century, and is judged to have been written in <name reg="Constantinople" type="place">Constantinople</name>, 
+             the present-day <name reg="Istanbul, Turkey" type="place">Istanbul, Turkey</name>.</p></origin> 
+         <provenance><p>Medieval to early 20th century provenance unknown.</p>
+             <p>Custom stamp, Douane Centrale Exportation Paris (front flyleaf). University of Chicago Libraries bookplate (front pastedown).</p></provenance>
+         <acquisition><p>Acquired by the University of Chicago from <name reg="Maggs Bros. (Firm)" type="org" role="bookseller">Maggs Bros.</name> (London), 
+             November 1931, with funds provided by <name reg="Matthews, Shailer, 1863-1941" type="person" role="donor">Shailer Matthews</name>, dean of the 
+             Divinity School.</p></acquisition>
+     </history>
+     <additional><listBibl>
+         <bibl><title level="m">Prolegomena to the Study of the Lectionary Text of the Gospels.</title> 
+         <title level="s">Studies in the Lectionary Text of the Greek New Testament.</title> Edited by <editor>Ernest C. Colwell</editor> and <editor>Donald W. Riddle</editor> <imprint>
+             <pubPlace>(Chicago:</pubPlace> 
+             <publisher>The University of Chicago Press,</publisher>
+             <date>c1933),</date>
+         </imprint>
+         <biblScope type="volume">1</biblScope> 
+         <biblScope type="pages">pp. 81, 85-156.</biblScope></bibl>
+         <bibl>
+             <author>Seymour de Ricci,</author>
+             <title level="m">Census of Medieval and Renaissance Manuscripts in the 
+                 United States and Canada</title>.
+             <imprint>
+                 <pubPlace>(New York:</pubPlace>
+                 <publisher>H. W. Wilson Company,</publisher>
+                 <date>1935),</date>
+             </imprint>
+             <biblScope type="volume">vol. 1, p. 598.</biblScope>
+         </bibl>
+         <bibl><author>Kenneth W. Clark</author>, 
+             <title level="m">A Descriptive Catalogue of Greek New Testament 
+                 Manuscripts in America</title>
+             <imprint>
+                 <pubPlace>(Chicago:</pubPlace>
+                 <publisher>University of Chicago Press,</publisher>
+                 <date>1937),</date>
+             </imprint>
+             <biblScope type="pages">pp. 261-263.</biblScope></bibl>
+          <bibl>
+                 <author>Merrill Mead Parvis</author>, 
+             <title level="m">The Story of the Goodspeed Collection</title>
+             <imprint>
+                 <pubPlace>([Chicago]:</pubPlace>
+                 <publisher>s.n.,</publisher>
+                 <date>1952),</date>
+             </imprint>
+             <biblScope type="pages">p. 19.</biblScope></bibl>
+         <bibl>
+             <author>Walter F. Specht</author>, 
+             <title level="u">"The Saturday and Sunday Lections from Matthew in the Greek Lectionary"</title> 
+             <note>(Ph.D. diss., University of Chicago, 1955).</note></bibl>
+         <bibl> 
+             <title level="m">New Testament manuscript traditions. An exhibition based 
+                 on the Edgar J. Goodspeed 
+                 Collection of the University of Chicago Library, the Joseph Regenstein 
+                 Library, January-March, 1973</title>. 
+             <title level="s">University of Chicago. Library. Dept. of Special 
+                 Collections. Exhibition catalogs</title>
+             <imprint> 
+                 <pubPlace>([Chicago:</pubPlace> 
+                 <publisher>s.n.,</publisher> 
+                 <date>1973]),</date></imprint> 
+             <biblScope type="volume">36,</biblScope> 
+             <biblScope type="catalogNo">no. 2.</biblScope></bibl></listBibl> 
+     </additional></msDescription>
+        </body>
+    </text>            
+</TEI.2>

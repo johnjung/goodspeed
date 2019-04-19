@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+<teiHeader date.created="2015-11-04" creator="jfcd">
+<fileDesc>
+<titleStmt>
+ <title>[University of Chicago Library GMS-1040, a manuscript catalogue description in electronic form]</title>
+ <funder>Institute of Museum and Library Services</funder>
+ <respStmt>
+  <resp>Creation of electronic version:</resp>
+  <name>University of Chicago Library</name>
+  <resp>Creation of digital images:</resp>
+  <name>University of Chicago Library</name>
+ </respStmt> 
+</titleStmt>
+ <publicationStmt>
+  <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+  <pubPlace>Chicago, Illinois</pubPlace>
+  <date>2009</date>
+  <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/1040</idno>
+  <availability status= "free">
+   <p>Publicly accessible</p></availability>
+ </publicationStmt>
+ <sourceDesc>
+  <msDescription>  
+   <msIdentifier>
+    <country>United States</country>
+    <region>Illinois</region>
+    <settlement>Chicago</settlement>
+    <institution>University of Chicago Library</institution> 
+    <repository>Special Collections Research Center</repository>
+    <collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 1040</idno>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 52</altIdentifier>
+   </msIdentifier>
+   <msHeading>
+    <title>New Testament. Gospels</title>
+    <otherName>Mik‛ayēl Gospels</otherName>
+    <origPlace> Aleppo, Syria (Berea)?</origPlace>
+    <origDate notBefore="1401" notAfter="1500">15th century</origDate>
+    <textLang langKey="hye">Armenian</textLang>
+   </msHeading>
+   <msContents>
+    <overview>
+     <p>Four gospels in Armenian. Section numbers in the margins against the text. Concordance numbers in the lower margins. 
+      Pentecostal lection numbers. Formerly Goodspeed Ms. Arm. 52.</p><p>The foliation cited in this description is in the lower margin.</p></overview></msContents>
+   <decoration> 
+    <overview><p>3 full-page portraits of the Evangelists Matthew, Mark, and John (Luke lost). 
+     Marginal vignettes of birds and arabesques.</p></overview>
+    <canonTables><p>Citations of concordant gospel sections are framed by architectural columns. These support headpieces 
+     of floral, geometric, and foliate designs on which animals (peacocks, lions, apes) stand. The copy of Eusebius's 
+     letter to Carpianus is similarly displayed (fols. 2v-3r).</p></canonTables>
+    <headpieces><p>Headpieces of multi-colored floral, geometric, and foliate design at the openings of three gospels 
+     (fols. 15r, 96r, 228r).</p></headpieces>  
+    <initials><p>The major initial of each gospel's opening line is formed by an Evangelist symbol: Matthew (angel, 45 mm), 
+     Mark (lion, 40 mm), and John (eagle, 88 mm). Minor initials formed by figures of birds or flowers.</p></initials></decoration>
+   <physDesc>
+    <support><p><material>Parchment</material>. <dimensions type="block" units="mm">160 x 115 mm</dimensions>.</p></support>
+    <extent>289 leaves, of which 2 are flyleaves.</extent> 
+    <foliation><p>1 (foliated parchment flyleaf) + 287 + 1 (foliated parchment flyleaf). Modern foliation in Arabic numerals in pencil 1-289 (lower margin). 
+     A second set of numbering (upper right margin) does not count the flyleaves.</p></foliation>
+    <collation><p>34 numbered quires.</p></collation>
+    <dimensions type="written" units="mm">Written space 100 x 70 mm (fol. 25r). Each column is 100 x 30 mm with a space of 10 mm between.</dimensions> 
+    <layout columns="2" writtenLines="22 per column"><p>2 columns, 22 lines. Ruling with hard point.</p></layout> 
+    <msWriting><handDesc script="Bolorgir" medium="ink"> 
+     <p>Written chiefly in bolorgir script in black ink. Matthew and John's first lines are inscribed in capitals 
+      embellished with beads and leaves. Mark's first line is of bird letters. The second line of Matthew and Mark, 
+      and second and third of John, are rendered in erkat’agir script.</p></handDesc></msWriting>
+    <textDivisions><p>Titles in red and gold.</p></textDivisions>
+    <condition><p>Upper margins trimmed. Several leaves loose. Faces repainted on portraits of Evangelists. Dirt and grease stains.</p></condition> 
+    <bindingDesc> 
+     <binding><p>Bound in red-dyed <material>leather</material> over boards. Doublures of pink <material>silk</material> (back remaining).</p><decoNote>
+      <p>Front cover: A cross mounted on a stepped platform, both filled with squares of strapwork. Floral 
+       tooled design surrounds the cross. Border of repeating strapwork squares. Back cover: 
+       Diagonal rows of stamped flowers within floral border. Spine covered with floral motifs.</p>
+     </decoNote>
+     </binding></bindingDesc>
+   </physDesc>
+   <history>
+    <origin><p>Judged to have been written and illuminated before 1488 (Armenian Era 937), possibly in <name reg="Berea" type="place">Berea</name>, the 
+     present-day <name reg="Aleppo, Syria" type="place">Aleppo, Syria</name>. The manuscript was purchased in that city by the son of the 
+     Archpriest <name reg="Mik‛ayēl" type="person" role="archpriest">Mik‛ayēl</name> (inscription, fol. 2r).</p></origin>
+    <provenance><p>Late medieval to 20th century provenance unknown.</p>
+     <p>An undated inscription (fol. 2r) states that the manuscript was received by <name reg="Grik‛or" type="person">Grik‛or</name>. Note attached to the 
+      remaining doublure.</p></provenance> 
+    <acquisition><p>Acquired by the University of Chicago from <name reg="Hovaguimian, Haroutiun" type="person" role="owner">Haroutiun Hovaguimian</name> 
+     of <name reg="Zahlah, Lebanon" type="place">Zahlah, Lebanon</name>, December 1950.</p></acquisition>
+   </history>
+  </msDescription>
+ </sourceDesc>
+</fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+    an interface that supports browsing within individual manuscripts and across the collection.</p>
+   <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+    as of <date>2012-09-22</date>.</p> 
+   <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+  </projectDesc>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage><language id="hye"></language><p>Armenian, ISO 639-3</p>
+ </langUsage>
+  <textClass>
+   <keywords>
+    <term>Bible. N.T. Gospels. Armenian</term>
+    <term>Miniatures (Illuminations)</term>
+    <term>Manuscripts, Armenian</term>
+   </keywords>
+  </textClass>
+ </profileDesc>
+</teiHeader>
+ <text>
+ <body>
+ <msDescription id="GMS-1040">
+ <msIdentifier>
+ <country>United States</country>
+<region>Illinois</region>
+ <settlement>Chicago</settlement>
+ <institution>University of Chicago Library</institution> 
+ <repository>Special Collections Research Center</repository>
+ <collection>Goodspeed Manuscript Collection</collection>
+  <idno>Ms. 1040</idno>
+  <altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 52</altIdentifier>
+ </msIdentifier>
+  <msHeading>
+   <title>New Testament. Gospels</title>
+   <otherName>Mik‛ayēl Gospels</otherName>
+   <origPlace> Aleppo, Syria (Berea)?</origPlace>
+   <origDate notBefore="1401" notAfter="1500">15th century</origDate>
+   <textLang langKey="hye">Armenian</textLang>
+  </msHeading>
+  <msContents>
+   <overview>
+    <p>Four gospels in Armenian. Section numbers in the margins against the text. Concordance numbers in the lower margins. 
+     Pentecostal lection numbers. Formerly Goodspeed Ms. Arm. 52.</p><p>The foliation cited in this description is in the lower margin.</p></overview>
+   <msItem n="1">
+<locus from="006" to="007">fols. 2v-3r</locus>
+<summary>Eusebius of Caesarea (ca. 260-ca. 340), letter to Carpianus, on the gospel canons.</summary>
+<note>Blank (fols. 3v-4r).</note></msItem>
+ <msItem n="2"> 
+  <locus from="010" to="019">fols. 4v-9r</locus> 
+  <summary>Canon tables I-X.</summary> 
+  <note>Blank (fols. 5v-6r, 7v-8r, 9v-10r).</note>
+</msItem>
+<msItem n="3">
+<locus from="022" to="027">fols. 10v-13r</locus>
+<summary>Preface, index, and concordance of Matthew.</summary>
+<note>Blank (fols. 13v-14r).</note>
+</msItem>
+   <msItem n="4">
+    <locus from="031" to="187">fols. 15r-93r</locus>
+    <summary>Matthew (ends at 15:35).</summary></msItem>
+   <msItem n="5">
+    <locus from="187" to="191">fols. 93r-95r</locus>
+    <summary>Preface and index of Mark.</summary></msItem>
+ <msItem n="6">
+ <locus from="193" to="292">fols. 96r-145v</locus>
+<summary>Mark.</summary>
+ </msItem>
+   <msItem n="7">
+    <locus from="293" to="298">fols. 146r-148v</locus>
+    <summary>Preface and index of Luke.</summary></msItem>
+ <msItem n="8">
+<locus from="299" to="451">fols. 149r-225r</locus>
+<summary>Luke (begins at 1:9).</summary>
+ </msItem>
+<msItem n="9">
+<locus from="451" to="454">fols. 225r-226v</locus>
+<summary>Preface and index of John.</summary>
+</msItem>
+   <msItem n="10">
+    <locus from="457" to="578">fols. 228r-288v</locus>
+    <summary>John.</summary>
+    <summary>Pericope: The Woman taken in Adultery (lacking).</summary>
+</msItem>
+  </msContents>
+  <decoration> 
+   <overview><p>3 full-page portraits of the Evangelists Matthew, Mark, and John (Luke lost). 
+    Marginal vignettes of birds and arabesques.</p></overview>
+   <miniatures>
+    <minItem n="1"> 
+ <locus from ="030" to="030">fol. 14v</locus> 
+ <minDesc>Evangelist, Matthew: Portrait. Matthew writing, seated in high-backed chair; building in background.</minDesc>
+     <note>Inscriptions (lower and left margins, the latter partially erased.).</note>
+</minItem>
+ <minItem n="2"> 
+  <locus from ="192" to="192">fol. 95v</locus> 
+  <minDesc>Evangelist, Mark: Portrait. Mark writing, seated in high-backed chair; building in background.</minDesc>
+  <note>Prayer (lower margin).</note>
+ </minItem>
+    <minItem n="3"> 
+  <locus from ="456" to="456">fol. 227v</locus> 
+     <minDesc>Evangelist, John: Portrait. John, reading, seated in high-backed chair; buildings in background.</minDesc>
+     <note>Inscription (lower margin).</note>
+    </minItem></miniatures>
+   <canonTables><p>Citations of concordant gospel sections are framed by architectural columns. These support headpieces 
+    of floral, geometric, and foliate designs on which animals (peacocks, lions, apes) stand. The copy of Eusebius's 
+    letter to Carpianus is similarly displayed (fols. 2v-3r).</p></canonTables>
+   <headpieces><p>Headpieces of multi-colored floral, geometric, and foliate design at the openings of three gospels 
+    (fols. 15r, 96r, 228r).</p></headpieces>  
+   <initials><p>The major initial of each gospel's opening line is formed by an Evangelist symbol: Matthew (angel, 45 mm), 
+    Mark (lion, 40 mm), and John (eagle, 88 mm). Minor initials formed by figures of birds or flowers.</p></initials></decoration>
+<physDesc>
+<support><p><material>Parchment</material>. <dimensions type="block" units="mm">160 x 115 mm</dimensions>.</p></support>
+ <extent>289 leaves, of which 2 are flyleaves.</extent> 
+ <foliation><p>1 (foliated parchment flyleaf) + 287 + 1 (foliated parchment flyleaf). Modern foliation in Arabic numerals in pencil 1-289 (lower margin). 
+  A second set of numbering (upper right margin) does not count the flyleaves.</p></foliation>
+ <collation><p>34 numbered quires.</p></collation>
+ <dimensions type="written" units="mm">Written space 100 x 70 mm (fol. 25r). Each column is 100 x 30 mm with a space of 10 mm between.</dimensions> 
+ <layout columns="2" writtenLines="22 per column"><p>2 columns, 22 lines. Ruling with hard point.</p></layout> 
+ <msWriting><handDesc script="Bolorgir" medium="ink"> 
+  <p>Written chiefly in bolorgir script in black ink. Matthew and John's first lines are inscribed in capitals 
+   embellished with beads and leaves. Mark's first line is of bird letters. The second line of Matthew and Mark, 
+   and second and third of John, are rendered in erkat’agir script.</p></handDesc></msWriting>
+ <textDivisions><p>Titles in red and gold.</p></textDivisions>
+ <condition><p>Upper margins trimmed. Several leaves loose. Faces repainted on portraits of Evangelists. Dirt and grease stains.</p></condition> 
+ <bindingDesc> 
+  <binding><p>Bound in red-dyed <material>leather</material> over boards. Doublures of pink <material>silk</material> (back remaining).</p><decoNote>
+   <p>Front cover: A cross mounted on a stepped platform, both filled with squares of strapwork. Floral 
+    tooled design surrounds the cross. Border of repeating strapwork squares. Back cover: 
+    Diagonal rows of stamped flowers within floral border. Spine covered with floral motifs.</p>
+  </decoNote>
+  </binding></bindingDesc>
+</physDesc>
+<history>
+ <origin><p>Judged to have been written and illuminated before 1488 (Armenian Era 937), possibly in <name reg="Berea" type="place">Berea</name>, the 
+  present-day <name reg="Aleppo, Syria" type="place">Aleppo, Syria</name>. The manuscript was purchased in that city by the son of the 
+  Archpriest <name reg="Mik‛ayēl" type="person" role="archpriest">Mik‛ayēl</name> (inscription, fol. 2r).</p></origin>
+ <provenance><p>Late medieval to 20th century provenance unknown.</p>
+  <p>An undated inscription (fol. 2r) states that the manuscript was received by <name reg="Grik‛or" type="person">Grik‛or</name>. Note attached to the 
+   remaining doublure.</p></provenance> 
+ <acquisition><p>Acquired by the University of Chicago from <name reg="Hovaguimian, Haroutiun" type="person" role="owner">Haroutiun Hovaguimian</name> 
+  of <name reg="Zahlah, Lebanon" type="place">Zahlah, Lebanon</name>, December 1950.</p></acquisition>
+</history>
+  <additional><listBibl><bibl>
+   <author>Merrill Mead Parvis</author>, 
+   <title level="m">The Story of the Goodspeed Collection</title>
+   <imprint> 
+    <pubPlace>([Chicago:]</pubPlace> 
+    <publisher>s.n.,</publisher>
+    <date>1952),</date>
+   </imprint>
+   <biblScope type="pages">p. 27.</biblScope></bibl>
+   <bibl>
+    <author>Erroll F. Rhodes</author>, 
+    <title level="m">An Annotated List of Armenian New Testament Manuscripts</title>, 
+    <title level="s">Annual Report of Theology</title>
+    <biblScope type="volume">1</biblScope>
+    <imprint><date>(1959),</date></imprint>
+    <biblScope type="pages">p. 135 (1042).</biblScope></bibl>
+   <bibl> 
+    <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+     Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+    <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+    <imprint> 
+     <pubPlace>([Chicago:</pubPlace> 
+     <publisher>s.n.,</publisher> 
+     <date>1973]),</date></imprint> 
+    <biblScope type="volume">36,</biblScope> 
+    <biblScope type="catalogNo">no. 68.</biblScope></bibl>
+   <bibl>
+    <author>Avedis K. Sanjian</author>, 
+    <title level="m">A catalogue of medieval Armenian manuscripts in the United States</title>
+    <imprint>
+     <pubPlace>(Berkeley:</pubPlace>
+     <publisher>University of California Press,</publisher>
+     <date>1976),</date>
+    </imprint>
+    <biblScope type="pages">pp. 247-250.</biblScope></bibl>
+   <bibl>
+    <title level="m">Treasures in heaven: Armenian illuminated manuscripts</title>, edited by 
+    <editor>Thomas F. Mathews</editor> and <editor>Roger S. Wieck</editor> 
+    <imprint>
+     <pubPlace>(New York:</pubPlace>
+     <publisher>Pierpont Morgan Library; Princeton, N.J.: distributed by Princeton University Press,</publisher>
+     <date>1994),</date>
+    </imprint>
+    <biblScope type="pages">p. 166 (cat. 27).</biblScope></bibl>
+  </listBibl>
+  </additional>
+ </msDescription>
+ </body>
+ </text>    
+ </TEI.2>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0828, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0828</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 828</idno>
+                        <altName type="Gregory number">Greg. 2411</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 32</altIdentifier>
+                    </msIdentifier> 
+                    <msHeading>
+                        <title>New Testament. Gospels</title>
+                        <otherName>Tetragram Gospels</otherName>
+                        <origPlace>Unknown Place of Origin</origPlace>
+                        <origDate notBefore="1101" notAfter="1200">12th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents> 
+                        <overview><p>Four gospels in Greek. Ammonian section numbers and lection apparatus in margins. Addition 
+                            of 14th century paper lectionary tables. Formerly Goodspeed Ms. Grk. 32.</p></overview></msContents>
+                    <decoration>
+                        <canonTables><p>Citations of concordant gospel sections are framed by architectural columns which support tympana-shaped headpieces. 
+                            Embellished with geometric motifs in red, blue, gold, and orange.</p></canonTables>
+                        <headpieces><p>Headpieces infilled with foliate, floral, and quatrefoil designs in orange, gold, and black (fols. 5r, 111r, 176r, 274r).</p></headpieces>
+                        <initials><p>Major initials (15-40 mm) of bead and foliate motifs.</p></initials>
+                    </decoration><physDesc>
+                        <support><p><material>Parchment</material> and <material>paper</material>. <dimensions type="block" units="mm">150 x 115 mm</dimensions>.</p></support>
+                        <watermarks><p>Watermark of lectionary leaves, fols. 373-375, similar to Briquet, Arc, 786 (Lucques, 1372).</p></watermarks>
+                        <extent>380 leaves of which 363 are parchment and 17 are 14th century paper (lectionary tables and 1 flyleaf).</extent> 
+                        <foliation><p>362 + 16 (paper foliated leaves) + 1 (unfoliated paper flyleaf) + 1 (foliated parchment leaf). Modern foliation in Arabic numerals in pencil 1-379. Earlier numbering 
+                            still extant on some leaves.</p></foliation> 
+                        <collation><p>48 quires of parchment, 2 of paper, and each of 8 leaves, with the exception of quires 14 and 23 of 3 leaves, quire 16 of 6 leaves, and quire 36 of 9 leaves. 
+                            Estimate of content lost: Eusebian Canon tables I, portions of II, and X, and possibly Eusebius's letter to Carpianus on the gospel canons; leaf 1 of quire 14 (after fol. 108, 
+                            ends with Matthew 27:62 at, και οι Φα[ρισαιο], and begins on fol. 109r with 28:7 at, πορευθεισαι ειπατε τοις); leaves 1-3 of quire 31 (after fol. 231, ends with Luke 12:9 
+                            at, των ανθρωπων, and begins on fol. 232r with 12:42 at, [οι]κονομος και φρονιμος); leaves 5-8 of quire 31 (after fol. 232, ends with Luke 12:52 at, τρεις επι, and begins 
+                            on fol. 233r with 13:34 at, απεσταλμενους προς αυτην); 3 or more leaves of quire Ι-12 (after fol. 362, ends with John 20:29 at, με πεπιστευκας μα[καριοι]; unknown number 
+                            of leaves of the Menologion table (after fol. 378, ends with February 11).</p> 
+                            <p>Quires numbered 1-36 (α-λϛ), Matthew through Luke, and for John, I-1 to I-12 (α-ιβ) on the first leaf (recto, upper right margin) of each quire.</p></collation> 
+                        <dimensions type="written" units="mm">Written space 100 x 75 mm (fol. 53r).</dimensions> 
+                        <layout columns="1" writtenLines="16-18"><p>1 column, 16-18 lines. Ruling with hard point. Pricking in the outer margins.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in dark brown ink (some fading).</p>
+                            <p>Punctuation includes high point, comma, marks of elision and interrogation. Quotation marks in the left margins next to each line of quoted text.</p>
+                            <p>Methods of correction consist of erasure and additions in and above the text, and in the margins. Alternations are sometimes marked with one of three 
+                                diagonal arrangements of dots.</p></handDesc>
+                        </msWriting>
+                        <textDivisions><p>Titles in red.</p></textDivisions>
+                        <condition><p>Leaves slightly cockled. Water stains on parchment and paper. Edges darkened. Several loose leaves. Trimming of margins. Minor insect damage. 
+                            Part of leather binding extant only on front cover.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Dark brown blind-stamped <material>leather</material> lined with <material>linen</material> over boards. Fore-edge metal pegs and 
+                                remnants of braided strap closures.</p></binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript is judged to have been written in the 12th century, and is the work of the scribe <name reg="Joseph" type="person" role="scribe">Joseph</name> 
+                            (his undated colophon, fol. 175v). A place of origin is unknown.</p></origin> 
+                        <provenance><p>Medieval to early 20th century provenance is unknown. The manuscript was acquired in 1932 in <name reg="Greece" type="place">Greece</name> 
+                            by the bookseller <name reg="Maggs Bros. (Firm)" type="org" role="bookseller">Maggs Bros.</name> (London).</p>
+                            <p>Inscription with the name <name reg="Lola, Kostanti" type="person">Kostanti Lola</name> (fol. 77v); prayer (fol. 110v); notation (fol. 306v); jotting (fol. 61r); University of Chicago Libraries bookplate and stamp 
+                                (inside front cover, back flyleaf).</p></provenance>
+                        <acquisition><p>Purchased by the University of Chicago from Maggs Bros. (London), 13 February 1933, with funds provided 
+                            by <name reg="Matthews, Shailer, 1863-1941" type="person" role="donor">Shailer Matthews</name>, dean of the Divinity School.</p></acquisition>
+                    </history>
+                     </msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Gospels. Greek</term>
+                    <term>Bible--Manuscripts</term>
+                    <term>Canon tables</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <msDescription id="GMS-0828">
+                <msIdentifier>
+                    <country>United States</country>
+                    <region>Illinois</region>
+                    <settlement>Chicago</settlement>
+                    <institution>University of Chicago Library</institution> 
+                    <repository>Special Collections Research Center</repository>
+                    <collection>Goodspeed Manuscript Collection</collection>
+                    <idno>Ms. 828</idno>
+                    <altName type="Gregory number">Greg. 2411</altName>
+                    <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 32</altIdentifier>
+                </msIdentifier> 
+                <msHeading>
+                    <title>New Testament. Gospels</title>
+                    <otherName>Tetragram Gospels</otherName>
+                    <origPlace>Unknown Place of Origin</origPlace>
+                    <origDate notBefore="1101" notAfter="1200">12th century</origDate>
+                    <textLang langKey="grc">Greek</textLang>
+                </msHeading>
+                <msContents> 
+                    <overview><p>Four gospels in Greek. Ammonian section numbers and lection apparatus in margins. Addition 
+                        of 14th century paper lectionary tables. Formerly Goodspeed Ms. Grk. 32.</p></overview>
+    <msItem n="1">
+        <locus from = "003" to ="009">fols. 1r-4r</locus> 
+        <summary>Canon tables II-IX (lacking).</summary>
+        <note>Drawing of headpiece in ink (fol. 3r); Blank (fol. 4v).</note>
+    </msItem>
+    <msItem n="2">
+        <locus from = "011" to ="222">fols. 5r-110v</locus> 
+        <summary>Matthew. Subscription.</summary>
+    </msItem>
+    <msItem n="3">
+        <locus from = "223" to ="352">fols. 111r-175v</locus> 
+        <summary>Mark. Subscription.</summary>
+    </msItem>
+                    <msItem n="4">
+            <locus from = "352" to ="352">fol. 175v</locus>
+                        <colophon>Signature of the scribe Joseph in tetragram form.</colophon>
+                    </msItem>
+      <msItem n="5">
+        <locus from = "353" to ="548">fols. 176r-273v</locus> 
+        <summary>Luke. Subscription with ecphonetic notation.</summary>
+                    </msItem>
+                    <msItem n="6">
+        <locus from = "549" to ="726">fols. 274r-362v</locus> 
+                        <summary>John (ends with 20:29 at, μα[καριοι].</summary>
+                    </msItem>
+                    <msItem n="7">
+                        <locus from = "727" to ="758">fols. 363r-378v</locus> 
+                        <summary>Lectionary tables, Synaxarion and Menologion (lacking).</summary>
+                    </msItem>
+                    <msItem n="8">
+                        <locus from = "761" to ="762">fol. 379r-379v</locus> 
+                        <summary>Homily (based on 1 Timothy 6:8 and 6:10).</summary>
+                    </msItem>
+                </msContents>
+                <decoration>
+                    <canonTables><p>Citations of concordant gospel sections are framed by architectural columns which support tympana-shaped headpieces. 
+                        Embellished with geometric motifs in red, blue, gold, and orange.</p></canonTables>
+                    <headpieces><p>Headpieces infilled with foliate, floral, and quatrefoil designs in orange, gold, and black (fols. 5r, 111r, 176r, 274r).</p></headpieces>
+                    <initials><p>Major initials (15-40 mm) of bead and foliate motifs.</p></initials>
+        </decoration><physDesc>
+            <support><p><material>Parchment</material> and <material>paper</material>. <dimensions type="block" units="mm">150 x 115 mm</dimensions>.</p></support>
+            <watermarks><p>Watermark of lectionary leaves, fols. 373-375, similar to Briquet, Arc, 786 (Lucques, 1372).</p></watermarks>
+        <extent>380 leaves of which 363 are parchment and 17 are 14th century paper (lectionary tables and 1 flyleaf).</extent> 
+            <foliation><p>362 + 16 (paper foliated leaves) + 1 (unfoliated paper flyleaf) + 1 (foliated parchment leaf). Modern foliation in Arabic numerals in pencil 1-379. Earlier numbering 
+                still extant on some leaves.</p></foliation> 
+            <collation><p>48 quires of parchment, 2 of paper, and each of 8 leaves, with the exception of quires 14 and 23 of 3 leaves, quire 16 of 6 leaves, and quire 36 of 9 leaves. 
+                Estimate of content lost: Eusebian Canon tables I, portions of II, and X, and possibly Eusebius's letter to Carpianus on the gospel canons; leaf 1 of quire 14 (after fol. 108, 
+                ends with Matthew 27:62 at, και οι Φα[ρισαιο], and begins on fol. 109r with 28:7 at, πορευθεισαι ειπατε τοις); leaves 1-3 of quire 31 (after fol. 231, ends with Luke 12:9 
+                at, των ανθρωπων, and begins on fol. 232r with 12:42 at, [οι]κονομος και φρονιμος); leaves 5-8 of quire 31 (after fol. 232, ends with Luke 12:52 at, τρεις επι, and begins 
+                on fol. 233r with 13:34 at, απεσταλμενους προς αυτην); 3 or more leaves of quire Ι-12 (after fol. 362, ends with John 20:29 at, με πεπιστευκας μα[καριοι]; unknown number 
+                of leaves of the Menologion table (after fol. 378, ends with February 11).</p> 
+                <p>Quires numbered 1-36 (α-λϛ), Matthew through Luke, and for John, I-1 to I-12 (α-ιβ) on the first leaf (recto, upper right margin) of each quire.</p></collation> 
+       <dimensions type="written" units="mm">Written space 100 x 75 mm (fol. 53r).</dimensions> 
+        <layout columns="1" writtenLines="16-18"><p>1 column, 16-18 lines. Ruling with hard point. Pricking in the outer margins.</p></layout>
+        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in dark brown ink (some fading).</p>
+                <p>Punctuation includes high point, comma, marks of elision and interrogation. Quotation marks in the left margins next to each line of quoted text.</p>
+                <p>Methods of correction consist of erasure and additions in and above the text, and in the margins. Alternations are sometimes marked with one of three 
+                    diagonal arrangements of dots.</p></handDesc>
+    </msWriting>
+        <textDivisions><p>Titles in red.</p></textDivisions>
+            <condition><p>Leaves slightly cockled. Water stains on parchment and paper. Edges darkened. Several loose leaves. Trimming of margins. Minor insect damage. 
+                Part of leather binding extant only on front cover.</p></condition>
+        <bindingDesc>
+            <binding><p>Dark brown blind-stamped <material>leather</material> lined with <material>linen</material> over boards. Fore-edge metal pegs and 
+                remnants of braided strap closures.</p></binding></bindingDesc>
+ </physDesc>
+<history>
+    <origin><p>The manuscript is judged to have been written in the 12th century, and is the work of the scribe <name reg="Joseph" type="person" role="scribe">Joseph</name> 
+        (his undated colophon, fol. 175v). A place of origin is unknown.</p></origin> 
+    <provenance><p>Medieval to early 20th century provenance is unknown. The manuscript was acquired in 1932 in <name reg="Greece" type="place">Greece</name> 
+        by the bookseller <name reg="Maggs Bros. (Firm)" type="org" role="bookseller">Maggs Bros.</name> (London).</p>
+        <p>Inscription with the name <name reg="Lola, Kostanti" type="person">Kostanti Lola</name> (fol. 77v); prayer (fol. 110v); notation (fol. 306v); jotting (fol. 61r); University of Chicago Libraries bookplate and stamp 
+            (inside front cover, back flyleaf).</p></provenance>
+    <acquisition><p>Purchased by the University of Chicago from Maggs Bros. (London), 13 February 1933, with funds provided 
+        by <name reg="Matthews, Shailer, 1863-1941" type="person" role="donor">Shailer Matthews</name>, dean of the Divinity School.</p></acquisition>
+</history>
+                <additional><listBibl><bibl><author>Otto F. Linn</author>, 
+                    <title level="u">"The Tetragram, Thomas, and Larissa Gospels"</title> 
+                    <note>(Ph.D. diss., University of Chicago, 1935).</note>
+                </bibl>
+                    <bibl><author>Seymour de Ricci,</author>
+                        <title level="m">Census of Medieval and Renaissance Manuscripts in the United States and Canada</title>.
+                        <imprint>
+                            <pubPlace>(New York:</pubPlace>
+                            <publisher>H. W. Wilson Company,</publisher>
+                            <date>1935),</date>
+                        </imprint>
+                        <biblScope type="volume">vol. 1, p. 599.</biblScope>
+                    </bibl>
+                     <bibl><author>Kenneth W. Clark</author>, 
+                        <title level="m">A Descriptive Catalogue of Greek New Testament Manuscripts in America</title>
+                        <imprint>
+                            <pubPlace>(Chicago:</pubPlace>
+                            <publisher>University of Chicago Press,</publisher>
+                            <date>1937),</date>
+                        </imprint>
+                        <biblScope type="pages">pp. 265-267.</biblScope></bibl>
+                    <bibl> 
+                        <author>Harold Rideout Willoughby</author>, 
+                        <title level="a">"Greek Rebinding Colophons in Chicago Manuscripts,"</title> 
+                        <title level="j">Annales de l'institut Kondakov</title> 
+                        <biblScope type="volume">11</biblScope> 
+                        <imprint><date>(1940),</date></imprint> 
+                        <biblScope type="pages">p. 29, pl. VIII.</biblScope></bibl>
+                    <bibl>
+                        <author>Merrill Mead Parvis</author>, 
+                        <title level="m">The Story of the Goodspeed Collection</title>
+                        <imprint>
+                            <pubPlace>([Chicago]:</pubPlace>
+                            <publisher>s.n.,</publisher>
+                            <date>1952),</date>
+                        </imprint>
+                        <biblScope type="pages">p. 21.</biblScope></bibl>
+                    <bibl> 
+                        <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+                            Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+                        <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+                        <imprint> 
+                            <pubPlace>([Chicago:</pubPlace> 
+                            <publisher>s.n.,</publisher> 
+                            <date>1973]),</date></imprint> 
+                        <biblScope type="volume">36,</biblScope> 
+                        <biblScope type="catalogNo">no. 16.</biblScope></bibl></listBibl> 
+                </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

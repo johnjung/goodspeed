@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+<teiHeader date.created="2015-11-04" creator="jfcd">
+<fileDesc>
+<titleStmt>
+ <title>[University of Chicago Library GMS-0949,  a manuscript catalogue description in electronic form]</title>
+ <funder>Institute of Museum and Library Services</funder>
+ <respStmt>
+  <resp>Creation of electronic version:</resp>
+  <name>University of Chicago Library</name>
+  <resp>Creation of digital images:</resp>
+  <name>University of Chicago Library</name>
+ </respStmt> 
+</titleStmt>
+ <publicationStmt>
+  <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+  <pubPlace>Chicago, Illinois</pubPlace>
+  <date>2009</date>
+  <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0949</idno>
+  <availability status= "free">
+   <p>Publicly accessible</p></availability>
+ </publicationStmt>
+ <sourceDesc>
+ <msDescription>
+  <msIdentifier>
+   <country>United States</country>
+   <region>Illinois</region>
+   <settlement>Chicago</settlement>
+   <institution>University of Chicago Library</institution> 
+   <repository>Special Collections Research Center</repository>
+   <collection>Goodspeed Manuscript Collection</collection>
+   <idno>Ms. 949</idno>
+   <altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 47</altIdentifier>
+  </msIdentifier>
+  <msHeading>
+   <title>New Testament. Gospels</title>
+   <otherName>Red Gospels of Ganjasar</otherName>
+   <origPlace>Armenia</origPlace>
+   <origDate notBefore="1101" notAfter="1300">12th or 13th century</origDate>
+   <textLang langKey="hye">Armenian</textLang>
+  </msHeading>
+  <msContents>
+   <overview><p>Four gospels in Armenian. Section numbers in the margins against the text. Concordance numbers 
+    in the lower margins. Pentecostal lection numbers. Formerly Goodspeed Ms. Arm. 47.</p>
+    <p>The Red Gospels of Ganjasar, as the manuscript is commonly known, was named both for the predominant red pigment of its miniatures, 
+     and for the monastery in which its two earliest-known owners lived as members of the community.</p></overview></msContents>
+  <decoration>
+   <overview><p>11 full-page miniatures consist of portraits of the Evangelists (Matthew lost), and depictions of events from the life of Christ painted by the artist Abas 
+    (his undated signature, fols. 4r, 139v).</p> <p>Marginal vignettes of arabesques, floral designs, birds, and 3 miniatures, Harvester (fol. 179r), Christ riding a donkey (fol. 213r); 
+     and a boy in a tree (fol. 280r).</p></overview>
+   <canonTables><p>Citations of concordant gospel sections are framed by architectural columns. These support headpieces of floral, foliate, 
+    and geometric designs, on which large birds (peacocks?) stand. Signatures of Ignatios and Yovsep‛, the artist and his pupil who created the tables, 
+    and a prayer that the lord remember them (fol. 13r).</p>
+   </canonTables> 
+   <headpieces><p>The headpiece of Mark's gospel opening contains an image of the <hi rend="italics">Deesis</hi>, Christ 
+    enthroned, the Virgin Mary on his right, and John the Baptist at his left (fol. 85r). Headpieces of Luke and 
+    John's gospel openings are of multi-colored floral, foliate, and interlace motifs (fols. 140r, 238r). Marginal arabesques (200-215 mm).</p>
+   </headpieces> 
+   <initials><p>The major initials of Mark (60 mm), Luke (145 mm), and John's (215 mm) gospel 
+    openings are formed by multi-colored floral, foliate, and interlace motifs.</p>
+   </initials></decoration>
+  <physDesc>
+   <support><p><material>Parchment</material>. <dimensions type="block" units="mm">265 x 200 mm</dimensions>.</p></support> 
+   <extent>316 leaves, of which 2 are flyleaves. The leaf following fol. 295, overlooked during the manuscript's initial foliation, has been designated fol. 295b. 
+    Flyleaves conjoint with pastedowns.</extent> 
+   <foliation><p>1 (unfoliated parchment flyleaf) + 295 + 1 + 18 + 1 (unfoliated paper flyleaf). Modern foliation in Arabic numerals in pencil 1-313.</p></foliation> 
+   <dimensions type="written" units="mm">Written space 215 x 135 mm (fol. 90r). Each column is 215 x 60 mm with a space of 15 mm between.</dimensions> 
+   <layout columns="2" writtenLines="19-20 per column"><p>2 columns of 19 to 20 lines. Ruling with hard point.</p></layout> 
+   <msWriting><handDesc script="Erkat’agir" medium="ink"> 
+    <p>Written in erkat’agir script in black ink.</p></handDesc></msWriting>
+   <textDivisions><p>Titles in red.</p></textDivisions>
+   <condition><p>Several miniatures have suffered water damage which caused pigment to run. Edges of all leaves are dry 
+    and some are cracked. Lower corners of a number of leaves have been reinforced. Margins were trimmed presumably during rebinding, 
+    thus marring a number of miniatures and vignettes. Dirt and grease stains.</p></condition> 
+   <bindingDesc>
+    <binding><p>Bound in dark brown <material>leather</material> over boards. Nail holes and several silver nails remain along outer edge.</p>
+     <decoNote><p>Covers (front and back) blind tooled in a repeating geometric pattern of diamonds with 
+      stamped rosettes at main points. Central motif set within a narrow rectilinear rosette-filled frame.</p></decoNote></binding>
+   </bindingDesc>
+  </physDesc>
+  <history>
+   <origin><p>The manuscript is judged to have been written and illuminated in either the 12th or 13th century in <name reg="Armenia" type="place">Armenia</name>, 
+    possibly at <name reg="Ani" type="place">Ani</name>, an historic site now located in <name reg="Turkey" type="place">Turkey</name>. 
+    The artist <name reg="Abas, 12th century-13th century" type="person" role="artist">Abas</name>, who painted the miniatures, signed the scene of Christ's 
+    Transfiguration (fol. 4r), and the Evangelist Luke's portrait (fol. 139v) in Greek and Georgian. To the latter image, he added a third 
+    signature in Armenian, and a prayer. The painters who created the canon tables, <name reg="Ignatios, 12th century-13th century" type="person" role="artist">Ignatios</name> and 
+    his pupil <name reg="Yovsep‛, 12th century-13th century" type="person" role="artist">Yovsep‛</name>, added signatures and a brief prayer (fol. 13r).</p></origin>
+   <provenance>
+    <p>According to the oldest extant colophon (fols. 311r-313v) dated 1237 (Armenian Era 686), the manuscript was acquired by the 
+     brothers <name reg="Grigor, 13th century" type="person" role="owner">Grigor</name> and <name reg="Vardan, 13th century" type="person" role="owner">Vardan</name>, 
+     who were priests under Abbot <name reg="Yovhanēs, Abbot, 13th century" type="person" role="abbot">Yovhanēs</name> at  the 
+     <name reg="Monastery of Ganjasar (Armenia)" type="org">Monastery of Ganjasar</name> in the Xach‛en Canton of  Armenia's Arts‛akh Province. 
+     Prayers recorded for Grigor and Vardan (fols. 83v, 139r, 236v).</p> 
+    <p>An agreement  (fol. 3r) dated 1281 (Armenian Era 730) between <name reg="Marcpan, 13th century" type="person" role="owner">Marcpan</name> 
+     and <name reg="Mamikon, 13th century" type="person" role="owner">Mamikon</name> and the clergy of 
+     the <name reg="Monastery of the Holy Theotokos (Shikayk‛ar)" type="org">Monastery of the Holy Theotokos (Surb Astuacacin)</name> 
+     at <name reg="Shikayk‛ar" type="place">Shikayk‛ar</name> indicates the former were owners who donated the manuscript to the monastic foundation in exchange 
+     for the celebration of masses in memory of certain family members. Those named include <name reg="Hasan" type="person">Hasan</name>, 
+     <name reg="Sewadē" type="person">Sewadē</name>, and <name reg="Mamaxat‛un" type="person">Mamaxat‛un</name>.</p>
+    <p>The inscription of <name reg="Yakobeanc‛, Xach‛luec‛i Yovanēs Baghtasar" type="person" role="owner">Xach‛luec‛i Yovanēs Baghtasar Yakobeanc‛</name>, 
+     dated December 20, 1915, recounts the manuscript's capture and his recovery of it from the Kurdish village of 
+     <name reg="Haytar-Ōghli" type="place">Haytar-Ōghli</name>. Also described is the flight of Armenian residents 
+     from <name reg="Alashkert" type="place">Alashkert</name>, the present-day <name reg="Eleskirt, Turkey" type="place">Eleskirt, Turkey</name>, 
+     to the village of <name reg="Gēch‛rlu" type="place">Gēch‛rlu</name> (fol. 236v).</p>
+    <p>Belonged to <name reg="Dawit‛ean, Mushegh" type="person" role="owner">Mushegh Dawit‛ean</name> who purchased the manuscript 
+     at Alashkert from Xach‛luec‛i Yakobeanc‛ for 10 Russian rubles on July 7, 1916. Additionally, he states that Turks had captured it 
+     in 1914 during one of the Russo-Turkish conflicts (his inscription, fol. 83v).</p>
+    <p>On an unknown date, the priest <name reg="Hayrakan" type="person" role="owner">Hayrakan</name> bought the manuscript 
+     for "one red ox and many other things," from <name reg="Sewaday" type="person" role="owner">Sewaday</name>, son of Vaxtank. Hayrakan's 
+     grandfather (of the same name) had formerly owned the manuscript, and it is noted, "evil hands" destroyed his colophon (fols. 236v-237r).</p>
+    <p>Bishop <name reg="Sargis" type="person" role="bishop">Sargis</name> wrote an inscription for the priest 
+     <name reg="Eghiay" type="person" role="owner">Eghiay</name>, who purchased the manuscript as a memorial to his soul and those of his 
+     parents <name reg="Martiros" type="person">Martiros</name> and <name reg="Jumli" type="person">Jumli</name> (fol. 139v).</p>
+    <p>Belonged also to <name reg="Gharberdec‛i, Xawch‛a Sawar" type="person" role="owner">Xawch‛a Sawar Gharberdec‛i</name>, son of 
+     <name reg="Astuacatur" type="person">Astuacatur</name> and <name reg="Kulshat" type="person">Kulshat</name>. In his undated 
+     inscription (fol. 84r), Gharberdec‛i refers to a famine and plague in the city of <name reg="Karuc‛" type="place">Karuc‛</name>, the present-day 
+     <name reg="Kars, Turkey" type="place">Kars, Turkey</name>, where he may have resided.</p>
+    <p>Other entries consist of brief prayers (fols. 8v, 15r), an inscription dated 1275 (Armenian Era 724) (fol. 15v), and partially 
+     legible notation (fols. 2v, 4v, 5v, 6r, 11v, 12r, 16r). University of Chicago Libraries bookplate and description summary (front pastedown).</p></provenance> 
+   <acquisition><p>Acquired by the University of Chicago 
+    from <name reg="R. Stora and Company (Firm)" type="org" role="bookseller">R. Stora and Company</name> (New York), September 1941.
+   </p></acquisition>
+  </history>
+ </msDescription>
+ </sourceDesc>
+</fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+    an interface that supports browsing within individual manuscripts and across the collection.</p>
+   <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+    as of <date>2012-09-22</date>.</p> 
+   <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+  </projectDesc>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage><language id="hye"></language><p>Armenian, ISO 639-3</p>
+ </langUsage>
+  <textClass>
+   <keywords>
+    <term>Bible. N.T. Gospels. Armenian</term>
+    <term>Manuscripts, Armenian</term>
+    <term>Illuminated manuscripts</term>
+    <term>Miniatures (Illuminations)</term>
+    <term>Abas, 12th century-13th century</term>
+   </keywords>
+  </textClass>
+ </profileDesc>
+</teiHeader>
+ <text>
+ <body>
+ <msDescription id="GMS-0949">
+ <msIdentifier>
+ <country>United States</country>
+<region>Illinois</region>
+ <settlement>Chicago</settlement>
+ <institution>University of Chicago Library</institution> 
+ <repository>Special Collections Research Center</repository>
+ <collection>Goodspeed Manuscript Collection</collection>
+ <idno>Ms. 949</idno>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 47</altIdentifier>
+</msIdentifier>
+<msHeading>
+ <title>New Testament. Gospels</title>
+ <otherName>Red Gospels of Ganjasar</otherName>
+ <origPlace>Armenia</origPlace>
+ <origDate notBefore="1101" notAfter="1300">12th or 13th century</origDate>
+<textLang langKey="hye">Armenian</textLang>
+</msHeading>
+ <msContents>
+  <overview><p>Four gospels in Armenian. Section numbers in the margins against the text. Concordance numbers 
+   in the lower margins. Pentecostal lection numbers. Formerly Goodspeed Ms. Arm. 47.</p>
+   <p>The Red Gospels of Ganjasar, as the manuscript is commonly known, was named both for the predominant red pigment of its miniatures, 
+    and for the monastery in which its two earliest-known owners lived as members of the community</p></overview>
+ <msItem n="1">
+  <locus from="009" to="009">fol. 3r</locus> <additions><p>Agreement (fragmentary) for the celebration of masses, dated 1281 (Armenian Era 730).</p></additions>
+  <note>Blank (fols. 1r, 7v-8r).</note>
+ </msItem> 
+  <msItem n="2">
+   <locus from="020" to="034">fols. 8v-15v</locus>
+   <summary>Canon tables have been bound out of order. For the correct sequence: I-II (fols. 10v-11r); III-IV (fols. 8v-9r); V-VII (fols. 12v-13r); 
+    VIII-X (fols. 14v-15r).</summary>
+   <note>Blank (fols. 9v-10r, 13v-14r).</note>
+  </msItem> 
+  <msItem n="3">
+   <locus from="037" to="171">fols. 17r-84r</locus>
+   <summary>Matthew (gospel begins with the last word of 8:34).</summary>
+  </msItem> 
+  <msItem n="4">
+   <locus from="173" to="281">fols. 85r-139r</locus>
+   <summary>Mark.</summary>
+  </msItem> 
+  <msItem n="5">
+   <locus from="283" to="477">fols. 140r-237r</locus>
+   <summary>Luke. </summary>
+  </msItem> 
+  <msItem n="6">
+   <locus from="479" to="625">fols. 238r-310r</locus>
+   <summary>John.</summary></msItem> 
+  <msItem n="7">
+   <locus from="625" to="626">fols. 310r-310v</locus>
+   <summary>Pericope: The Woman taken in Adultery.</summary>
+  </msItem> 
+  <msItem n="8">
+   <locus from="627" to="632">fols. 311r-313v</locus>
+   <colophon>Description of the manuscript's acquisition by the brothers Grigor and 
+    Vardan, dated 1237 (lacking).</colophon>
+  </msItem> 
+  </msContents>
+  <decoration>
+   <overview><p>11 full-page miniatures consist of portraits of the Evangelists (Matthew lost), and depictions of events from the life of Christ painted by the artist Abas 
+    (his undated signature, fols. 4r, 139v).</p> <p>Marginal vignettes of arabesques, floral designs, birds, and 3 miniatures, Harvester (fol. 179r), Christ riding a donkey (fol. 213r); 
+     and a boy in a tree (fol. 280r).</p></overview>
+  <miniatures>
+   <minItem n="1">
+  <locus from ="006" to="006">fol. 1v</locus>
+<minDesc>Virgin Mary: Annunciation. Virgin Mary seated, foreground right; angel stands, at left.</minDesc> 
+  <note>Blank (fol. 1r).</note></minItem>
+ <minItem n="2">
+  <locus from ="007" to="007">fol. 2r</locus>
+  <minDesc>Scenes displayed in 5 registers. Christ: Nativity. Virgin Mary lies on pallet inside stable, foreground; Christ Child in manger next to her, 
+   nuzzled by ox and donkey; six angels in background. Magi: Adoration. Midwives bathe Christ Child, at 
+   right, star overhead; Joseph dreams, seated on floor at left; three magi, at center, flanked by angels, approach Christ Child 
+   carrying gifts. Shepherds: Beholding star. Shepherd plays pipe, at right; other shepherds gaze skyward; flock of sheep below them.
+  </minDesc></minItem>
+ <minItem n="3">
+  <locus from ="010" to="010">fol. 3v</locus>
+  <minDesc>Christ: Baptism. John the Baptist on riverbank at left, baptizes Christ, standing in river; dove of Holy Spirit descends from hand of 
+   God extended from star-filled sky; disciples and angels on either bank, in background.</minDesc></minItem>
+ <minItem n="4">
+  <locus from ="011" to="011">fol. 4r</locus>
+  <minDesc>Christ: Transfiguration. Christ, at center, on mountain within star-filled mandorla, Elijah at left, 
+   Moses to the right; disciples Peter, James, and John, in foreground below.</minDesc>
+  <additions><p>Signature of the artist Abas.</p></additions></minItem>
+ <minItem n="5">
+  <locus from ="013" to="013">fol. 5r</locus>
+  <minDesc>Christ: Entry into Jerusalem. Christ, seated on donkey led by disciple; other disciples, at right; in foreground, people lay robes in 
+   Christ's path, others hold palm branches at left; trumpeters playing in city tower, and a crowd watches from Jerusalem's walls in background.</minDesc> 
+  <additions><p>Inscription, illegible (fol. 5v).</p></additions></minItem>
+ <minItem n="6">
+  <locus from ="016" to="016">fol. 6v</locus>
+  <minDesc>Christ: Crucifixion. Christ crucified on cross; below him, Virgin Mary and disciple John stand at either side; skull lays on mound at foot of cross; 
+   sun, moon, and angels above cross-arms; at left of scene, Church personified, accompanied by angel, holds chalice into which water and blood flow from 
+   Christ's wounded side; Synagogue personified, at right with attendant angel, turns away.</minDesc>
+  <note>Inscription bordering miniature, in part illegible.</note></minItem>
+ <minItem n="7">
+  <locus from ="017" to="017">fol. 7r</locus>
+  <minDesc>Christ: Ascension. Christ seated within star-filled mandorla ascends to heaven flanked 
+   by angels, two of which blow trumpets; Virgin Mary and witnesses stand below the scene, gaze skyward.</minDesc> 
+  <note>Blank (fols. 7v-8r).</note></minItem>
+ <minItem n="8">
+  <locus from ="036" to="036">fol. 16v</locus>
+  <minDesc>Evangelist, Matthew: Portrait. Matthew writing, seated on bench; angel symbol above.</minDesc> 
+  <additions><p>Inscription, partially illegible (fol. 16r).</p></additions></minItem>
+ <minItem n="9">
+  <locus from ="172" to="172">fol. 84v</locus>
+  <minDesc>Evangelist, Mark: Portrait. Mark writing, seated on bench; lion symbol above.</minDesc></minItem>
+<minItem n="10">
+  <locus from ="282" to="282">fol. 139v</locus>
+ <minDesc>Evangelist, Luke: Portrait. Luke writing, seated on bench; ox symbol above. Prayer: 
+ Remember the painter Abas, the unworthy priest</minDesc>
+ <additions><p>Signature of the artist Abas.</p></additions></minItem>
+  <minItem n="11">
+   <locus from ="478" to="478">fol. 237v</locus>
+   <minDesc>Evangelist, John: Portrait. John writing, seated on bench; angel stands behind him; 
+   eagle symbol above.</minDesc></minItem></miniatures>
+   <canonTables><p>Citations of concordant gospel sections are framed by architectural columns. These support headpieces of floral, foliate, 
+    and geometric designs, on which large birds (peacocks?) stand. Signatures of Ignatios and Yovsep‛, the artist and his pupil who created the tables, 
+    and a prayer that the lord remember them (fol. 13r).</p>
+ </canonTables> 
+ <headpieces><p>The headpiece of Mark's gospel opening contains an image of the <hi rend="italics">Deesis</hi>, Christ 
+  enthroned, the Virgin Mary on his right, and John the Baptist at his left (fol. 85r). Headpieces of Luke and 
+  John's gospel openings are of multi-colored floral, foliate, and interlace motifs (fols. 140r, 238r). Marginal arabesques (200-215 mm).</p>
+ </headpieces> 
+ <initials><p>The major initials of Mark (60 mm), Luke (145 mm), and John's (215 mm) gospel 
+  openings are formed by multi-colored floral, foliate, and interlace motifs.</p>
+ </initials>
+ <comments><p>Church, a metaphorical figure in the scene of Christ's crucifixion (fol. 6v),  
+  captures in a single chalice blood and water pouring in separate streams from the wound in Christ's 
+  side. It has been argued that this depiction is representative of the liturgical practice of the Georgian and Greek 
+  churches in which Eucharistic wine and water are mixed, rather than Armenian practice in which 
+  wine and water are kept separate. (Alice Taylor, "Armenian Illumination under Georgian, Turkish, and 
+  Mongol Rule," in <hi rend="italics">Treasures in heaven: Armenian illuminated manuscripts</hi>, pp. 85-103).
+ </p></comments>
+</decoration>
+<physDesc>
+<support><p><material>Parchment</material>. <dimensions type="block" units="mm">265 x 200 mm</dimensions>.</p></support> 
+ <extent>316 leaves, of which 2 are flyleaves. The leaf following fol. 295, overlooked during the manuscript's initial foliation, has been designated fol. 295b. 
+  Flyleaves conjoint with pastedowns.</extent> 
+ <foliation><p>1 (unfoliated parchment flyleaf) + 295 + 1 + 18 + 1 (unfoliated paper flyleaf). Modern foliation in Arabic numerals in pencil 1-313.</p></foliation> 
+ <dimensions type="written" units="mm">Written space 215 x 135 mm (fol. 90r). Each column is 215 x 60 mm with a space of 15 mm between.</dimensions> 
+ <layout columns="2" writtenLines="19-20 per column"><p>2 columns of 19 to 20 lines. Ruling with hard point.</p></layout> 
+ <msWriting><handDesc script="Erkat’agir" medium="ink"> 
+  <p>Written in erkat’agir script in black ink.</p></handDesc></msWriting>
+ <textDivisions><p>Titles in red.</p></textDivisions>
+ <condition><p>Several miniatures have suffered water damage which caused pigment to run. Edges of all leaves are dry 
+  and some are cracked. Lower corners of a number of leaves have been reinforced. Margins were trimmed presumably during rebinding, 
+  thus marring a number of miniatures and vignettes. Dirt and grease stains.</p></condition> 
+ <bindingDesc>
+  <binding><p>Bound in dark brown <material>leather</material> over boards. Nail holes and several silver nails remain along outer edge.</p>
+   <decoNote><p>Covers (front and back) blind tooled in a repeating geometric pattern of diamonds with 
+    stamped rosettes at main points. Central motif set within a narrow rectilinear rosette-filled frame.</p></decoNote></binding>
+ </bindingDesc>
+</physDesc>
+<history>
+ <origin><p>The manuscript is judged to have been written and illuminated in either the 12th or 13th century in <name reg="Armenia" type="place">Armenia</name>, 
+  possibly at <name reg="Ani" type="place">Ani</name>, an historic site now located in <name reg="Turkey" type="place">Turkey</name>. 
+  The artist <name reg="Abas, 12th century-13th century" type="person" role="artist">Abas</name>, who painted the miniatures, signed the scene of Christ's 
+  Transfiguration (fol. 4r), and the Evangelist Luke's portrait (fol. 139v) in Greek and Georgian. To the latter image, he added a third 
+  signature in Armenian, and a prayer. The painters who created the canon tables, <name reg="Ignatios, 12th century-13th century" type="person" role="artist">Ignatios</name> and 
+  his pupil <name reg="Yovsep‛, 12th century-13th century" type="person" role="artist">Yovsep‛</name>, added signatures and a brief prayer (fol. 13r).</p></origin>
+ <provenance>
+  <p>According to the oldest extant colophon (fols. 311r-313v) dated 1237 (Armenian Era 686), the manuscript was acquired by the 
+   brothers <name reg="Grigor, 13th century" type="person" role="owner">Grigor</name> and <name reg="Vardan, 13th century" type="person" role="owner">Vardan</name>, 
+   who were priests under Abbot <name reg="Yovhanēs, Abbot, 13th century" type="person" role="abbot">Yovhanēs</name> at  the 
+  <name reg="Monastery of Ganjasar (Armenia)" type="org">Monastery of Ganjasar</name> in the Xach‛en Canton of  Armenia's Arts‛akh Province. 
+  Prayers recorded for Grigor and Vardan (fols. 83v, 139r, 236v).</p> 
+  <p>An agreement  (fol. 3r) dated 1281 (Armenian Era 730) between <name reg="Marcpan, 13th century" type="person" role="owner">Marcpan</name> 
+   and <name reg="Mamikon, 13th century" type="person" role="owner">Mamikon</name> and the clergy of 
+   the <name reg="Monastery of the Holy Theotokos (Shikayk‛ar)" type="org">Monastery of the Holy Theotokos (Surb Astuacacin)</name> 
+   at <name reg="Shikayk‛ar" type="place">Shikayk‛ar</name> indicates the former were owners who donated the manuscript to the monastic foundation in exchange 
+   for the celebration of masses in memory of certain family members. Those named include <name reg="Hasan" type="person">Hasan</name>, 
+   <name reg="Sewadē" type="person">Sewadē</name>, and <name reg="Mamaxat‛un" type="person">Mamaxat‛un</name>.</p>
+  <p>The inscription of <name reg="Yakobeanc‛, Xach‛luec‛i Yovanēs Baghtasar" type="person" role="owner">Xach‛luec‛i Yovanēs Baghtasar Yakobeanc‛</name>, 
+   dated December 20, 1915, recounts the manuscript's capture and his recovery of it from the Kurdish village of 
+   <name reg="Haytar-Ōghli" type="place">Haytar-Ōghli</name>. Also described is the flight of Armenian residents 
+   from <name reg="Alashkert" type="place">Alashkert</name>, the present-day <name reg="Eleskirt, Turkey" type="place">Eleskirt, Turkey</name>, 
+   to the village of <name reg="Gēch‛rlu" type="place">Gēch‛rlu</name> (fol. 236v).</p>
+  <p>Belonged to <name reg="Dawit‛ean, Mushegh" type="person" role="owner">Mushegh Dawit‛ean</name> who purchased the manuscript 
+   at Alashkert from Xach‛luec‛i Yakobeanc‛ for 10 Russian rubles on July 7, 1916. Additionally, he states that Turks had captured it 
+   in 1914 during one of the Russo-Turkish conflicts (his inscription, fol. 83v).</p>
+ <p>On an unknown date, the priest <name reg="Hayrakan" type="person" role="owner">Hayrakan</name> bought the manuscript 
+  for "one red ox and many other things," from <name reg="Sewaday" type="person" role="owner">Sewaday</name>, son of Vaxtank. Hayrakan's 
+    grandfather (of the same name) had formerly owned the manuscript, and it is noted, "evil hands" destroyed his colophon (fols. 236v-237r).</p>
+  <p>Bishop <name reg="Sargis" type="person" role="bishop">Sargis</name> wrote an inscription for the priest 
+   <name reg="Eghiay" type="person" role="owner">Eghiay</name>, who purchased the manuscript as a memorial to his soul and those of his 
+   parents <name reg="Martiros" type="person">Martiros</name> and <name reg="Jumli" type="person">Jumli</name> (fol. 139v).</p>
+  <p>Belonged also to <name reg="Gharberdec‛i, Xawch‛a Sawar" type="person" role="owner">Xawch‛a Sawar Gharberdec‛i</name>, son of 
+   <name reg="Astuacatur" type="person">Astuacatur</name> and <name reg="Kulshat" type="person">Kulshat</name>. In his undated 
+   inscription (fol. 84r), Gharberdec‛i refers to a famine and plague in the city of <name reg="Karuc‛" type="place">Karuc‛</name>, the present-day 
+   <name reg="Kars, Turkey" type="place">Kars, Turkey</name>, where he may have resided.</p>
+  <p>Other entries consist of brief prayers (fols. 8v, 15r), an inscription dated 1275 (Armenian Era 724) (fol. 15v), and partially 
+   legible notation (fols. 2v, 4v, 5v, 6r, 11v, 12r, 16r). University of Chicago Libraries bookplate and description summary (front pastedown).</p></provenance> 
+<acquisition><p>Acquired by the University of Chicago 
+ from <name reg="R. Stora and Company (Firm)" type="org" role="bookseller">R. Stora and Company</name> (New York), September 1941.
+ </p></acquisition>
+</history>
+<additional><listBibl><bibl>
+ <author>Sirarpie Der Nersessian</author>, 
+ <title level="a">"Armenian Gospel Illustration as seen in manuscripts in American Collections,"</title> in 
+ <title level="m">New Testament Manuscript studies: the materials and the making of a critical apparatus</title> edited by 
+ <editor>Merrill M. Parvis</editor> and <editor>Allen P. Wikgren</editor>. 
+ <imprint> 
+  <pubPlace>(Chicago:</pubPlace> 
+  <publisher>University of Chicago Press,</publisher> 
+  <date>c1950),</date>
+ </imprint> 
+ <biblScope type="pages">pp. 140-141, and pl. II.</biblScope>
+</bibl> 
+ <bibl><author>Merrill Mead Parvis</author>, 
+  <title level="m">The Story of the Goodspeed Collection</title>
+<imprint>
+<pubPlace>([Chicago:]</pubPlace>
+ <publisher>s.n.,</publisher> 
+<date>1952),</date>
+</imprint>
+<biblScope type="pages">pp. 25-26.</biblScope></bibl>
+ <bibl>
+  <author>Erroll F. Rhodes</author>, 
+  <title level="m">An Annotated List of Armenian New Testament Manuscripts</title>, 
+  <title level="s">Annual Report of Theology</title>
+  <biblScope type="volume">1</biblScope>
+  <imprint><date>(1959),</date></imprint>
+  <biblScope type="pages">p. 134 (1038).</biblScope></bibl>
+ <bibl> 
+  <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+  Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+  <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+  <imprint> 
+   <pubPlace>([Chicago:</pubPlace> 
+   <publisher>s.n.,</publisher>  
+   <date>1973]),</date></imprint> 
+  <biblScope type="volume">36,</biblScope> 
+  <biblScope type="catalogNo">no. 66.</biblScope></bibl>
+ <bibl>
+  <author>Avedis K. Sanjian</author>, 
+  <title level="m">A catalogue of medieval Armenian manuscripts in the United States</title>
+  <imprint>
+   <pubPlace>(Berkeley:</pubPlace>
+   <publisher>University of California Press,</publisher>
+   <date>1976),</date>
+  </imprint>
+  <biblScope type="pages">pp. 226-237.</biblScope></bibl>
+ <bibl>
+  <title level="m">Treasures in heaven: Armenian illuminated manuscripts</title>, edited by 
+  <editor>Thomas F. Mathews</editor> and <editor>Roger S. Wieck</editor>
+  <imprint>
+   <pubPlace>(New York:</pubPlace>
+   <publisher>Pierpont Morgan Library; Princeton, N.J.: distributed by Princeton University Press,</publisher>
+   <date>1994),</date>
+  </imprint>
+  <biblScope type="pages">pp. 163-164 (cat. 24).</biblScope></bibl>
+</listBibl>
+</additional>
+ </msDescription>
+ </body>
+ </text>    
+ </TEI.2>

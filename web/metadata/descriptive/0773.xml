@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+<teiHeader date.created="2015-11-04" creator="jfcd">
+<fileDesc>
+<titleStmt>
+ <title>[University of Chicago Library GMS-0773, a manuscript catalogue description in electronic form]</title>
+ <funder>Institute of Museum and Library Services</funder>
+ <respStmt>
+  <resp>Creation of electronic version:</resp>
+  <name>University of Chicago Library</name>
+  <resp>Creation of digital images:</resp>
+  <name>University of Chicago Library</name>
+ </respStmt> 
+</titleStmt>
+ <publicationStmt>
+  <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+  <pubPlace>Chicago, Illinois</pubPlace>
+  <date>2009</date>
+  <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0773</idno>
+  <availability status= "free">
+   <p>Publicly accessible</p></availability>
+ </publicationStmt>
+ <sourceDesc>
+ <msDescription>
+  <msIdentifier>
+   <country>United States</country>
+   <region>Illinois</region>
+   <settlement>Chicago</settlement>
+   <institution>University of Chicago Library</institution> 
+   <repository>Special Collections Research Center</repository>
+   <collection>Goodspeed Manuscript Collection</collection>
+   <idno>Ms. 773</idno>
+   <altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 50</altIdentifier>
+  </msIdentifier>
+  <msHeading>
+   <title>New Testament. Acts</title>
+   <otherName>Ananias Fragment</otherName>
+   <origPlace>Unknown Place of Origin</origPlace>
+   <origDate notBefore="1401" notAfter="1499">15th or 16th century</origDate>
+   <textLang langKey="hye">Armenian</textLang>
+  </msHeading>
+  <msContents>
+   <overview>
+    <p>Praxapostolos leaf of Acts in Armenian. Lection numbers in 
+     the margins against the text. Formerly Goodspeed Ms. Arm. 50.</p>
+    <p>The leaf is commonly known as the Ananias Fragment because it contains the story found in Acts of the early 
+     Christian Church members <name reg="Ananias (Biblical figure)" type="person">Ananias</name> and 
+     <name reg="Sapphira (Biblical figure)" type="person">Sapphira</name>, his wife.</p></overview>
+   <msItem n="1" status="frag">
+    <locus from="001" to="001">fol. [1r]</locus>
+    <summary>Acts 4:26b-4:36.</summary>
+   </msItem>
+   <msItem n="2" status="frag">
+    <locus from="002" to="002">fol. [1v]</locus>
+    <summary>Acts 4:37-5:11. Prayer: O Lord forgive my sins.</summary>
+   </msItem>
+  </msContents>
+  <physDesc>
+   <support>
+    <p><material>Parchment</material>. <dimensions type="leaves" units="mm">132 x 100 mm</dimensions>.</p></support>
+   <extent>1 leaf.</extent> 
+   <dimensions type="written" units="mm">Written space 105 x 70 mm (fol. [1r]). Each column is 105 x 30 mm with a space of 10 mm between.</dimensions> 
+   <layout columns="2" writtenLines="27 per column"><p>2 columns, 27 lines. Ruling with hard point.</p></layout>
+   <msWriting><handDesc script="Bolorgir" medium="ink">
+    <p>Written in bolorgir script in black ink.</p>
+   </handDesc></msWriting>
+   <textDivisions><p>Titles in red.</p></textDivisions>
+   <condition><p>Some grease stains.</p></condition>
+  </physDesc>
+  <history>
+   <origin><p>The manuscript to which the present leaf belonged is judged to have been written in either the 15th or 16th century. A place of origin is unknown.</p></origin>
+   <provenance><p>Provenance unknown. Catholic Epistle leaves (16) from the original manuscript were owned by <name reg="Kurdian, Harry, 1902-1976" type="person" role="owner">Harry Kurdian</name> (1902-1976), 
+    of <name reg="Wichita, Kansas" type="place">Wichita, Kansas</name>. It is presumed the leaves now are held in the <name reg="Monastero di San Lazzaro degli Armeni (Venice, Italy)" type="org">Mekhitarian Monastery of 
+     San Lazzaro</name>, <name reg="Venice, Italy" type="place">Venice, Italy</name>, which received Mr. Kurdian's manuscripts following his death. An additional leaf (Ms. Arm. 3) is said to be in the collection 
+    of the <name reg="Philosophical Research Society (California)" type="org">Philosophical Research Society</name>, <name reg="Los Angeles, California" type="place">Los Angeles, California</name>.</p></provenance> 
+   <acquisition><p>Acquired by the University of Chicago from <name reg="Dawson's Book Shop (Firm)" type="org" role="bookseller">Dawson's Book Shop</name> 
+    (Los Angeles), October 1941.</p></acquisition>
+  </history>
+</msDescription>
+ </sourceDesc>
+</fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+    an interface that supports browsing within individual manuscripts and across the collection.</p>
+   <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+    as of <date>2012-09-22</date>.</p> 
+   <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+  </projectDesc>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage><language id="hye"></language><p>Armenian, ISO 639-3</p>
+ </langUsage>
+  <textClass>
+   <keywords>
+    <term>Bible. N.T. Gospels. Armenian</term> 
+    <term>Manuscripts, Armenian</term>
+    <term>Kurdian, Harry, 1902-1976</term>
+   </keywords>
+  </textClass>
+ </profileDesc>
+</teiHeader>
+ <text>
+ <body>
+ <msDescription id="GMS-0773">
+ <msIdentifier>
+ <country>United States</country>
+<region>Illinois</region>
+ <settlement>Chicago</settlement>
+ <institution>University of Chicago Library</institution> 
+ <repository>Special Collections Research Center</repository>
+ <collection>Goodspeed Manuscript Collection</collection>
+ <idno>Ms. 773</idno>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 50</altIdentifier>
+</msIdentifier>
+<msHeading>
+ <title>New Testament. Acts</title>
+ <otherName>Ananias Fragment</otherName>
+ <origPlace>Unknown Place of Origin</origPlace>
+ <origDate notBefore="1401" notAfter="1499">15th or 16th century</origDate>
+<textLang langKey="hye">Armenian</textLang>
+</msHeading>
+ <msContents>
+  <overview>
+   <p>Praxapostolos leaf of Acts in Armenian. Lection numbers in 
+    the margins against the text. Formerly Goodspeed Ms. Arm. 50.</p>
+   <p>The leaf is commonly known as the Ananias Fragment because it contains the story found in Acts of the early 
+    Christian Church members <name reg="Ananias (Biblical figure)" type="person">Ananias</name> and 
+    <name reg="Sapphira (Biblical figure)" type="person">Sapphira</name>, his wife.</p></overview>
+<msItem n="1" status="frag">
+<locus from="001" to="001">fol. [1r]</locus>
+<summary>Acts 4:26b-4:36.</summary>
+</msItem>
+<msItem n="2" status="frag">
+<locus from="002" to="002">fol. [1v]</locus>
+ <summary>Acts 4:37-5:11. Prayer: O Lord forgive my sins.</summary>
+</msItem>
+ </msContents>
+ <physDesc>
+<support>
+ <p><material>Parchment</material>. <dimensions type="leaves" units="mm">132 x 100 mm</dimensions>.</p></support>
+  <extent>1 leaf.</extent> 
+  <dimensions type="written" units="mm">Written space 105 x 70 mm (fol. [1r]). Each column is 105 x 30 mm with a space of 10 mm between.</dimensions> 
+  <layout columns="2" writtenLines="27 per column"><p>2 columns, 27 lines. Ruling with hard point.</p></layout>
+<msWriting><handDesc script="Bolorgir" medium="ink">
+ <p>Written in bolorgir script in black ink.</p>
+</handDesc></msWriting>
+  <textDivisions><p>Titles in red.</p></textDivisions>
+  <condition><p>Some grease stains.</p></condition>
+ </physDesc>
+  <history>
+   <origin><p>The manuscript to which the present leaf belonged is judged to have been written in either the 15th or 16th century. A place of origin is unknown.</p></origin>
+   <provenance><p>Provenance unknown. Catholic Epistle leaves (16) from the original manuscript were owned by <name reg="Kurdian, Harry, 1902-1976" type="person" role="owner">Harry Kurdian</name> (1902-1976), 
+    of <name reg="Wichita, Kansas" type="place">Wichita, Kansas</name>. It is presumed the leaves now are held in the <name reg="Monastero di San Lazzaro degli Armeni (Venice, Italy)" type="org">Mekhitarian Monastery of 
+    San Lazzaro</name>, <name reg="Venice, Italy" type="place">Venice, Italy</name>, which received Mr. Kurdian's manuscripts following his death. An additional leaf (Ms. Arm. 3) is said to be in the collection 
+    of the <name reg="Philosophical Research Society (California)" type="org">Philosophical Research Society</name>, <name reg="Los Angeles, California" type="place">Los Angeles, California</name>.</p></provenance> 
+   <acquisition><p>Acquired by the University of Chicago from <name reg="Dawson's Book Shop (Firm)" type="org" role="bookseller">Dawson's Book Shop</name> 
+    (Los Angeles), October 1941.</p></acquisition>
+  </history>
+  <additional><listBibl>
+   <bibl><author>Allen Wikgren</author>, 
+    <title level="a">"More Armenian New Testament Manuscripts in the Kurdian Collection,"</title> 
+    <title level="j">Journal of Biblical Literature</title>
+    <biblScope type="volume">64</biblScope>
+    <imprint><date>(1945),</date></imprint>
+    <biblScope type="pages">pp. 531-533 (no. 22).</biblScope></bibl>
+   <bibl>
+    <author>Merrill Mead Parvis</author>, 
+    <title level="m">The Story of the Goodspeed Collection</title>
+    <imprint>
+     <pubPlace>([Chicago:]</pubPlace>
+     <publisher>s.n.,</publisher>
+     <date>1952),</date>
+    </imprint>
+    <biblScope type="pages">p. 26.</biblScope></bibl>
+   <bibl>
+   <author>Erroll F. Rhodes</author>, 
+    <title level="m">An Annotated List of Armenian New Testament Manuscripts</title>, 
+    <title level="s">Annual Report of Theology</title>
+   <biblScope type="volume">1</biblScope>
+   <imprint><date>(1959),</date></imprint>
+   <biblScope type="pages">p. 138 (1069).</biblScope></bibl> 
+   <bibl>
+    <author>Avedis K. Sanjian</author>, 
+    <title level="m">A catalogue of medieval Armenian manuscripts in the United States</title>
+    <imprint>
+     <pubPlace>(Berkeley:</pubPlace>
+     <publisher>University of California Press,</publisher>
+     <date>1976),</date>
+    </imprint>
+    <biblScope type="pages">p. 221.</biblScope></bibl>
+  </listBibl>
+</additional>
+ </msDescription>
+ </body>
+ </text>    
+ </TEI.2>

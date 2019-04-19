@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0046, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0046</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 46</idno>
+                        <altName type="Gregory number">Greg. 1290</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 2</altIdentifier></msIdentifier>
+                    <msHeading>
+                        <title>New Testament. Gospels</title>
+                        <otherName>Haskell Gospels</otherName>
+                        <origPlace>Greece</origPlace>
+                        <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents> 
+                        <overview><p>Four gospels in Greek. Ammonian section and Eusebian canon numbers and lection notes in the margins. 
+                            Formerly Goodspeed Ms. Grk. 2.</p><p>The manuscript is commonly known as the Haskell Gospels because it was 
+                                initially housed in the University of Chicago's <name reg="University of Chicago. Haskell Hall" type="org">Haskell Oriental Museum</name>.</p></overview>
+                    </msContents>
+                    <decoration>
+                        <headpieces><p>Headpieces of floral, foliate, and geometric designs in red, blue, green, and gold (fols. 12r, 100r).</p></headpieces>
+                        <initials><p>The major initial of Matthew is composed of a lion and serpents intertwined to form the letter β (30 mm). 
+                            The initial of Mark's opening line is of beads and leaves (48 mm). Minor initials set off from the text in red.</p></initials>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="block" units="mm">265 x 180 mm</dimensions>.</p></support>
+                        <extent>273 leaves, of which 6 are flyleaves of parchment contemporary with the manuscript's rebinding of 1897.</extent> 
+                        <foliation><p>3 (unfoliated parchment leaves) + 267 + 3 (unfoliated parchment leaves). Modern foliation in Arabic numerals in pencil 1-267.</p></foliation> 
+                        <collation><p>40 quires, each of 8 leaves, with the exception of quire 40 which contains 7 leaves. Estimate of content lost: 2 leaves of the lectionary references 
+                            table (Johannine text, Easter through Pentecost); leaves 1 and 8 of quire 4 (after fols. 35 and 41, portions of Matthew 9:35-10:10, 12:15-29); 
+                            leaf 1 of quire 15 (after fol. 121, Mark 7:24-36); leaves 1 and 8 of quire 16 (after fols. 128 and 134, Mark 9:48-10:14, and chap. 12); quires 17-23 
+                            (Mark 11:33-end; verse, headpiece, initial, Luke 1:1-9:2); leaves 1 and 8 of quire 32 (after fol. 198, verse, headpiece, initial, John 1:1-14, and after fol. 204, 3:14-27).</p>
+                            <p>Quire numbers recorded on the first and last leaf of each quire (lower margin) beginning at fol. 12 (1-40, α-μ).</p></collation> 
+                        <dimensions type="written" units="mm">Written space 182 x 117 mm (fol. 20r).</dimensions> 
+                        <layout columns="1" writtenLines="20"><p>1 column, 20 lines (variants of 19 to 21 lines). Ruling with hard point. Pricking in the outer margins.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in brown ink (some fading).</p>
+                            <p>Punctuation includes high point, comma, marks of elision and interrogation. Quotation marks in the left margin next to each line of quoted text.</p></handDesc>
+                        </msWriting>
+                        <textDivisions><p>Titles in red.</p></textDivisions>
+                        <condition><p>Portion of leaf torn (fol. 144). Sections of the outer margins cut away (fols. 51, 208). Some faded letters 
+                            overwritten. Random stains.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Bound in brown <material>morocco</material> 
+                                by <name reg="Stikeman &amp; Company (Firm)" type="org" role="bookbinder">Stikeman &amp; Company</name> in 1897. Title on 
+                                spine in gold: Four Gospels in Greek, c. A.D. 1500.</p> <p> An Epistles Lectionary fragment (fols. 268-273) bound with the manuscript was removed 
+                                    and rebound as Ms. 50.</p></binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript is dated to the 13th century, and is judged to have been written in <name reg="Greece" type="place">Greece</name> by illuminator and scribe 
+                            <name reg="Theodōros, ho Hagiopetritēs, active 13th century-14th century" type="person" role="scribe">Theodore Hagiopetrites</name>.</p></origin>
+                        <provenance><p>Belonged to <name reg="Morades, Pericles" type="person" role="owner">Pericles Morades</name>,
+                            who is said to have brought the manuscript to the United States from the Greek island of <name reg="Thera, Greece" type="place">Thera</name>.</p>
+                            <p>University of Chicago Libraries bookplate (front pastedown); scrollwork, marginal notes, and inscriptions (fols. 82r, 96r, 97v, 105r, 223r-223v).</p></provenance>
+                        <acquisition><p>Acquired by <name reg="Gregory, Caspar René, 1846-1917" type="person">Caspar René Gregory</name> 
+                            and <name reg="Burton, Ernest DeWitt, 1856-1925" type="person">Ernest DeWitt Burton</name> for the University of Chicago 
+                            from <name reg="Mitchell, Constantine" type="person" role="executor">Constantine Mitchell</name>, executor 
+                            of the Pericles Morades estate, September 12, 1895.</p></acquisition>
+                    </history></msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+  <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+ </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Gospels. Greek</term>
+                    <term>Bible--Manuscripts</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term> 
+                    <term>Theodōros, ho Hagiopetritēs, active 13th century-14th century</term>
+                </keywords>
+            </textClass>
+ </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0046">
+    <msIdentifier>
+        <country>United States</country>
+        <region>Illinois</region>
+        <settlement>Chicago</settlement>
+        <institution>University of Chicago Library</institution> 
+        <repository>Special Collections Research Center</repository>
+        <collection>Goodspeed Manuscript Collection</collection>
+        <idno>Ms. 46</idno>
+        <altName type="Gregory number">Greg. 1290</altName>
+        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 2</altIdentifier></msIdentifier>
+    <msHeading>
+        <title>New Testament. Gospels</title>
+        <otherName>Haskell Gospels</otherName>
+        <origPlace>Greece</origPlace>
+        <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+        <textLang langKey="grc">Greek</textLang>
+    </msHeading>
+<msContents> 
+    <overview><p>Four gospels in Greek. Ammonian section and Eusebian canon numbers and lection notes in the margins. 
+        Formerly Goodspeed Ms. Grk. 2.</p><p>The manuscript is commonly known as the Haskell Gospels because it was 
+            initially housed in the University of Chicago's <name reg="University of Chicago. Haskell Hall" type="org">Haskell Oriental Museum</name>.</p></overview>
+<msItem n="1">
+    <locus from = "009" to ="018">fols. 1r-5v</locus> 
+    <summary>Table of lectionary references.</summary>
+</msItem>
+    <msItem n="2">
+        <locus from = "019" to ="020">fols. 6r-6v</locus> 
+        <summary>Eusebius of Caesarea (ca. 260-ca. 340), Letter to Carpianus, on the Gospel Canons.</summary>
+    </msItem>
+    <msItem n="3">
+        <locus from = "021" to ="024">fols. 7r-8v</locus> 
+        <summary>Canon tables, I-X.</summary>
+    </msItem>
+    <msItem n="4">
+        <locus from = "025" to ="025">fol. 9r</locus> 
+        <summary>Hypothesis of Matthew.</summary>
+    </msItem>
+    <msItem n="5">
+        <locus from = "026" to ="029">fols. 9v-11r</locus> 
+        <summary>Kephalaia of Matthew (68). Verse on Matthew.</summary>
+        <note>Blank (fol. 11v).</note> 
+    </msItem>
+    <msItem n="6">
+        <locus from ="031" to ="202">fols. 12r-97v</locus> 
+        <summary>Matthew.</summary>
+    </msItem>
+    <msItem n="7">
+        <locus from = "203" to ="203">fol. 98r</locus> 
+        <summary>Hypothesis of Mark.</summary>
+    </msItem>
+    <msItem n="8">
+        <locus from = "203" to ="206">fols. 98r-99v</locus> 
+        <summary>Kephalaia of Mark (48). Verse on Mark.</summary>
+    </msItem>
+    <msItem n="9">
+        <locus from = "207" to ="276">fols. 100r-134v</locus> 
+        <summary>Mark (ends at 11:33 with ταυτα ποιω).</summary>
+    </msItem>
+    <msItem n="10">
+        <locus from = "277" to ="400">fols. 135r-196v</locus> 
+        <summary>Luke (begins at 9:2 with και ιασθαι).</summary>
+    </msItem>
+    <msItem n="11">
+        <locus from = "401" to ="404">fols.197r-198v</locus> 
+        <summary>Hypothesis of John.</summary>
+    </msItem>
+    <msItem n="12">
+        <locus from = "404" to ="404">fol. 198v</locus> 
+        <summary>Kephalaia of John (18).</summary>
+    </msItem>
+    <msItem n="13">
+        <locus from = "405" to ="542">fols. 199r-267v</locus> 
+        <summary>John (begins at 1:14 with πληρησ).</summary>
+    </msItem>
+</msContents>
+    <decoration>
+        <headpieces><p>Headpieces of floral, foliate, and geometric designs in red, blue, green, and gold (fols. 12r, 100r).</p></headpieces>
+        <initials><p>The major initial of Matthew is composed of a lion and serpents intertwined to form the letter β (30 mm). 
+        The initial of Mark's opening line is of beads and leaves (48 mm). Minor initials set off from the text in red.</p></initials>
+        </decoration>
+    <physDesc>
+ <support><p><material>Parchment</material>. <dimensions type="block" units="mm">265 x 180 mm</dimensions>.</p></support>
+        <extent>273 leaves, of which 6 are flyleaves of parchment contemporary with the manuscript's rebinding of 1897.</extent> 
+        <foliation><p>3 (unfoliated parchment leaves) + 267 + 3 (unfoliated parchment leaves). Modern foliation in Arabic numerals in pencil 1-267.</p></foliation> 
+        <collation><p>40 quires, each of 8 leaves, with the exception of quire 40 which contains 7 leaves. Estimate of content lost: 2 leaves of the lectionary references 
+      table (Johannine text, Easter through Pentecost); leaves 1 and 8 of quire 4 (after fols. 35 and 41, portions of Matthew 9:35-10:10, 12:15-29); 
+      leaf 1 of quire 15 (after fol. 121, Mark 7:24-36); leaves 1 and 8 of quire 16 (after fols. 128 and 134, Mark 9:48-10:14, and chap. 12); quires 17-23 
+      (Mark 11:33-end; verse, headpiece, initial, Luke 1:1-9:2); leaves 1 and 8 of quire 32 (after fol. 198, verse, headpiece, initial, John 1:1-14, and after fol. 204, 3:14-27).</p>
+            <p>Quire numbers recorded on the first and last leaf of each quire (lower margin) beginning at fol. 12 (1-40, α-μ).</p></collation> 
+        <dimensions type="written" units="mm">Written space 182 x 117 mm (fol. 20r).</dimensions> 
+        <layout columns="1" writtenLines="20"><p>1 column, 20 lines (variants of 19 to 21 lines). Ruling with hard point. Pricking in the outer margins.</p></layout>
+        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in brown ink (some fading).</p>
+            <p>Punctuation includes high point, comma, marks of elision and interrogation. Quotation marks in the left margin next to each line of quoted text.</p></handDesc>
+    </msWriting>
+        <textDivisions><p>Titles in red.</p></textDivisions>
+        <condition><p>Portion of leaf torn (fol. 144). Sections of the outer margins cut away (fols. 51, 208). Some faded letters 
+            overwritten. Random stains.</p></condition>
+        <bindingDesc>
+ <binding><p>Bound in brown <material>morocco</material> 
+     by <name reg="Stikeman &amp; Company (Firm)" type="org" role="bookbinder">Stikeman &amp; Company</name> in 1897. Title on 
+            spine in gold: Four Gospels in Greek, c. A.D. 1500.</p> <p> An Epistles Lectionary fragment (fols. 268-273) bound with the manuscript was removed 
+                and rebound as Ms. 50.</p></binding></bindingDesc>
+ </physDesc>
+<history>
+    <origin><p>The manuscript is dated to the 13th century, and is judged to have been written in <name reg="Greece" type="place">Greece</name> by illuminator and scribe 
+        <name reg="Theodōros, ho Hagiopetritēs, active 13th century-14th century" type="person" role="scribe">Theodore Hagiopetrites</name>.</p></origin>
+    <provenance><p>Belonged to <name reg="Morades, Pericles" type="person" role="owner">Pericles Morades</name>,
+        who is said to have brought the manuscript to the United States from the Greek island of <name reg="Thera, Greece" type="place">Thera</name>.</p>
+        <p>University of Chicago Libraries bookplate (front pastedown); scrollwork, marginal notes, and inscriptions (fols. 82r, 96r, 97v, 105r, 223r-223v).</p></provenance>
+    <acquisition><p>Acquired by <name reg="Gregory, Caspar René, 1846-1917" type="person">Caspar René Gregory</name> 
+        and <name reg="Burton, Ernest DeWitt, 1856-1925" type="person">Ernest DeWitt Burton</name> for the University of Chicago 
+        from <name reg="Mitchell, Constantine" type="person" role="executor">Constantine Mitchell</name>, executor 
+        of the Pericles Morades estate, September 12, 1895.</p></acquisition>
+</history>
+    <additional><listBibl>
+        <bibl>
+            <author>Edgar J. Goodspeed</author>, 
+            <title level="a">"The Haskell Gospels,"</title> 
+            <title level="j">Journal of Biblical Literature</title> 
+            <biblScope type="volume">21</biblScope> 
+            <imprint><date>(1902),</date></imprint> 
+            <biblScope type="pages">pp. 100-107.</biblScope>
+        </bibl>
+        <bibl>
+            <author>Edgar J. Goodspeed</author> and <author>Martin Sprengling,</author> 
+            <title level="m">A descriptive catalogue of manuscripts in the libraries of the University of Chicago</title>
+            <imprint> 
+                <pubPlace>(Chicago:</pubPlace> 
+                <publisher>University of Chicago Press,</publisher> 
+                <date>1912),</date>
+            </imprint> 
+            <biblScope type="pages">pp. 49-51.</biblScope>
+        </bibl>
+        <bibl>
+            <author>Seymour de Ricci,</author>
+            <title level="m">Census of Medieval and Renaissance Manuscripts in the United States and Canada</title>
+            <imprint>
+                <pubPlace>(New York:</pubPlace>
+                <publisher>H. W. Wilson Company,</publisher>
+                <date>1935),</date>
+            </imprint>
+            <biblScope type="volume">vol. 1, p. 561.</biblScope></bibl>
+        <bibl><author>Kenneth W. Clark</author>, 
+                <title level="m">A Descriptive Catalogue of Greek New Testament Manuscripts in America</title>
+                <imprint>
+                    <pubPlace>(Chicago:</pubPlace>
+                    <publisher>University of Chicago Press,</publisher>
+                    <date>1937),</date>
+                </imprint>
+                <biblScope type="pages">pp. 223-225.</biblScope></bibl>
+            <bibl>
+                <author>Merrill Mead Parvis</author>, 
+                <title level="m">The Story of the Goodspeed Collection</title>
+                <imprint>
+                    <pubPlace>([Chicago]:</pubPlace>
+                    <publisher>s.n.,</publisher>
+                    <date>1952),</date>
+                </imprint>
+                <biblScope type="pages">p. 3.</biblScope></bibl>
+            <bibl> 
+                <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+                    Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+                <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+                <imprint> 
+                    <pubPlace>([Chicago:</pubPlace> 
+                    <publisher>s.n.,</publisher> 
+                    <date>1973]),</date></imprint> 
+                <biblScope type="volume">36,</biblScope> 
+                <biblScope type="catalogNo">no. 14.</biblScope></bibl><bibl><author>Robert S. Nelson</author>, 
+                    <title level="m">Theodore Hagiopetrites, a late Byzantine scribe and illuminator</title>. 
+                    <title level="s">Veröffentlichungen der Kommission für Byzantinistik Bd. 4 (Österreichische Akademie der Wissenschaften. Philosophisch-Historische Klasse)</title>
+                    <imprint> 
+                        <pubPlace>(Wien:</pubPlace> 
+                        <publisher>Österreichischen Akademie der Wissenschaften,</publisher> 
+                        <date>1991),</date></imprint> 
+                    <biblScope type="volume">217, pp. 74-76, 78-82, 85.</biblScope> 
+                </bibl></listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

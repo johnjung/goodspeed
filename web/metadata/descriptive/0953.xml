@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+ 
+ <teiHeader date.created="2015-11-04" creator="jfcd">
+  <fileDesc>
+   <titleStmt>
+    <title>[University of Chicago Library GMS-0953, a manuscript catalogue description in electronic form]</title>
+    <funder>Institute of Museum and Library Services</funder>
+    <respStmt>
+     <resp>Creation of electronic version:</resp>
+     <name>University of Chicago Library</name>
+     <resp>Creation of digital images:</resp>
+     <name>University of Chicago Library</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <date>2009</date>
+    <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0953</idno>
+    <availability status= "free">
+     <p>Publicly accessible</p></availability>
+   </publicationStmt>
+   <sourceDesc> 
+    <msDescription>                 
+    <msIdentifier>
+     <country>United States</country>
+     <region>Illinois</region>
+     <settlement>Chicago</settlement>
+     <institution>University of Chicago Library</institution> 
+     <repository>Special Collections Research Center</repository>
+     <collection>Goodspeed Manuscript Collection</collection>
+     <idno>Ms. 953</idno>
+     <altIdentifier type="former shelfmark">Goodspeed Ms. Lat. 49</altIdentifier>
+    </msIdentifier>
+    <msHeading>
+     <title>New Testament. Epistles of Paul. Catholic Epistles</title>
+     <otherName>Peckover Epistles</otherName>
+     <origPlace>France or Flanders</origPlace>
+     <origDate notBefore="1401" notAfter="1500">15th century</origDate>
+     <textLang langKey="lat">Latin</textLang>
+    </msHeading>
+     <msContents>
+      <overview><p>Epistles of Paul and Catholic Epistles in Latin. Lacks Philemon, 3 John, and Jude. Formerly Goodspeed Ms. Lat. 49.</p></overview></msContents>
+     <decoration>
+      <initials><p>Major initials in red with foliate and abstract embellishments in white (15-17 mm). Some initials at the end of the 
+       manuscript added by a later hand in spaces left blank (see fol. 183r-183v).</p></initials>
+     </decoration>
+     <physDesc>
+      <support><p><material>Parchment</material>. <dimensions type="block" units="mm">105 x 70 mm</dimensions>.</p></support>
+      <extent>201 leaves, of which 2 are flyleaves. Flyleaves conjoint with pastedowns.</extent> 
+      <foliation><p>1 (unfoliated paper flyleaf) + 199 + 1 (foliated parchment flyleaf). Modern foliation in Arabic numerals in pencil 1-200. Foliation 
+       in Roman numerals in red contemporary with the text (upper margin); double numbering of xiii, xvii, and lxvii. Remains of two other sets of numbering.</p></foliation> 
+      <dimensions type="written" units="mm">Written space 65 x 45 mm (fol. 5r).</dimensions>
+      <layout columns="2" writtenLines="16"><p>1 column, 16 lines. Ruling with lead point. Pricking in the outer margins.</p></layout>
+      <msWriting><handDesc script="Bâtarde" medium="Ink">
+       <p>Written in bâtarde script in black ink. Abbreviation throughout. Strokes and paragraph marks in red.</p>
+       <p>Methods of correcting text consist of strike-through and inked-in revisions in the margins.</p></handDesc></msWriting> 
+      <textDivisions><p>Titles in red.</p></textDivisions>
+      <condition><p>Margins trimmed with some loss of text. Taping of fol. 1 in the inner margin. Random stains.</p></condition>
+      <bindingDesc>
+       <binding><p>Bound in brown <material>calf</material> over boards. Title on spine in gilt: Epistolae B. Pauli. Nail holes and the remains of straps once attached.</p> <decoNote>
+        <p>Front and back covers tooled with a display of two lozenges each inset with a vine encircling four animals, a hound, wyvern, cockatrice, and ape. The whole is 
+         enclosed in a textual frame, Psalm 84:8 (front), Ostende nobis, Domine, misericordiam tuam et salutare tuum da nobis (Benedixisti, Domine, The coming of Christ...). 
+         Small fleur-de-lis at each corner.</p></decoNote>
+        <p>Said to be the work of a bookbinder who created bindings for the Tudor kings <name reg="Henry VII, King of England, 1457-1509" type="person" role="king">Henry VII</name> 
+         and <name reg="Henry VIII, King of England, 1491-1547" type="person" role="king">Henry VIII</name>.</p></binding></bindingDesc>
+      <secFol>prohibitus sum usque adhuc</secFol>
+     </physDesc>
+     <history>
+      <origin><p>The manuscript is judged to have been written in the 15th century in either <name reg="France" type="place">France</name> or <name reg="Flanders" type="place">Flanders</name>.</p></origin>
+      <provenance><p>Late medieval to 19th century provenance unknown. Belonged 
+       to bibliophile <name reg="Peckover, Alexander, 1830-1919" type="person" role="owner">Alexander Peckover</name> (1830-1919), Lord Lieutenant of 
+       <name reg="Cambridgeshire, England" type="place">Cambridgeshire</name>, and Baron Peckover of Wisbech (his bookplate, front flyleaf, verso).</p>
+       <p>Sale catalogue description attached to flyleaf (recto) obscuring a note about the bookbinder which was written over a partially erased inscription. Recording of 
+        Psalm 84:8 in pencil on the back pastedown replicates the shape of the cover's textual frame. University of Chicago Libraries bookplate (front pastedown).</p></provenance>
+      <acquisition><p>Acquired by the University of Chicago from <name reg="Dawson's Book Shop (Firm)" type="org" role="bookseller">Dawson's Book Shop</name>, 
+       September 1941 (catalogue no. 156, item 44).</p></acquisition>
+     </history></msDescription>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+     Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+     of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+     the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+     resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+     an interface that supports browsing within individual manuscripts and across the collection.</p>
+    <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+     Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+     as of <date>2012-09-22</date>.</p> 
+    <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+     at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+     accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+     and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+     recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+     visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+  <langUsage><language id="lat"></language><p>Latin, ISO 639-3</p>
+ </langUsage>
+   <textClass>
+    <keywords>
+     <term>Bible. N.T. Epistles</term>
+     <term>Manuscripts, Latin (Medieval and modern)</term>
+     <term>Peckover, Alexander, 1830-1919</term>
+    </keywords>
+   </textClass>
+ </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0953">               
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 953</idno>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Lat. 49</altIdentifier>
+</msIdentifier>
+ <msHeading>
+  <title>New Testament. Epistles of Paul. Catholic Epistles</title>
+  <otherName>Peckover Epistles</otherName>
+  <origPlace>France or Flanders</origPlace>
+  <origDate notBefore="1401" notAfter="1500">15th century</origDate>
+  <textLang langKey="lat">Latin</textLang>
+ </msHeading>
+<msContents>
+ <overview><p>Epistles of Paul and Catholic Epistles in Latin. Lacks Philemon, 3 John, and Jude. Formerly Goodspeed Ms. Lat. 49.</p></overview>
+<msItem n="1">
+ <locus from="005" to="038">fols. 1r-17v</locus>
+ <locus from="294" to="318">fols. 145v-157v</locus>
+ <summary>Romans.</summary>
+ <note>Blank (fol. 145r).</note>
+ <incipit></incipit>
+ <explicit></explicit> 
+</msItem>
+ <msItem n="2">
+ <locus from="039" to="072">fols. 18r-34v</locus>
+  <locus from="319" to="345">fols. 158r-171r</locus>
+  <summary>1 Corinthians.</summary> 
+ <incipit></incipit>
+ <explicit></explicit> 
+ </msItem>
+ <msItem n="3">
+  <locus from="073" to="090">fols. 35r-43v</locus>
+  <locus from="346" to="368">fols. 171v-182v</locus>
+  <summary>2 Corinthians.</summary> 
+  <incipit></incipit>
+  <explicit></explicit> 
+ </msItem>
+ <msItem n="4">
+  <locus from="091" to="099">fols. 44r-48r</locus>
+  <locus from="369" to="381">fols. 183r-189r</locus>
+  <summary>Galatians.</summary> 
+  <incipit></incipit>
+  <explicit></explicit> 
+ </msItem>
+ <msItem n="5">
+  <locus from="100" to="122">fols. 48v-59v</locus>
+  <summary>Ephesians.</summary> 
+  <incipit></incipit>
+  <explicit></explicit> 
+ </msItem>
+ <msItem n="6">
+  <locus from="122" to="130">fols. 59v-63v</locus>
+  <locus from="381" to="388">fols. 189r-192v</locus>
+  <summary>Philippians.</summary> 
+  <incipit></incipit>
+  <explicit></explicit> 
+ </msItem>
+ <msItem n="7">
+  <locus from="131" to="141">fols. 64r-69r</locus>
+  <locus from="388" to="392">fols. 192v-194v</locus>
+  <summary>Colossians.</summary> 
+  <incipit></incipit>
+  <explicit></explicit> 
+ </msItem>
+ <msItem n="8">
+  <locus from="141" to="149">fols. 69r-73r</locus>
+  <locus from="392" to="397">fols. 194v-197r</locus>
+  <summary>1 Thessalonians.</summary> 
+  <incipit></incipit>
+  <explicit></explicit> 
+ </msItem>
+ <msItem n="9">
+  <locus from="149" to="152">fols. 73r-74v</locus>
+  <locus from="397" to="400">fols. 197r-198v</locus>
+  <summary>2 Thessalonians.</summary> 
+  <incipit></incipit>
+  <explicit></explicit> 
+ </msItem>
+ <msItem n="10">
+  <locus from="153" to="173">fols. 75r-85r</locus>
+  <summary>1 Timothy.</summary> 
+  <incipit></incipit>
+  <explicit></explicit> 
+ </msItem>
+ <msItem n="11">
+  <locus from="173" to="184">fols. 85r-90v</locus>
+  <summary>2 Timothy.</summary> 
+  <incipit></incipit>
+  <explicit></explicit> 
+ </msItem>
+ <msItem n="12">
+  <locus from="184" to="191">fols. 90v-94r</locus>
+  <summary>Titus.</summary> 
+  <incipit></incipit>
+  <explicit></explicit> 
+ </msItem>
+ <msItem n="13">
+  <locus from="192" to="210">fols. 94v-103v</locus>
+  <summary>James.</summary> 
+  <incipit></incipit>
+  <explicit></explicit> 
+ </msItem>
+ <msItem n="14">
+  <locus from="211" to="229">fols. 104r-113r</locus>
+  <summary>1 Peter.</summary> 
+  <incipit></incipit>
+  <explicit></explicit> 
+ </msItem>
+ <msItem n="15">
+  <locus from="230" to="241">fols. 113v-119r</locus>
+  <summary>2 Peter.</summary> 
+  <incipit></incipit>
+  <explicit></explicit> 
+ </msItem>
+ <msItem n="16">
+  <locus from="241" to="259">fols. 119r-128r</locus>
+  <summary>1 John.</summary> 
+  <incipit></incipit>
+  <explicit></explicit> 
+ </msItem>
+ <msItem n="17">
+  <locus from="259" to="261">fols. 128r-129r</locus>
+  <summary>2 John.</summary> 
+  <incipit></incipit>
+  <explicit></explicit> 
+ </msItem>
+ <msItem n="18">
+  <locus from="262" to="292">fols. 129v-144v</locus>
+  <summary>Hebrews.</summary> 
+  <incipit></incipit>
+  <explicit></explicit> 
+ </msItem>
+</msContents>
+ <decoration>
+ <initials><p>Major initials in red with foliate and abstract embellishments in white (15-17 mm). Some initials at the end of the 
+  manuscript added by a later hand in spaces left blank (see fol. 183r-183v).</p></initials>
+ </decoration>
+ <physDesc>
+ <support><p><material>Parchment</material>. <dimensions type="block" units="mm">105 x 70 mm</dimensions>.</p></support>
+  <extent>201 leaves, of which 2 are flyleaves. Flyleaves conjoint with pastedowns.</extent> 
+  <foliation><p>1 (unfoliated paper flyleaf) + 199 + 1 (foliated parchment flyleaf). Modern foliation in Arabic numerals in pencil 1-200. Foliation 
+   in Roman numerals in red contemporary with the text (upper margin); double numbering of xiii, xvii, and lxvii. Remains of two other sets of numbering.</p></foliation> 
+ <dimensions type="written" units="mm">Written space 65 x 45 mm (fol. 5r).</dimensions>
+ <layout columns="2" writtenLines="16"><p>1 column, 16 lines. Ruling with lead point. Pricking in the outer margins.</p></layout>
+  <msWriting><handDesc script="Bâtarde" medium="Ink">
+  <p>Written in bâtarde script in black ink. Abbreviation throughout. Strokes and paragraph marks in red.</p>
+   <p>Methods of correcting text consist of strike-through and inked-in revisions in the margins.</p></handDesc></msWriting> 
+ <textDivisions><p>Titles in red.</p></textDivisions>
+ <condition><p>Margins trimmed with some loss of text. Taping of fol. 1 in the inner margin. Random stains.</p></condition>
+ <bindingDesc>
+  <binding><p>Bound in brown <material>calf</material> over boards. Title on spine in gilt: Epistolae B. Pauli. Nail holes and the remains of straps once attached.</p> <decoNote>
+   <p>Front and back covers tooled with a display of two lozenges each inset with a vine encircling four animals, a hound, wyvern, cockatrice, and ape. The whole is 
+    enclosed in a textual frame, Psalm 84:8 (front), Ostende nobis, Domine, misericordiam tuam et salutare tuum da nobis (Benedixisti, Domine, The coming of Christ...). 
+   Small fleur-de-lis at each corner.</p></decoNote>
+   <p>Said to be the work of a bookbinder who created bindings for the Tudor kings <name reg="Henry VII, King of England, 1457-1509" type="person" role="king">Henry VII</name> 
+    and <name reg="Henry VIII, King of England, 1491-1547" type="person" role="king">Henry VIII</name>.</p></binding></bindingDesc>
+  <secFol>prohibitus sum usque adhuc</secFol>
+</physDesc>
+ <history>
+  <origin><p>The manuscript is judged to have been written in the 15th century in either <name reg="France" type="place">France</name> or <name reg="Flanders" type="place">Flanders</name>.</p></origin>
+  <provenance><p>Late medieval to 19th century provenance unknown. Belonged 
+   to bibliophile <name reg="Peckover, Alexander, 1830-1919" type="person" role="owner">Alexander Peckover</name> (1830-1919), Lord Lieutenant of 
+   <name reg="Cambridgeshire, England" type="place">Cambridgeshire</name>, and Baron Peckover of Wisbech (his bookplate, front flyleaf, verso).</p>
+   <p>Sale catalogue description attached to flyleaf (recto) obscuring a note about the bookbinder which was written over a partially erased inscription. Recording of 
+    Psalm 84:8 in pencil on the back pastedown replicates the shape of the cover's textual frame. University of Chicago Libraries bookplate (front pastedown).</p></provenance>
+  <acquisition><p>Acquired by the University of Chicago from <name reg="Dawson's Book Shop (Firm)" type="org" role="bookseller">Dawson's Book Shop</name>, 
+   September 1941 (catalogue no. 156, item 44).</p></acquisition>
+ </history>
+ <additional><listBibl><bibl>
+  <author>Merrill Mead Parvis</author>, 
+  <title level="m">The Story of the Goodspeed Collection</title>
+  <imprint> 
+   <pubPlace>([Chicago:]</pubPlace> 
+   <publisher>s.n.,</publisher> 
+   <date>1952),</date>
+  </imprint>
+  <biblScope type="pages">p. 26.</biblScope></bibl></listBibl></additional>
+</msDescription>
+        </body>
+    </text>      
+</TEI.2>

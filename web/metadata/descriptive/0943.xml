@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0943, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0943</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 943</idno>
+                        <altName type="Gregory number">Greg. 2425</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 44</altIdentifier>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>New Testament. Epistles of Paul</title>
+                        <otherName>2 Timothy and Titus Praxapostolos Fragment</otherName>
+                        <origPlace>Unknown Place of Origin</origPlace>
+                        <origDate notBefore="1101" notAfter="1200">12th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents>
+                        <overview><p>Praxapostolos bifolium in Greek.  Fragment of 2 Timothy and Titus. Euthalian sections and titles in the 
+                            margins. Lectionary marginal apparatus consists of day and week number indications for lections in the Synaxarion 
+                            and Menologion, scriptural sources, incipits, and index numbers for cross reference to a table of lections.</p> 
+                            <p>The extant index numbers 301 (ΤΑ), 302 (ΤΒ), 303 (ΤΓ), and 304 (ΤΔ) offer evidence that the Praxapostolos of which the bifolium was 
+                                a part was indexed as a whole. Formerly Goodspeed Ms. Grk. 44.</p></overview>
+                        <msItem n="1" status= "frag">
+                            <locus from = "009" to ="009">fol. 109r</locus>
+                            <summary>2 Timothy 3:6-4:3 (begins at verse 6 with αμαρτιαισ).</summary>
+                            <summary>Lection references in the margin: Sunday, Week 33 after Pentecost (Week 10 before Easter), 2 Timothy 3:10-15. Tuesday, 
+                                Week 28 after Pentecost, 2 Timothy 3:16-4:4.</summary></msItem>
+                        <msItem n="2" status= "frag">
+                            <locus from = "010" to ="010">fol. 109v</locus>
+                            <summary>2 Timothy 4:3-16. </summary><summary>Lection references in the margin: Sunday before 
+                                Theophany (Feast of Lights), 2 Timothy 4:5-8. Wednesday, Week 28 after Pentecost, 2 Timothy 4:9-22.</summary></msItem>
+                        <msItem n="3" status= "frag">
+                            <locus from = "011" to ="011">fol. 110r</locus>
+                            <summary>2 Timothy 4:16-22. Subscription and stichoi (172).</summary> 
+                            <summary>Euthalius, Hypothesis of Titus.</summary>
+                        </msItem>
+                        <msItem n="4" status= "frag">
+                            <locus from = "012" to ="012">fol. 110v</locus>
+                            <summary>Titus 1:1-3 (ends at verse 3 with επιστευθην).</summary></msItem>
+                    </msContents>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">140 x 120 mm</dimensions>.</p></support> 
+                        <extent>1 bifolium.</extent> 
+                        <foliation><p>109-110. Modern foliation in Arabic numerals in pencil.</p></foliation> 
+                        <dimensions type="written" units="mm">Written space 110 x 85 mm (fol. 109v).</dimensions> 
+                        <layout columns="1" writtenLines="27"><p>1 column, 27 lines. Ruling with hard point.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink">
+                            <p>Written in minuscule script in brown ink. Lectionary marginalia in brown and red (faded).</p>
+                            <p>Punctuation includes middle and low points, comma, and colon with dash.</p>
+                        </handDesc></msWriting> 
+                        <textDivisions><p>Lection indicators, abbreviation for αρχε (beginning) and τελος (end) in the margins.</p></textDivisions>
+                        <condition><p>Leaves are slightly cockled. Occasional tears. Grease marks.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Bound by <name reg="R.R. Donnelley &amp; Sons Company (Firm)" type="org">R.R. Donnelley &amp; Sons Company</name> in 
+                                green <material>linen</material> over cardboard. Spine labeled in gilt: Praxapostolos Frag. II Tim.-Titus-12/13 cent.</p>
+                            </binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript to which the present bifolium belonged is judged to have been written in the 12th century. A place of origin is unknown. Extant index numbers 
+                            indicate the Catholic Epistles were positioned before the Epistles of Paul, an arrangement reversed in the 12th century to corresponded to a change in 
+                            reading order during the ecclesiastical year.</p></origin> 
+                        <provenance><p>Medieval to early 20th century provenance unknown. The University of Chicago received the bifolium 
+                            from <name reg="Blloshmi, Hika" type="person">Hika Blloshmi</name> of <name reg="New York" type="place">New York</name> in 
+                            January 1932. At that time, the manuscript source was said to contain 109 leaves, and be in the possession of the Albanian Consul 
+                            of <name reg="Thessaloniki, Greece" type="place">Thessaloniki, Greece</name>.</p>
+                            <p>Beginning chapter and verse noted on related leaves in pencil. Notation in ink, 218 page, 109 fletë, 1 qui ni...(fol. 110v, margin).</p></provenance>
+                        <acquisition><p>Added to the manuscript collection of the University of Chicago in 1940.</p></acquisition>
+                    </history>
+                     </msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+  <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+ </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Epistles</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                </keywords>
+            </textClass>
+ </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0943">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 943</idno>
+<altName type="Gregory number">Greg. 2425</altName>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 44</altIdentifier>
+</msIdentifier>
+<msHeading>
+ <title>New Testament. Epistles of Paul</title>
+<otherName>2 Timothy and Titus Praxapostolos Fragment</otherName>
+    <origPlace>Unknown Place of Origin</origPlace>
+<origDate notBefore="1101" notAfter="1200">12th century</origDate>
+<textLang langKey="grc">Greek</textLang>
+</msHeading>
+<msContents>
+    <overview><p>Praxapostolos bifolium in Greek.  Fragment of 2 Timothy and Titus. Euthalian sections and titles in the 
+margins. Lectionary marginal apparatus consists of day and week number indications for lections in the Synaxarion 
+and Menologion, scriptural sources, incipits, and index numbers for cross reference to a table of lections.</p> 
+<p>The extant index numbers 301 (ΤΑ), 302 (ΤΒ), 303 (ΤΓ), and 304 (ΤΔ) offer evidence that the Praxapostolos of which the bifolium was 
+a part was indexed as a whole. Formerly Goodspeed Ms. Grk. 44.</p></overview>
+    <msItem n="1" status= "frag">
+        <locus from = "009" to ="009">fol. 109r</locus>
+        <summary>2 Timothy 3:6-4:3 (begins at verse 6 with αμαρτιαισ).</summary>
+        <summary>Lection references in the margin: Sunday, Week 33 after Pentecost (Week 10 before Easter), 2 Timothy 3:10-15. Tuesday, 
+            Week 28 after Pentecost, 2 Timothy 3:16-4:4.</summary></msItem>
+    <msItem n="2" status= "frag">
+        <locus from = "010" to ="010">fol. 109v</locus>
+        <summary>2 Timothy 4:3-16. </summary><summary>Lection references in the margin: Sunday before 
+            Theophany (Feast of Lights), 2 Timothy 4:5-8. Wednesday, Week 28 after Pentecost, 2 Timothy 4:9-22.</summary></msItem>
+    <msItem n="3" status= "frag">
+        <locus from = "011" to ="011">fol. 110r</locus>
+        <summary>2 Timothy 4:16-22. Subscription and stichoi (172).</summary> 
+        <summary>Euthalius, Hypothesis of Titus.</summary>
+    </msItem>
+    <msItem n="4" status= "frag">
+        <locus from = "012" to ="012">fol. 110v</locus>
+        <summary>Titus 1:1-3 (ends at verse 3 with επιστευθην).</summary></msItem>
+</msContents>
+<physDesc>
+    <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">140 x 120 mm</dimensions>.</p></support> 
+    <extent>1 bifolium.</extent> 
+    <foliation><p>109-110. Modern foliation in Arabic numerals in pencil.</p></foliation> 
+    <dimensions type="written" units="mm">Written space 110 x 85 mm (fol. 109v).</dimensions> 
+    <layout columns="1" writtenLines="27"><p>1 column, 27 lines. Ruling with hard point.</p></layout>
+<msWriting><handDesc script="Minuscule" medium="ink">
+    <p>Written in minuscule script in brown ink. Lectionary marginalia in brown and red (faded).</p>
+    <p>Punctuation includes middle and low points, comma, and colon with dash.</p>
+</handDesc></msWriting> 
+    <textDivisions><p>Lection indicators, abbreviation for αρχε (beginning) and τελος (end) in the margins.</p></textDivisions>
+    <condition><p>Leaves are slightly cockled. Occasional tears. Grease marks.</p></condition>
+  <bindingDesc>
+      <binding><p>Bound by <name reg="R.R. Donnelley &amp; Sons Company (Firm)" type="org">R.R. Donnelley &amp; Sons Company</name> in 
+          green <material>linen</material> over cardboard. Spine labeled in gilt: Praxapostolos Frag. II Tim.-Titus-12/13 cent.</p>
+        </binding></bindingDesc>
+ </physDesc>
+<history>
+    <origin><p>The manuscript to which the present bifolium belonged is judged to have been written in the 12th century. A place of origin is unknown. Extant index numbers 
+        indicate the Catholic Epistles were positioned before the Epistles of Paul, an arrangement reversed in the 12th century to corresponded to a change in 
+        reading order during the ecclesiastical year.</p></origin> 
+    <provenance><p>Medieval to early 20th century provenance unknown. The University of Chicago received the bifolium 
+from <name reg="Blloshmi, Hika" type="person">Hika Blloshmi</name> of <name reg="New York" type="place">New York</name> in 
+        January 1932. At that time, the manuscript source was said to contain 109 leaves, and be in the possession of the Albanian Consul 
+        of <name reg="Thessaloniki, Greece" type="place">Thessaloniki, Greece</name>.</p>
+        <p>Beginning chapter and verse noted on related leaves in pencil. Notation in ink, 218 page, 109 fletë, 1 qui ni...(fol. 110v, margin).</p></provenance>
+<acquisition><p>Added to the manuscript collection of the University of Chicago in 1940.</p></acquisition>
+</history>
+    <additional>
+        <listBibl>
+            <bibl>
+                <author>Merrill Mead Parvis</author>,
+                <title level="m">The Story of the Goodspeed Collection</title>
+                <imprint>
+                    <pubPlace>([Chicago]:</pubPlace>
+                    <publisher>s.n.,</publisher>
+                    <date>1952),</date>
+                </imprint>
+                <biblScope type="pages">p. 24.</biblScope></bibl>
+            <bibl>
+<author>C. U. Faye</author> and <author>W. H. Bond</author>, 
+                <title level="m">Supplement to the Census of Medieval and Renaissance Manuscripts 
+    in the United States and Canada</title>
+                    <imprint>
+                        <pubPlace>(New York:</pubPlace>
+                        <publisher>Bibliographical Society of America,</publisher>
+                        <date>1962),</date>
+                    </imprint>
+                <biblScope type="pages">p. 163.</biblScope></bibl>
+            </listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

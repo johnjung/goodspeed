@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+<teiHeader date.created="2015-11-04" creator="jfcd">
+<fileDesc>
+<titleStmt>
+ <title>[University of Chicago Library GMS-1017, a manuscript catalogue description in electronic form]</title>
+ <funder>Institute of Museum and Library Services</funder>
+ <respStmt>
+  <resp>Creation of electronic version:</resp>
+  <name>University of Chicago Library</name>
+  <resp>Creation of digital images:</resp>
+  <name>University of Chicago Library</name>
+ </respStmt> 
+</titleStmt>
+ <publicationStmt>
+  <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+  <pubPlace>Chicago, Illinois</pubPlace>
+  <date>2009</date>
+  <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/1017</idno>
+  <availability status= "free">
+   <p>Publicly accessible</p></availability>
+ </publicationStmt>
+ <sourceDesc>
+  <msDescription>  
+   <msIdentifier>
+    <country>United States</country>
+    <region>Illinois</region>
+    <settlement>Chicago</settlement>
+    <institution>University of Chicago Library</institution> 
+    <repository>Special Collections Research Center</repository>
+    <collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 1017</idno>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 54</altIdentifier>
+   </msIdentifier>
+   <msHeading>
+    <title>New Testament. Gospels</title>
+    <otherName>Aleppo Gospels</otherName>
+    <origPlace> Aleppo, Syria (Berea)</origPlace>
+    <origDate>1624</origDate>
+    <textLang langKey="hye">Armenian</textLang>
+   </msHeading>
+   <msContents>
+    <overview>
+     <p>Four gospels in Armenian. Section numbers in the margins against the text. Concordance numbers in the lower margins. 
+      Pentecostal lection numbers. Formerly Goodspeed Ms. Arm. 54.</p><p>The foliation cited in this description is in the lower margin.</p></overview></msContents>
+   <decoration> 
+    <overview><p>4 full-page miniatures of the Evangelists Matthew, Mark, Luke, and John, and portrait busts 
+     of Eusebius, Bishop of Caesarea. Marginal vignettes of arabesques, flowers, birds, and temples.</p></overview>
+    <canonTables><p>Citations of concordant gospel sections framed with architectural columns of foliate and geometric motifs. The columns are topped with capitals in the form of masks, 
+     animal heads, birds, and busts of the apostles, and support headpieces of multi-colored floral and geometric design. The copy of Eusebius's 
+     letter to Carpianus is similarly displayed (fols. 1v-2r).</p></canonTables>
+    <headpieces><p>Headpieces of multi-colored floral, geometric, and foliate design at gospel openings (fols. 13r, 105r, 162r, 258r).
+     The headpiece of Luke's gospel contains 3 portrait busts in circular frames.</p></headpieces>
+    <initials><p>The major initial of each gospel's opening line is formed by an Evangelist symbol: 
+     Matthew (angel, 75 mm), Mark (winged lion, 62 mm), Luke (ox, 85 mm), and John (eagle, 109 mm). 
+     Minor initials formed by figures of birds, and flowers, beads and leaves.</p></initials></decoration>
+   <physDesc>
+    <support><p><material>Parchment</material>. <dimensions type="block" units="mm">225 x 158 mm</dimensions>.</p></support>
+    <extent>334 leaves, of which 4 are flyleaves. A folded parchment leaf of a 10th century manuscript functions as 2 of the back flyleaves. Written in erkat’agir script, 
+     it contains the text of Luke 19:5-17.</extent> 
+    <foliation><p>1 (unfoliated paper flyleaf) + 148 + 1 (148[b]) + 141 + 1 (290[b]) + 39 + 2 (unfoliated parchment flyleaves) + 1 (detached unfoliated paper flyleaf). 
+     Modern foliation in Arabic numerals in pencil 1-329. Leaves overlooked during foliation numbered 148[b] and 290[b].</p></foliation>
+    <collation><p>27  numbered quires.</p></collation>
+    <dimensions type="written" units="mm">Written space 150 x 100 mm (fol. 44r). Each column is 150 x 45 mm with a space of 10 mm between.</dimensions> 
+    <layout columns="2" writtenLines="21 per column"><p>2 columns, 21 lines. Frame ruling in ink.</p></layout> 
+    <msWriting><handDesc script="Bolorgir" medium="ink"> 
+     <p>Written chiefly in bolorgir script in black ink. The first through third lines of each gospel's opening are inscribed in capitals 
+      embellished with beads and leaves, bird letters, or erkat’agir script.</p></handDesc></msWriting>
+    <textDivisions><p>Titles in gold.</p></textDivisions>
+    <condition><p>Random grease and dirt stains.</p></condition> 
+    <bindingDesc>
+     <binding><p>Bound in brown <material>leather</material> over boards. Fore-edge flap. Nail holes front and back. Doublures of 
+      rose <material>silk</material>.</p><decoNote>
+       <p>Front cover: Blind-tooled flower of four petals within a circle; outer border filled with stamped florets. Back cover: Tooled six-pointed star 
+        within same border; outline of a cross once attached.</p>
+      </decoNote>
+     </binding></bindingDesc>
+   </physDesc>
+   <history>
+    <origin><p>The manuscript was written in 1624 (Armenian Era 1073) by the scribe <name reg="Step‛anos, 17th century" type="person" role="scribe">Step‛anos</name>, 
+     at the <name reg="Church of the Holy Theotokos (Berea)" type="org">Church of the Holy Theotokos (Surb Astuacacin)</name> and 
+     the <name reg="Church of the Holy Forty Martyrs (Berea)" type="org">Church of the Holy Forty Martyrs (Surb K‛ařasunk‛)</name> 
+     in <name reg="Berea" type="place">Berea</name>, the present-day <name reg="Aleppo, Syria" type="place">Aleppo, Syria</name>.</p> 
+     <p>Archbishop <name reg="Nahapet" type="person" role="archbishop">Nahapet</name> administered the sale of the manuscript in 
+      <name reg="Edessa" type="place">Edessa</name>, the present-day <name reg="Şanlıurfa, Turkey" type="place">Şanlıurfa, Turkey</name>. It was purchased by the 
+      mahtesi <name reg="Grigor, 17th century" type="person" role="owner">Grigor</name>, son of <name reg="Poghos" type="person">Poghos</name> 
+      and <name reg="T‛urvantay" type="person">T‛urvantay</name>, who offered it as his memorial to the <name reg="Church of the Holy Theotokos (Karmunch)" type="org">Church 
+       of the Holy Theotokos (Surb Astuacacin)</name> and to the <name reg="Church of St. John the Baptist (Karmunch)" type="org">Church of St. John the Baptist (Surb Karapet)</name> 
+      at <name reg="Karmunch" type="place">Karmunch</name>, a village near Edessa. The colophon was written at Karmunch, Friday, August 27, 1624.</p></origin> 
+    <provenance><p>Late 17th to mid-20th century provenance unknown. Partially illegible inscription (fol. 3r). University of Chicago Libraries bookplate (front flyleaf).</p></provenance> 
+    <acquisition><p>Acquired by the University of Chicago in 1947 from the estate 
+     of <name reg="Tashjian, H. M." type="person" role="collector">H. M. Tashjian</name> of Chicago.</p></acquisition>
+   </history></msDescription>
+ </sourceDesc>
+</fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+    an interface that supports browsing within individual manuscripts and across the collection.</p>
+   <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+    as of <date>2012-09-22</date>.</p> 
+   <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+  </projectDesc>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage><language id="hye"></language><p>Armenian, ISO 639-3</p>
+ </langUsage>
+  <textClass>
+   <keywords>
+    <term>Bible. N.T. Gospels. Armenian</term>
+    <term>Miniatures (Illuminations)</term>
+    <term>Manuscripts, Armenian</term>
+    <term>Step‛anos, 17th century</term>
+   </keywords>
+  </textClass>
+ </profileDesc>
+</teiHeader>
+ <text>
+ <body>
+ <msDescription id="GMS-1017">
+ <msIdentifier>
+ <country>United States</country>
+<region>Illinois</region>
+ <settlement>Chicago</settlement>
+ <institution>University of Chicago Library</institution> 
+ <repository>Special Collections Research Center</repository>
+  <collection>Goodspeed Manuscript Collection</collection>
+  <idno>Ms. 1017</idno>
+  <altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 54</altIdentifier>
+ </msIdentifier>
+  <msHeading>
+   <title>New Testament. Gospels</title>
+   <otherName>Aleppo Gospels</otherName>
+   <origPlace> Aleppo, Syria (Berea)</origPlace>
+   <origDate>1624</origDate>
+   <textLang langKey="hye">Armenian</textLang>
+  </msHeading>
+  <msContents>
+   <overview>
+    <p>Four gospels in Armenian. Section numbers in the margins against the text. Concordance numbers in the lower margins. 
+     Pentecostal lection numbers. Formerly Goodspeed Ms. Arm. 54.</p><p>The foliation cited in this description is in the lower margin.</p></overview>
+   <msItem n="1">
+<locus from="06" to="007">fols. 1v-2r</locus>
+<summary>Eusebius of Caesarea (ca. 260-ca. 340), letter to Carpianus, on the gospel canons.</summary>
+<note>Blank (fols. 1r, 2v).</note></msItem>
+ <msItem n="2"> 
+  <locus from="010" to="023">fols. 3v-10r</locus> 
+  <summary>Canon tables I-X.</summary> 
+  <note>Blank (fols. 4v-5r, 6v-7r, 8v-9r).</note>
+</msItem>
+<msItem n="3">
+<locus from="024" to="027">fols. 10v-12r</locus>
+<summary>Index of Matthew.</summary>
+</msItem>
+   <msItem n="4">
+    <locus from="029" to="208">fols. 13r-102v</locus>
+    <summary>Matthew.</summary></msItem>
+   <msItem n="5">
+    <locus from="209" to="211">fols. 103r-104r</locus>
+    <summary>Index of Mark.</summary></msItem>
+ <msItem n="6">
+ <locus from="213" to="322">fols. 105r-158v</locus>
+<summary>Mark.</summary>
+ </msItem>
+   <msItem n="7">
+    <locus from="323" to="326">fols. 159r-160v</locus>
+    <summary>Index of Luke.</summary>
+    <note>Blank (fol. 161r).</note></msItem>
+   <msItem n="8">
+<locus from="329" to="516">fols. 162r-255v</locus>
+<summary>Luke.</summary>
+ </msItem>
+<msItem n="9">
+<locus from="517" to="519">fols. 256r-257r</locus>
+<summary>Index of John.</summary>
+</msItem>
+   <msItem n="10">
+    <locus from="521" to="659">fols. 258r-326r</locus>
+    <summary>John.</summary>
+    <summary>Pericope: The Woman taken in Adultery.</summary>
+   </msItem>
+  </msContents>
+  <decoration> 
+   <overview><p>4 full-page miniatures of the Evangelists Matthew, Mark, Luke, and John, and portrait busts 
+    of Eusebius, Bishop of Caesarea. Marginal vignettes of arabesques, flowers, birds, and temples.</p></overview>
+   <miniatures>
+    <minItem n="1">
+     <locus from ="006" to="007">fols. 1v-2r</locus> 
+     <minDesc>Eusebius, Bishop of Caesarea, Palestine: Portrait. Facing images of 
+      Eusebius; at the left, he holds an open scroll, and at the right, a stylus.</minDesc>
+    </minItem>
+    <minItem n="2"> 
+ <locus from ="028" to="028">fol. 12v</locus> 
+ <minDesc>Evangelist, Matthew: Portrait. Matthew reading, seated in high-backed chair; buildings in background.</minDesc>
+    </minItem>
+ <minItem n="3"> 
+  <locus from ="212" to="212">fol. 104v</locus> 
+  <minDesc>Evangelist, Mark: Portrait. Mark holding a book, seated in high-backed chair; dove 
+   of the Holy Spirit next to his ear; two apostles stand behind him, pointing to dove; building in background.</minDesc>
+ </minItem>
+    <minItem n="4"> 
+  <locus from ="328" to="328">fol. 161v</locus> 
+     <minDesc>Evangelist, Luke: Portrait. Luke, seated high-backed chair, hands tablet to Theophilus, at right, the dedicatee of his 
+      gospel. Apostles wait behind Luke; buildings in background.</minDesc>
+    </minItem>
+    <minItem n="5"> 
+     <locus from ="520" to="520">fol. 257v</locus> 
+     <minDesc>Evangelist, John: Portrait. John stands at right, dove of Holy Spirit near his ear. He dictates to deacon Prochorus, seated at left 
+     writing on tablet with stylus; cave in background.</minDesc></minItem></miniatures>
+   <canonTables><p>Citations of concordant gospel sections framed with architectural columns of foliate and geometric motifs. The columns are topped with capitals in the form of masks, 
+    animal heads, birds, and busts of the apostles, and support headpieces of multi-colored floral and geometric design. The copy of Eusebius's 
+    letter to Carpianus is similarly displayed (fols. 1v-2r).</p></canonTables>
+   <headpieces><p>Headpieces of multi-colored floral, geometric, and foliate design at gospel openings (fols. 13r, 105r, 162r, 258r).
+   The headpiece of Luke's gospel contains 3 portrait busts in circular frames.</p></headpieces>
+   <initials><p>The major initial of each gospel's opening line is formed by an Evangelist symbol: 
+    Matthew (angel, 75 mm), Mark (winged lion, 62 mm), Luke (ox, 85 mm), and John (eagle, 109 mm). 
+    Minor initials formed by figures of birds, and flowers, beads and leaves.</p></initials></decoration>
+  <physDesc>
+<support><p><material>Parchment</material>. <dimensions type="block" units="mm">225 x 158 mm</dimensions>.</p></support>
+   <extent>334 leaves, of which 4 are flyleaves. A folded parchment leaf of a 10th century manuscript functions as 2 of the back flyleaves. Written in erkat’agir script, 
+    it contains the text of Luke 19:5-17.</extent> 
+   <foliation><p>1 (unfoliated paper flyleaf) + 148 + 1 (148[b]) + 141 + 1 (290[b]) + 39 + 2 (unfoliated parchment flyleaves) + 1 (detached unfoliated paper flyleaf). 
+    Modern foliation in Arabic numerals in pencil 1-329. Leaves overlooked during foliation numbered 148[b] and 290[b].</p></foliation>
+   <collation><p>27  numbered quires.</p></collation>
+   <dimensions type="written" units="mm">Written space 150 x 100 mm (fol. 44r). Each column is 150 x 45 mm with a space of 10 mm between.</dimensions> 
+ <layout columns="2" writtenLines="21 per column"><p>2 columns, 21 lines. Frame ruling in ink.</p></layout> 
+ <msWriting><handDesc script="Bolorgir" medium="ink"> 
+  <p>Written chiefly in bolorgir script in black ink. The first through third lines of each gospel's opening are inscribed in capitals 
+  embellished with beads and leaves, bird letters, or erkat’agir script.</p></handDesc></msWriting>
+ <textDivisions><p>Titles in gold.</p></textDivisions>
+   <condition><p>Random grease and dirt stains.</p></condition> 
+ <bindingDesc>
+  <binding><p>Bound in brown <material>leather</material> over boards. Fore-edge flap. Nail holes front and back. Doublures of 
+   rose <material>silk</material>.</p><decoNote>
+   <p>Front cover: Blind-tooled flower of four petals within a circle; outer border filled with stamped florets. Back cover: Tooled six-pointed star 
+    within same border; outline of a cross once attached.</p>
+  </decoNote>
+  </binding></bindingDesc>
+</physDesc>
+  <history>
+   <origin><p>The manuscript was written in 1624 (Armenian Era 1073) by the scribe <name reg="Step‛anos, 17th century" type="person" role="scribe">Step‛anos</name>, 
+    at the <name reg="Church of the Holy Theotokos (Berea)" type="org">Church of the Holy Theotokos (Surb Astuacacin)</name> and 
+    the <name reg="Church of the Holy Forty Martyrs (Berea)" type="org">Church of the Holy Forty Martyrs (Surb K‛ařasunk‛)</name> 
+    in <name reg="Berea" type="place">Berea</name>, the present-day <name reg="Aleppo, Syria" type="place">Aleppo, Syria</name>.</p> 
+    <p>Archbishop <name reg="Nahapet" type="person" role="archbishop">Nahapet</name> administered the sale of the manuscript in 
+     <name reg="Edessa" type="place">Edessa</name>, the present-day <name reg="Şanlıurfa, Turkey" type="place">Şanlıurfa, Turkey</name>. It was purchased by the 
+     mahtesi <name reg="Grigor, 17th century" type="person" role="owner">Grigor</name>, son of <name reg="Poghos" type="person">Poghos</name> 
+     and <name reg="T‛urvantay" type="person">T‛urvantay</name>, who offered it as his memorial to the <name reg="Church of the Holy Theotokos (Karmunch)" type="org">Church 
+      of the Holy Theotokos (Surb Astuacacin)</name> and to the <name reg="Church of St. John the Baptist (Karmunch)" type="org">Church of St. John the Baptist (Surb Karapet)</name> 
+     at <name reg="Karmunch" type="place">Karmunch</name>, a village near Edessa. The colophon was written at Karmunch, Friday, August 27, 1624.</p></origin> 
+   <provenance><p>Late 17th to mid-20th century provenance unknown. Partially illegible inscription (fol. 3r). University of Chicago Libraries bookplate (front flyleaf).</p></provenance> 
+   <acquisition><p>Acquired by the University of Chicago in 1947 from the estate 
+    of <name reg="Tashjian, H. M." type="person" role="collector">H. M. Tashjian</name> of Chicago.</p></acquisition>
+  </history>
+  <additional><listBibl><bibl>
+   <author>Merrill Mead Parvis</author>, 
+   <title level="m">The Story of the Goodspeed Collection</title>
+   <imprint> 
+    <pubPlace>([Chicago:]</pubPlace> 
+    <publisher>s.n.,</publisher> 
+    <date>1952),</date>
+   </imprint>
+   <biblScope type="pages">p. 27.</biblScope></bibl>
+   <bibl>
+    <author>Erroll F. Rhodes</author>, 
+    <title level="m">An Annotated List of Armenian New Testament Manuscripts</title>, 
+    <title level="s">Annual Report of Theology</title>
+    <biblScope type="volume">1</biblScope>
+    <imprint><date>(1959),</date></imprint>
+    <biblScope type="pages">pp. 134-135 (1041).</biblScope></bibl>
+   <bibl> 
+    <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+     Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+    <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+    <imprint> 
+     <pubPlace>([Chicago:</pubPlace> 
+     <publisher>s.n.,</publisher>  
+     <date>1973]),</date></imprint> 
+    <biblScope type="volume">36,</biblScope> 
+    <biblScope type="catalogNo">no. 50.</biblScope></bibl>
+   <bibl>
+    <author>Avedis K. Sanjian</author>, 
+    <title level="m">A catalogue of medieval Armenian manuscripts in the United States</title>
+    <imprint>
+     <pubPlace>(Berkeley:</pubPlace>
+     <publisher>University of California Press,</publisher>
+     <date>1976),</date>
+    </imprint>
+    <biblScope type="pages">pp. 243-247.</biblScope></bibl>
+   <bibl>
+    <title level="m">Treasures in heaven: Armenian illuminated manuscripts</title>, edited by 
+    <editor>Thomas F. Mathews</editor> and <editor>Roger S. Wieck</editor> 
+    <imprint>
+     <pubPlace>(New York:</pubPlace>
+     <publisher>Pierpont Morgan Library; Princeton, N.J.: distributed by Princeton University Press,</publisher>
+     <date>1994),</date>
+    </imprint>
+    <biblScope type="pages">pp. 165-166 (cat. 26).</biblScope></bibl>
+  </listBibl>
+  </additional>
+ </msDescription>
+ </body>
+ </text>    
+ </TEI.2>

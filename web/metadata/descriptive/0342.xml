@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://www.lib.uchicago.edu/bus/DTD/goodspeed.dtd">
+<TEI.2>
+ 
+ <teiHeader date.created="2015-11-04" creator="jfcd">
+  <fileDesc>
+   <titleStmt>
+    <title>[University of Chicago Library GMS-0342, a manuscript catalogue description in electronic form]</title>
+    <funder>Institute of Museum and Library Services</funder>
+    <respStmt>
+    <resp>Creation of electronic version:</resp>
+    <name>University of Chicago Library</name>
+    <resp>Creation of digital images:</resp>
+    <name>University of Chicago Library</name>
+    </respStmt> 
+   </titleStmt>
+   <publicationStmt>
+    <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <date>2009</date>
+    <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0342</idno>
+    <availability status= "free">
+     <p>Publicly accessible</p></availability>
+   </publicationStmt>
+   <sourceDesc>
+    <msDescription>               
+     <msIdentifier>
+      <country>United States</country>
+      <region>Illinois</region>
+      <settlement>Chicago</settlement>
+      <institution>University of Chicago Library</institution> 
+      <repository>Special Collections Research Center</repository>
+      <collection>Goodspeed Manuscript Collection</collection>
+      <idno>Ms. 342</idno>
+      <altIdentifier type="former shelfmark">Goodspeed Ms. Lat. 68</altIdentifier>
+     </msIdentifier>
+     <msHeading>
+      <title>New Testament. Gospels. Matthew</title>
+      <otherName>Vulgate Double Leaf Matthew Fragment</otherName>
+      <origPlace>Italy?</origPlace>
+      <origDate notBefore="1301" notAfter="1400">14th century</origDate>
+      <textLang langKey="lat">Latin</textLang>
+     </msHeading>
+     <msContents>
+      <overview><p>Gospel of Matthew bifolium in Latin. Formerly Goodspeed Ms. Lat. 68.</p></overview>
+      <msItem n="1" status="frag">
+       <locus from="001" to="001">fol. [1r]</locus>
+       <summary>Matthew 10:29-12:1 (lacking, begins with [non]ne duo passers asse veneunt…).</summary>
+      </msItem>
+      <msItem n="2" status="frag">
+       <locus from="002" to="002">fol. [1v]</locus>
+       <summary>Matthew 12:1-12:45.</summary>
+      </msItem>
+      <msItem n="3" status="frag">
+       <locus from="003" to="003">fol. [2r]</locus>
+       <summary>Matthew 12:45-13:35.</summary>
+      </msItem>
+      <msItem n="4" status="frag">
+       <locus from="004" to="004">fol. [2v]</locus>
+       <summary>Matthew 13:35-14:22 (lacking, ends with et [statim iussit discipulos ascendere 
+        in navicula et praecedere eum trans fretum donec dimitteret turbas].</summary>
+      </msItem>
+     </msContents>
+     <decoration>
+      <initials><p>Major initials (20-25 mm) of red or blue with penwork flourishes of the same colors contrasted or combined.</p></initials>
+     </decoration>
+     <physDesc>
+      <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">303 x 223 mm</dimensions>.</p></support> 
+      <extent>1 bifolium.</extent> 
+      <dimensions type="written" units="mm">Written space 190 x 135 mm (fol. [1r]). Each column is 190 x 65 mm with a space of 5 mm between.</dimensions> 
+      <layout columns="2" writtenLines="47 per column"><p>2 columns, 47 lines. Ruling with hard point.</p></layout>
+      <msWriting><handDesc script="Minuscule" medium="Ink">
+       <p>Written in textura script in dark brown ink (some fading).</p></handDesc></msWriting> 
+      <textDivisions><p>Chapter numbers and running titles in red and blue.</p></textDivisions>
+      <condition><p>Water and grease stains.</p></condition>
+     </physDesc>
+     <history>
+      <origin><p>The manuscript to which the present bifolium belonged is judged to have been written in the 14th century, possibly in <name reg="Italy" type="place">Italy</name>.</p></origin>
+      <provenance><p>Medieval to 20th century provenance unknown.</p></provenance>
+      <acquisition><p>Gift of <name reg="Goodspeed, Edgar Johnson, 1871-1962" type="person" role="donor">Edgar J. Goodspeed</name>, Professor 
+       Emeritus in the <name reg="University of Chicago. Divinity School" type="org">Divinity School</name> to the University of Chicago, 1959 or 1960.</p></acquisition>
+     </history>
+    </msDescription>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+     Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+     of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+     the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+     resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+     an interface that supports browsing within individual manuscripts and across the collection.</p>
+    <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+     Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+     as of <date>2012-09-22</date>.</p> 
+    <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+     at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+     accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+     and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+     recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+     visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+  <langUsage><language id="lat"></language><p>Latin, ISO 639-3</p>
+ </langUsage>
+   <textClass>
+    <keywords>
+     <term>Bible. N.T. Gospels. Matthew</term>
+     <term>Bible--Manuscripts</term>
+     <term>Manuscripts, Latin (Medieval and modern)</term>
+    </keywords>
+   </textClass>
+ </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0342">               
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 342</idno>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Lat. 68</altIdentifier>
+</msIdentifier>
+<msHeading>
+ <title>New Testament. Gospels. Matthew</title>
+ <otherName>Vulgate Double Leaf Matthew Fragment</otherName>
+<origPlace>Italy?</origPlace>
+<origDate notBefore="1301" notAfter="1400">14th century</origDate>
+<textLang langKey="lat">Latin</textLang>
+</msHeading>
+<msContents>
+ <overview><p>Gospel of Matthew bifolium in Latin. Formerly Goodspeed Ms. Lat. 68.</p></overview>
+<msItem n="1" status="frag">
+ <locus from="001" to="001">fol. [1r]</locus>
+ <summary>Matthew 10:29-12:1 (lacking, begins with [non]ne duo passers asse veneunt…).</summary>
+</msItem>
+ <msItem n="2" status="frag">
+  <locus from="002" to="002">fol. [1v]</locus>
+  <summary>Matthew 12:1-12:45.</summary>
+ </msItem>
+ <msItem n="3" status="frag">
+  <locus from="003" to="003">fol. [2r]</locus>
+  <summary>Matthew 12:45-13:35.</summary>
+ </msItem>
+ <msItem n="4" status="frag">
+  <locus from="004" to="004">fol. [2v]</locus>
+  <summary>Matthew 13:35-14:22 (lacking, ends with et [statim iussit discipulos ascendere 
+  in navicula et praecedere eum trans fretum donec dimitteret turbas].</summary>
+ </msItem>
+ </msContents>
+ <decoration>
+  <initials><p>Major initials (20-25 mm) of red or blue with penwork flourishes of the same colors contrasted or combined.</p></initials>
+ </decoration>
+ <physDesc>
+  <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">303 x 223 mm</dimensions>.</p></support> 
+  <extent>1 bifolium.</extent>
+  <dimensions type="written" units="mm">Written space 190 x 135 mm (fol. [1r]). Each column is 190 x 65 mm with a space of 5 mm between.</dimensions> 
+  <layout columns="2" writtenLines="47 per column"><p>2 columns, 47 lines. Ruling with hard point.</p></layout>
+  <msWriting><handDesc script="Minuscule" medium="Ink">
+   <p>Written in textura script in dark brown ink (some fading).</p></handDesc></msWriting> 
+  <textDivisions><p>Chapter numbers and running titles in red and blue.</p></textDivisions>
+  <condition><p>Water and grease stains.</p></condition>
+ </physDesc>
+ <history>
+  <origin><p>The manuscript to which the present bifolium belonged is judged to have been written in the 14th century, possibly in <name reg="Italy" type="place">Italy</name>.</p></origin>
+  <provenance><p>Medieval to 20th century provenance unknown.</p></provenance>
+  <acquisition><p>Gift of <name reg="Goodspeed, Edgar Johnson, 1871-1962" type="person" role="donor">Edgar J. Goodspeed</name>, Professor 
+   Emeritus in the <name reg="University of Chicago. Divinity School" type="org">Divinity School</name> to the University of Chicago, 1959 or 1960.</p></acquisition>
+ </history>
+</msDescription>
+        </body>
+    </text>      
+</TEI.2>

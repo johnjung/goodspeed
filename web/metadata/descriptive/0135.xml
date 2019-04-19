@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0135, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0135</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 135</idno>
+                        <altName type="Gregory number">Greg. 2397</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 14</altIdentifier>
+                    </msIdentifier> 
+                    <msHeading>
+                        <title>New Testament. Gospels</title>
+                        <otherName>Hyacinthus Gospels</otherName>
+                        <origPlace>Greece or Asia Minor</origPlace>
+                        <origDate>1303</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading><msContents> 
+                        <overview><p>Four gospels in Greek. Lectionary tables of Synaxarion, Menologion, and Heothina. Ammonian section and Eusebian canon numbers. 
+                            Formerly Goodspeed Ms. Grk. 14.</p></overview></msContents>
+                    <decoration>
+                        <headpieces>
+                            <p>Large and small headpieces of fret, basket weave, foliate, and geometric designs in red (fols. 3r, 87r, 146r, 241r).</p>
+                        </headpieces>
+                        <initials>
+                            <p>Major initials (35-50 mm) of bead, ribbon, and foliate motifs in red. Minor initials in red set off from the text.</p>
+                        </initials>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="block" units="mm">223 x 156 mm</dimensions>.</p></support>
+                        <extent>343 leaves, of which 2 are flyleaves of paper. Flyleaves conjoint with pastedowns.</extent> 
+                        <foliation><p>1 (unfoliated paper flyleaf) + 341 + 1 (unfoliated paper flyleaf). Modern foliation in Arabic numerals in pencil 1-341.</p></foliation>
+                        <collation><p>43 quires of 8 leaves, with the exception of quire 1 of 6 leaves, quires 19, 31, and 43 of 7 leaves, and quire 41 of 10 leaves.</p>
+                            <p>Quire numbers are found on the first (recto, upper right margin) and last (verso, lower right margin) leaves of each quire 1-43 (α-μγ).</p></collation>
+                        <dimensions type="written" units="mm">Written space 160 x 105 mm (fol. 23r).</dimensions> 
+                        <layout columns="1" writtenLines="20"><p>1 column, 20 lines. Ruling with hard point. Pricking in the lower margin of several leaves.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in dark brown ink (some flaking).</p>
+                            <p>Punctuation includes high point, comma, marks of elision and interrogation. Quotation marks in left margin next to each line of quoted text.</p>
+                            <p>Corrections in the margins marked by triple dots (inverted triangle form). Some erasure.</p></handDesc>
+                        </msWriting>
+                        <textDivisions><p>Titles in red.</p></textDivisions>
+                        <condition><p>Corners of several leaves broken. Random holes. Partial paper repairs (fols 41, 224, 261). Tracing over of faded text in black ink. Water stains.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Bound in dark brown <material>leather</material> over boards. Fore-edge clasps (one remaining). Title on spine in gold: ΕΥΑΓΓΕΛΙΟΝ.</p> <decoNote>
+                                <p>Stamped floral ornament framed with floral and scrollwork border, back and front. Edge decoration in yellow.</p></decoNote></binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript was written in 1303 by the scribe <name reg="Hyacinthus, 13th century-14th century" type="person" role="scribe">Hyacinthus</name> (his colophon, fol. 313v), 
+                            possibly in <name reg="Greece" type="place">Greece</name> or <name reg="Asia Minor" type="place">Asia Minor</name>. Other manuscripts said to be the work of this scribe: 
+                            1. Athos, Iviron, Ms. 4153 (Gospels, 1297); 2. Milan, Bibliothecae Ambrosianae, Ms. 883 (John Chrysostom, Homilies on Genesis, 1302).</p></origin>
+                        <provenance><p>Medieval to 20th century provenance unknown.</p>
+                            <p>Prayers of Hyacinthus (fol. 1r), and of <name reg="Maria" type="person">Maria</name> who may have been a later owner (fol. 145r). University of Chicago Libraries bookplate 
+                                (front pastedown).</p></provenance>
+                        <acquisition><p>Acquired by the University of Chicago in 1929 from <name reg="M. Stora et cie (Firm)" type="org">Maurice Stora</name> (Paris) with 
+                            funds provided by <name reg="Woodward, Frederic Campbell, 1874-1954" type="person" role="donor">Frederic C. Woodward</name>, university 
+                            vice-president, <name reg="Matthews, Shailer, 1863-1941" type="person" role="donor">Shailer Matthews</name>, dean of the Divinity School, 
+                            <name reg="Raney, McKendree Llewellyn, 1877-1964" type="person" role="donor">M. Llewellyn Raney</name>, director of the university libraries, and Chicago 
+                            businessman <name reg="Haskell, Frederick T., 1854-1935" type="person" role="donor">Frederick T. Haskell</name>.</p></acquisition>
+                    </history></msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+  <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+ </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Gospels. Greek</term>
+                    <term>Synaxarion--Early works to 1800</term>
+                    <term>Manuscripts, Greek (Medieval and modern)</term>
+                    <term>Hyacinthus, 13th century-14th century</term>
+                </keywords>
+            </textClass>
+ </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0135">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 135</idno>
+    <altName type="Gregory number">Greg. 2397</altName>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 14</altIdentifier>
+</msIdentifier> 
+    <msHeading>
+        <title>New Testament. Gospels</title>
+        <otherName>Hyacinthus Gospels</otherName>
+        <origPlace>Greece or Asia Minor</origPlace>
+        <origDate>1303</origDate>
+        <textLang langKey="grc">Greek</textLang>
+    </msHeading>
+<msContents> 
+    <overview><p>Four gospels in Greek. Lectionary tables of Synaxarion, Menologion, and Heothina. Ammonian section and Eusebian canon numbers. 
+        Formerly Goodspeed Ms. Grk. 14.</p></overview>
+<msItem n="1">
+    <locus from = "005" to ="008">fols. 1r-2v</locus> 
+    <summary>Kephalaia of Matthew.</summary>
+</msItem>
+    <msItem n="2">
+        <locus from = "009" to ="173">fols. 3r-85r</locus> 
+        <summary>Matthew.</summary>
+    </msItem>
+    <msItem n="3">
+        <locus from = "173" to ="175">fols. 85r-86r</locus> 
+        <summary>Kephalaia of Mark.</summary>
+    </msItem>
+    <msItem n="4">
+        <locus from = "177" to ="288">fols. 87r-142v</locus> 
+        <summary>Mark.</summary>
+    </msItem>
+    <msItem n="5">
+        <locus from = "289" to ="293">fols. 143r-145r</locus> 
+        <summary>Kephalaia of Luke.</summary>
+    </msItem>
+    <msItem n="6">
+        <locus from = "295" to ="483">fols. 146r-240r</locus> 
+        <summary>Luke.</summary>
+    </msItem>
+    <msItem n="7">
+        <locus from = "484" to ="484">fol. 240v</locus> 
+        <summary>Kephalaia of John.</summary>
+    </msItem>
+    <msItem n="8">
+        <locus from = "485" to ="630">fols. 241r-313v</locus> 
+        <summary>John.</summary>
+    </msItem>
+    <msItem n="9">
+        <locus from = "630" to ="630">fol. 313v</locus> 
+        <colophon>The scribe Hyacinthus, dated 1303.</colophon>
+    </msItem>
+    <msItem n="10">
+        <locus from = "631" to = "686">fols. 314r-341v</locus> 
+        <summary>Lectionary tables (Synaxarion, Menologion, Heothina).</summary>
+    </msItem></msContents>
+    <decoration>
+        <headpieces>
+            <p>Large and small headpieces of fret, basket weave, foliate, and geometric designs in red (fols. 3r, 87r, 146r, 241r).</p>
+        </headpieces>
+        <initials>
+            <p>Major initials (35-50 mm) of bead, ribbon, and foliate motifs in red. Minor initials in red set off from the text.</p>
+        </initials>
+        </decoration>
+    <physDesc>
+ <support><p><material>Parchment</material>. <dimensions type="block" units="mm">223 x 156 mm</dimensions>.</p></support>
+        <extent>343 leaves, of which 2 are flyleaves of paper. Flyleaves conjoint with pastedowns.</extent> 
+        <foliation><p>1 (unfoliated paper flyleaf) + 341 + 1 (unfoliated paper flyleaf). Modern foliation in Arabic numerals in pencil 1-341.</p></foliation>
+        <collation><p>43 quires of 8 leaves, with the exception of quire 1 of 6 leaves, quires 19, 31, and 43 of 7 leaves, and quire 41 of 10 leaves.</p>
+            <p>Quire numbers are found on the first (recto, upper right margin) and last (verso, lower right margin) leaves of each quire 1-43 (α-μγ).</p></collation>
+        <dimensions type="written" units="mm">Written space 160 x 105 mm (fol. 23r).</dimensions> 
+    <layout columns="1" writtenLines="20"><p>1 column, 20 lines. Ruling with hard point. Pricking in the lower margin of several leaves.</p></layout>
+        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in dark brown ink (some flaking).</p>
+            <p>Punctuation includes high point, comma, marks of elision and interrogation. Quotation marks in left margin next to each line of quoted text.</p>
+        <p>Corrections in the margins marked by triple dots (inverted triangle form). Some erasure.</p></handDesc>
+        </msWriting>
+        <textDivisions><p>Titles in red.</p></textDivisions>
+        <condition><p>Corners of several leaves broken. Random holes. Partial paper repairs (fols 41, 224, 261). Tracing over of faded text in black ink. Water stains.</p></condition>
+        <bindingDesc>
+            <binding><p>Bound in dark brown <material>leather</material> over boards. Fore-edge clasps (one remaining). Title on spine in gold: ΕΥΑΓΓΕΛΙΟΝ.</p> <decoNote>
+            <p>Stamped floral ornament framed with floral and scrollwork border, back and front. Edge decoration in yellow.</p></decoNote></binding></bindingDesc>
+ </physDesc>
+<history>
+    <origin><p>The manuscript was written in 1303 by the scribe <name reg="Hyacinthus, 13th century-14th century" type="person" role="scribe">Hyacinthus</name> (his colophon, fol. 313v), 
+        possibly in <name reg="Greece" type="place">Greece</name> or <name reg="Asia Minor" type="place">Asia Minor</name>. Other manuscripts said to be the work of this scribe: 
+        1. Athos, Iviron, Ms. 4153 (Gospels, 1297); 2. Milan, Bibliothecae Ambrosianae, Ms. 883 (John Chrysostom, Homilies on Genesis, 1302).</p></origin>
+    <provenance><p>Medieval to 20th century provenance unknown.</p>
+        <p>Prayers of Hyacinthus (fol. 1r), and of <name reg="Maria" type="person">Maria</name> who may have been a later owner (fol. 145r). University of Chicago Libraries bookplate 
+            (front pastedown).</p></provenance>
+    <acquisition><p>Acquired by the University of Chicago in 1929 from <name reg="M. Stora et cie (Firm)" type="org">Maurice Stora</name> (Paris) with 
+        funds provided by <name reg="Woodward, Frederic Campbell, 1874-1954" type="person" role="donor">Frederic C. Woodward</name>, university 
+        vice-president, <name reg="Matthews, Shailer, 1863-1941" type="person" role="donor">Shailer Matthews</name>, dean of the Divinity School, 
+        <name reg="Raney, McKendree Llewellyn, 1877-1964" type="person" role="donor">M. Llewellyn Raney</name>, director of the university libraries, and Chicago 
+        businessman <name reg="Haskell, Frederick T., 1854-1935" type="person" role="donor">Frederick T. Haskell</name>.</p></acquisition>
+</history>
+    <additional>
+        <listBibl><bibl><author>David O. Voss</author>, 
+            <title level="u">"A study of the Isaac, Hyacinthus, and Exoteicho Gospels"</title> 
+            <note>(Ph.D. diss., University of Chicago, 1932).</note></bibl>
+            <bibl>
+                <author>Seymour de Ricci,</author>
+                <title level="m">Census of Medieval and Renaissance Manuscripts in the United States and Canada</title>
+                <imprint>
+                    <pubPlace>(New York:</pubPlace>
+                    <publisher>H. W. Wilson Company,</publisher>
+                    <date>1935),</date>
+                </imprint>
+                <biblScope type="volume">vol. 1, p. 570.</biblScope></bibl>
+            <bibl><author>Kenneth W. Clark</author>, 
+                <title level="m">A Descriptive Catalogue of Greek New Testament Manuscripts in America</title>
+                <imprint>
+                    <pubPlace>(Chicago:</pubPlace>
+                    <publisher>University of Chicago Press,</publisher>
+                    <date>1937),</date>
+                </imprint>
+                <biblScope type="pages">pp. 245-247.</biblScope></bibl>
+            <bibl>
+                <author>Merrill Mead Parvis</author>, 
+                <title level="m">The Story of the Goodspeed Collection</title>
+                <imprint>
+                    <pubPlace>([Chicago]:</pubPlace>
+                    <publisher>s.n.,</publisher>
+                    <date>1952),</date>
+                </imprint>
+                <biblScope type="pages">p. 13.</biblScope></bibl>
+            <bibl> 
+                <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+                    Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+                <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+                <imprint> 
+                    <pubPlace>([Chicago:</pubPlace> 
+                    <publisher>s.n.,</publisher> 
+                    <date>1973]),</date></imprint> 
+                <biblScope type="volume">36,</biblScope> 
+                <biblScope type="catalogNo">no. 41.</biblScope></bibl></listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+<teiHeader date.created="2015-11-04" creator="jfcd">
+<fileDesc>
+<titleStmt>
+ <title>[University of Chicago Library GMS-0899, a manuscript catalogue description in electronic form]</title>
+ <funder>Institute of Museum and Library Services</funder>
+ <respStmt>
+  <resp>Creation of electronic version:</resp>
+  <name>University of Chicago Library</name>
+  <resp>Creation of digital images:</resp>
+  <name>University of Chicago Library</name>
+ </respStmt> 
+</titleStmt>
+ <publicationStmt>
+  <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+  <pubPlace>Chicago, Illinois</pubPlace>
+  <date>2009</date>
+  <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0899</idno>
+  <availability status= "free">
+   <p>Publicly accessible</p></availability>
+ </publicationStmt>
+ <sourceDesc>
+  <msDescription>  
+   <msIdentifier>
+    <country>United States</country>
+    <region>Illinois</region>
+    <settlement>Chicago</settlement>
+    <institution>University of Chicago Library</institution> 
+    <repository>Special Collections Research Center</repository>
+    <collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 0899</idno>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 35</altIdentifier>
+   </msIdentifier>
+   <msHeading>
+    <title>New Testament. Gospels</title>
+    <otherName>Gregory Matthew-Mark</otherName>
+    <origPlace>Unknown Place of Origin</origPlace>
+    <origDate notBefore="801" notAfter="1000">9th or 10th century</origDate>
+    <textLang langKey="hye">Armenian</textLang>
+   </msHeading>
+   <msContents>
+    <overview>
+     <p>Gospel of Matthew and of Mark in Armenian. Eusebian section numbers in the margins against the text. 
+      Concordance in the lower margins; and Pentecostal lection numbers. 
+      Formerly Goodspeed Ms. Arm. 35.</p></overview>
+    <msItem n="1" status="frag">
+     <locus from="003" to="026">fols. 1r-12v</locus>
+     <summary>Matthew (contains 21:21-25:9; 27:65-28:13).</summary></msItem>
+    <msItem n="2" status="frag"> 
+     <locus from="027" to="058">fols. 13r-28v</locus> 
+     <summary>Mark (1:1-6:20; 9:14-10:14).</summary></msItem></msContents>
+   <decoration><overview><p>Foliate vignettes in blue, red, and green (fols. 12r,  28v).</p></overview>
+   </decoration>
+   <physDesc>
+    <support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">420 x 297 mm</dimensions>.</p></support>
+    <extent>28 leaves.</extent> 
+    <foliation><p>1-28. Modern foliation in Arabic numerals in pencil.</p></foliation>
+    <collation><p>Quire numbers extant in the lower margins are those of quire 8 (fol. 1); quire 9 (fol. 9); quire 20 (fol. 13); quire 30 (fol. 21).</p></collation>
+    <dimensions type="written" units="mm">Written space 330 x 215 mm (fol. 8r ). Each column is 330 x 95 mm with a space of 25 mm between.</dimensions> 
+    <layout columns="2" writtenLines="21 per column"><p>2 columns, 21 lines. Ruling with hard point. Pricking in the inner and outer margins.</p></layout> 
+    <msWriting><handDesc script="Erkat’agir " medium="ink"> 
+     <p>Written in erkat’agir script in dark brown ink (some fading).</p></handDesc></msWriting>
+    <condition><p>Leaves moderately cockled. Inner edge of several leaves taped. All edges dry and corners damaged. Bottom 
+     portion of fol. 22 broken or cut off.  Several section numbers overwritten. Additional numbers and 
+     frames in ink added on some leaves (see fol. 28v). Random dirt and grease stains.</p></condition> 
+    <bindingDesc> 
+     <binding><p>Bound in dark brown cloth over <material>pasteboard</material>. Spine and corners covered in tan <material>leather</material>. 
+      Pastedowns of paper.</p></binding></bindingDesc>
+   </physDesc>
+   <history>
+    <origin><p>The manuscript to which the present leaves belonged is judged to have been written in either the 9th or 10th century. A place of origin is unknown.</p></origin>
+    <provenance><p>Medieval to 19th century provenance unknown.</p> <p>Belonged to author and New Testament text 
+     critic <name reg="Gregory, Caspar René, 1846-1917" type="person" role="owner">Caspar René Gregory</name> (1846-1917), and his brother, 
+     Professor <name reg="Gregory, William J." type="person" role="owner">William J. Gregory</name> of <name reg="Westminster, Colorado" type="place">Westminster, 
+      Colorado</name>. Purchased by Chicago businessman <name reg= "Haskell, Frederick T., 1854-1935" type="person">Frederick T. Haskell</name> (1854-1935) from William 
+     Gregory, ca. 1934.</p> 
+     <p>Signature of Caspar René Gregory; content notation dated 1886; University of Chicago bookplate (front pastedown).</p></provenance>
+    <acquisition><p>Gift of Frederick T. Haskell to the University of Chicago, February or March 1935.</p></acquisition>
+   </history></msDescription>
+ </sourceDesc>
+</fileDesc>
+ <encodingDesc>
+  <projectDesc>
+   <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+    an interface that supports browsing within individual manuscripts and across the collection.</p>
+   <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+    as of <date>2012-09-22</date>.</p> 
+   <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+  </projectDesc>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage><language id="hye"></language><p>Armenian, ISO 639-3</p>
+ </langUsage>
+  <textClass>
+   <keywords>
+    <term>Bible. N.T. Gospels. Armenian</term> 
+    <term>Manuscripts, Armenian</term>
+    <term>Gregory, Caspar René, 1846-1917</term>
+   </keywords>
+   </textClass>
+ </profileDesc>
+</teiHeader>
+ <text>
+ <body>
+ <msDescription id="GMS-0899">
+ <msIdentifier>
+ <country>United States</country>
+<region>Illinois</region>
+ <settlement>Chicago</settlement>
+ <institution>University of Chicago Library</institution> 
+ <repository>Special Collections Research Center</repository>
+ <collection>Goodspeed Manuscript Collection</collection>
+  <idno>Ms. 0899</idno>
+  <altIdentifier type="former shelfmark">Goodspeed Ms. Arm. 35</altIdentifier>
+ </msIdentifier>
+  <msHeading>
+   <title>New Testament. Gospels</title>
+   <otherName>Gregory Matthew-Mark</otherName>
+   <origPlace>Unknown Place of Origin</origPlace>
+   <origDate notBefore="801" notAfter="1000">9th or 10th century</origDate>
+   <textLang langKey="hye">Armenian</textLang>
+  </msHeading>
+  <msContents>
+   <overview>
+    <p>Gospel of Matthew and of Mark in Armenian. Eusebian section numbers in the margins against the text. 
+     Concordance in the lower margins; and Pentecostal lection numbers. 
+     Formerly Goodspeed Ms. Arm. 35.</p></overview>
+   <msItem n="1" status="frag">
+    <locus from="003" to="026">fols. 1r-12v</locus>
+    <summary>Matthew (contains 21:21-25:9; 27:65-28:13).</summary></msItem>
+   <msItem n="2" status="frag"> 
+    <locus from="027" to="058">fols. 13r-28v</locus> 
+    <summary>Mark (1:1-6:20; 9:14-10:14).</summary></msItem></msContents>
+  <decoration><overview><p>Foliate vignettes in blue, red, and green (fols. 12r,  28v).</p></overview>
+  </decoration>
+  <physDesc>
+<support><p><material>Parchment</material>. <dimensions type="leaves" units="mm">420 x 297 mm</dimensions>.</p></support>
+ <extent>28 leaves.</extent> 
+ <foliation><p>1-28. Modern foliation in Arabic numerals in pencil.</p></foliation>
+ <collation><p>Quire numbers extant in the lower margins are those of quire 8 (fol. 1); quire 9 (fol. 9); quire 20 (fol. 13); quire 30 (fol. 21).</p></collation>
+   <dimensions type="written" units="mm">Written space 330 x 215 mm (fol. 8r ). Each column is 330 x 95 mm with a space of 25 mm between.</dimensions> 
+ <layout columns="2" writtenLines="21 per column"><p>2 columns, 21 lines. Ruling with hard point. Pricking in the inner and outer margins.</p></layout> 
+   <msWriting><handDesc script="Erkat’agir " medium="ink"> 
+    <p>Written in erkat’agir script in dark brown ink (some fading).</p></handDesc></msWriting>
+   <condition><p>Leaves moderately cockled. Inner edge of several leaves taped. All edges dry and corners damaged. Bottom 
+  portion of fol. 22 broken or cut off.  Several section numbers overwritten. Additional numbers and 
+  frames in ink added on some leaves (see fol. 28v). Random dirt and grease stains.</p></condition> 
+ <bindingDesc> 
+  <binding><p>Bound in dark brown cloth over <material>pasteboard</material>. Spine and corners covered in tan <material>leather</material>. 
+   Pastedowns of paper.</p></binding></bindingDesc>
+</physDesc>
+<history>
+ <origin><p>The manuscript to which the present leaves belonged is judged to have been written in either the 9th or 10th century. A place of origin is unknown.</p></origin>
+ <provenance><p>Medieval to 19th century provenance unknown.</p> <p>Belonged to author and New Testament text 
+  critic <name reg="Gregory, Caspar René, 1846-1917" type="person" role="owner">Caspar René Gregory</name> (1846-1917), and his brother, 
+  Professor <name reg="Gregory, William J." type="person" role="owner">William J. Gregory</name> of <name reg="Westminster, Colorado" type="place">Westminster, 
+    Colorado</name>. Purchased by Chicago businessman <name reg= "Haskell, Frederick T., 1854-1935" type="person">Frederick T. Haskell</name> (1854-1935) from William 
+  Gregory, ca. 1934.</p> 
+  <p>Signature of Caspar René Gregory; content notation dated 1886; University of Chicago bookplate (front pastedown).</p></provenance>
+ <acquisition><p>Gift of Frederick T. Haskell to the University of Chicago, February or March 1935.</p></acquisition>
+</history>
+  <additional><listBibl><bibl>
+   <author>Caspar René Gregory</author>, 
+   <title level="m">Textkritik des Neuen Testamentes</title>
+   <imprint>
+    <pubPlace>(Leipzig:</pubPlace>
+    <publisher>J. C. Hinrichs,</publisher>
+    <date>1900-1909),</date>
+   </imprint>
+   <biblScope type="pages">vol. 3, p. 572. no. 45.</biblScope></bibl>
+   <bibl>
+   <author>Merrill Mead Parvis</author>, 
+   <title level="m">The Story of the Goodspeed Collection</title>
+   <imprint> 
+    <pubPlace>([Chicago:]</pubPlace> 
+    <publisher>s.n.,</publisher> 
+    <date>1952),</date>
+   </imprint>
+   <biblScope type="pages">p. 22.</biblScope></bibl>
+   <bibl>
+    <author>Erroll F. Rhodes</author>, 
+    <title level="m">An Annotated List of Armenian New Testament Manuscripts</title>, 
+    <title level="s">Annual Report of Theology</title>
+    <biblScope type="volume">1</biblScope>
+    <imprint><date>(1959),</date></imprint>
+    <biblScope type="pages">p. 134 (1037).</biblScope></bibl>
+   <bibl> 
+    <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+     Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+    <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+    <imprint> 
+     <pubPlace>([Chicago:</pubPlace> 
+     <publisher>s.n.,</publisher>  
+     <date>1973]),</date></imprint> 
+    <biblScope type="volume">36,</biblScope> 
+    <biblScope type="catalogNo">no. 37.</biblScope></bibl>
+   <bibl>
+    <author>Avedis K. Sanjian</author>, 
+    <title level="m">A catalogue of medieval Armenian manuscripts in the United States</title>
+    <imprint>
+     <pubPlace>(Berkeley:</pubPlace>
+     <publisher>University of California Press,</publisher>
+     <date>1976),</date>
+    </imprint>
+    <biblScope type="pages">pp. 225-226.</biblScope></bibl>
+   <bibl>
+    <title level="m">Treasures in heaven: Armenian illuminated manuscripts</title>, edited by 
+    <editor>Thomas F. Mathews</editor> and <editor>Roger S. Wieck</editor> 
+    <imprint>
+     <pubPlace>(New York:</pubPlace>
+     <publisher>Pierpont Morgan Library; Princeton, N.J.: distributed by Princeton University Press,</publisher>
+     <date>1994),</date>
+    </imprint>
+    <biblScope type="pages">p. 163 (cat. 23).</biblScope></bibl>
+  </listBibl>
+  </additional>
+ </msDescription>
+ </body>
+ </text>    
+ </TEI.2>

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://www.lib.uchicago.edu/bus/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0131, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0131</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 131</idno>
+                        <altName type="Gregory number">Greg. 2394</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 7</altIdentifier></msIdentifier>
+                    <msHeading>
+                        <title>New Testament. Gospels</title>
+                        <otherName>Chrysanthus Gospels</otherName>
+                        <origPlace>Balkan Peninsula?</origPlace>
+                        <origDate notBefore="1101" notAfter="1300">12th or 13th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                        <textLang langKey="ell">Greek</textLang>
+                        <textLang langKey="chu">Church Slavonic</textLang>
+                    </msHeading>
+                    <msContents> 
+                        <overview><p>Four gospels in Greek. Ammonian section and Eusebian canon numbers in the margins. Added tables to calculate the dates of Easter. 
+                            Formerly Goodspeed Ms. Grk. 7.</p></overview>
+                    </msContents>
+                    <decoration><overview>
+                        <p>The manuscript contains 6 Evangelist portraits, 3 original and 3 added at an unknown date. Portraits of the Evangelist Matthew are lost.</p>
+                    </overview> <canonTables>
+                        <p>Citations of concordant gospel sections are framed by architectural columns. These support arched headpieces of multi-colored floral, foliate, and geometric designs. 
+                            Drawings of lions in red added to the headpiece of the first table.</p>
+                    </canonTables>
+                        <headpieces><p>Headpiece of Matthew (fol. 12r), square panel topped with two peacocks; central roundel, Christ in Majesty, right hand raised in blessing. Four 
+                            creatures (angel, eagle, ox, and lion) in small roundels, one in each corner. Headpieces of the other Evangelists embellished with 
+                            floral, foliate, and geometric motifs in blue, red, and gold at each gospel opening (fols. 125r, 195r, and 314r).</p>
+                        </headpieces>
+                        <initials>
+                            <p>Beta, the major initial of Matthew, is formed from intertwined figures of men and animals (35-40 mm). Zacharias the priest holding a censer represents the epsilon 
+                                of Luke's opening. The initials of Mark and John are not decorated (20-25 mm). Minor initials in red set off from the text.</p>
+                        </initials>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material> and <material>paper</material>. <dimensions type="block" units="mm">200 x 140 mm</dimensions>.</p></support>
+                        <extent>401 leaves, of which 1 is a partially raised pastedown and two are flyleaves of paper that function as Easter tables.</extent>
+                        <foliation><p>1 (unfoliated paper pastedown) + 2 (foliated paper flyleaves) + 398. Modern foliation in Arabic numerals in pencil 1-400.</p></foliation>
+                        <collation><p>49 quires of 8 leaves, with the exception of quire 48 of 6 leaves, quires 15, 30, and 37 of 7 leaves, and quires 1 and 49 of 10 leaves. Estimate of content lost: 
+                            leaf 10 of quire 1 and a bifolium (after fol. 11, original and later portraits of Matthew); 1 leaf of quire 15 (after fol. 121, kephalaia of Mark).</p> 
+                            <p>A second set of 4 Evangelist portraits was added at an unknown date, and 3 leaves of paper containing tables to determine the dates of Easter.</p></collation>
+                        <dimensions type="written" units="mm">Written space 150 x 105 mm (fol. 29r).</dimensions> 
+                        <layout columns="1" writtenLines="16-20"><p>1 column, 16 to 20 lines. Ruling with hard point. Lines previously ruled on the bifolium fols. 141 and 148 stand 
+                            at right angles to the lines of the later ruling pattern.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in black to dark brown ink (some flaking).</p>
+                            <p>Punctuation includes middle point, comma, marks of elision and interrogation. Quotation marks in left margin next to each line of quoted text.</p></handDesc>
+                        </msWriting>
+                        <textDivisions><p>Titles and lectionary indicators αρχε (beginning) and τελος (end) in red.</p></textDivisions>
+                        <condition><p>Leaves trimmed resulting in the loss of some text. Moderately cockled. Dirt and water stains.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Bound in red <material>velvet</material> over boards. Floral-patterned edge decoration, fore-edge in blue. Doublures (one remaining, back) of 
+                                woven cloth in a diagonal pattern of rose, white, blue, and yellow, bordered with strips of rose silk glued down.</p></binding></bindingDesc>
+                    </physDesc>
+                    <history><origin><p>The manuscript may have been written in the <name reg="Balkan Peninsula" type="place">Balkan Peninsula</name> to judge from certain of the inscriptions, and in either the 12th or 13th century.</p></origin> 
+                        <provenance><p>Medieval to late 17th century provenance unknown. Contains dated and undated colophons and inscriptions in Greek and Church Slavonic.</p>
+                            <p><name reg="Kosma" type="person" role="monk">Kosma</name>, a hieromonk of <name reg=" Monastery of Chilandari (Mount Athos, Greece)" type="org">Hilandar</name>, the Serbian monastery  
+                                on <name reg="Mount Athos, Greece" type="place">Mount Athos</name>, restored the manuscript when it belonged to the <name reg="Church of St. George (Pološko)" type="org">Church of St. George, Pološko</name>, which today is 
+                                located near <name reg="Kavadarci, Macedonia" type="place">Kavadarci</name> in the <name reg="Macedonia" type="place"> Republic of Macedonia</name> (undated inscription written 
+                                by <name reg="Michael the Painter" type="person" role="artist">Michael the Painter</name>; prayer of Kosma, fol. 9v).</p>
+                            <p>The manuscript was in the possession of <name reg="Chekhra" type="person" role="monk">Chekhra</name>, chief monk of Kovin, who documented the transfer of his authority over the 
+                                <name reg="Church of St. Nicholas (Kovin)" type="org">Church of St. Nicholas</name> to the Bishop <name reg="Nicholas" type="person" role="bishop">Nicholas</name> in an undated inscription (fol. 400v).</p>
+                            <p>At the end of the 17th century, the book was rebound and restored by the hieromonk <name reg="Chrysanthus, 17th century" type="person" role="monk">Chrysanthus</name>, whose inscription notes that he took it 
+                                from a Turkish-controlled area of <name reg="Iberia" type="place">Iberia</name>, the present-day nation of <name reg="Georgia" type="place">Georgia</name> (his inscription, fol. 2v). Both Chrysanthus's inscription and 
+                                a second unsigned writing dated 11 February 1700 (fol. 123v) include the name Τζηλτηρε, a geographic area as yet unidentified.</p>
+                            <p>The monk Kosma's signature with two gospel citations (fol. 10r); inscription of <name reg="Gerasim" type="person">Gerasim</name> (fol. 400v, undated); prayer of <name reg="Singchoreseos" type="person" role="monk">Singchoreseos</name> 
+                                (front pastedown, recto, undated); unsigned and undated inscriptions and prayers (fols. 4r, 6r, 122r, 147r, 400v). Drawings of birds (front pastedown, verso).</p></provenance>
+                        <acquisition><p>Acquired by the University of Chicago in 1929 from <name reg="Riefstahl, Rudolf Meyer, 1880-1936" type="person" role="antiquarian">Rudolf M. Riefstahl</name> 
+                            (New York), with funds provided by <name reg="Woodward, Frederic Campbell, 1874-1954" type="person" role="donor">Frederic C. Woodward</name>, 
+                            university vice-president, <name reg="Matthews, Shailer, 1863-1941" type="person" role="donor">Shailer Matthews</name>, dean of the Divinity School, calligrapher and illuminator 
+                            <name reg="Ricketts, Coella Lindsay, 1859-1941" type="person" role="donor">Coella Lindsay Ricketts</name>, and real estate 
+                            developer <name reg="Galt, Arthur T., born 1876" type="person" role="donor">Arthur T. Galt</name>.</p></acquisition>
+                    </history></msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p></langUsage>
+            <langUsage><language id="ell"></language><p>Greek, Modern (1453-), ISO 639-3</p></langUsage>  
+            <langUsage><language id="chu"></language><p>Church Slavonic, ISO 639-3</p>
+ </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Gospels. Greek</term>
+                    <term>Bible--Manuscripts</term>
+                    <term>Miniatures (Illuminations)</term>
+                    <term>Chrysanthus, 17th century</term>
+                </keywords>
+            </textClass>
+ </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0131">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 131</idno>
+    <altName type="Gregory number">Greg. 2394</altName>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 7</altIdentifier></msIdentifier>
+    <msHeading>
+        <title>New Testament. Gospels</title>
+        <otherName>Chrysanthus Gospels</otherName>
+        <origPlace>Balkan Peninsula?</origPlace>
+        <origDate notBefore="1101" notAfter="1300">12th or 13th century</origDate>
+        <textLang langKey="grc">Greek</textLang>
+        <textLang langKey="ell">Greek</textLang>
+        <textLang langKey="chu">Church Slavonic</textLang>
+    </msHeading>
+<msContents> 
+    <overview><p>Four gospels in Greek. Ammonian section and Eusebian canon numbers in the margins. Added tables to calculate the dates of Easter. 
+        Formerly Goodspeed Ms. Grk. 7.</p></overview>
+<msItem n="1">
+    <locus from = "002" to ="002">Pastedown (front)</locus>
+    <locus from = "003" to ="008">fols. 1r-3v</locus>
+     <summary>Tables for calculating the dates of Easter.</summary>
+</msItem>
+    <msItem n="2">
+        <locus from = "006" to ="006">fol. 2v</locus> 
+        <colophon>The hieromonk Chrysanthus, dated 1700.</colophon>
+    </msItem>
+    <msItem n="3">
+        <locus from = "009" to ="009">fol. 4r</locus> 
+        <summary>Eusebius of Caesarea, ca. 260-ca. 340, Letter to Carpianus, on the Gospel Canons (lacking).</summary>
+    </msItem>
+    <msItem n="4">
+        <locus from = "010" to ="019">fols. 4v-9r</locus>
+        <summary>Canon tables I-X.</summary>
+    </msItem>
+    <msItem n="5">
+        <locus from = "021" to ="021">fol. 10r</locus> 
+        <colophon>I hieromonk and priest Kosma came to Pološko to the Church of Saint George from Hilandar of the Holy Mountain
+            and having found books of the Eucharistion ... [?] there began with zeal and labor and repaired the four Gospels the Acts of the 
+            Apostles the Tridion and the Psalter. Michael the Painter has written this. God have mercy on Kosma.</colophon>
+    </msItem>
+    <msItem n="6">
+        <locus from = "022" to ="024">fols. 10v-11v</locus> 
+        <summary>Kephalaia of Matthew.</summary>
+    </msItem>
+    <msItem n="7">
+        <locus from = "025" to ="244">fols. 12r-121v</locus> 
+        <summary>Matthew. Subscription.</summary> 
+        <note>Blank (fols. 123r, 124r).</note>
+    </msItem>
+    <msItem n="8">
+        <locus from = "251" to ="380">fols. 125r-189v</locus> 
+        <summary>Mark.</summary>
+    </msItem>
+    <msItem n="9">
+        <locus from = "381" to ="385">fols. 190r-192r</locus> 
+        <summary>Kephalaia of Luke.</summary> 
+        <note>Blank (fols. 193r-194r).</note>
+    </msItem>
+    <msItem n="10">
+        <locus from = "391" to ="617">fols. 195r-308r</locus> 
+        <summary>Luke. Subscription.</summary>
+    </msItem>
+    <msItem n="11">
+        <locus from = "617" to ="621">fols. 308r-310r</locus> 
+        <summary>Prologue of John.</summary>
+    </msItem>
+    <msItem n="12">
+        <locus from = "621" to ="623">fols. 310r-311r</locus> 
+        <summary>Kephalaia of John. Stichoi (2,300).</summary> 
+        <note>Blank (fols. 312r-313r).</note>
+    </msItem>
+    <msItem n="13">
+        <locus from = "629" to ="801">fols. 314r-400r</locus> 
+        <summary>John. Subscription.</summary>
+    </msItem>
+    <msItem n="14">
+        <locus from = "802" to ="802">fol. 400v</locus> 
+        <colophon>I believe in one God almighty creator of heaven and earth. I 
+            Chekhra chief monk of Kovin transmit my church of St. Nicholas to the rule of my Lord 
+            Bishop Nicholas. Whoever wishes to take it away from him let him be cursed by him 
+            by the holy council and by Saint Nicholas to eternity. Amen.</colophon>
+    </msItem>
+</msContents>
+    <decoration><overview>
+        <p>The manuscript contains 6 Evangelist portraits, 3 original and 3 added at an unknown date. Portraits of the Evangelist Matthew are lost.</p>
+    </overview>
+        <miniatures><minItem n="1"> 
+            <locus from ="246" to="246">fol. 122v</locus>
+            <minDesc>Evangelist, Mark, Portrait: Mark reading book on lectern, seated on bench.</minDesc></minItem>
+             <minItem n="2"> 
+                <locus from ="250" to="250">fol. 124v</locus>
+                <minDesc>Evangelist, Mark, Portrait: Mark writing, seated on bench; buildings in background.</minDesc></minItem> 
+            <minItem n="3"> 
+            <locus from ="386" to="386">fol. 192v</locus>
+                <minDesc>Evangelist, Luke, Portrait: Luke writing, seated on bench before writing desk.</minDesc></minItem>
+            <minItem n="4">
+                <locus from ="390" to="390">fol. 194v</locus>
+                <minDesc>Evangelist, Luke, Portrait: Luke reading, seated on bench; buildings in background.</minDesc></minItem>
+             <minItem n="5"> 
+            <locus from ="624" to="624">fol. 311v</locus>
+                 <minDesc>Evangelist, John, Portrait: John reading book on lectern, seated in high-backed chair.</minDesc></minItem>
+            <minItem n="6">
+                <locus from ="628" to="628">fol. 313v</locus>
+                <minDesc>Evangelist, John, Portrait: John reading, seated on bench before desk; mouth of cave in background.</minDesc></minItem></miniatures>
+        <canonTables>
+            <p>Citations of concordant gospel sections are framed by architectural columns. These support arched headpieces of multi-colored floral, foliate, and geometric designs. 
+                Drawings of lions in red added to the headpiece of the first table.</p>
+        </canonTables>
+        <headpieces><p>Headpiece of Matthew (fol. 12r), square panel topped with two peacocks; central roundel, Christ in Majesty, right hand raised in blessing. Four 
+            creatures (angel, eagle, ox, and lion) in small roundels, one in each corner. Headpieces of the other Evangelists embellished with 
+            floral, foliate, and geometric motifs in blue, red, and gold at each gospel opening (fols. 125r, 195r, and 314r).</p>
+        </headpieces>
+        <initials>
+            <p>Beta, the major initial of Matthew, is formed from intertwined figures of men and animals (35-40 mm). Zacharias the priest holding a censer represents the epsilon 
+                of Luke's opening. The initials of Mark and John are not decorated (20-25 mm). Minor initials in red set off from the text.</p>
+        </initials>
+        </decoration>
+    <physDesc>
+ <support><p><material>Parchment</material> and <material>paper</material>. <dimensions type="block" units="mm">200 x 140 mm</dimensions>.</p></support>
+        <extent>401 leaves, of which 1 is a partially raised pastedown and two are flyleaves of paper that function as Easter tables.</extent>
+        <foliation><p>1 (unfoliated paper pastedown) + 2 (foliated paper flyleaves) + 398. Modern foliation in Arabic numerals in pencil 1-400.</p></foliation>
+        <collation><p>49 quires of 8 leaves, with the exception of quire 48 of 6 leaves, quires 15, 30, and 37 of 7 leaves, and quires 1 and 49 of 10 leaves. Estimate of content lost: 
+            leaf 10 of quire 1 and a bifolium (after fol. 11, original and later portraits of Matthew); 1 leaf of quire 15 (after fol. 121, kephalaia of Mark).</p> 
+            <p>A second set of 4 Evangelist portraits was added at an unknown date, and 3 leaves of paper containing tables to determine the dates of Easter.</p></collation>
+        <dimensions type="written" units="mm">Written space 150 x 105 mm (fol. 29r).</dimensions> 
+        <layout columns="1" writtenLines="16-20"><p>1 column, 16 to 20 lines. Ruling with hard point. Lines previously ruled on the bifolium fols. 141 and 148 stand 
+            at right angles to the lines of the later ruling pattern.</p></layout>
+        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in black to dark brown ink (some flaking).</p>
+            <p>Punctuation includes middle point, comma, marks of elision and interrogation. Quotation marks in left margin next to each line of quoted text.</p></handDesc>
+        </msWriting>
+        <textDivisions><p>Titles and lectionary indicators αρχε (beginning) and τελος (end) in red.</p></textDivisions>
+        <condition><p>Leaves trimmed resulting in the loss of some text. Moderately cockled. Dirt and water stains.</p></condition>
+        <bindingDesc>
+            <binding><p>Bound in red <material>velvet</material> over boards. Floral-patterned edge decoration, fore-edge in blue. Doublures (one remaining, back) of 
+                woven cloth in a diagonal pattern of rose, white, blue, and yellow, bordered with strips of rose silk glued down.</p></binding></bindingDesc>
+ </physDesc>
+    <history><origin><p>The manuscript may have been written in the <name reg="Balkan Peninsula" type="place">Balkan Peninsula</name> to judge from certain of the inscriptions, and in either the 12th or 13th century.</p></origin> 
+    <provenance><p>Medieval to late 17th century provenance unknown. Contains dated and undated colophons and inscriptions in Greek and Church Slavonic.</p>
+        <p><name reg="Kosma" type="person" role="monk">Kosma</name>, a hieromonk of <name reg=" Monastery of Chilandari (Mount Athos, Greece)" type="org">Hilandar</name>, the Serbian monastery  
+            on <name reg="Mount Athos, Greece" type="place">Mount Athos</name>, restored the manuscript when it belonged to the <name reg="Church of St. George (Pološko)" type="org">Church of St. George, Pološko</name>, which today is 
+            located near <name reg="Kavadarci, Macedonia" type="place">Kavadarci</name> in the <name reg="Macedonia" type="place"> Republic of Macedonia</name> (undated inscription written 
+            by <name reg="Michael the Painter" type="person" role="artist">Michael the Painter</name>; prayer of Kosma, fol. 9v).</p>
+        <p>The manuscript was in the possession of <name reg="Chekhra" type="person" role="monk">Chekhra</name>, chief monk of Kovin, who documented the transfer of his authority over the 
+            <name reg="Church of St. Nicholas (Kovin)" type="org">Church of St. Nicholas</name> to the Bishop <name reg="Nicholas" type="person" role="bishop">Nicholas</name> in an undated inscription (fol. 400v).</p>
+        <p>At the end of the 17th century, the book was rebound and restored by the hieromonk <name reg="Chrysanthus, 17th century" type="person" role="monk">Chrysanthus</name>, whose inscription notes that he took it 
+            from a Turkish-controlled area of <name reg="Iberia" type="place">Iberia</name>, the present-day nation of <name reg="Georgia" type="place">Georgia</name> (his inscription, fol. 2v). Both Chrysanthus's inscription and 
+            a second unsigned writing dated 11 February 1700 (fol. 123v) include the name Τζηλτηρε, a geographic area as yet unidentified.</p>
+        <p>The monk Kosma's signature with two gospel citations (fol. 10r); inscription of <name reg="Gerasim" type="person">Gerasim</name> (fol. 400v, undated); prayer of <name reg="Singchoreseos" type="person" role="monk">Singchoreseos</name> 
+            (front pastedown, recto, undated); unsigned and undated inscriptions and prayers (fols. 4r, 6r, 122r, 147r, 400v). Drawings of birds (front pastedown, verso).</p></provenance>
+        <acquisition><p>Acquired by the University of Chicago in 1929 from <name reg="Riefstahl, Rudolf Meyer, 1880-1936" type="person" role="antiquarian">Rudolf M. Riefstahl</name> 
+            (New York), with funds provided by <name reg="Woodward, Frederic Campbell, 1874-1954" type="person" role="donor">Frederic C. Woodward</name>, 
+            university vice-president, <name reg="Matthews, Shailer, 1863-1941" type="person" role="donor">Shailer Matthews</name>, dean of the Divinity School, calligrapher and illuminator 
+            <name reg="Ricketts, Coella Lindsay, 1859-1941" type="person" role="donor">Coella Lindsay Ricketts</name>, and real estate 
+            developer <name reg="Galt, Arthur T., born 1876" type="person" role="donor">Arthur T. Galt</name>.</p></acquisition>
+</history>
+    <additional><listBibl><bibl><author>Samuel A. Cartledge</author>, 
+            <title level="u">"A group of Gospels manuscripts"</title> 
+            <note>(Ph.D. diss., University of Chicago, 1930).</note></bibl>
+            <bibl><author>Seymour de Ricci,</author>
+                <title level="m">Census of Medieval and Renaissance Manuscripts in the United States and Canada</title>.
+                <imprint>
+                    <pubPlace>(New York:</pubPlace>
+                    <publisher>H. W. Wilson Company,</publisher>
+                    <date>1935),</date>
+                </imprint>
+                <biblScope type="volume">vol. 1, p. 569.</biblScope></bibl>
+            <bibl><author>Kenneth W. Clark</author>, 
+                <title level="m">A Descriptive Catalogue of Greek New Testament Manuscripts in America</title>
+                <imprint>
+                    <pubPlace>(Chicago:</pubPlace>
+                    <publisher>University of Chicago Press,</publisher>
+                    <date>1937),</date>
+                </imprint>
+                <biblScope type="pages">pp. 235-238.</biblScope></bibl>
+        <bibl> 
+            <author>Harold Rideout Willoughby</author>, 
+            <title level="a">"Greek Rebinding Colophons in Chicago Manuscripts,"</title> 
+            <title level="j">Annales de l'institut Kondakov</title> 
+            <biblScope type="volume">11</biblScope> 
+            <imprint><date>(1940),</date></imprint> 
+            <biblScope type="pages">pp. 24-27, 29.</biblScope></bibl>
+            <bibl>
+                <author>Merrill Mead Parvis</author>, 
+                <title level="m">The Story of the Goodspeed Collection</title>
+                <imprint>
+                    <pubPlace>([Chicago]:</pubPlace>
+                    <publisher>s.n.,</publisher>
+                    <date>1952),</date>
+                </imprint>
+                <biblScope type="pages">p. 8.</biblScope></bibl>
+        <bibl>
+            <author>Djurdje Bošković</author>,
+            <title level="a">"O nekim našim graditeljima i slikarima iz prvih decenija XIV veka,"</title>
+            <title level="j">Starinar</title> 
+            <biblScope type="volume">9/10</biblScope> 
+            <imprint><date>(1958-1959),</date></imprint> 
+            <biblScope type="pages">pp. 125-131.</biblScope>
+        </bibl>
+        <bibl><author>Gordana Babić</author>, 
+            <title level="a">"Srpski zapisi u grčkom četvorojevandjelju br. 131 iz Čikaga (SAD) = 
+                Les inscriptions serbs du tétraévangile grec No 131, conservé à Chicago,"</title> in 
+            <title level="m">Zbornik za likovnu umetnost</title>
+            <imprint>
+                <pubPlace>(Novi Sad (Serbia):</pubPlace>
+                <publisher>Matica srpska,</publisher>
+                <date>1972),</date>
+            </imprint>
+            <biblScope type="volume">8,</biblScope>
+            <biblScope type="pages">pp. 361-371.</biblScope></bibl>
+        <bibl> 
+            <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+                Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+            <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+            <imprint> 
+                <pubPlace>([Chicago:</pubPlace> 
+                <publisher>s.n.,</publisher> 
+                <date>1973]),</date></imprint> 
+            <biblScope type="volume">36,</biblScope> 
+            <biblScope type="catalogNo">no. 52.</biblScope></bibl></listBibl> 
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

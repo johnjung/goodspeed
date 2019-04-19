@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0251, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0251</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 251</idno>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Eth. 64</altIdentifier>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>New Testament. Gospels. John</title>
+                        <otherName>Goodspeed Gospel of John</otherName>
+                        <origPlace>Ethiopia</origPlace>
+                        <origDate notBefore="1701" notAfter="1800">18th century</origDate>
+                        <textLang langKey="gez">Geez</textLang>
+                    </msHeading>
+                    <msContents>
+                        <overview><p>Gospel of John in Gə‘əz (Ethiopic). Contains talismanic compositions. Formerly Goodspeed Ms. Eth. 64.</p>
+                        </overview></msContents>
+                    <decoration>
+                        <headpieces><p>Headpiece and tailpiece of red and black at the opening and closing of the gospel embellished with floral and foliate motifs (fols. 9r, 83r).</p></headpieces>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="block" units="mm">170 x 110 mm</dimensions>.</p></support>  
+                        <extent>94 leaves.</extent>
+                        <foliation><p>1-94. Modern foliation in Arabic numerals in pencil. The first 10 leaves are numbered, and thereafter each 5th, and the last leaf.</p></foliation>
+                        <dimensions type="written" units="mm">Written space 120 x 80 mm (fol. 10r). Each column is 120 x 35 mm with a space of 10 mm between.</dimensions>
+                        <layout columns="2" writtenLines="19 per column"><p>2 columns, 19 lines. Ruling with hard point. Pricking in outer margins.</p></layout> 
+                        <msWriting><handDesc medium="ink">
+                            <p>Written in black ink.</p></handDesc></msWriting>
+                        <textDivisions><p>Titles in red.</p></textDivisions>
+                        <condition><p>Dirt and grease stains. Repair to leaf (fol. 94). Binding splitting along spine.</p></condition>
+                        <bindingDesc> 
+                            <binding><p>Bound in stamped and blind tooled red <material>morocco</material> over 
+                                wooden boards. Central cross, front and back, enclosed in a triple frame. Thread tabs (fols. 69, 81). Doublures of red, 
+                                green, and yellow woven cloth with motifs applied in needlework.</p></binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>Written in the mid to late 18th century in <name reg="Ethiopia" type="place">Ethiopia</name> at the <name reg="Convent of Dawn (Ethiopia)" type="org">Convent of Dawn</name>.</p></origin> 
+                        <provenance><p>The manuscript belonged to <name reg="Taylor, Bayard, 1825-1878" type="person" role="owner">Bayard Taylor</name> (1825-1878), American poet, 
+                            travel author, and critic, who purportedly acquired it on a trip taken up the <name reg="Nile River" type="place">Nile River</name> from <name reg="Egypt" type="place">Egypt</name> 
+                            to Ethiopia in 1851 and 1852. Sold to <name reg="Stewart, W. A." type="person" role="bookseller">W. A. Stewart</name>, bookseller 
+                            of <name reg="Norristown, Pennsylvania" type="place">Norristown, Pennsylvania</name>, by a member of the Taylor family, date unknown.</p>
+                            <p>Notation, Written at the Convent of Dawn (fol. 94r). The name <name reg="Yohannes, Walda" type="person" role="owner">Walda Yohannes</name>, most likely a one-time owner, 
+                                was added to the manuscript (fol. 9r). Names partially erased include Māryām (fol. 83r) and Mikā’ēl (fol. 88v). Illegible notes (fols. 9r, 86r, 87v, 94v). University of Chicago Libraries bookplate (front flyleaf).</p></provenance>
+                        <acquisition><p>Gift of <name reg="Goodspeed, Edgar Johnson, 1871-1962" type="person" role="donor">Edgar J. Goodspeed</name>, Professor 
+                            Emeritus in the <name reg="University of Chicago. Divinity School" type="org">Divinity School</name> to the University of Chicago, January 1951, in memory of his 
+                            wife <name reg="Goodspeed, Elfleda Bond, 1880-1949" type="person" role="dedicatee">Elfleda Bond Goodspeed</name> (1880-1949). 
+                            Purchased by Mr. Goodspeed from W. A. Stewart (Pennsylvania), 1951.</p></acquisition>
+                    </history></msDescription></sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+      <langUsage><language id="gez"></language><p>Geez, ISO 639-3</p>
+ </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. John. Ethiopic</term>
+                    <term>Manuscripts, Ethiopic</term>
+                    <term>Yohannes, Walda</term>
+                    <term>Taylor, Bayard, 1825-1878</term>
+                </keywords>
+            </textClass>
+ </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0251">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+<idno>Ms. 251</idno>
+<altIdentifier type="former shelfmark">Goodspeed Ms. Eth. 64</altIdentifier>
+ </msIdentifier>
+<msHeading>
+    <title>New Testament. Gospels. John</title>
+    <otherName>Goodspeed Gospel of John</otherName>
+<origPlace>Ethiopia</origPlace>
+    <origDate notBefore="1701" notAfter="1800">18th century</origDate>
+    <textLang langKey="gez">Geez</textLang>
+</msHeading>
+<msContents>
+    <overview><p>Gospel of John in Gə‘əz (Ethiopic). Contains talismanic compositions. Formerly Goodspeed Ms. Eth. 64.</p>
+</overview>
+<msItem n="1">
+    <locus from = "004" to ="012">fols. 1v-5v</locus>
+    <summary>Kidan zänägh (Morning Office). Some musical notation.</summary> 
+    <note>Blank (fols. 6r-8v).</note>
+ </msItem>
+ <msItem n="2"> 
+ <locus from = "019" to ="167">fols. 9r-83r</locus> 
+     <summary>John.</summary>
+     <note>Order of daily reading indicated in the upper margins (Saturday, fols. 22v and 41r; Tuesday, fol. 26v; 
+         Wednesday, fol. 48r; Thursday, fol. 56v; Friday, fol. 69v; Sunday, fol. 77v).</note>
+ </msItem>
+    <msItem n="3">
+        <locus from = "168" to ="178">fols. 83v-88v</locus> 
+        <summary>Ardə’ət (introduced under the title Kidanä Hawaryat and presented as part of the Mäṣḥafä mutan, the Book of the Dead).</summary>
+    </msItem>
+    <msItem n="4">
+        <locus from = "178" to ="183">fols. 88v-91r</locus> 
+        <summary>Prayer, Concerning the seven mountains which Henoch, son of Yared, saw.</summary>
+    </msItem>
+    <msItem n="5">
+        <locus from = "184" to ="186">fols. 91v-92v</locus> 
+        <summary>List of magical names.</summary>
+    </msItem>
+    <msItem n="6">
+        <locus from = "190" to ="190">fol. 94v</locus> 
+        <summary>Magical prayer for safety.</summary>
+    </msItem>
+</msContents>
+    <decoration>
+        <headpieces><p>Headpiece and tailpiece of red and black at the opening and closing of the gospel embellished with floral and foliate motifs (fols. 9r, 83r).</p></headpieces>
+    </decoration>
+ <physDesc>
+     <support><p><material>Parchment</material>. <dimensions type="block" units="mm">170 x 110 mm</dimensions>.</p></support>  
+ <extent>94 leaves.</extent>
+     <foliation><p>1-94. Modern foliation in Arabic numerals in pencil. The first 10 leaves are numbered, and thereafter each 5th, and the last leaf.</p></foliation>
+     <dimensions type="written" units="mm">Written space 120 x 80 mm (fol. 10r). Each column is 120 x 35 mm with a space of 10 mm between.</dimensions> 
+     <layout columns="2" writtenLines="19 per column"><p>2 columns, 19 lines. Ruling with hard point. Pricking in outer margins.</p></layout> 
+ <msWriting><handDesc medium="ink">
+     <p>Written in black ink.</p></handDesc></msWriting>
+     <textDivisions><p>Titles in red.</p></textDivisions>
+     <condition><p>Dirt and grease stains. Repair to leaf (fol. 94). Binding splitting along spine.</p></condition>
+     <bindingDesc> 
+         <binding><p>Bound in stamped and blind tooled red <material>morocco</material> over 
+             wooden boards. Central cross, front and back, enclosed in a triple frame. Thread tabs (fols. 69, 81). Doublures of red, 
+             green, and yellow woven cloth with motifs applied in needlework.</p></binding></bindingDesc>
+ </physDesc>
+<history>
+    <origin><p>Written in the mid to late 18th century in <name reg="Ethiopia" type="place">Ethiopia</name> at the <name reg="Convent of Dawn (Ethiopia)" type="org">Convent of Dawn</name>.</p></origin> 
+    <provenance><p>The manuscript belonged to <name reg="Taylor, Bayard, 1825-1878" type="person" role="owner">Bayard Taylor</name> (1825-1878), American poet, 
+        travel author, and critic, who purportedly acquired it on a trip taken up the <name reg="Nile River" type="place">Nile River</name> from <name reg="Egypt" type="place">Egypt</name> 
+        to Ethiopia in 1851 and 1852. Sold to <name reg="Stewart, W. A." type="person" role="bookseller">W. A. Stewart</name>, bookseller 
+        of <name reg="Norristown, Pennsylvania" type="place">Norristown, Pennsylvania</name>, by a member of the Taylor family, date unknown.</p>
+        <p>Notation, Written at the Convent of Dawn (fol. 94r). The name <name reg="Yohannes, Walda" type="person" role="owner">Walda Yohannes</name>, most likely a one-time owner, 
+            was added to the manuscript (fol. 9r). Names partially erased include Māryām (fol. 83r) and Mikā’ēl (fol. 88v). Illegible notes (fols. 9r, 86r, 87v, 94v). University of Chicago Libraries bookplate (front flyleaf).</p></provenance>
+    <acquisition><p>Gift of <name reg="Goodspeed, Edgar Johnson, 1871-1962" type="person" role="donor">Edgar J. Goodspeed</name>, Professor 
+        Emeritus in the <name reg="University of Chicago. Divinity School" type="org">Divinity School</name> to the University of Chicago, January 1951, in memory of his 
+        wife <name reg="Goodspeed, Elfleda Bond, 1880-1949" type="person" role="dedicatee">Elfleda Bond Goodspeed</name> (1880-1949). 
+        Purchased by Mr. Goodspeed from W. A. Stewart (Pennsylvania), 1951.</p></acquisition>
+</history>
+    <additional>
+        <listBibl>
+          <bibl><author>Gene B. Gragg</author>, 
+                <title level="a">"A magic prayer of Henoch from a manuscript of the Goodspeed Collection of the University of Chicago,"</title> in 
+              <title level="m">Proceedings of the First United States Conference on Ethiopian Studies, Michigan State University, 2-5 May, 1973,</title> 
+              <title level="s">Michigan State University. Committee on Ethiopian Studies. Occasional papers.</title> Edited by <editor>Harold G. Marcus</editor> 
+              [with John Hinnant] and assisted by Elizabeth Johnston, Melvin E. Page, and Kathleen M. Schoonmaker<imprint>
+              <pubPlace>(East Lansing:</pubPlace> 
+                  <publisher>African Studies Center, Michigan State University,</publisher> 
+              <date>c1975),</date>
+              </imprint> 
+              <biblScope type="pages">pp. 61-67.</biblScope></bibl>
+       <bibl> 
+                <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed collection 
+                    of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>.
+                <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+                <imprint> 
+                    <pubPlace>([Chicago:</pubPlace> 
+                    <publisher>s.n.,</publisher> 
+                    <date>1973]),</date></imprint> 
+                <biblScope type="volume">36,</biblScope> 
+                <biblScope type="catalogNo">no. 83.</biblScope></bibl></listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

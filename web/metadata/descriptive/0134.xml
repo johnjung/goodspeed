@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0134, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0134</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 134</idno>
+                        <altName type="Gregory number">Greg. 2406</altName>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 25</altIdentifier>
+                    </msIdentifier> 
+                    <msHeading>
+                        <title>New Testament. Gospels</title>
+                        <otherName>Larissa Gospels</otherName>
+                        <origPlace>Thessaly, Greece?</origPlace>
+                        <origDate notBefore="1201" notAfter="1400">13th or 14th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents> 
+                        <overview><p>Four gospels in Greek. Ammonian section and Eusebian canon numbers in the margins. 
+                            Added chronology and calendrical table. Formerly Goodspeed Ms. Grk. 25.</p></overview>
+                    </msContents>
+                    <decoration>
+                        <overview>
+                            <p>The manuscript contains 4 Evangelist portraits painted on inserted leaves, and based on the style of execution, dated to the 14th century. 
+                                Multi-colored vignettes of birds, fruit, and flowers at each gospel opening (fols. 5r, 121r, 198r), with the exception of Mark for which a small headpiece 
+                                of interlace design was added in ink (fol. 76r). Like the portraits, these are thought to have been later additions.</p>
+                        </overview></decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material>. <dimensions type="block" units="mm">130 x 90 mm</dimensions>.</p></support>
+                        <extent>246 leaves, of which 1 is a flyleaf.</extent> 
+                        <foliation><p>245 + 1 (unfoliated paper flyleaf). Modern foliation in Arabic numerals in pencil 1-245.</p></foliation> 
+                        <collation><p>Originally 31 quires of 8 leaves, with the exception of quires 1, 21, and 24 of 9 leaves, 2 and 3 of 10 leaves, and 12 of 7 leaves. Estimate 
+                            of content lost: Eusebian Canon tables I-X, and possibly Eusebius's letter to Carpianus on the gospel canons; several leaves of quire 1; leaf 1 of quire 30 
+                            (after fol. 239, ends with John 17:11 at, ουτοι, and begins on fol. 240r with 17:26 at, γνωρισω); leaf 8, quire 30, and leaves of quire 31 (from John 20:3 at, Πετρος to the end).</p> 
+                            <p>Primary quire numbers lost through marginal trimming, replaced with a secondary set written in Arabic numerals (partially trimmed) 
+                                on the first leaf (recto, upper margin) of each quire (see for example, fols. 30r and 70r).</p></collation> 
+                        <dimensions type="written" units="mm">Written space 110 x 80 mm (fol. 87r ).</dimensions> 
+                        <layout columns="1" writtenLines="18-25"><p>1 column, 18 to 25 lines. Ruling with hard point.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in medium to dark brown ink.</p>
+                            <p>Punctuation includes high point, comma, marks of elision and interrogation. Quotation marks of red in right margin next to 
+                                each line of quoted text.</p>
+                            <p>Corrections of text in the margins. Strips of paper glued over portions of existing text are also present.</p></handDesc>
+                        </msWriting>
+                        <textDivisions><p>Titles in red (upper and lower margins). Lections denoted by the indicators αρχε (beginning) and τελος (end).</p></textDivisions>
+                        <condition><p>Several leaves broken or cut (fols. 1, 2, 20). Partial paper repair (fol. 1). Leaves trimmed resulting in the loss of some text. 
+                            Grease and water stains.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Bound in dark brown <material>leather</material>, over boards.</p><decoNote>
+                                <p>Front and back covers, blind tooled with a saltire (St. Andrew's cross). Random blind-stamped circles infilled with stippling.</p>
+                            </decoNote></binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript may have been written in either the late 13th or early 14th century in the Greek region of <name reg="Thessaly, Greece" type="place">Thessaly</name>.</p></origin> 
+                        <provenance><p>Medieval to late 19th century provenance unknown. Said to have been taken from a church in 
+                            <name reg="Lárisa, Greece" type="place">Lárisa, Greece</name> by a military officer during the Greco-Turkish War of 1897, and 
+                            thereafter sold in 1925 to <name reg="Filiba, M." type="person" role="bookseller">M. Filiba</name>, 
+                            a bookseller of <name reg="Paris, France" type="place">Paris</name>.</p>
+                            <p>University of Chicago Libraries bookplate and stamp (front pastedown; fols. 1v, 4v); undated inscriptions and drawings (fols. 3v, 74r-74v, 117v, 196v).</p></provenance>
+                        <acquisition><p>Acquired by the University of Chicago from M. Filiba (Paris), July 1931, with funds provided 
+                            by <name reg="Matthews, Shailer, 1863-1941" type="person" role="donor">Shailer Matthews</name>, dean of the Divinity School, 
+                            university trustee <name reg="Ryerson, Martin Antoine, 1856-1932" type="person" role="donor">Martin A. Ryerson</name>, and 
+                            real estate developer <name reg="Galt, Arthur T., born 1876" type="person" role="donor">Arthur T. Galt</name>.</p></acquisition>
+                    </history>
+</msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+  <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+  </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Gospels. Greek</term>
+                    <term>Bible--Manuscripts</term>
+                    <term>Miniatures (Illuminations)</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0134">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 134</idno>
+    <altName type="Gregory number">Greg. 2406</altName>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 25</altIdentifier>
+</msIdentifier> 
+    <msHeading>
+        <title>New Testament. Gospels</title>
+        <otherName>Larissa Gospels</otherName>
+        <origPlace>Thessaly, Greece?</origPlace>
+        <origDate notBefore="1201" notAfter="1400">13th or 14th century</origDate>
+        <textLang langKey="grc">Greek</textLang>
+    </msHeading>
+<msContents> 
+    <overview><p>Four gospels in Greek. Ammonian section and Eusebian canon numbers in the margins. 
+        Added chronology and calendrical table. Formerly Goodspeed Ms. Grk. 25.</p></overview>
+<msItem n="1">
+    <locus from = "003" to ="005">fols. 1r-2r</locus> 
+    <summary>Kephalaia of Matthew (lacking).</summary>
+</msItem>
+    <msItem n="2">
+        <locus from = "005" to ="006">fols. 2r-2v</locus> 
+        <summary>Hypothesis of Matthew (lacking).</summary>
+    </msItem>
+    <msItem n="3">
+        <locus from = "006" to ="007">fols. 2v-3r</locus> 
+        <summary>Chronology of pre-Christian and Christian history. Calendrical table of ecclesiastical observances.</summary>
+    </msItem>
+    <msItem n="4">
+        <locus from = "011" to ="146">fols. 5r-72v</locus> 
+        <summary>Matthew. Subscription.</summary>
+    </msItem>
+    <msItem n="5">
+        <locus from = "147" to ="149">fols. 73r-74r</locus> 
+        <summary>Kephalaia of Mark.</summary>
+    </msItem>
+    <msItem n="6">
+        <locus from = "153" to ="236">fols. 76r-117v</locus> 
+        <summary>Mark. </summary>
+        <note>Bifolia 104-107 and 105-106 were reversed and bound in. For correct sequence of text, 
+            read: fols. 105, 104, 107, 106.</note>
+    </msItem>
+    <msItem n="7">
+        <locus from = "237" to ="240">fols. 118r-119v</locus> 
+        <summary>Kephalaia of Luke.</summary>
+    </msItem>
+    <msItem n="8">
+        <locus from = "243" to ="390">fols. 121r-194v</locus> 
+        <summary>Luke.</summary>
+    </msItem>
+    <msItem n="9">
+        <locus from = "391" to ="391">fol. 195r</locus> 
+        <summary>Kephalaia of John.</summary>
+    </msItem>
+    <msItem n="10">
+        <locus from = "392" to ="393">fols. 195v-196r</locus> 
+        <summary>Hypothesis of John.</summary>
+    </msItem>
+    <msItem n="11">
+        <locus from = "397" to ="492">fols. 198r-245v</locus> 
+        <summary>John (lacking).</summary>
+    </msItem>
+</msContents>
+    <decoration>
+        <overview>
+            <p>The manuscript contains 4 Evangelist portraits painted on inserted leaves, and based on the style of execution, dated to the 14th century. 
+                Multi-colored vignettes of birds, fruit, and flowers at each gospel opening (fols. 5r, 121r, 198r), with the exception of Mark for which a small headpiece 
+                of interlace design was added in ink (fol. 76r). Like the portraits, these are thought to have been later additions.</p>
+        </overview>
+        <miniatures><minItem n="1"> 
+            <locus from ="009" to="009">fol. 4r</locus> 
+            <minDesc>Evangelist, Matthew, Portrait: Matthew with scroll, seated at writing desk. Angel symbol at left; buildings in background. 
+               </minDesc>
+       </minItem>
+           <minItem n="2"> 
+               <locus from ="241" to="241">fol. 120r</locus> 
+               <minDesc>Evangelist, Mark, Portrait: Mark writing, seated on bench. Lion symbol on floor at left; buildings in background.</minDesc>
+               <note>Portrait of Mark bound out of order before Luke's gospel. Blank (fol. 120v).</note>
+           </minItem>
+           <minItem n="3"> 
+                   <locus from ="151" to="151">fol. 75r</locus> 
+                   <minDesc>Evangelist, Luke, Portrait: Luke writing, seated on stool at writing desk; buildings in background.</minDesc>
+               <note>Portrait of Luke bound out of order before Mark's gospel. Blank (fol. 75v).</note>
+           </minItem>
+           <minItem n="4"> 
+               <locus from ="395" to="395">fol. 197r</locus> 
+               <minDesc>Evangelist, John, Portrait: John seated at center, a book held open on his knee, right hand raised; writing desk at left; buildings in background. 
+                   <note>Blank (fol. 196v).</note></minDesc>
+           </minItem></miniatures>
+        <initials><p>Major initial at Matthew's opening obscured by binding (15 mm, fol. 5r). Spaces left blank at the other gospel openings. Minor initials in red (faded) set off from the text.</p>
+        </initials>
+        <comments><p>Photographs of the Evangelist portraits were examined in 1931 by art historians 
+            <name reg="Morey, Charles Rufus, 1877-1955" type="person" role="art historian">Charles Rufus Morey</name> and 
+            <name reg="Friend, Albert Mathias, 1894-1956" type="person" role="art historian">Albert M. Friend, Jr.</name>, who proposed a 
+            tentative dating to the 14th century or later, and stated that the painting style was suggestive of Venice, Russia, or the Balkans, 
+            rather than of Greece. (Charles Rufus Morey to Harold R. Willoughby, 8 January 1931, Willoughby, Harold Rideout, Corpus of 
+            New Testament Iconography Collection, box 2, Special Collections Research Center, Regenstein Library, University of Chicago).</p></comments>
+    </decoration>
+    <physDesc>
+ <support><p><material>Parchment</material>. <dimensions type="block" units="mm">130 x 90 mm</dimensions>.</p></support>
+        <extent>246 leaves, of which 1 is a flyleaf.</extent> 
+        <foliation><p>245 + 1 (unfoliated paper flyleaf). Modern foliation in Arabic numerals in pencil 1-245.</p></foliation> 
+        <collation><p>Originally 31 quires of 8 leaves, with the exception of quires 1, 21, and 24 of 9 leaves, 2 and 3 of 10 leaves, and 12 of 7 leaves. Estimate 
+            of content lost: Eusebian Canon tables I-X, and possibly Eusebius's letter to Carpianus on the gospel canons; several leaves of quire 1; leaf 1 of quire 30 
+            (after fol. 239, ends with John 17:11 at, ουτοι, and begins on fol. 240r with 17:26 at, γνωρισω); leaf 8, quire 30, and leaves of quire 31 (from John 20:3 at, Πετρος to the end).</p> 
+            <p>Primary quire numbers lost through marginal trimming, replaced with a secondary set written in Arabic numerals (partially trimmed) 
+                on the first leaf (recto, upper margin) of each quire (see for example, fols. 30r and 70r).</p></collation> 
+    <dimensions type="written" units="mm">Written space 110 x 80 mm (fol. 87r ).</dimensions> 
+        <layout columns="1" writtenLines="18-25"><p>1 column, 18 to 25 lines. Ruling with hard point.</p></layout>
+        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in medium to dark brown ink.</p>
+            <p>Punctuation includes high point, comma, marks of elision and interrogation. Quotation marks of red in right margin next to 
+                each line of quoted text.</p>
+            <p>Corrections of text in the margins. Strips of paper glued over portions of existing text are also present.</p></handDesc>
+    </msWriting>
+        <textDivisions><p>Titles in red (upper and lower margins). Lections denoted by the indicators αρχε (beginning) and τελος (end).</p></textDivisions>
+        <condition><p>Several leaves broken or cut (fols. 1, 2, 20). Partial paper repair (fol. 1). Leaves trimmed resulting in the loss of some text. 
+            Grease and water stains.</p></condition>
+        <bindingDesc>
+            <binding><p>Bound in dark brown <material>leather</material>, over boards.</p><decoNote>
+            <p>Front and back covers, blind tooled with a saltire (St. Andrew's cross). Random blind-stamped circles infilled with stippling.</p>
+        </decoNote></binding></bindingDesc>
+ </physDesc>
+<history>
+    <origin><p>The manuscript may have been written in either the late 13th or early 14th century in the Greek region of <name reg="Thessaly, Greece" type="place">Thessaly</name>.</p></origin> 
+    <provenance><p>Medieval to late 19th century provenance unknown. Said to have been taken from a church in 
+        <name reg="Lárisa, Greece" type="place">Lárisa, Greece</name> by a military officer during the Greco-Turkish War of 1897, and 
+        thereafter sold in 1925 to <name reg="Filiba, M." type="person" role="bookseller">M. Filiba</name>, 
+        a bookseller of <name reg="Paris, France" type="place">Paris</name>.</p>
+        <p>University of Chicago Libraries bookplate and stamp (front pastedown; fols. 1v, 4v); undated inscriptions and drawings (fols. 3v, 74r-74v, 117v, 196v).</p></provenance>
+    <acquisition><p>Acquired by the University of Chicago from M. Filiba (Paris), July 1931, with funds provided 
+        by <name reg="Matthews, Shailer, 1863-1941" type="person" role="donor">Shailer Matthews</name>, dean of the Divinity School, 
+        university trustee <name reg="Ryerson, Martin Antoine, 1856-1932" type="person" role="donor">Martin A. Ryerson</name>, and 
+        real estate developer <name reg="Galt, Arthur T., born 1876" type="person" role="donor">Arthur T. Galt</name>.</p></acquisition>
+</history>
+    <additional>
+        <listBibl>
+            <bibl><author>Harold Rideout Willoughby</author>, 
+            <title level="u">"Corpus of New Testament Iconography Collection."</title> 
+            <note>Special Collections Research Center. Regenstein Library, University of Chicago.</note>
+            </bibl>
+            <bibl><author>Otto F. Linn</author>, 
+                <title level="u">"The Tetragram, Thomas, and Larissa Gospels"</title> 
+                <note>(Ph.D. diss., University of Chicago, 1935).</note>
+            </bibl>
+            <bibl>
+                <author>Seymour de Ricci,</author>
+                <title level="m">Census of Medieval and Renaissance Manuscripts in the United States and Canada</title>
+                <imprint>
+                    <pubPlace>(New York:</pubPlace>
+                    <publisher>H. W. Wilson Company,</publisher>
+                    <date>1935),</date>
+                </imprint>
+                <biblScope type="volume">vol. 1, p. 569.</biblScope></bibl>
+            <bibl><author>Kenneth W. Clark</author>, 
+                <title level="m">A Descriptive Catalogue of Greek New Testament Manuscripts in America</title>
+                <imprint>
+                    <pubPlace>(Chicago:</pubPlace>
+                    <publisher>University of Chicago Press,</publisher>
+                    <date>1937),</date>
+                </imprint>
+                <biblScope type="pages">pp. 244-245.</biblScope></bibl>
+            <bibl><author>Merrill Mead Parvis</author>, 
+                <title level="m">The Story of the Goodspeed Collection</title>
+                <imprint>
+                    <pubPlace>([Chicago]:</pubPlace>
+                    <publisher>s.n.,</publisher>
+                    <date>1952),</date>
+                </imprint>
+                <biblScope type="pages">p. 19.</biblScope></bibl>
+            <bibl> 
+                <title level="m">New Testament manuscript traditions. An exhibition based on the Edgar J. Goodspeed 
+                    Collection of the University of Chicago Library, the Joseph Regenstein Library, January-March, 1973</title>. 
+                <title level="s">University of Chicago. Library. Dept. of Special Collections. Exhibition catalogs</title>
+                <imprint> 
+                    <pubPlace>([Chicago:</pubPlace> 
+                    <publisher>s.n.,</publisher> 
+                    <date>1973]),</date></imprint> 
+                <biblScope type="volume">36,</biblScope> 
+                <biblScope type="catalogNo">no. 51.</biblScope></bibl></listBibl>
+    </additional></msDescription>
+        </body>
+    </text>      
+</TEI.2>

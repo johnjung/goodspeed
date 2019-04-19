@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+ 
+ <teiHeader date.created="2015-11-04" creator="jfcd">
+  <fileDesc>
+   <titleStmt>
+    <title>[University of Chicago Library GMS-0823, a manuscript catalogue description in electronic form]</title>
+    <funder>Institute of Museum and Library Services</funder>
+    <respStmt>
+     <resp>Creation of electronic version:</resp>
+     <name>University of Chicago Library</name>
+     <resp>Creation of digital images:</resp>
+     <name>University of Chicago Library</name>
+    </respStmt> 
+   </titleStmt>
+   <publicationStmt>
+    <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <date>2009</date>
+    <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0823</idno>
+    <availability status= "free">
+     <p>Publicly accessible</p></availability>
+   </publicationStmt>
+   <sourceDesc> 
+    <msDescription><msIdentifier>
+     <country>United States</country>
+     <region>Illinois</region>
+     <settlement>Chicago</settlement>
+     <institution>University of Chicago Library</institution> 
+     <repository>Special Collections Research Center</repository>
+     <collection>Goodspeed Manuscript Collection</collection>
+     <idno>Ms. 823</idno>
+     <altIdentifier type="former shelfmark">Goodspeed Ms. Syr. 30</altIdentifier>
+    </msIdentifier>
+     <msHeading>
+      <title>New Testament. Syriac. Peshitta</title>
+      <otherName>Teheran Gospel Fragments</otherName>
+      <origPlace>Unknown Place of Origin</origPlace>
+      <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+      <textLang langKey="syr">Syriac</textLang>
+     </msHeading>
+     <msContents>
+      <overview><p>Peshitta New Testament leaves in Syriac. Reading divisions in the margins. Formerly Goodspeed Ms. Syr. 30.</p></overview> 
+      <msItem n="1">
+       <locus from="001" to="015">fols. [1r]-[8r]</locus>
+       <summary>John (begins at 15:6 and ends with 21:25). Subscription: Completed is the proclamation of John.</summary>
+       <note>A subscription following John for the gospels: Completed is the writing of the four gospels (Matthew, Mark, Luke, and John), 
+        which totals seventy-eight sections. Glory to Christ who has given strength for my wretchedness. Amen.</note>
+      </msItem> 
+      <msItem n="2">
+       <locus from="016" to="016">fol. [8v]</locus>
+       <summary>Acts (begins at 1:1 and ends with 1:12).</summary> 
+      </msItem> 
+      <msItem n="3">
+       <locus from="017" to="018">fols. [9r]-[9v]</locus>
+       <summary>James (begins at 5:4 and ends with 5:20). Subscription: Completed in the epistle from Jacob.</summary> 
+      </msItem> 
+      <msItem n="4">
+       <locus from="018" to="025">fols. [9v]-[13r]</locus>
+       <summary>1 Peter. Subscription: Completed is the epistle of the apostle Peter.</summary> 
+      </msItem> 
+      <msItem n="5">
+       <locus from="025" to="032">fols. [13r]-[16v]</locus>
+       <summary>1 John. Subscription (lacking).</summary> 
+      </msItem>
+      <msItem n="6">
+       <locus from="033" to="036">fols. [17r]-[18v]</locus>
+       <summary>Romans (begins at 1:1 and ends with 2:28).</summary> 
+      </msItem>
+     </msContents>
+     <physDesc>
+      <support><p> <material>Parchment</material>. <dimensions type="leaves" units="mm">245 x 155 mm</dimensions>.</p></support>
+      <extent>18 leaves.</extent>
+      <foliation><p>Remains of two sets of foliation in the lower and upper right margins.</p></foliation>
+      <dimensions type="written" units="mm">Written space 190 x 108 (fol. [1]r).</dimensions> 
+      <layout columns="1" writtenLines="31-37"><p>1 column, 31 to 37 lines.</p></layout>
+      <msWriting><handDesc script="Estrangelo" medium="Ink"><p>Written in Estrangelo script in black ink. Occasional East Syriac vowels.</p></handDesc></msWriting>
+      <textDivisions><p>Titles in red and green.</p></textDivisions>
+      <condition><p>Leaves are cockled. Edges are dry and cracked. Portions of some leaves broken. Random dirt and water stains.</p></condition>
+      <bindingDesc>
+       <binding><p>Binding is lost. Leaves are held together with tape.</p></binding></bindingDesc>
+     </physDesc>
+     <history>
+      <origin><p>The manuscript to which the present leaves belonged is judged to have been written in the 13th century. A place of origin is unknown.</p></origin>
+      <provenance><p>Medieval to early 20th century provenance unknown. Belonged to <name reg="Jarvis, George R." type= "person" role="owner">George R. Jarvis</name> 
+       of <name reg="Chicago, Illinois" type= "place">Chicago, Illinois</name>, ca. 1931. Mr. Jarvis purchased the gospel leaves from 
+       a private collector in <name reg="Tehran, Iran" type= "place">Tehran, Iran</name> who is said to have owned an additional 200 leaves.</p></provenance>
+      <acquisition><p>Acquired by the University of Chicago from George R. Jarvis, December 1932.</p></acquisition>
+     </history>
+    </msDescription>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+     Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+     of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+     the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+     resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+     an interface that supports browsing within individual manuscripts and across the collection.</p>
+    <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+     Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+     as of <date>2012-09-22</date>.</p> 
+    <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+     at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+     accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+     and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+     recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+     visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+   </projectDesc>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage><language id="syr"></language><p>Syriac, ISO 639-3</p></langUsage>
+   <textClass>
+    <keywords>
+     <term>Bible. N.T. Syriac</term>
+     <term>Manuscripts, Syriac</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0823">               
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+ <idno>Ms. 823</idno>
+ <altIdentifier type="former shelfmark">Goodspeed Ms. Syr. 30</altIdentifier>
+</msIdentifier>
+ <msHeading>
+  <title>New Testament. Syriac. Peshitta</title>
+  <otherName>Teheran Gospel Fragments</otherName>
+  <origPlace>Unknown Place of Origin</origPlace>
+  <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+  <textLang langKey="syr">Syriac</textLang>
+</msHeading>
+<msContents>
+ <overview><p>Peshitta New Testament leaves in Syriac. Reading divisions in the margins. Formerly Goodspeed Ms. Syr. 30.</p></overview> 
+ <msItem n="1">
+  <locus from="001" to="015">fols. [1r]-[8r]</locus>
+  <summary>John (begins at 15:6 and ends with 21:25). Subscription: Completed is the proclamation of John.</summary>
+  <note>A subscription following John for the gospels: Completed is the writing of the four gospels (Matthew, Mark, Luke, and John), 
+   which totals seventy-eight sections. Glory to Christ who has given strength for my wretchedness. Amen.</note>
+ </msItem> 
+ <msItem n="2">
+  <locus from="016" to="016">fol. [8v]</locus>
+  <summary>Acts (begins at 1:1 and ends with 1:12).</summary> 
+ </msItem> 
+ <msItem n="3">
+  <locus from="017" to="018">fols. [9r]-[9v]</locus>
+  <summary>James (begins at 5:4 and ends with 5:20). Subscription: Completed in the epistle from Jacob.</summary> 
+ </msItem> 
+ <msItem n="4">
+  <locus from="018" to="025">fols. [9v]-[13r]</locus>
+  <summary>1 Peter. Subscription: Completed is the epistle of the apostle Peter.</summary> 
+ </msItem> 
+ <msItem n="5">
+  <locus from="025" to="032">fols. [13r]-[16v]</locus>
+  <summary>1 John. Subscription (lacking).</summary> 
+ </msItem>
+ <msItem n="6">
+  <locus from="033" to="036">fols. [17r]-[18v]</locus>
+  <summary>Romans (begins at 1:1 and ends with 2:28).</summary> 
+ </msItem>
+</msContents>
+ <physDesc>
+  <support><p> <material>Parchment</material>. <dimensions type="leaves" units="mm">245 x 155 mm</dimensions>.</p></support>
+  <extent>18 leaves.</extent>
+  <foliation><p>Remains of two sets of foliation in the lower and upper right margins.</p></foliation>
+  <dimensions type="written" units="mm">Written space 190 x 108 (fol. [1]r).</dimensions> 
+  <layout columns="1" writtenLines="31-37"><p>1 column, 31 to 37 lines.</p></layout>
+  <msWriting><handDesc script="Estrangelo" medium="Ink"><p>Written in Estrangelo script in black ink. Occasional East Syriac vowels.</p></handDesc></msWriting>
+  <textDivisions><p>Titles in red and green.</p></textDivisions>
+  <condition><p>Leaves are cockled. Edges are dry and cracked. Portions of some leaves broken. Random dirt and water stains.</p></condition>
+  <bindingDesc>
+   <binding><p>Binding is lost. Leaves are held together with tape.</p></binding></bindingDesc>
+ </physDesc>
+<history>
+ <origin><p>The manuscript to which the present leaves belonged is judged to have been written in the 13th century. A place of origin is unknown.</p></origin> 
+ <provenance><p>Medieval to early 20th century provenance unknown. Belonged to <name reg="Jarvis, George R." type= "person" role="owner">George R. Jarvis</name> 
+  of <name reg="Chicago, Illinois" type= "place">Chicago, Illinois</name>, ca. 1931. Mr. Jarvis purchased the gospel leaves from 
+  a private collector in <name reg="Tehran, Iran" type= "place">Tehran, Iran</name> who is said to have owned an additional 200 leaves.</p></provenance>
+ <acquisition><p>Acquired by the University of Chicago from George R. Jarvis, December 1932.</p></acquisition>
+</history>
+ <additional>
+ <listBibl>
+ <bibl> 
+   <author>Merrill Mead Parvis,</author> 
+   <title level="m">The Story of the Goodspeed Collection</title>
+   <imprint> 
+    <pubPlace>([Chicago:]</pubPlace> 
+    <publisher>s.n.,</publisher> 
+    <date>1952),</date>
+   </imprint> 
+   <biblScope type="pages">pp. 20-21.</biblScope></bibl>
+  <bibl>
+   <author>James T. Clemons</author>, 
+   <title level="a">"A checklist of Syriac manuscripts in the United States and Canada,"</title> 
+   <title level="j">Orientalia Christiana Periodica</title> 
+   <biblScope type="volume">32</biblScope> 
+   <imprint><date>(1966),</date></imprint> 
+   <biblScope type="pages">p. 480 (197) .</biblScope>
+  </bibl>
+  <bibl>
+   <author>Aaron M. Butts</author>, 
+   <title level="u">"Syriac manuscripts in the Edgar J. Goodspeed Collection of the Special Collections Library of the University of Chicago."</title>
+   <note>(Unpublished work, 2009).</note>
+  </bibl>
+  <bibl>
+   <author>Dale A. Johnson</author>, 
+   <title level="u">"The Goodspeed Syriac Fragments from the Goodspeed Collection, University of Chicago, Mss. 829, 716, 823."</title> 
+   <note>(Unpublished work, 2009).</note>
+  </bibl>
+ </listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

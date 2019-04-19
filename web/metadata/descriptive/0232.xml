@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DLDC//DTD Revised TEI DTD for Goodspeed Manuscript Project//EN"
+"http://dldc.lib.uchicago.edu/DTD/goodspeed.dtd">
+<TEI.2>
+    <teiHeader date.created="2015-11-04" creator="jfcd">
+        <fileDesc>
+            <titleStmt>
+                <title>[University of Chicago Library GMS-0232, a manuscript catalogue description in electronic form]</title>
+                <funder>Institute of Museum and Library Services</funder>
+                <respStmt>
+                    <resp>Creation of electronic version:</resp>
+                    <name>University of Chicago Library</name>
+                    <resp>Creation of digital images:</resp>
+                    <name>University of Chicago Library</name>
+                </respStmt> 
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Chicago Library, Special Collections Research Center</publisher>
+                <pubPlace>Chicago, Illinois</pubPlace>
+                <date>2009</date>
+                <idno type="Local">http://pi.lib.uchicago.edu/1001/dig/gms/0232</idno>
+                <availability status= "free">
+                    <p>Publicly accessible</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <country>United States</country>
+                        <region>Illinois</region>
+                        <settlement>Chicago</settlement>
+                        <institution>University of Chicago Library</institution> 
+                        <repository>Special Collections Research Center</repository>
+                        <collection>Goodspeed Manuscript Collection</collection>
+                        <idno>Ms. 232</idno>
+                        <altName type="Gregory number">Greg. 677</altName>
+                        <altIdentifier type="former shelfmark">Phillipps Ms. 2387</altIdentifier>
+                        <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 62</altIdentifier>
+                    </msIdentifier> 
+                    <msHeading>
+                        <title>New Testament. Gospels</title>
+                        <otherName>Phillipps Gospels</otherName>
+                        <origPlace>Greece</origPlace>
+                        <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+                        <textLang langKey="grc">Greek</textLang>
+                    </msHeading>
+                    <msContents> 
+                        <overview><p>Four gospels in Greek. With kephalaia numbers, titles, and Ammonian section numbers.
+                            Added Lectionary tables (Synaxarion and Menologion), and Epistle selections. Formerly Phillipps Ms. 2387, 
+                            and Goodspeed Ms. Grk. 62.</p></overview>
+                    </msContents>
+                    <decoration><overview>
+                        <p>The manuscript contained portraits of the Evangelists Matthew, Mark, and Luke, now lost.</p></overview>
+                        <miniatures><minItem n="1">
+                            <locus from ="366" to="366">fol. 180v</locus>
+                            <minDesc>Evangelist, John, Portrait: John stands at right, dictates to the deacon Prochorus who is writing, seated on bench at left.
+                            </minDesc></minItem></miniatures>
+                        <canonTables>
+                            <p>Citations of concordant gospel sections are framed by architectural columns. These support arched headpieces with cruciform, floral, and 
+                                foliate motifs in dark blue on a light rose ground.</p>
+                        </canonTables>
+                        <initials>
+                            <p>Major initial of Matthew, remnant (40 mm, fol. 33r). Minor initials in red set off from the text.</p>
+                        </initials>
+                    </decoration>
+                    <physDesc>
+                        <support><p><material>Parchment</material> and <material>paper</material>. <dimensions type="block" units="mm">160 x 140 mm</dimensions>.</p></support>
+                        <watermarks><p>Watermark of epistle selection leaves, fols. 29 and 30, similar to Briquet, Tête de boeuf, 14525 (Brescia, 1543).</p></watermarks>
+                        <extent>226 leaves, of which 191 are parchment and 35 are paper (16th century). Front flyleaves composed of 1 folded printed page titled Acta generalis Octavae 
+                            Synodi (sessio prima). Back flyleaf (fol. 224) is a raised pastedown.</extent> 
+                        <foliation><p>2 (unfoliated paper flyleaves) + 222 + 1 (foliated paper flyleaf) + 1 (foliated paper pastedown). Foliation in Arabic numerals in pencil 1-224.</p></foliation> 
+                        <collation><p>30 quires, of which 26 are parchment and 4 are paper containing an added lectionary table and epistle selections. Estimate of content lost: Eusebian 
+                            Canon tables III-X, and possibly Eusebius's letter to Carpianus on the gospel canons; portrait of the Evangelist Matthew (before fol. 33); headpiece, partial initial, 
+                            and text of Matthew (fol. 33); portrait of the Evangelist Mark, headpiece, initial, and beginning text of Mark (between fols. 87 and 88); portrait of the Evangelist 
+                            Luke, headpiece, initial, and beginning text of Luke (between fols. 121 and 122); headpiece, initial, and beginning text of John (after fol. 180).</p>
+                            <p>25 parchment quires, as presently composed, have been numbered in a later hand, each on the first folio (lower margin, recto), from fol. 41, β-αα.</p></collation> 
+                        <dimensions type="written" units="mm">Written space 125 x 95 mm (fol. 63r).</dimensions> 
+                        <layout columns="1" writtenLines="25"><p>1 column, 25 lines. Ruling with hard point.</p></layout>
+                        <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in black ink.</p>
+                            <p>Punctuation includes high and low points, comma, marks of elision and interrogation. Quotation marks in the left margin next to each line of quoted text.</p>
+                            <p>Methods of correcting text consist of supplying omissions in the margins, and altering accentuation and punctuation.</p></handDesc>
+                        </msWriting>
+                        <condition><p>Remaining canon table detached from binding. Leaf mutilated (fol. 33). Paint loss from miniature of the Evangelist John (fol. 180v). 
+                            Some marginal text lost because of trimming. Water stains. Insect damage to paper and leather and boards of the binding. Part of back board missing.</p></condition>
+                        <bindingDesc>
+                            <binding><p>Bound in medium brown <material>leather</material> and lined with blue <material>linen</material> over boards. Phillipps manuscript label on 
+                                spine, 2387.</p><decoNote>
+                                    <p>Floral motifs enclosed in blind stamped frames surround a center panel filled with lacertine open-work ornaments, front and back.</p></decoNote>
+                            </binding></bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin><p>The manuscript is dated to the 13th century, and is judged to have been written in <name reg="Greece" type="place">Greece</name>.</p></origin> 
+                        <provenance><p>Belonged to <name reg="Phillipps, Thomas, Sir, 1792-1872" type="person" role="book collector">Sir Thomas Phillipps</name> (his stamp, fol. 31v, and spine label). 
+                            Purchased by him in a lot of 500 from the bookseller <name reg="Thorpe, Thomas 1791-1851" type="person" role="bookseller">Thomas Thorpe</name>, who acquired most of the lot's 
+                            pieces from the collections of Spanish author and lexicographer <name reg="Iriarte y Cisneros, Juan de, 1702-1771" type="person" role="author">Juan de Iriarte</name>, Spanish 
+                            librarian and bibliographer <name reg="La Serna Santander, Carlos Antonio de, 1752-1813" type="person" role="bibliographer">Carlos Antonio de La Serna Santander</name>, 
+                            and the <name reg="Osorio, Alvaro Perez, Marqués de Astorga" type="person" role="book collector">Marqués de Astorga</name>. At Sir Thomas's death, his library, 
+                            including the present manuscript, was willed to his daughter <name reg="Fenwick, Katherine Phillipps, 1823-1913" type="person" role="life tenant">Katherine Phillipps Fenwick</name>, 
+                            her husband <name reg="Fenwick, John Edward Addison, 1824-1903" type="person" role="life tenant">Reverend John E. A. Fenwick</name>, and 
+                            their son <name reg="Fenwick, Thomas Fitzroy, 1856-1938" type="person" role="life tenant">Thomas Fitzroy Fenwick</name>, as life tenants of the Phillipps estate. 
+                            Passed to <name reg="Fenwick, Alan George, born 1890" type="person" role="life tenant">Alan G. Fenwick</name>, the estate's last life tenant, and nephew of Thomas Fitzroy 
+                            Fenwick. Sold by him and the estate's trustees to booksellers <name reg="Robinson, Lionel Keir, 1897-1983" type="person" role="bookseller">Lionel Robinson</name> 
+                            and <name reg="Robinson, Philip Ramsay" type="person" role="bookseller">Philip Robinson</name> of the firm <name reg="William H. Robinson, Limited (Firm)" type="org">William H. Robinson, Ltd.</name>, 
+                            February 1946. Auctioned at <name reg="Sotheby &amp; Co. (London, England)" type="org" role="bookseller">Sotheby's</name> (lot 63) 1 December 1947, and 
+                            purchased by the bookseller <name reg="Maggs Bros. (Firm)" type="org" role="bookseller">Maggs Bros.</name> (London).</p>
+                            <p>Sotheby's catalogue description; bookseller's price £40; University of Chicago Libraries bookplate (front pastedown). Marginal Lectionary apparatus added in a later hand. Inscriptions in pencil, 
+                                Gregory number 677, Evangelia XIIIth, and a drawing in pen (fol. 31v). Gospel titles and beginning verses noted in pencil (fols. 33r, 88r, 122r, 181r). Notations and verse in pen and pencil (fols. 222v, 223v-224v).</p></provenance>
+                        <acquisition><p>Acquired by the University of Chicago from Magg Bros. (London) in early 1950.</p></acquisition>
+                    </history>
+                </msDescription>
+            </sourceDesc></fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Edgar J. Goodspeed Manuscript Collection contains 68 Greek, Armenian, Latin, Syriac, Ethiopic, and 
+                    Arabic manuscripts, which range in date from the fifth to the nineteenth century. With support from the Institute 
+                    of Museum and Library Services National Leadership Grants for Libraries, Building Digital Resources program, 
+                    the University of Chicago Library has created the online Goodspeed Manuscript Collection, a unique digital 
+                    resource with manuscripts digitized in their entirety and presented with high-quality zoomable images through 
+                    an interface that supports browsing within individual manuscripts and across the collection.</p>
+                <p>Descriptions of the manuscripts have been encoded using the standard set forth in TEI Consortium, eds., <title>TEI P5 Guidelines for Electronic 
+                    Text Encoding and Interchange: Manuscript Description</title>, at <ref>http://www.tei-c.org/release/doc/tei-p5-doc/en/html/MS.html</ref> 
+                    as of <date>2012-09-22</date>.</p> 
+                <p>The TEI DTD used was obtained from the Digital Scriptorium of Columbia University 
+                    at, <ref>https://www1.columbia.edu/sec/cu/libraries/bts/digital_scriptorium/technical/ds-xml/description_dtd/index.html</ref> on <date>2012-09-22</date>. To 
+                    accommodate specific project needs, the DTD was edited and extended with local tags in order to describe the content of miniatures, 
+                    and the structure of canon tables, headpieces, and initials. The process of editing included equating the element Decoration with the seven 
+                    recognized elements of the TEI Manuscript Description, not only to emphasize intellectual substance, but also to augment 
+                    visibility by providing links from the record through encoding to the digitized imagery of the Web display.</p> 
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+  <langUsage><language id="grc"></language><p>Greek, Ancient (to 1453), ISO 639-3</p>
+  </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Bible. N.T. Gospels. Greek</term>
+                    <term>Bible--Manuscripts</term>
+                    <term>Miniatures (Illuminations)</term>
+                    <term>Phillipps, Thomas, Sir, 1792-1872</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+ </teiHeader>
+  <text>
+  <body>
+<msDescription id="GMS-0232">
+<msIdentifier>
+<country>United States</country>
+<region>Illinois</region>
+<settlement>Chicago</settlement>
+<institution>University of Chicago Library</institution> 
+<repository>Special Collections Research Center</repository>
+<collection>Goodspeed Manuscript Collection</collection>
+    <idno>Ms. 232</idno>
+    <altName type="Gregory number">Greg. 677</altName>
+    <altIdentifier type="former shelfmark">Phillipps Ms. 2387</altIdentifier>
+    <altIdentifier type="former shelfmark">Goodspeed Ms. Grk. 62</altIdentifier>
+</msIdentifier> 
+    <msHeading>
+        <title>New Testament. Gospels</title>
+        <otherName>Phillipps Gospels</otherName>
+        <origPlace>Greece</origPlace>
+        <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+        <textLang langKey="grc">Greek</textLang>
+    </msHeading>
+<msContents> 
+    <overview><p>Four gospels in Greek. With kephalaia numbers, titles, and Ammonian section numbers.
+        Added Lectionary tables (Synaxarion and Menologion), and Epistle selections. Formerly Phillipps Ms. 2387, 
+        and Goodspeed Ms. Grk. 62.</p></overview>
+ <msItem n="1">
+        <locus from = "007" to ="051">fols. 1r-23r</locus> 
+        <summary>Gospel lectionary tables with Synaxarion and Menologion references.</summary>
+    </msItem>
+    <msItem n="2">
+        <locus from = "052" to ="067">fols. 23v-31r</locus> 
+        <summary>Epistle selections for liturgical use: Hebrews 2:2-11 (fol. 23v); James 5:10-20 (fol. 24r); Colossians 4:5-18 (fol. 25r); 
+            2 Timothy 2:1-11 (fol. 25v); Hebrews 7:26-8:3, 13:17-22 (fols. 26r-26v); Galatians 3:23-4:6 (fol. 27r); 
+            Philippians 2:5-11 (fol. 27v); 1 Thessalonians 4:13-18 (fol. 28r); 1 Corinthians 1:18-2:3 (fol. 28v); 
+            Hebrews 11:9-11, 11:32-40 (fols. 29v); Romans 13:11-14:5 (fol. 30v); Hebrews 9:1-8 (fol. 31r).</summary>
+    </msItem>
+    <msItem n="3">
+        <locus from = "068" to ="068">fol. 31v</locus> 
+        <summary>Book stamp of Sir Thomas Phillipps of Middle Hill, Ms. 2387.</summary>
+    </msItem>
+    <msItem n="4">
+        <locus from = "069" to ="070">fols. 32r-32v</locus> 
+        <summary>Canon tables I-II.</summary>
+    </msItem>
+    <msItem n="5">
+        <locus from = "071" to ="177">fols. 33r-86r</locus> 
+        <summary>Matthew (begins with 1:2 at, [εγεννησε]ν τον Ισαακ Ισαακ δε, and ends with 
+            1:8 at, δε εγεννησε τον Ιωσαφατ. Begins on fol. 33v with 1:13 at, [Α]βιουδ δε εγεννησε τον).</summary>
+        <note>Upper section of parchment leaf with headpiece and portions of text now lost.</note>
+    </msItem>
+    <msItem n="6">
+        <locus from = "178" to ="179">fols. 86v-87r</locus> 
+        <summary>Kephalaia of Matthew.</summary>
+        <note>Blank, fol. 87v.</note>
+    </msItem>
+    <msItem n="7">
+        <locus from = "181" to ="245">fols. 88r-120r</locus> 
+        <summary>Mark (begins with 1:19, Και προβας εκειθεν).</summary>
+    </msItem>
+    <msItem n="8">
+        <locus from = "246" to ="246">fol. 120v</locus> 
+        <summary>Kephalaia of Mark.</summary>
+        <note>Blank, fol. 121.</note>
+    </msItem>
+    <msItem n="9">
+        <locus from = "249" to ="364">fols. 122r-179v</locus> 
+        <summary>Luke (begins with 1:18 at, τουτο εγω γαρ ειμι).</summary>
+    </msItem>
+    <msItem n="10">
+        <locus from = "364" to ="366">fols. 179v-180v</locus> 
+        <summary>Kephalaia of Luke.</summary>
+    </msItem>
+    <msItem n="11">
+        <locus from = "367" to ="449">fols. 181r-222r</locus> 
+        <summary>John (begins with 1:23 at, [Ησαι]ας ο προφήτης).</summary>
+    </msItem>
+    <msItem n="12">
+        <locus from = "450" to ="450">fol. 222v</locus> 
+        <summary>Kephalaia of John.</summary>
+    </msItem>
+</msContents>
+    <decoration><overview>
+            <p>The manuscript contained portraits of the Evangelists Matthew, Mark, and Luke, now lost.</p></overview>
+        <miniatures><minItem n="1">
+            <locus from ="366" to="366">fol. 180v</locus>
+            <minDesc>Evangelist, John, Portrait: John stands at right, dictates to the deacon Prochorus who is writing, seated on bench at left.
+            </minDesc></minItem></miniatures>
+        <canonTables>
+            <p>Citations of concordant gospel sections are framed by architectural columns. These support arched headpieces with cruciform, floral, and 
+                foliate motifs in dark blue on a light rose ground.</p>
+        </canonTables>
+        <initials>
+            <p>Major initial of Matthew, remnant (40 mm, fol. 33r). Minor initials in red set off from the text.</p>
+        </initials>
+        </decoration>
+    <physDesc>
+        <support><p><material>Parchment</material> and <material>paper</material>. <dimensions type="block" units="mm">160 x 140 mm</dimensions>.</p></support>
+        <watermarks><p>Watermark of epistle selection leaves, fols. 29 and 30, similar to Briquet, Tête de boeuf, 14525 (Brescia, 1543).</p></watermarks>
+        <extent>226 leaves, of which 191 are parchment and 35 are paper (16th century). Front flyleaves composed of 1 folded printed page titled Acta generalis Octavae 
+            Synodi (sessio prima). Back flyleaf (fol. 224) is a raised pastedown.</extent> 
+        <foliation><p>2 (unfoliated paper flyleaves) + 222 + 1 (foliated paper flyleaf) + 1 (foliated paper pastedown). Foliation in Arabic numerals in pencil 1-224.</p></foliation> 
+        <collation><p>30 quires, of which 26 are parchment and 4 are paper containing an added lectionary table and epistle selections. Estimate of content lost: Eusebian 
+            Canon tables III-X, and possibly Eusebius's letter to Carpianus on the gospel canons; portrait of the Evangelist Matthew (before fol. 33); headpiece, partial initial, 
+            and text of Matthew (fol. 33); portrait of the Evangelist Mark, headpiece, initial, and beginning text of Mark (between fols. 87 and 88); portrait of the Evangelist 
+            Luke, headpiece, initial, and beginning text of Luke (between fols. 121 and 122); headpiece, initial, and beginning text of John (after fol. 180).</p>
+            <p>25 parchment quires, as presently composed, have been numbered in a later hand, each on the first folio (lower margin, recto), from fol. 41, β-αα.</p></collation> 
+    <dimensions type="written" units="mm">Written space 125 x 95 mm (fol. 63r).</dimensions> 
+    <layout columns="1" writtenLines="25"><p>1 column, 25 lines. Ruling with hard point.</p></layout>
+    <msWriting><handDesc script="Minuscule" medium="ink"><p>Written in minuscule script in black ink.</p>
+        <p>Punctuation includes high and low points, comma, marks of elision and interrogation. Quotation marks in the left margin next to each line of quoted text.</p>
+        <p>Methods of correcting text consist of supplying omissions in the margins, and altering accentuation and punctuation.</p></handDesc>
+    </msWriting>
+        <condition><p>Remaining canon table detached from binding. Leaf mutilated (fol. 33). Paint loss from miniature of the Evangelist John (fol. 180v). 
+            Some marginal text lost because of trimming. Water stains. Insect damage to paper and leather and boards of the binding. Part of back board missing.</p></condition>
+        <bindingDesc>
+            <binding><p>Bound in medium brown <material>leather</material> and lined with blue <material>linen</material> over boards. Phillipps manuscript label on 
+                spine, 2387.</p><decoNote>
+                <p>Floral motifs enclosed in blind stamped frames surround a center panel filled with lacertine open-work ornaments, front and back.</p></decoNote>
+            </binding></bindingDesc>
+ </physDesc>
+<history>
+    <origin><p>The manuscript is dated to the 13th century, and is judged to have been written in <name reg="Greece" type="place">Greece</name>.</p></origin> 
+    <provenance><p>Belonged to <name reg="Phillipps, Thomas, Sir, 1792-1872" type="person" role="book collector">Sir Thomas Phillipps</name> (his stamp, fol. 31v, and spine label). 
+        Purchased by him in a lot of 500 from the bookseller <name reg="Thorpe, Thomas 1791-1851" type="person" role="bookseller">Thomas Thorpe</name>, who acquired most of the lot's 
+        pieces from the collections of Spanish author and lexicographer <name reg="Iriarte y Cisneros, Juan de, 1702-1771" type="person" role="author">Juan de Iriarte</name>, Spanish 
+        librarian and bibliographer <name reg="La Serna Santander, Carlos Antonio de, 1752-1813" type="person" role="bibliographer">Carlos Antonio de La Serna Santander</name>, 
+        and the <name reg="Osorio, Alvaro Perez, Marqués de Astorga" type="person" role="book collector">Marqués de Astorga</name>. At Sir Thomas's death, his library, 
+        including the present manuscript, was willed to his daughter <name reg="Fenwick, Katherine Phillipps, 1823-1913" type="person" role="life tenant">Katherine Phillipps Fenwick</name>, 
+        her husband <name reg="Fenwick, John Edward Addison, 1824-1903" type="person" role="life tenant">Reverend John E. A. Fenwick</name>, and 
+        their son <name reg="Fenwick, Thomas Fitzroy, 1856-1938" type="person" role="life tenant">Thomas Fitzroy Fenwick</name>, as life tenants of the Phillipps estate. 
+        Passed to <name reg="Fenwick, Alan George, born 1890" type="person" role="life tenant">Alan G. Fenwick</name>, the estate's last life tenant, and nephew of Thomas Fitzroy 
+        Fenwick. Sold by him and the estate's trustees to booksellers <name reg="Robinson, Lionel Keir, 1897-1983" type="person" role="bookseller">Lionel Robinson</name> 
+        and <name reg="Robinson, Philip Ramsay" type="person" role="bookseller">Philip Robinson</name> of the firm <name reg="William H. Robinson, Limited (Firm)" type="org">William H. Robinson, Ltd.</name>, 
+        February 1946. Auctioned at <name reg="Sotheby &amp; Co. (London, England)" type="org" role="bookseller">Sotheby's</name> (lot 63) 1 December 1947, and 
+        purchased by the bookseller <name reg="Maggs Bros. (Firm)" type="org" role="bookseller">Maggs Bros.</name> (London).</p>
+        <p>Sotheby's catalogue description; bookseller's price £40; University of Chicago Libraries bookplate (front pastedown). Marginal Lectionary apparatus added in a later hand. Inscriptions in pencil, 
+            Gregory number 677, Evangelia XIIIth, and a drawing in pen (fol. 31v). Gospel titles and beginning verses noted in pencil (fols. 33r, 88r, 122r, 181r). Notations and verse in pen and pencil (fols. 222v, 223v-224v).</p></provenance>
+    <acquisition><p>Acquired by the University of Chicago from Magg Bros. (London) in early 1950.</p></acquisition>
+</history>
+    <additional>
+        <listBibl><bibl><author>Charles-Moïse Briquet</author>, 
+            <title level="m">Les filigranes. Dictionnaire historique des marques du papier dès leur apparition vers 1282 jusqu'en 1600, avec 39 figures dans le texte et 16, 112 
+                facsimilés de filigranes.</title>.
+            <imprint>
+                <pubPlace>(Leipzig:</pubPlace>
+                <publisher>K. W. Hiersemann,</publisher>
+                <date>1923),</date>
+            </imprint>
+            <biblScope type="volume">vol. 4,</biblScope>
+            <biblScope type="pages">p. 734, Tête de boeuf, 14525.</biblScope></bibl>
+            <bibl><author>F. H. A. Scrivener</author>, 
+            <title level="m">A plain introduction to the criticism of the New Testament for the use of Biblical students</title>.
+            <imprint>
+                <pubPlace>(London:</pubPlace>
+                <publisher>George Bell,</publisher>
+                <date>1894),</date>
+            </imprint> 
+            <biblScope type="volume">vol. 1,</biblScope>
+            <biblScope type="pages">p. 251, no. 528.</biblScope></bibl>
+            <bibl><author>Sotheby &amp; Co. (London, England)</author>, 
+                <title level="m">Bibliotheca Phillippica, Catalogue of a further portion of the renowned library formed by 
+                    the late Sir Thomas Phillipps, Bart., F.R.S., etc. Middle Hill, Worcestershire and Thirlestaine House, Cheltenham 
+                    comprising valuable autograph letters and historical documents which will be sold by auction by Messrs Sotheby &amp; Co... on Monday 
+                    the 1st of December, 1947</title>.
+                <imprint>
+                    <pubPlace>(London:</pubPlace>
+                    <publisher>Sotheby,</publisher>
+                    <date>1947),</date>
+                </imprint>
+                <biblScope type="pages">p. 12 (no. 63).</biblScope></bibl>
+            <bibl><author>A. N. L. Munby</author>, 
+            <title level="m">The formation of the Phillipps library</title>. 
+            <title level="s">Phillipps studies no. 3-4</title>
+            <imprint> 
+                <pubPlace>(Cambridge [Eng.]:</pubPlace> 
+                <publisher>University Press,</publisher> 
+                <date>1954-1956),</date></imprint> 
+                <biblScope type="volume">vols. 1-5.</biblScope></bibl>
+            <bibl><author>Marcel Richard</author>, 
+                    <title level="m">Répertoire des bibliothèques et des catalogues de manuscrits grecs</title>.
+                    <imprint>
+                        <pubPlace>(Paris:</pubPlace>
+                        <publisher>Centre national de la recherche scientifique,</publisher>
+                        <date>1958),</date>
+                    </imprint>
+                <biblScope type="pages">pp. 73-74, no. 284, Ms. 2387.</biblScope></bibl>
+            <bibl><title level="m">The Phillipps manuscripts: catalogus librorum manuscriptorum in 
+                bibliotheca d. Thomae Phillipps, bt., Impressum Typis Medio-Montanis, 1837-1871</title>.
+            <imprint>
+                <pubPlace>(London:</pubPlace>
+                <publisher>Holland Press,</publisher>
+                <date>c1968),</date>
+            </imprint>
+            <biblScope type="pages">p. 28, Ms. 2387.</biblScope></bibl></listBibl>
+    </additional>
+            </msDescription>
+        </body>
+    </text>      
+</TEI.2>

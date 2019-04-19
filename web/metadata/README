@@ -1,0 +1,7 @@
+access's xml output will make html entities out of special characters
+like &apos;
+
+Show only the lines that have html entities:
+grep \& structural.xml | grep \;
+
+Right now this is only &apos;

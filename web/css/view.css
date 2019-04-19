@@ -1,0 +1,89 @@
+* {
+	border: 0;
+	margin: 0;
+	padding: 0;
+	font-family: Verdana;
+}
+html {
+	border: 0;
+	height: 100%;
+}
+body {
+	border: 0;
+	height: 100%;
+	width: 100%;
+}
+p {
+	font-size: .8em;
+}
+a:link,
+a:visited {
+	color: #800000;
+	text-decoration: none;
+}
+a:hover,
+a:active {
+	text-decoration: underline;
+}
+input {
+	border: 1px solid #999; width: 40px;
+}
+#nametag {
+	background: #266871;
+	padding: 5px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: 4;
+}
+#header {
+	background: #f3f3e0;
+	background: #f1f1ea;
+	border-top: 5px solid #266871;
+	height: 46px;
+	position: absolute;
+	width: 100%;
+	z-index: 3;
+}
+#header p {
+	padding: 0 6px;
+}
+#controller {
+	height: 30px;
+	position: absolute;
+	top: 48px;
+	width: 100%;
+	z-index: 2;
+}
+#controller p {
+	padding: 4px 6px 0 6px;
+}
+#zoomifyframe {
+	border: 0;
+	height: 100%;
+	position: absolute;
+	top: 76px;
+	width: 100%;
+}
+#footer {
+	background: #f3f3e0;
+	background: #f1f1ea;
+	border-top: 1px solid #ddd;
+	bottom: 0;
+	height: 26px;
+	padding-top: 4px;
+	position: absolute;
+	width: 100%;
+	z-index: 10;
+}
+#footer p {
+	padding-left: 6px;
+}
+.thumbnail {
+	background: #999;
+	float: left;
+	height: 75px;
+	margin: 2px;
+	text-align: center;
+	width: 75px;
+}
